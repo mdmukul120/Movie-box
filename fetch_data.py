@@ -3,8 +3,12 @@ import json
 import httpx
 import asyncio
 
-# API সিক্রেট বা ইউআরএল গিটহাব এনভায়রনমেন্ট সিক্রেট থেকে রিড করবে
-API_BASE = os.environ.get("MOVIEBOX_API_BASE", "https://h5-api.aoneroom.com/wefeed-h5api-bff")
+# API BASE URL সেটআপ (সিক্রেট খালি থাকলে বা ভুল থাকলে অটোমেটিক সঠিক https লিঙ্ক নিয়ে নেবে)
+raw_api_base = os.environ.get("MOVIEBOX_API_BASE", "").strip()
+if not raw_api_base or not raw_api_base.startswith(("http://", "https://")):
+    API_BASE = "https://h5-api.aoneroom.com/wefeed-h5api-bff"
+else:
+    API_BASE = raw_api_base
 
 DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/148.0.0.0 Safari/537.36",
@@ -62,7 +66,6 @@ async def get_all_by_tab(tab_id: int, total_pages: int = 3):
                 "rating": sub.get("imdbRatingValue"),
                 "corner_tag": sub.get("corner"),
                 "year": sub.get("releaseDate", "")[:4] if sub.get("releaseDate") else None,
-                # প্লেয়ার লিংক রিট্রাইভ করার জন্য স্ট্রাকচার তৈরি করা
                 "player_api_endpoint": f"/api/stream/{sub.get('subjectId')}?detail_path={sub.get('detailPath')}"
             })
     return all_items
@@ -94,17 +97,15 @@ async def get_home_data():
     return {"status": "success", "sections": sections}
 
 async def main():
-    print("🔄 Category-wise Data Collection Processing...")
+    print("🔄 Processing Multi-Category Data Collection...")
     
-    # ১. হোমপেজ ফিচার্ড ডাটা
+    # ডাটা ফেচ করা
     home = await get_home_data()
-    
-    # ২. বিভিন্ন ক্যাটাগরির ডাটা (Tab 2=Movies, Tab 5=TV Series, Tab 8=Anime)
     movies = await get_all_by_tab(tab_id=2, total_pages=3)
     tv_series = await get_all_by_tab(tab_id=5, total_pages=3)
     anime = await get_all_by_tab(tab_id=8, total_pages=3)
 
-    # ক্যাটাগরি ফোল্ডারে ফাইল আলাদা করে সেভ করা
+    # ডিরেক্টরি তৈরি ও ফাইল সেভ করা
     os.makedirs("data/categories", exist_ok=True)
     
     with open("data/home.json", "w", encoding="utf-8") as f:
@@ -119,7 +120,7 @@ async def main():
     with open("data/categories/anime.json", "w", encoding="utf-8") as f:
         json.dump(anime, f, indent=2, ensure_ascii=False)
 
-    print("📁 All categories (Movies, Series, Anime) saved into /data/categories!")
+    print("📁 Successfully updated Home, Movies, TV-Series, and Anime JSON files!")
 
 if __name__ == "__main__":
     asyncio.run(main())
