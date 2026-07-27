@@ -3,19 +3,31 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 16,
+      "count": 17,
       "items": [
         {
-          "name": "Colony",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/24/5342b38f408dc7f14d38d65eb00e4dac.png",
-          "slug": "colony-06FbDRS87x3",
-          "subject_id": "2966181623634480144"
+          "name": "Agesinkole 2: King of Thieves",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/27/26382eb3c0f57d4f3fd363abd77f7eec.png",
+          "slug": "agesinkole-2-king-of-thieves-ccRQgtFebs",
+          "subject_id": "381491822687830216"
+        },
+        {
+          "name": "Supergirl",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/27/e7fc807f9310e662c16c2b4b08794dd9.png",
+          "slug": "supergirl-m5hXSZrXbH4",
+          "subject_id": "3941903291688406456"
         },
         {
           "name": "72 Hours",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/24/8e6bb53b60d91ed44cbd7047c131d25f.png",
           "slug": "72-hours-kUNxK9h2Iy1",
           "subject_id": "1309175290853217376"
+        },
+        {
+          "name": "Colony",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/24/5342b38f408dc7f14d38d65eb00e4dac.png",
+          "slug": "colony-06FbDRS87x3",
+          "subject_id": "2966181623634480144"
         },
         {
           "name": "A Shop for Killers",
@@ -70,12 +82,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/14/69b32ec60b8bd398023fc6b468f50a63.png",
           "slug": "all-american-qHnle0GTdo1",
           "subject_id": "1167223938976469784"
-        },
-        {
-          "name": "Dream to Yo",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/15/16e30341f78ef4106e4cff95b166b8b0.png",
-          "slug": "dream-to-you-q58DzFkBgo6",
-          "subject_id": "5364311187842810056"
         },
         {
           "name": "Mushoku Tensei: Jobless Reincarnation [English]",
@@ -247,11 +253,11 @@
       "count": 20,
       "items": [
         {
-          "name": "Colony",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/19/8622f65c5064163832eb403f4a207fde.jpg",
-          "slug": "colony-06FbDRS87x3",
-          "subject_id": "2966181623634480144",
-          "rating": "6.9"
+          "name": "Supergirl",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/03/549f665cfe4150e04f16c12311902a57.jpg",
+          "slug": "supergirl-m5hXSZrXbH4",
+          "subject_id": "3941903291688406456",
+          "rating": "6.1"
         },
         {
           "name": "72 Hours",
@@ -259,6 +265,13 @@
           "slug": "72-hours-kUNxK9h2Iy1",
           "subject_id": "1309175290853217376",
           "rating": "7.0"
+        },
+        {
+          "name": "Colony",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/19/8622f65c5064163832eb403f4a207fde.jpg",
+          "slug": "colony-06FbDRS87x3",
+          "subject_id": "2966181623634480144",
+          "rating": "6.9"
         },
         {
           "name": "The Debt Collector [English]",
@@ -378,13 +391,6 @@
           "slug": "little-brother-qRYXprT28I2",
           "subject_id": "2275987452978415608",
           "rating": "5.5"
-        },
-        {
-          "name": "Voicemails for Isabelle",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/24/b9dc4c7b04fe3f8a3f6abaf3ed5be9ba.jpg",
-          "slug": "voicemails-for-isabelle-cIXoz7BkcM2",
-          "subject_id": "2331071508061241456",
-          "rating": "7.3"
         }
       ]
     },
@@ -930,7 +936,7 @@
         },
         {
           "name": "The Terminal List: Dark Wolf",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/27/fac568980055962c090816b7212063b6.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/27/f807973e61031e3f6e689a912c6e7603.jpg",
           "slug": "the-terminal-list-dark-wolf-6PO0mcU0ara",
           "subject_id": "8760681588620428552",
           "rating": "7.5"
@@ -985,7 +991,7 @@
         },
         {
           "name": "Off Campus",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/27/6054ef9ffdc8a1eb5e2f174d8eca5d8e.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/27/7dae4d7ac5d5c5700b274da22b26dff2.jpg",
           "slug": "off-campus-aP9MRcE3oqa",
           "subject_id": "8750210920061751384",
           "rating": "7.9"
@@ -1811,6 +1817,13 @@
           "rating": "8.2"
         },
         {
+          "name": "Tomb Raider King [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/24/6301647c3e648f1cd1fbc8976260dbf7.jpg",
+          "slug": "tomb-raider-king-english-U6jocrpvXf6",
+          "subject_id": "5251845174610881368",
+          "rating": "6.8"
+        },
+        {
           "name": "Black Torch [English]",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/14/976e2076b9bf78ba45a90f642c30a140.jpeg",
           "slug": "black-torch-english-2rDQl6UiYg4",
@@ -1914,13 +1927,6 @@
           "slug": "boruto-naruto-next-generations-english-8ccmtlY4MD8",
           "subject_id": "7252839141464228512",
           "rating": "6.3"
-        },
-        {
-          "name": "Hunter x Hunter [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/9644b70a668e93a62e22b2fe30c3f208.jpg",
-          "slug": "hunter-x-hunter-english-kS46Dj4eqo9",
-          "subject_id": "7884310760460273432",
-          "rating": "9.0"
         }
       ]
     },
