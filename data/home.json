@@ -3,13 +3,19 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 17,
+      "count": 15,
       "items": [
         {
           "name": "Agesinkole 2: King of Thieves",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/27/26382eb3c0f57d4f3fd363abd77f7eec.png",
           "slug": "agesinkole-2-king-of-thieves-ccRQgtFebs",
           "subject_id": "381491822687830216"
+        },
+        {
+          "name": "The Devil's Mouth",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/29/72f604c33bebdbdc65087429e5b1e40b.png",
+          "slug": "the-devils-mouth-A66RW9NxV46",
+          "subject_id": "5102508933021860936"
         },
         {
           "name": "Supergirl",
@@ -46,24 +52,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/21/a814c5e9b43199ca372e4b794e456283.png",
           "slug": "disclosure-day-i5yULASpAy7",
           "subject_id": "6343307888719022464"
-        },
-        {
-          "name": "Spooky in Love [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/20/40458fc08c5bad238e7e1614cfa36e58.png",
-          "slug": "spooky-in-love-english-UgOjRlIF2f2",
-          "subject_id": "1882238615577680504"
-        },
-        {
-          "name": "The East Palace",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/17/dde2e2997084ca61bcbbb1807bd18500.png",
-          "slug": "the-east-palace-english-6LwGqruKCC8",
-          "subject_id": "7237264863125822808"
-        },
-        {
-          "name": "Agent Kim Reactivated [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/30/d3f2b589ac5a4f7d7073d6cff7a95c64.png",
-          "slug": "agent-kim-reactivated-english-OjD2QjI9yS3",
-          "subject_id": "3256358546610481592"
         },
         {
           "name": "Ride or Die",
@@ -113,6 +101,13 @@
       "section": "Popular Movie",
       "count": 20,
       "items": [
+        {
+          "name": "The Devil's Mouth",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/d7f64c152cbd3e7653444e575c1b359a.jpg",
+          "slug": "the-devils-mouth-A66RW9NxV46",
+          "subject_id": "5102508933021860936",
+          "rating": "7.1"
+        },
         {
           "name": "Supergirl",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/03/549f665cfe4150e04f16c12311902a57.jpg",
@@ -245,13 +240,6 @@
           "slug": "little-brother-qRYXprT28I2",
           "subject_id": "2275987452978415608",
           "rating": "5.5"
-        },
-        {
-          "name": "Voicemails for Isabelle",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/28/016608454ca5cfeafb892643940a0c55.jpg",
-          "slug": "voicemails-for-isabelle-cIXoz7BkcM2",
-          "subject_id": "2331071508061241456",
-          "rating": "7.3"
         }
       ]
     },
@@ -1935,6 +1923,20 @@
       "count": 20,
       "items": [
         {
+          "name": "Jiang shan wei pin",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/05/31/07fad1a4ad96bb1e9144c24f3e7bcc79.jpg",
+          "slug": "jiang-shan-wei-pin-4Yp1g5vvya1",
+          "subject_id": "982204730598381448",
+          "rating": "6.8"
+        },
+        {
+          "name": "Princess Zhaoyang",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/29/1ace03c05dd941dffae33ce6e0950af1-s.jpg",
+          "slug": "princess-zhaoyang-GBsLyl4KFI6",
+          "subject_id": "5640542188799942552",
+          "rating": "6.1"
+        },
+        {
           "name": "Overdo",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/25/dac27fad1226f6216370ffb185a37eca.jpg",
           "slug": "overdo-kwrv6lJVMe1",
@@ -2059,20 +2061,6 @@
           "slug": "fate-chooses-you-Oz5FWGe2w66",
           "subject_id": "5124013475643249240",
           "rating": "7.2"
-        },
-        {
-          "name": "The Epoch of Miyu",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/04/13/480ed9f608e01b095eed3031948cfb3c.jpg",
-          "slug": "the-epoch-of-miyu-GDtE4gzh507",
-          "subject_id": "5876249131789734736",
-          "rating": "6.4"
-        },
-        {
-          "name": "Rebirth",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/27/89f39f327640fa7861250513fa0b1c1f.jpg",
-          "slug": "rebirth-a9qNxXyaD58",
-          "subject_id": "6790632825701157192",
-          "rating": "4.9"
         }
       ]
     },
@@ -2080,6 +2068,13 @@
       "section": "K-Drama",
       "count": 20,
       "items": [
+        {
+          "name": "A Shop for Killers",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/5afbfc3a171dede42c952d9d561ad60d.jpg",
+          "slug": "a-shop-for-killers-AaOMYU9uMg5",
+          "subject_id": "4423676750991950808",
+          "rating": "8.0"
+        },
         {
           "name": "Dream to You",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/22/57d3844849d78134a89b5bf7db965e5a.jpg",
@@ -2100,13 +2095,6 @@
           "slug": "agent-kim-reactivated-QewyZXuRTV5",
           "subject_id": "4980307872828510072",
           "rating": "7.8"
-        },
-        {
-          "name": "A Shop for Killers",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/5afbfc3a171dede42c952d9d561ad60d.jpg",
-          "slug": "a-shop-for-killers-AaOMYU9uMg5",
-          "subject_id": "4423676750991950808",
-          "rating": "8.0"
         },
         {
           "name": "Love on the Menu",
@@ -2234,18 +2222,25 @@
           "rating": "7.4"
         },
         {
-          "name": "Man of War",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/08/d6257f33bb7b09afa69d0875f08368ff.jpg",
-          "slug": "man-of-war-8yTewd1tMo9",
-          "subject_id": "7889166891003397584",
-          "rating": "5.1"
-        },
-        {
           "name": "The Debt Collector [English]",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/8fa85e2426074b9400341c1cdbfe5b57.jpg",
           "slug": "the-debt-collector-english-AKIa94vfnN9",
           "subject_id": "8222087944836898552",
           "rating": "6.7"
+        },
+        {
+          "name": "The Gentleman Thief",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/29/007843e3ca61b2173351c28f91975100.jpg",
+          "slug": "the-gentleman-thief-4MvTGoR2Ed9",
+          "subject_id": "7738420098402606664",
+          "rating": "6.9"
+        },
+        {
+          "name": "Man of War",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/08/d6257f33bb7b09afa69d0875f08368ff.jpg",
+          "slug": "man-of-war-8yTewd1tMo9",
+          "subject_id": "7889166891003397584",
+          "rating": "5.1"
         },
         {
           "name": "Kill Trip",
@@ -2358,13 +2353,6 @@
           "slug": "normal-Ysrj8yZHoA2",
           "subject_id": "2171328935450004184",
           "rating": "6.3"
-        },
-        {
-          "name": "Beast",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/03/30/165b2f7a128123737e8b2ed4e2cbe945.jpg",
-          "slug": "beast-oipM7yKFdR8",
-          "subject_id": "7434845965544472712",
-          "rating": "7.0"
         }
       ]
     },
@@ -2533,13 +2521,6 @@
           "rating": "4.5"
         },
         {
-          "name": "Zatima",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/05/06/3edc6dfe65f465ce97a88c130478403f.jpg",
-          "slug": "zatima-YayVf8LklP",
-          "subject_id": "695049665544344344",
-          "rating": "6.8"
-        },
-        {
           "name": "Ruthless",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/13/4c62bd18ac9ef9533a65978a734d24d9.jpg",
           "slug": "ruthless-GDxWvFepJd7",
@@ -2547,11 +2528,11 @@
           "rating": "4.8"
         },
         {
-          "name": "The Chi",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/27/6e8ea4f224a7e13710bb87671ca15765.jpg",
-          "slug": "the-chi-0OZDg6KP353",
-          "subject_id": "2586420771551597336",
-          "rating": "7.5"
+          "name": "All American",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/08/0afa6f371f0a1ce5360192281597254d.jpg",
+          "slug": "all-american-qHnle0GTdo1",
+          "subject_id": "1167223938976469784",
+          "rating": "7.6"
         },
         {
           "name": "Power Book III: Raising Kanan",
@@ -2561,11 +2542,18 @@
           "rating": "7.7"
         },
         {
-          "name": "All American",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/08/0afa6f371f0a1ce5360192281597254d.jpg",
-          "slug": "all-american-qHnle0GTdo1",
-          "subject_id": "1167223938976469784",
-          "rating": "7.6"
+          "name": "Diarra from Detroit",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/bf6503cfee672e0214395a177d5db1e4.jpg",
+          "slug": "diarra-from-detroit-etToo06wv76",
+          "subject_id": "5137437377136395312",
+          "rating": "7.8"
+        },
+        {
+          "name": "The Chi",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/27/6e8ea4f224a7e13710bb87671ca15765.jpg",
+          "slug": "the-chi-0OZDg6KP353",
+          "subject_id": "2586420771551597336",
+          "rating": "7.5"
         },
         {
           "name": "Nemesis",
@@ -2587,6 +2575,13 @@
           "slug": "sistas-WvtmA9qQcd1",
           "subject_id": "1018086181784933408",
           "rating": "5.7"
+        },
+        {
+          "name": "Zatima",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/05/06/3edc6dfe65f465ce97a88c130478403f.jpg",
+          "slug": "zatima-YayVf8LklP",
+          "subject_id": "695049665544344344",
+          "rating": "6.8"
         },
         {
           "name": "The Family Business",
@@ -2650,13 +2645,6 @@
           "slug": "all-american-homecoming-USBQU3n2Xj6",
           "subject_id": "5305891259041600544",
           "rating": "6.3"
-        },
-        {
-          "name": "Power",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/aeccff8c34d11a6127bf7d7d55d01279.jpg",
-          "slug": "power-OH5a2tHxgNa",
-          "subject_id": "9059923023431619616",
-          "rating": "8.1"
         }
       ]
     },
