@@ -248,11 +248,18 @@
       "count": 19,
       "items": [
         {
-          "name": "Agent Kim Reactivated [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/22/24d124058bdc113b319b8d5cf64ba573.jpg",
-          "slug": "agent-kim-reactivated-english-OjD2QjI9yS3",
-          "subject_id": "3256358546610481592",
-          "rating": "7.8"
+          "name": "Fightland",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/d6eeef2a77dc4588465ffa983b083234.jpg",
+          "slug": "fightland-AGEYA2Oagx3",
+          "subject_id": "2968153453857587344",
+          "rating": "7.0"
+        },
+        {
+          "name": "Avatar: The Last Airbender",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/829a8cfbde1d0ecc084f5fe2b47afa78.jpg",
+          "slug": "avatar-the-last-airbender-YoJu6LgmUl9",
+          "subject_id": "7850278583678682192",
+          "rating": "7.2"
         },
         {
           "name": "The Walking Dead: Dead City",
@@ -262,18 +269,18 @@
           "rating": "7.0"
         },
         {
+          "name": "Agent Kim Reactivated [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/22/24d124058bdc113b319b8d5cf64ba573.jpg",
+          "slug": "agent-kim-reactivated-english-OjD2QjI9yS3",
+          "subject_id": "3256358546610481592",
+          "rating": "7.8"
+        },
+        {
           "name": "A Shop for Killers [English]",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/5afbfc3a171dede42c952d9d561ad60d.jpg",
           "slug": "a-shop-for-killers-english-4agdOsauHY5",
           "subject_id": "5018216889491903336",
           "rating": "8.0"
-        },
-        {
-          "name": "Avatar: The Last Airbender",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/829a8cfbde1d0ecc084f5fe2b47afa78.jpg",
-          "slug": "avatar-the-last-airbender-YoJu6LgmUl9",
-          "subject_id": "7850278583678682192",
-          "rating": "7.2"
         },
         {
           "name": "Elite Force [English]",
@@ -372,13 +379,6 @@
           "slug": "ruthless-GDxWvFepJd7",
           "subject_id": "6060991864533046304",
           "rating": "4.8"
-        },
-        {
-          "name": "The Oval",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/20/65e5cdeb3920b2998c615c4912195b11.jpg",
-          "slug": "the-oval-Me5h4IJQf69",
-          "subject_id": "7638377634019562528",
-          "rating": "4.5"
         }
       ]
     },
@@ -2133,7 +2133,7 @@
         },
         {
           "name": "The Apartment Job",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/31/3fddafa2994c510a9dd5570d03c44713.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/31/a8af66442cfe553c627148679ddea178.jpg",
           "slug": "the-apartment-job-EOzTHJBIBq2",
           "subject_id": "2038798660372169320",
           "rating": "6.9"
