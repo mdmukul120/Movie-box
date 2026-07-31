@@ -957,6 +957,13 @@
       "count": 20,
       "items": [
         {
+          "name": "Batman: Caped Crusader",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/29/c3a967ba1ddbbfe63ca0f7245b46eaf7.jpg",
+          "slug": "batman-caped-crusader-Sxx7RwAxvE2",
+          "subject_id": "2226969025052033872",
+          "rating": "7.2"
+        },
+        {
           "name": "X-Men '97",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/25/6a8b0c89393e055e0b65cb35c54f93a4.jpg",
           "slug": "x-men-97-wGHJWJPUdP5",
@@ -1088,13 +1095,6 @@
           "slug": "futurama-O7vGiqhKm58",
           "subject_id": "6787046825972354864",
           "rating": "8.5"
-        },
-        {
-          "name": "Wolf King",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/30/5fac90dd1f907580eaca18c651d21c8f.jpg",
-          "slug": "wolf-king-g0AxzLmEAza",
-          "subject_id": "8874794089376532072",
-          "rating": "6.5"
         }
       ]
     },
@@ -1923,9 +1923,9 @@
       "count": 20,
       "items": [
         {
-          "name": "Jiang shan wei pin",
+          "name": "Royal Betrothal",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/05/31/07fad1a4ad96bb1e9144c24f3e7bcc79.jpg",
-          "slug": "jiang-shan-wei-pin-4Yp1g5vvya1",
+          "slug": "royal-betrothal-4Yp1g5vvya1",
           "subject_id": "982204730598381448",
           "rating": "6.8"
         },
@@ -2133,10 +2133,10 @@
         },
         {
           "name": "The Apartment Job",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/28/22e0ff3f8f3abc87540e4a84e8fa0124.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/31/3fddafa2994c510a9dd5570d03c44713.jpg",
           "slug": "the-apartment-job-EOzTHJBIBq2",
           "subject_id": "2038798660372169320",
-          "rating": "6.8"
+          "rating": "6.9"
         },
         {
           "name": "Marriage's Perfection",
