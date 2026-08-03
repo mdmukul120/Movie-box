@@ -3,7 +3,7 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 15,
+      "count": 13,
       "items": [
         {
           "name": "Lioness S3",
@@ -40,18 +40,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/22/b5afbba77095111f2a8b89c3316be474.png",
           "slug": "a-shop-for-killers-english-4agdOsauHY5",
           "subject_id": "5018216889491903336"
-        },
-        {
-          "name": "The Death of Robin Hood",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/22/d40c6b1fe4100423b6b88ab33a49c9e8.png",
-          "slug": "the-death-of-robin-hood-QiWcFVwydO7",
-          "subject_id": "6554909915096797832"
-        },
-        {
-          "name": "Disclosure Day",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/21/a814c5e9b43199ca372e4b794e456283.png",
-          "slug": "disclosure-day-i5yULASpAy7",
-          "subject_id": "6343307888719022464"
         },
         {
           "name": "Ride or Die",
@@ -665,6 +653,20 @@
       "count": 20,
       "items": [
         {
+          "name": "Payback",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/10/e5373ae453cf089c52da1f412e374288.jpeg",
+          "slug": "payback-Stphm9fMD12",
+          "subject_id": "1700820980479811096",
+          "rating": "6.5"
+        },
+        {
+          "name": "High School Boy",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/03/cc627b2e6211f0b737a7b193c79cdb18.jpg",
+          "slug": "high-school-boy-4cbzehXhKZ9",
+          "subject_id": "8389563451445760256",
+          "rating": "6.3"
+        },
+        {
           "name": "Your Third",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/4599667c9c236d0d2a873f1115da6e4d.jpg",
           "slug": "your-third-QY7rChgzXa5",
@@ -735,13 +737,6 @@
           "rating": "6.7"
         },
         {
-          "name": "Payback",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/10/e5373ae453cf089c52da1f412e374288.jpeg",
-          "slug": "payback-Stphm9fMD12",
-          "subject_id": "1700820980479811096",
-          "rating": "6.5"
-        },
-        {
           "name": "When Oranges Fall",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/fef28e2c95b4b247dcfb0d3233f5c650.jpg",
           "slug": "when-oranges-fall-mNHjMMJdhg9",
@@ -796,13 +791,6 @@
           "slug": "a-winter-sun-wakes-the-wind-in-spring-hills-dream-MIoU6MvmcI7",
           "subject_id": "6473426730786111640",
           "rating": "8.2"
-        },
-        {
-          "name": "Fix the Error!",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/12/75bbe67d4124bc34fbe5e15fc340cecf.jpg",
-          "slug": "fix-the-error-etFb4lBYjz7",
-          "subject_id": "6353255469989483840",
-          "rating": "6.1"
         }
       ]
     },
@@ -2076,18 +2064,18 @@
           "rating": "7.1"
         },
         {
-          "name": "A Shop for Killers",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/5afbfc3a171dede42c952d9d561ad60d.jpg",
-          "slug": "a-shop-for-killers-AaOMYU9uMg5",
-          "subject_id": "4423676750991950808",
-          "rating": "8.0"
-        },
-        {
           "name": "Dream to You",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/22/57d3844849d78134a89b5bf7db965e5a.jpg",
           "slug": "dream-to-you-q58DzFkBgo6",
           "subject_id": "5364311187842810056",
           "rating": "8.7"
+        },
+        {
+          "name": "A Shop for Killers",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/5afbfc3a171dede42c952d9d561ad60d.jpg",
+          "slug": "a-shop-for-killers-AaOMYU9uMg5",
+          "subject_id": "4423676750991950808",
+          "rating": "8.0"
         },
         {
           "name": "See You at Work Tomorrow!",
