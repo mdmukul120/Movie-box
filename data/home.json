@@ -3,8 +3,14 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 13,
+      "count": 14,
       "items": [
+        {
+          "name": "Wizards Beyond Waverly Place S3",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/ec5dcfa25ddf2561927d7e3e0a95a7a3.png",
+          "slug": "wizards-beyond-waverly-place-MsYzpWu2wF8",
+          "subject_id": "7276411159472210592"
+        },
         {
           "name": "Lioness S3",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/03/c7c40e049408713ddec72ccdc484f33c.png",
@@ -95,6 +101,20 @@
           "slug": "lioness-yDLLAaCaND1",
           "subject_id": "1377981790605953880",
           "rating": "7.8"
+        },
+        {
+          "name": "Wizards Beyond Waverly Place",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/30/b9edc83c5ab172f2ce59e255d839c4da.jpg",
+          "slug": "wizards-beyond-waverly-place-MsYzpWu2wF8",
+          "subject_id": "7276411159472210592",
+          "rating": "6.6"
+        },
+        {
+          "name": "The Librarians: The Next Chapter",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/1b2e00b58785f995d670c465a10e4527.jpg",
+          "slug": "the-librarians-the-next-chapter-ceovOIXtqB5",
+          "subject_id": "4703151393392282040",
+          "rating": "6.3"
         },
         {
           "name": "Fightland",
@@ -207,20 +227,6 @@
           "slug": "the-east-palace-english-6LwGqruKCC8",
           "subject_id": "7237264863125822808",
           "rating": "7.4"
-        },
-        {
-          "name": "Dream to You",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/22/57d3844849d78134a89b5bf7db965e5a.jpg",
-          "slug": "dream-to-you-q58DzFkBgo6",
-          "subject_id": "5364311187842810056",
-          "rating": "8.7"
-        },
-        {
-          "name": "Love Island USA",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/30/a65242db060448d27f8691eebaadbae8.jpg",
-          "slug": "love-island-usa-Im6wqjv0Pe3",
-          "subject_id": "2718554433243202712",
-          "rating": "5.2"
         }
       ]
     },
@@ -229,18 +235,18 @@
       "count": 19,
       "items": [
         {
-          "name": "Supergirl",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/03/9b9a942c6f22dfd6832490aeb8d55c82.jpg",
-          "slug": "supergirl-m5hXSZrXbH4",
-          "subject_id": "3941903291688406456",
-          "rating": "5.9"
-        },
-        {
           "name": "Evil Dead Burn",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/02/fac73c3dec80cde46022ebee52e92f38.jpg",
           "slug": "evil-dead-burn-CFZQhVP4XM5",
           "subject_id": "4859176085545699352",
           "rating": "6.6"
+        },
+        {
+          "name": "Supergirl",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/03/9b9a942c6f22dfd6832490aeb8d55c82.jpg",
+          "slug": "supergirl-m5hXSZrXbH4",
+          "subject_id": "3941903291688406456",
+          "rating": "5.9"
         },
         {
           "name": "The Devil's Mouth",
