@@ -520,6 +520,13 @@
           "rating": "6.5"
         },
         {
+          "name": "Gelboys",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/d4ac2e43d40cb599d5d7e268ef4a799f.jpg",
+          "slug": "gelboys-IAR9vlurJAa",
+          "subject_id": "8890250886400852416",
+          "rating": "8.4"
+        },
+        {
           "name": "High School Boy",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/03/cc627b2e6211f0b737a7b193c79cdb18.jpg",
           "slug": "high-school-boy-4cbzehXhKZ9",
@@ -644,13 +651,6 @@
           "slug": "double-helix-2TlVdUQgua2",
           "subject_id": "1820579151322012336",
           "rating": "7.7"
-        },
-        {
-          "name": "A Winter Sun Wakes the Wind in Spring Hills' Dream",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/15/33a622ae826dfe2cabac1ca33acbee37.jpg",
-          "slug": "a-winter-sun-wakes-the-wind-in-spring-hills-dream-MIoU6MvmcI7",
-          "subject_id": "6473426730786111640",
-          "rating": "8.2"
         }
       ]
     },
@@ -987,7 +987,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/cbc43e05f12b8694612972fe1559c824.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/6b6fd3bc28135e2a09f2ba6a2da0ee5e.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -1147,7 +1147,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/29f91e83315592ab58e16b6a7458eeba.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/e66f31f196b8ef9a273e4eb596073375.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.2"
@@ -2056,6 +2056,13 @@
       "count": 20,
       "items": [
         {
+          "name": "Flex x Cop",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/ab02086490423450ad890217f3d23d2e.jpg",
+          "slug": "flex-x-cop-MibemdOaf98",
+          "subject_id": "6839541875842894728",
+          "rating": "7.8"
+        },
+        {
           "name": "Our Sticky Love",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/957781b5d665cbab977adb589eb01165.jpg",
           "slug": "our-sticky-love-UqJcKTRWXF7",
@@ -2063,18 +2070,18 @@
           "rating": "6.6"
         },
         {
-          "name": "My Bias, My Boss",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/62755ee2eb4bd6520794ac775350a527.jpg",
-          "slug": "my-bias-my-boss-WLJPOXtbR62",
-          "subject_id": "1771433716380746040",
-          "rating": "7.6"
-        },
-        {
           "name": "A Bona Fide Killer",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/31/3f323c607b17d543a36b47201141981c.jpg",
           "slug": "a-bona-fide-killer-yzvVpvmbTK4",
           "subject_id": "3991952166557736960",
           "rating": "6.1"
+        },
+        {
+          "name": "My Bias, My Boss",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/62755ee2eb4bd6520794ac775350a527.jpg",
+          "slug": "my-bias-my-boss-WLJPOXtbR62",
+          "subject_id": "1771433716380746040",
+          "rating": "7.6"
         },
         {
           "name": "The Affair Was Just The Beginning",
@@ -2187,13 +2194,6 @@
           "slug": "notes-from-the-last-row-80K4cQM54p8",
           "subject_id": "7053715833327342688",
           "rating": "7.3"
-        },
-        {
-          "name": "The Legend of Kitchen Soldier",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/2aabfed6ebdb7223fe3fbb814b682110.jpg",
-          "slug": "the-legend-of-kitchen-soldier-2bp5WsTd7V4",
-          "subject_id": "4130388708862350664",
-          "rating": "8.0"
         }
       ]
     },
