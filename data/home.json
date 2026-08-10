@@ -3,8 +3,14 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 14,
+      "count": 13,
       "items": [
+        {
+          "name": "Sterling Point",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/515b48885e6bc55b64b3e01cad699ffa.png",
+          "slug": "sterling-point-MaXarsHFNM3",
+          "subject_id": "3178523771661606824"
+        },
         {
           "name": "The Last House",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/07/5fdb83efa95cbf3f5b8945d3b10a2f9f.png",
@@ -40,18 +46,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/03/c7c40e049408713ddec72ccdc484f33c.png",
           "slug": "lioness-yDLLAaCaND1",
           "subject_id": "1377981790605953880"
-        },
-        {
-          "name": "The Devil's Mouth",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/29/72f604c33bebdbdc65087429e5b1e40b.png",
-          "slug": "the-devils-mouth-A66RW9NxV46",
-          "subject_id": "5102508933021860936"
-        },
-        {
-          "name": "Supergirl",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/27/e7fc807f9310e662c16c2b4b08794dd9.png",
-          "slug": "supergirl-m5hXSZrXbH4",
-          "subject_id": "3941903291688406456"
         },
         {
           "name": "A Shop for Killers",
@@ -242,6 +236,13 @@
           "rating": "7.8"
         },
         {
+          "name": "Sterling Point",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/66b5a399eb69ecff96099062f5280a1c.jpg",
+          "slug": "sterling-point-MaXarsHFNM3",
+          "subject_id": "3178523771661606824",
+          "rating": "7.1"
+        },
+        {
           "name": "My Life with the Walter Boys",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/bd4114fca152ded3eb17f09ccf803166.jpg",
           "slug": "my-life-with-the-walter-boys-KTgL0dWzKF3",
@@ -268,13 +269,6 @@
           "slug": "wizards-beyond-waverly-place-MsYzpWu2wF8",
           "subject_id": "7276411159472210592",
           "rating": "6.6"
-        },
-        {
-          "name": "The Librarians: The Next Chapter",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/06/86dc62f55bebf08eb14eac4f505e1bfa.jpg",
-          "slug": "the-librarians-the-next-chapter-ceovOIXtqB5",
-          "subject_id": "4703151393392282040",
-          "rating": "6.3"
         },
         {
           "name": "Fightland",
@@ -1910,6 +1904,13 @@
       "count": 20,
       "items": [
         {
+          "name": "Escape to Your Heart",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/5a4e5a15adb9f03f81d1e6f658f514b2.jpg",
+          "slug": "escape-to-your-heart-YsVTLrsaCQ7",
+          "subject_id": "6587357817492373952",
+          "rating": "7.1"
+        },
+        {
           "name": "Genius Girlfriend",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/2c19364b67b35fa5068679e70db055bf.jpg",
           "slug": "genius-girlfriend-wY8axasYIt4",
@@ -2041,13 +2042,6 @@
           "slug": "the-heir-Agj7uZngfW7",
           "subject_id": "6663579390913693976",
           "rating": "3.1"
-        },
-        {
-          "name": "A Splendid Match",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/05/03/ff90ca569a6c547b6d1502839e3c5f21.jpg",
-          "slug": "a-splendid-match-CDoxsxGHmd4",
-          "subject_id": "3538136916589696656",
-          "rating": "6.1"
         }
       ]
     },
