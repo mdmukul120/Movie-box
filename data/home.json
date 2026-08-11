@@ -3,8 +3,14 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 13,
+      "count": 14,
       "items": [
+        {
+          "name": "Minions & Monsters",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/8f19fea37c3e4148d743831352c0a43e.webp",
+          "slug": "minions-and-monsters-mpnc7Ut3rG",
+          "subject_id": "574465081254334800"
+        },
         {
           "name": "Sterling Point",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/515b48885e6bc55b64b3e01cad699ffa.png",
@@ -90,11 +96,11 @@
       "count": 19,
       "items": [
         {
-          "name": "Evil Dead Burn",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/02/fac73c3dec80cde46022ebee52e92f38.jpg",
-          "slug": "evil-dead-burn-CFZQhVP4XM5",
-          "subject_id": "4859176085545699352",
-          "rating": "6.6"
+          "name": "Minions & Monsters",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/25/bc3256b25dc95b0c9cd1b5e2e093b0bd.jpg",
+          "slug": "minions-and-monsters-mpnc7Ut3rG",
+          "subject_id": "574465081254334800",
+          "rating": "6.3"
         },
         {
           "name": "The Last House",
@@ -102,6 +108,13 @@
           "slug": "the-last-house-OFGQnYlfCi6",
           "subject_id": "5287814749399434456",
           "rating": "5.6"
+        },
+        {
+          "name": "Evil Dead Burn",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/02/fac73c3dec80cde46022ebee52e92f38.jpg",
+          "slug": "evil-dead-burn-CFZQhVP4XM5",
+          "subject_id": "4859176085545699352",
+          "rating": "6.6"
         },
         {
           "name": "The Devil's Mouth",
@@ -214,13 +227,6 @@
           "slug": "citizen-vigilante-IIt7oflBjm2",
           "subject_id": "1980694604404375664",
           "rating": "6.1"
-        },
-        {
-          "name": "The Devil Wears Prada 2",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/be621159f147dd3e01bb4966efc07031.jpg",
-          "slug": "the-devil-wears-prada-2-e9V6WgGKJ56",
-          "subject_id": "5113471328091261968",
-          "rating": "6.3"
         }
       ]
     },
@@ -514,6 +520,13 @@
           "rating": "6.5"
         },
         {
+          "name": "Play Me",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/07/0f0fe53ba2bb47dd8fabd2105c848bca.jpg",
+          "slug": "play-me-0oik0tr1qw5",
+          "subject_id": "4635365523360998424",
+          "rating": "6.7"
+        },
+        {
           "name": "Gelboys",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/d4ac2e43d40cb599d5d7e268ef4a799f.jpg",
           "slug": "gelboys-IAR9vlurJAa",
@@ -638,13 +651,6 @@
           "slug": "deep-in-the-act-qDvhRESzue1",
           "subject_id": "1035495141840147920",
           "rating": "6.7"
-        },
-        {
-          "name": "Double Helix",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/e4f0a71cfe6bb00e639a8ef55061e4e1.jpg",
-          "slug": "double-helix-2TlVdUQgua2",
-          "subject_id": "1820579151322012336",
-          "rating": "7.7"
         }
       ]
     },
@@ -2050,13 +2056,6 @@
       "count": 20,
       "items": [
         {
-          "name": "Flex x Cop",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/ab02086490423450ad890217f3d23d2e.jpg",
-          "slug": "flex-x-cop-MibemdOaf98",
-          "subject_id": "6839541875842894728",
-          "rating": "7.8"
-        },
-        {
           "name": "Our Sticky Love",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/957781b5d665cbab977adb589eb01165.jpg",
           "slug": "our-sticky-love-UqJcKTRWXF7",
@@ -2069,6 +2068,20 @@
           "slug": "dream-to-you-q58DzFkBgo6",
           "subject_id": "5364311187842810056",
           "rating": "7.5"
+        },
+        {
+          "name": "A Trap Called Desire",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/27/e8c3e089b0ec88e1a59d79bca575f4d1.jpg",
+          "slug": "a-trap-called-desire-cCEU55ZRMt4",
+          "subject_id": "3760443413439626896",
+          "rating": "6.6"
+        },
+        {
+          "name": "Flex x Cop",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/ab02086490423450ad890217f3d23d2e.jpg",
+          "slug": "flex-x-cop-MibemdOaf98",
+          "subject_id": "6839541875842894728",
+          "rating": "7.8"
         },
         {
           "name": "A Bona Fide Killer",
@@ -2181,13 +2194,6 @@
           "slug": "reborn-rookie-O1eXUMkDFz",
           "subject_id": "482888497238524880",
           "rating": "6.4"
-        },
-        {
-          "name": "Notes from the Last Row",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/b17bb02e0991546754a6c36ebdf67278.jpg",
-          "slug": "notes-from-the-last-row-80K4cQM54p8",
-          "subject_id": "7053715833327342688",
-          "rating": "7.3"
         }
       ]
     },
