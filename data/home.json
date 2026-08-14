@@ -92,6 +92,138 @@
       ]
     },
     {
+      "section": "Popular Series",
+      "count": 18,
+      "items": [
+        {
+          "name": "Umthetho",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/d3c38ff2c470aed7620c49a8ef3815bb.jpg",
+          "slug": "umthetho-mL6Ua1F4uKa",
+          "subject_id": "9022266259324424848",
+          "rating": "6.4"
+        },
+        {
+          "name": "Lioness",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/27105e25f7fdc14ab87ffe749927ad9a-s.jpg",
+          "slug": "lioness-yDLLAaCaND1",
+          "subject_id": "1377981790605953880",
+          "rating": "7.8"
+        },
+        {
+          "name": "My Life with the Walter Boys",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/bd4114fca152ded3eb17f09ccf803166.jpg",
+          "slug": "my-life-with-the-walter-boys-KTgL0dWzKF3",
+          "subject_id": "3083088853704605864",
+          "rating": "6.8"
+        },
+        {
+          "name": "Our Sticky Love [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/957781b5d665cbab977adb589eb01165.jpg",
+          "slug": "our-sticky-love-english-aFWDVwPuHl2",
+          "subject_id": "1972374749166588664",
+          "rating": "6.6"
+        },
+        {
+          "name": "Sterling Point",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/66b5a399eb69ecff96099062f5280a1c.jpg",
+          "slug": "sterling-point-MaXarsHFNM3",
+          "subject_id": "3178523771661606824",
+          "rating": "7.1"
+        },
+        {
+          "name": "The Shards",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/46803563a8701aa615fb654fb4ef7639.jpg",
+          "slug": "the-shards-ORmZGjdXyF6",
+          "subject_id": "5598448838903318136",
+          "rating": "5.8"
+        },
+        {
+          "name": "Wizards Beyond Waverly Place",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/12ca0f356fdb02ba016dad1b6f3fedc8.jpg",
+          "slug": "wizards-beyond-waverly-place-MsYzpWu2wF8",
+          "subject_id": "7276411159472210592",
+          "rating": "6.6"
+        },
+        {
+          "name": "Fightland",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/31/d11100f28237d6d09960720dc1572042.jpg",
+          "slug": "fightland-AGEYA2Oagx3",
+          "subject_id": "2968153453857587344",
+          "rating": "7.1"
+        },
+        {
+          "name": "Avatar: The Last Airbender",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/829a8cfbde1d0ecc084f5fe2b47afa78.jpg",
+          "slug": "avatar-the-last-airbender-YoJu6LgmUl9",
+          "subject_id": "7850278583678682192",
+          "rating": "7.2"
+        },
+        {
+          "name": "The Walking Dead: Dead City",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/984293ea4cc6668a122be0378fe229bf.jpg",
+          "slug": "the-walking-dead-dead-city-Uki0QAuQTb7",
+          "subject_id": "6036197080610262168",
+          "rating": "7.0"
+        },
+        {
+          "name": "A Shop for Killers [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/5afbfc3a171dede42c952d9d561ad60d.jpg",
+          "slug": "a-shop-for-killers-english-4agdOsauHY5",
+          "subject_id": "5018216889491903336",
+          "rating": "8.0"
+        },
+        {
+          "name": "Agent Kim Reactivated [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/553eceb903b6ecd84dba4a2db24060e0.jpg",
+          "slug": "agent-kim-reactivated-english-OjD2QjI9yS3",
+          "subject_id": "3256358546610481592",
+          "rating": "7.6"
+        },
+        {
+          "name": "Ride or Die",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/e9ab36916569503a93938827d6055bfd.jpg",
+          "slug": "ride-or-die-IQlFqTIjLj8",
+          "subject_id": "6981931016957448976",
+          "rating": "7.6"
+        },
+        {
+          "name": "Lucky",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/842ec08b960d317473d0b8773dba0da1.jpg",
+          "slug": "lucky-CVXotZJVNx4",
+          "subject_id": "3814823329035439888",
+          "rating": "6.6"
+        },
+        {
+          "name": "Mushoku Tensei: Jobless Reincarnation [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/29/165b9b02ef1077859684cc7e985f93c9.jpg",
+          "slug": "mushoku-tensei-jobless-reincarnation-english-wU27nPdjoc8",
+          "subject_id": "6882147824180812112",
+          "rating": "8.2"
+        },
+        {
+          "name": "All the Queen's Men",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/b8f89a28a71dc6f09960d07e15cf57b3.jpg",
+          "slug": "all-the-queens-men-KZRjzyGRtj3",
+          "subject_id": "2781623667900437536",
+          "rating": "6.7"
+        },
+        {
+          "name": "All American",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/08/0afa6f371f0a1ce5360192281597254d.jpg",
+          "slug": "all-american-qHnle0GTdo1",
+          "subject_id": "1167223938976469784",
+          "rating": "7.6"
+        },
+        {
+          "name": "Kwa Baba",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/db86d1368e3fa53aba700f56265cc67d.jpeg",
+          "slug": "kwa-baba-WFoUozIudP",
+          "subject_id": "693338015313319144",
+          "rating": "6.4"
+        }
+      ]
+    },
+    {
       "section": "Popular Movie",
       "count": 19,
       "items": [
@@ -227,548 +359,6 @@
           "slug": "citizen-vigilante-IIt7oflBjm2",
           "subject_id": "1980694604404375664",
           "rating": "6.1"
-        }
-      ]
-    },
-    {
-      "section": "Popular Series",
-      "count": 18,
-      "items": [
-        {
-          "name": "Lioness",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/27105e25f7fdc14ab87ffe749927ad9a-s.jpg",
-          "slug": "lioness-yDLLAaCaND1",
-          "subject_id": "1377981790605953880",
-          "rating": "7.8"
-        },
-        {
-          "name": "My Life with the Walter Boys",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/bd4114fca152ded3eb17f09ccf803166.jpg",
-          "slug": "my-life-with-the-walter-boys-KTgL0dWzKF3",
-          "subject_id": "3083088853704605864",
-          "rating": "6.8"
-        },
-        {
-          "name": "Our Sticky Love [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/957781b5d665cbab977adb589eb01165.jpg",
-          "slug": "our-sticky-love-english-aFWDVwPuHl2",
-          "subject_id": "1972374749166588664",
-          "rating": "6.6"
-        },
-        {
-          "name": "Sterling Point",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/66b5a399eb69ecff96099062f5280a1c.jpg",
-          "slug": "sterling-point-MaXarsHFNM3",
-          "subject_id": "3178523771661606824",
-          "rating": "7.1"
-        },
-        {
-          "name": "The Shards",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/46803563a8701aa615fb654fb4ef7639.jpg",
-          "slug": "the-shards-ORmZGjdXyF6",
-          "subject_id": "5598448838903318136",
-          "rating": "5.8"
-        },
-        {
-          "name": "Wizards Beyond Waverly Place",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/12ca0f356fdb02ba016dad1b6f3fedc8.jpg",
-          "slug": "wizards-beyond-waverly-place-MsYzpWu2wF8",
-          "subject_id": "7276411159472210592",
-          "rating": "6.6"
-        },
-        {
-          "name": "Fightland",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/31/d11100f28237d6d09960720dc1572042.jpg",
-          "slug": "fightland-AGEYA2Oagx3",
-          "subject_id": "2968153453857587344",
-          "rating": "7.1"
-        },
-        {
-          "name": "Avatar: The Last Airbender",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/829a8cfbde1d0ecc084f5fe2b47afa78.jpg",
-          "slug": "avatar-the-last-airbender-YoJu6LgmUl9",
-          "subject_id": "7850278583678682192",
-          "rating": "7.2"
-        },
-        {
-          "name": "The Walking Dead: Dead City",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/984293ea4cc6668a122be0378fe229bf.jpg",
-          "slug": "the-walking-dead-dead-city-Uki0QAuQTb7",
-          "subject_id": "6036197080610262168",
-          "rating": "7.0"
-        },
-        {
-          "name": "A Shop for Killers [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/5afbfc3a171dede42c952d9d561ad60d.jpg",
-          "slug": "a-shop-for-killers-english-4agdOsauHY5",
-          "subject_id": "5018216889491903336",
-          "rating": "8.0"
-        },
-        {
-          "name": "Agent Kim Reactivated [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/553eceb903b6ecd84dba4a2db24060e0.jpg",
-          "slug": "agent-kim-reactivated-english-OjD2QjI9yS3",
-          "subject_id": "3256358546610481592",
-          "rating": "7.6"
-        },
-        {
-          "name": "Ride or Die",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/e9ab36916569503a93938827d6055bfd.jpg",
-          "slug": "ride-or-die-IQlFqTIjLj8",
-          "subject_id": "6981931016957448976",
-          "rating": "7.6"
-        },
-        {
-          "name": "Lucky",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/842ec08b960d317473d0b8773dba0da1.jpg",
-          "slug": "lucky-CVXotZJVNx4",
-          "subject_id": "3814823329035439888",
-          "rating": "6.6"
-        },
-        {
-          "name": "Mushoku Tensei: Jobless Reincarnation [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/29/165b9b02ef1077859684cc7e985f93c9.jpg",
-          "slug": "mushoku-tensei-jobless-reincarnation-english-wU27nPdjoc8",
-          "subject_id": "6882147824180812112",
-          "rating": "8.2"
-        },
-        {
-          "name": "All the Queen's Men",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/b8f89a28a71dc6f09960d07e15cf57b3.jpg",
-          "slug": "all-the-queens-men-KZRjzyGRtj3",
-          "subject_id": "2781623667900437536",
-          "rating": "6.7"
-        },
-        {
-          "name": "All American",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/08/0afa6f371f0a1ce5360192281597254d.jpg",
-          "slug": "all-american-qHnle0GTdo1",
-          "subject_id": "1167223938976469784",
-          "rating": "7.6"
-        },
-        {
-          "name": "Kwa Baba",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/db86d1368e3fa53aba700f56265cc67d.jpeg",
-          "slug": "kwa-baba-WFoUozIudP",
-          "subject_id": "693338015313319144",
-          "rating": "6.4"
-        },
-        {
-          "name": "The Four Of Us",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/02/d8a4be0d3fee63430a9dbb1d21437c0a.jpeg",
-          "slug": "the-four-of-us-edt1Rx7MZ72",
-          "subject_id": "1786846550119830928",
-          "rating": "6.4"
-        }
-      ]
-    },
-    {
-      "section": "Superhero Series",
-      "count": 18,
-      "items": [
-        {
-          "name": "Spider-Noir [True-Hue Full Color]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/ab2f1e28486a62b2e9fb99f0c538c401.jpg",
-          "slug": "spider-noir-true-hue-full-color-eZnPfAZAfM4",
-          "subject_id": "4010382995432652872",
-          "rating": "7.7"
-        },
-        {
-          "name": "The Boys",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/88771ec016be0877ab6ce924a254d0bb.jpg",
-          "slug": "the-boys-c8bx84KzD76",
-          "subject_id": "5139196938264400928",
-          "rating": "8.5"
-        },
-        {
-          "name": "Invincible",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/2905e767582a1af703b540142cf4b977.jpg",
-          "slug": "invincible-SphnLpQ7b13",
-          "subject_id": "2533864553830568992",
-          "rating": "8.7"
-        },
-        {
-          "name": "Ironheart",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/462c29ef3024cabc5ceb8c468e695393.jpg",
-          "slug": "ironheart-uB7agjeorB5",
-          "subject_id": "4703349546003449600",
-          "rating": "4.5"
-        },
-        {
-          "name": "Daredevil: Born Again",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/16/9f6ffc9475cad116f77cfde3192c85db.jpg",
-          "slug": "daredevil-born-again-OHXV9qfjBv7",
-          "subject_id": "6302891614566499408",
-          "rating": "8.1"
-        },
-        {
-          "name": "Eyes of Wakanda",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/08/0d4549ce4181b3dd6b2c9ba12821adda.jpg",
-          "slug": "eyes-of-wakanda-mh9RJ57XC21",
-          "subject_id": "874878641094775072",
-          "rating": "6.2"
-        },
-        {
-          "name": "Agatha All Along",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/0ecc5aad3e678e1b57476ec993e5e6bb.jpg",
-          "slug": "agatha-all-along-uFV84f1U822",
-          "subject_id": "1707616906695296080",
-          "rating": "7.2"
-        },
-        {
-          "name": "The Penguin",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/c526a65c2238120fc4e09c38609c546e.jpg",
-          "slug": "the-penguin-2Tf1sEn9Kk3",
-          "subject_id": "2798716511383421320",
-          "rating": "8.6"
-        },
-        {
-          "name": "Agents of S.H.I.E.L.D.",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/0548fd06bbe26f0da38de6f67e8d92d9.jpg",
-          "slug": "agents-of-s-h-i-e-l-d-MaDkQWKg4",
-          "subject_id": "932372975866648",
-          "rating": "7.5"
-        },
-        {
-          "name": "Ms. Marvel",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/21368423421865617f84f12d124b8a5f.jpg",
-          "slug": "ms-marvel-kgT2kHi4kf",
-          "subject_id": "207438248858244128",
-          "rating": "6.2"
-        },
-        {
-          "name": "Constantine",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/cbdb1f69830b01346a930c9d106064f5.jpg",
-          "slug": "constantine-6Fbsxq5ZCB",
-          "subject_id": "509384253029924816",
-          "rating": "7.5"
-        },
-        {
-          "name": "Black Lightning",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/f3bc7b2ab8a7507779dd682fec486298.jpg",
-          "slug": "black-lightning-YiGjzGeABk1",
-          "subject_id": "1118247293028815640",
-          "rating": "6.1"
-        },
-        {
-          "name": "Runaways",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2022/09/07/43ebe48a0accf23d9f232a34c23b4e80.jpg",
-          "slug": "runaways-gYE4VwKe4Q1",
-          "subject_id": "1544153172271320872",
-          "rating": "6.9"
-        },
-        {
-          "name": "Lucifer",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/9fd9113b6be06b254bef10a8bea06eb1.jpg",
-          "slug": "lucifer-UQASHYbVPB2",
-          "subject_id": "2190807691784770592",
-          "rating": "8.0"
-        },
-        {
-          "name": "DC's Legends of Tomorrow",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/a613ba8c6c5531ec8afb1135f7ae134f.jpg",
-          "slug": "dcs-legends-of-tomorrow-C9Tfo5Y1ZL2",
-          "subject_id": "2328167480419570456",
-          "rating": "6.7"
-        },
-        {
-          "name": "She-Hulk: Attorney at Law",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/664b1b8123cbb0e2a2bb1dec35c54bb7.jpg",
-          "slug": "she-hulk-attorney-at-law-iBMdmfXN0P2",
-          "subject_id": "2369166069996082208",
-          "rating": "5.2"
-        },
-        {
-          "name": "Shadowhunters: The Mortal Instruments",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/f4bde278e614ca07fe9d649e2e72f441.jpg",
-          "slug": "shadowhunters-the-mortal-instruments-WpszPEC8v33",
-          "subject_id": "2565308269250102096",
-          "rating": "6.5"
-        },
-        {
-          "name": "Superman & Lois",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/58f1df3a4984c0e13b0b569b7e5b121d.jpg",
-          "slug": "superman-and-lois-cYPG9EkZ1m3",
-          "subject_id": "2816148333012603936",
-          "rating": "7.8"
-        }
-      ]
-    },
-    {
-      "section": "Gangster",
-      "count": 19,
-      "items": [
-        {
-          "name": "Snowfall",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/bd0959b7ce517e11ee5a4294e987317c.jpg",
-          "slug": "snowfall-6JvIRkxS4b",
-          "subject_id": "149973373144159000",
-          "rating": "8.5"
-        },
-        {
-          "name": "Peaky Blinders",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/10295919bb6d968ca4f1d424d08391da.jpg",
-          "slug": "peaky-blinders-Ii0kbUrUZL4",
-          "subject_id": "4006958073083480920",
-          "rating": "8.7"
-        },
-        {
-          "name": "Power",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/aeccff8c34d11a6127bf7d7d55d01279.jpg",
-          "slug": "power-OH5a2tHxgNa",
-          "subject_id": "9059923023431619616",
-          "rating": "8.1"
-        },
-        {
-          "name": "Tulsa King",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/6fbf376930c7f1b63cb201d2d4c0a66c.jpg",
-          "slug": "tulsa-king-MsmATkU0Mg6",
-          "subject_id": "5262873104975547168",
-          "rating": "7.9"
-        },
-        {
-          "name": "MobLand",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/28/0c6a3f0387b6e17d022dd37fab205883.jpg",
-          "slug": "mobland-wWHa6Cu6fa5",
-          "subject_id": "4335165664987072680",
-          "rating": "8.3"
-        },
-        {
-          "name": "The Family Business",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/5c66f59203c62adfa73ad24c3a997be1.jpg",
-          "slug": "the-family-business-O5KYeex1tT4",
-          "subject_id": "4108074495649403936",
-          "rating": "7.0"
-        },
-        {
-          "name": "The Family Business: New Orleans",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/48ea07f0676414dc636c90a813ff7feb.jpg",
-          "slug": "the-family-business-new-orleans-iFa9ZOFLnt1",
-          "subject_id": "1237064589544770608",
-          "rating": "7.0"
-        },
-        {
-          "name": "Gangs of London",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/70c0a3584d216d586a8a60a5726e5b7e.jpg",
-          "slug": "gangs-of-london-ilQtJgRW5B6",
-          "subject_id": "5537967377339536416",
-          "rating": "8.0"
-        },
-        {
-          "name": "Animal Kingdom",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/e6614dc6717764c9cb6c891543948379.jpg",
-          "slug": "animal-kingdom-wGT94IUFbD9",
-          "subject_id": "8084190016664130592",
-          "rating": "8.2"
-        },
-        {
-          "name": "Top Boy",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/6492b9b3193c79a4eb05139ad9630860.jpg",
-          "slug": "top-boy-IwXuciJfOCa",
-          "subject_id": "8918375349625442088",
-          "rating": "8.4"
-        },
-        {
-          "name": "Power Book II: Ghost",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/5aabd308d910cd4a847c38965cd54a65.jpg",
-          "slug": "power-book-ii-ghost-mvUr6FdWgF",
-          "subject_id": "558719019793142816",
-          "rating": "7.5"
-        },
-        {
-          "name": "Power Book IV: Force",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/18/80d9ca49bcad817d3c289d1597d90cba.jpg",
-          "slug": "power-book-iv-force-yhwvt88NUu9",
-          "subject_id": "7972206956398400280",
-          "rating": "8.1"
-        },
-        {
-          "name": "Power Book III: Raising Kanan",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/4bc92f23b31e614298f59421323f148f.jpg",
-          "slug": "power-book-iii-raising-kanan-u5VE8tVK705",
-          "subject_id": "4198190468661924632",
-          "rating": "7.7"
-        },
-        {
-          "name": "BMF",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/c92548347df06b29aa0e94daed2fb0f7.jpg",
-          "slug": "bmf-qXPfEZglmk9",
-          "subject_id": "7829314425252631320",
-          "rating": "7.4"
-        },
-        {
-          "name": "The Endgame",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2022/11/03/8621c8033d25479280d59dedc03dec3d.jpg",
-          "slug": "the-endgame-mT22Mg5tZ91",
-          "subject_id": "974554317418026016",
-          "rating": "6.9"
-        },
-        {
-          "name": "The Take",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/2dec9905dff2913dde4a3a18eeca4169.jpg",
-          "slug": "the-take-kgjamTRlN33",
-          "subject_id": "2569285037451530032",
-          "rating": "7.7"
-        },
-        {
-          "name": "Godfather of Harlem",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/d39d4833ee74e552497f75cb12841c53.jpg",
-          "slug": "godfather-of-harlem-qfj3fqqEq25",
-          "subject_id": "4229390210611696672",
-          "rating": "8.1"
-        },
-        {
-          "name": "Boardwalk Empire",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/cc8ab7daf213f3e3bf5c55ed40187d61.jpg",
-          "slug": "boardwalk-empire-Sz63XegH5H4",
-          "subject_id": "3940536237420858144",
-          "rating": "8.6"
-        },
-        {
-          "name": "Tokyo Vice",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2025/11/03/c74d3e2df63686964019b6236b1440ca.jpg",
-          "slug": "tokyo-vice-GLH65C8Z3z5",
-          "subject_id": "4671165186559071000",
-          "rating": "8.1"
-        }
-      ]
-    },
-    {
-      "section": "Action&Thriller",
-      "count": 19,
-      "items": [
-        {
-          "name": "Lucky",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/842ec08b960d317473d0b8773dba0da1.jpg",
-          "slug": "lucky-CVXotZJVNx4",
-          "subject_id": "3814823329035439888",
-          "rating": "6.6"
-        },
-        {
-          "name": "The Day of the Jackal",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/ce822fdfb7f142b91bd0d55373e4f47e.jpg",
-          "slug": "the-day-of-the-jackal-inLkJUZoke",
-          "subject_id": "193974049297629648",
-          "rating": "8.1"
-        },
-        {
-          "name": "Ride or Die",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/e9ab36916569503a93938827d6055bfd.jpg",
-          "slug": "ride-or-die-IQlFqTIjLj8",
-          "subject_id": "6981931016957448976",
-          "rating": "7.6"
-        },
-        {
-          "name": "The Agency",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/28/6fc525d1e910af6e2be8021f2a3f0c00.jpg",
-          "slug": "the-agency-sEVdHREsye5",
-          "subject_id": "4393540530991416920",
-          "rating": "7.5"
-        },
-        {
-          "name": "Citadel",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/08/319aea9a39315d6d8d9e13a02d556ac3.jpg",
-          "slug": "citadel-Maf0aT2zq24",
-          "subject_id": "3390071899957911192",
-          "rating": "6.2"
-        },
-        {
-          "name": "M.I.A.",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/88f3e2346ad5d00aea46d1f8f05f770f.jpg",
-          "slug": "m-i-a-8GHK5jqkPU2",
-          "subject_id": "2447882850302054880",
-          "rating": "6.5"
-        },
-        {
-          "name": "Prisoner",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/05/06/8f27d54dd1cfba569df444c9d0f310df.jpeg",
-          "slug": "prisoner-G1gDsMxCMa8",
-          "subject_id": "6860381857637712240",
-          "rating": "7.1"
-        },
-        {
-          "name": "The Night Agent",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/02/2301269227d1d3e11e76f56ff6eb7a84.jpg",
-          "slug": "the-night-agent-QmKtaMxB3N5",
-          "subject_id": "4860601308702802872",
-          "rating": "7.4"
-        },
-        {
-          "name": "Paradise",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/b7fbfc09482976d56415d4bc537934c2.jpg",
-          "slug": "paradise-CDwD5QsArZ4",
-          "subject_id": "4188983341900858800",
-          "rating": "7.9"
-        },
-        {
-          "name": "Hijack",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/63b845dc653afda13619e2a1222b7d86.jpg",
-          "slug": "hijack-gWnlIrXmfp4",
-          "subject_id": "3698980580839801328",
-          "rating": "7.3"
-        },
-        {
-          "name": "The Night Manager",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/a77533d1bb0290585e4d5700def36788.jpg",
-          "slug": "the-night-manager-gujLZdzBEg",
-          "subject_id": "225459289534647448",
-          "rating": "8.0"
-        },
-        {
-          "name": "The Copenhagen Test",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/55b78e40b1bfe38c58e733d5b57f9eb6.jpg",
-          "slug": "the-copenhagen-test-o2p7ZhDoYY",
-          "subject_id": "825412349548022832",
-          "rating": "7.2"
-        },
-        {
-          "name": "Tehran",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/1479048d612a4c9c3f59a076d0ab5b4d.jpg",
-          "slug": "tehran-EwwoLexSpY1",
-          "subject_id": "1657175116406477592",
-          "rating": "7.6"
-        },
-        {
-          "name": "The Hunting Party",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/29/c70ebaedfae496d18d1635be653841d3.jpg",
-          "slug": "the-hunting-party-QmMLBd5GbI6",
-          "subject_id": "5633977948689548736",
-          "rating": "6.7"
-        },
-        {
-          "name": "The Last Frontier",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/08/8e832d0f3d4024f75ecfc41e9c454d07.jpg",
-          "slug": "the-last-frontier-6bGhstHlWw1",
-          "subject_id": "1285226284775361584",
-          "rating": "6.7"
-        },
-        {
-          "name": "Tulsa King",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/6fbf376930c7f1b63cb201d2d4c0a66c.jpg",
-          "slug": "tulsa-king-MsmATkU0Mg6",
-          "subject_id": "5262873104975547168",
-          "rating": "7.9"
-        },
-        {
-          "name": "The Terminal List: Dark Wolf",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/f63af998864b7144e5ab2834db019ccb.jpg",
-          "slug": "the-terminal-list-dark-wolf-6PO0mcU0ara",
-          "subject_id": "8760681588620428552",
-          "rating": "7.5"
-        },
-        {
-          "name": "Task",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/6603106f14b76ea09f4c5357a4be3bbe.jpg",
-          "slug": "task-QOUf94URoU4",
-          "subject_id": "4120704302786790728",
-          "rating": "7.9"
-        },
-        {
-          "name": "Black Rabbit",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/619330e2fa2a9963f7792909a854baef.jpg",
-          "slug": "black-rabbit-UmN1KLQCAga",
-          "subject_id": "8617584105930344264",
-          "rating": "7.3"
         }
       ]
     },
@@ -919,6 +509,138 @@
       ]
     },
     {
+      "section": "Epic Fantasy",
+      "count": 18,
+      "items": [
+        {
+          "name": "The Lord of the Rings: The Rings of Power",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/07/7418d8d39f07eda7d0560eccc4019043.jpg",
+          "slug": "the-lord-of-the-rings-the-rings-of-power-oWxADnOpP26",
+          "subject_id": "5074096615720375064",
+          "rating": "6.8"
+        },
+        {
+          "name": "The Witcher",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/ffd0e36f29f89098b8898d75038f6243.jpg",
+          "slug": "the-witcher-qdCxXLAl8y4",
+          "subject_id": "3819281169544270880",
+          "rating": "7.8"
+        },
+        {
+          "name": "The Pendragon Cycle: Rise of the Merlin",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/599f0751b6ddf8b860cd26156f6ae869.jpg",
+          "slug": "the-pendragon-cycle-rise-of-the-merlin-sq4QXvFLPq5",
+          "subject_id": "4559764298909865576",
+          "rating": "6.0"
+        },
+        {
+          "name": "The Wheel of Time",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/31/07a670ccea0ad55b8768a859df0fa79a.jpg",
+          "slug": "the-wheel-of-time-2vJc0akX8la",
+          "subject_id": "8679228117430457112",
+          "rating": "7.2"
+        },
+        {
+          "name": "Dune: Prophecy",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/200470787f302d3ea737f183aff03e6d.jpg",
+          "slug": "dune-prophecy-6DkgJJHyqU4",
+          "subject_id": "4121073372010873400",
+          "rating": "7.3"
+        },
+        {
+          "name": "The Sandman",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/a23a61165a807b0357bc75fadbebff42.jpg",
+          "slug": "the-sandman-48fHwaUTnf3",
+          "subject_id": "2726173097488438040",
+          "rating": "7.6"
+        },
+        {
+          "name": "The Witcher: Blood Origin",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/e5d6dac6fda578fde7d19c8863a5eca0.jpg",
+          "slug": "the-witcher-blood-origin-ISmyxuERNM4",
+          "subject_id": "4017865228431018840",
+          "rating": "5.0"
+        },
+        {
+          "name": "Supernatural",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/78de42a6b5c7f47fcc8c68a732da32c1.jpg",
+          "slug": "supernatural-q7TxFpiFlGa",
+          "subject_id": "8966281867964076560",
+          "rating": "8.4"
+        },
+        {
+          "name": "Outlander",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/e2348413e8e9f37a3631cba0b8861afe.jpg",
+          "slug": "outlander-MMYLF0LrATa",
+          "subject_id": "9145491416351658776",
+          "rating": "8.3"
+        },
+        {
+          "name": "Outlander: Blood of My Blood",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/7eb99db01e2bd01acef440778a49e120.jpg",
+          "slug": "outlander-blood-of-my-blood-KPufy1Yjik9",
+          "subject_id": "7828436465754735880",
+          "rating": "8.1"
+        },
+        {
+          "name": "Lucifer",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/9fd9113b6be06b254bef10a8bea06eb1.jpg",
+          "slug": "lucifer-UQASHYbVPB2",
+          "subject_id": "2190807691784770592",
+          "rating": "8.0"
+        },
+        {
+          "name": "Once Upon a Time",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/2ad12e181b9a6ff5e9899fc3c34dd0d3.jpg",
+          "slug": "once-upon-a-time-CPejvbIXcT6",
+          "subject_id": "5783166321533800240",
+          "rating": "7.7"
+        },
+        {
+          "name": "One Piece [netflix]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/08/f2c5b15589ae0d074c8f7b8579d560aa.jpg",
+          "slug": "one-piece-netflix-qL3bmkP9Rr1",
+          "subject_id": "1216407338207298384",
+          "rating": "8.3"
+        },
+        {
+          "name": "Teen Wolf",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/8c2361ea97cd52332b9540a731ee26d3.jpg",
+          "slug": "teen-wolf-wKJrLSqXnC1",
+          "subject_id": "1358939779294970704",
+          "rating": "7.7"
+        },
+        {
+          "name": "Wednesday",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/0034bfdf14ae43e6a8d3ffc7fd5c812e.jpg",
+          "slug": "wednesday-urChTxajYKa",
+          "subject_id": "9028867555875774472",
+          "rating": "8.0"
+        },
+        {
+          "name": "Wednesday [Hindi]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/fdc2d1ee2d8fe8d5c91c214c0da1927b.jpg",
+          "slug": "wednesday-hindi-kIx7IplYsG1",
+          "subject_id": "1414183037004383720",
+          "rating": "8.0"
+        },
+        {
+          "name": "Shadow and Bone",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/addcdf2bd69e5b2e7415a9c7b053c9b3.jpg",
+          "slug": "shadow-and-bone-4eavUoepm63",
+          "subject_id": "2604012957596013336",
+          "rating": "7.5"
+        },
+        {
+          "name": "Legend of the Seeker",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/4f70fe071fca89f739edaff69a714f2f.jpg",
+          "slug": "legend-of-the-seeker-AQBTTXyKec3",
+          "subject_id": "2683563877996056360",
+          "rating": "7.6"
+        }
+      ]
+    },
+    {
       "section": "Sitcom",
       "count": 19,
       "items": [
@@ -1058,78 +780,231 @@
       ]
     },
     {
-      "section": "Epic Fantasy",
+      "section": "Teen Romance",
       "count": 18,
       "items": [
         {
-          "name": "The Lord of the Rings: The Rings of Power",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/07/7418d8d39f07eda7d0560eccc4019043.jpg",
-          "slug": "the-lord-of-the-rings-the-rings-of-power-oWxADnOpP26",
-          "subject_id": "5074096615720375064",
+          "name": "My Life with the Walter Boys",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/bd4114fca152ded3eb17f09ccf803166.jpg",
+          "slug": "my-life-with-the-walter-boys-KTgL0dWzKF3",
+          "subject_id": "3083088853704605864",
           "rating": "6.8"
         },
         {
-          "name": "The Witcher",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/ffd0e36f29f89098b8898d75038f6243.jpg",
-          "slug": "the-witcher-qdCxXLAl8y4",
-          "subject_id": "3819281169544270880",
-          "rating": "7.8"
+          "name": "Sterling Point",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/66b5a399eb69ecff96099062f5280a1c.jpg",
+          "slug": "sterling-point-MaXarsHFNM3",
+          "subject_id": "3178523771661606824",
+          "rating": "7.1"
         },
         {
-          "name": "The Pendragon Cycle: Rise of the Merlin",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/599f0751b6ddf8b860cd26156f6ae869.jpg",
-          "slug": "the-pendragon-cycle-rise-of-the-merlin-sq4QXvFLPq5",
-          "subject_id": "4559764298909865576",
-          "rating": "6.0"
+          "name": "The Shards",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/46803563a8701aa615fb654fb4ef7639.jpg",
+          "slug": "the-shards-ORmZGjdXyF6",
+          "subject_id": "5598448838903318136",
+          "rating": "5.8"
         },
         {
-          "name": "The Wheel of Time",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/31/07a670ccea0ad55b8768a859df0fa79a.jpg",
-          "slug": "the-wheel-of-time-2vJc0akX8la",
-          "subject_id": "8679228117430457112",
-          "rating": "7.2"
+          "name": "The Map of Longing [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/e03378d3fd2356cb7b1029f368780799.jpg",
+          "slug": "the-map-of-longing-english-uj0yFVFuLF1",
+          "subject_id": "1404689929308986712",
+          "rating": "6.9"
         },
         {
-          "name": "Dune: Prophecy",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/200470787f302d3ea737f183aff03e6d.jpg",
-          "slug": "dune-prophecy-6DkgJJHyqU4",
-          "subject_id": "4121073372010873400",
+          "name": "Elle",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/07/f37bffe2fea1052fd707d92970dc973c.jpg",
+          "slug": "elle-i5sK2nsEnT5",
+          "subject_id": "4946200887917172616",
+          "rating": "6.9"
+        },
+        {
+          "name": "Every Year After",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/08/5e50eabf8ce3695ada4604b2b792e522.jpg",
+          "slug": "every-year-after-4uSiXtbEyy1",
+          "subject_id": "1307125388862182496",
+          "rating": "6.3"
+        },
+        {
+          "name": "Off Campus",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/dd1bd5d5e5f730c1e3b21f758baa796c.jpg",
+          "slug": "off-campus-aP9MRcE3oqa",
+          "subject_id": "8750210920061751384",
+          "rating": "7.9"
+        },
+        {
+          "name": "XO, Kitty",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/20/85acf6715c9975586d2e5fb9fdc0c69e.jpg",
+          "slug": "xo-kitty-CxXcx1uBHZ9",
+          "subject_id": "8388977201831627168",
+          "rating": "6.6"
+        },
+        {
+          "name": "Heartbreak High",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/03/292e55a9e59fd3e5b852658b5f862383.jpg",
+          "slug": "heartbreak-high-w4yxetH58G9",
+          "subject_id": "8124018725868688152",
+          "rating": "7.7"
+        },
+        {
+          "name": "Finding Her Edge",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/f00dc2fdbab86190f76472dbb82aebb8.jpg",
+          "slug": "finding-her-edge-CNJwLi9aON3",
+          "subject_id": "3192168088192043176",
+          "rating": "5.9"
+        },
+        {
+          "name": "Heated Rivalry",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/31/a27c1fa41c42d388fa5db2fa62c1478c.jpg",
+          "slug": "heated-rivalry-AgDCIMQVFY8",
+          "subject_id": "7535775794330062000",
+          "rating": "8.7"
+        },
+        {
+          "name": "The Summer I Turned Pretty",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/ddc61cd3c81481181c934598cf396662.jpg",
+          "slug": "the-summer-i-turned-pretty-qBSaCpLbiJ",
+          "subject_id": "613140447321543448",
           "rating": "7.3"
         },
         {
-          "name": "The Sandman",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/a23a61165a807b0357bc75fadbebff42.jpg",
-          "slug": "the-sandman-48fHwaUTnf3",
-          "subject_id": "2726173097488438040",
+          "name": "Ginny & Georgia",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/946751160c6c4988e51fa237adb2eef2.jpg",
+          "slug": "ginny-and-georgia-KHAfHuS4M12",
+          "subject_id": "1702633325145248800",
+          "rating": "7.5"
+        },
+        {
+          "name": "Never Have I Ever",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/48e1c960eb00b2b3e8cb6f82911319f8.jpg",
+          "slug": "never-have-i-ever-Gl2rFTuhWe5",
+          "subject_id": "4398741389568267296",
+          "rating": "7.8"
+        },
+        {
+          "name": "Motorheads",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/20ce4aa9f12b0a19ae134307b8a71021.jpg",
+          "slug": "motorheads-KxHZAdMtDf2",
+          "subject_id": "1890275159739713040",
           "rating": "7.6"
         },
         {
-          "name": "The Witcher: Blood Origin",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/e5d6dac6fda578fde7d19c8863a5eca0.jpg",
-          "slug": "the-witcher-blood-origin-ISmyxuERNM4",
-          "subject_id": "4017865228431018840",
-          "rating": "5.0"
+          "name": "Heartstopper",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/ac42dc0f7f173c78f7733807ea986456.jpg",
+          "slug": "heartstopper-wEgoV4DGbk4",
+          "subject_id": "3630491063095280672",
+          "rating": "8.5"
         },
         {
-          "name": "Supernatural",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/78de42a6b5c7f47fcc8c68a732da32c1.jpg",
-          "slug": "supernatural-q7TxFpiFlGa",
-          "subject_id": "8966281867964076560",
-          "rating": "8.4"
+          "name": "Young Royals",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/60cfb738c60599021930240e58bba6d9.jpg",
+          "slug": "young-royals-ivN0ocZDSP4",
+          "subject_id": "4059520062166815512",
+          "rating": "8.2"
         },
         {
-          "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/e2348413e8e9f37a3631cba0b8861afe.jpg",
-          "slug": "outlander-MMYLF0LrATa",
-          "subject_id": "9145491416351658776",
-          "rating": "8.3"
+          "name": "Love, Victor",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2022/11/03/a5a68821f072455049246a412bd869bf.jpg",
+          "slug": "love-victor-uj4fPVlx0na",
+          "subject_id": "8704464108311172128",
+          "rating": "8.0"
+        }
+      ]
+    },
+    {
+      "section": "Superhero Series",
+      "count": 18,
+      "items": [
+        {
+          "name": "Spider-Noir [True-Hue Full Color]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/ab2f1e28486a62b2e9fb99f0c538c401.jpg",
+          "slug": "spider-noir-true-hue-full-color-eZnPfAZAfM4",
+          "subject_id": "4010382995432652872",
+          "rating": "7.7"
         },
         {
-          "name": "Outlander: Blood of My Blood",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/7eb99db01e2bd01acef440778a49e120.jpg",
-          "slug": "outlander-blood-of-my-blood-KPufy1Yjik9",
-          "subject_id": "7828436465754735880",
+          "name": "The Boys",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/88771ec016be0877ab6ce924a254d0bb.jpg",
+          "slug": "the-boys-c8bx84KzD76",
+          "subject_id": "5139196938264400928",
+          "rating": "8.5"
+        },
+        {
+          "name": "Invincible",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/2905e767582a1af703b540142cf4b977.jpg",
+          "slug": "invincible-SphnLpQ7b13",
+          "subject_id": "2533864553830568992",
+          "rating": "8.7"
+        },
+        {
+          "name": "Ironheart",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/462c29ef3024cabc5ceb8c468e695393.jpg",
+          "slug": "ironheart-uB7agjeorB5",
+          "subject_id": "4703349546003449600",
+          "rating": "4.5"
+        },
+        {
+          "name": "Daredevil: Born Again",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/16/9f6ffc9475cad116f77cfde3192c85db.jpg",
+          "slug": "daredevil-born-again-OHXV9qfjBv7",
+          "subject_id": "6302891614566499408",
           "rating": "8.1"
+        },
+        {
+          "name": "Eyes of Wakanda",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/08/0d4549ce4181b3dd6b2c9ba12821adda.jpg",
+          "slug": "eyes-of-wakanda-mh9RJ57XC21",
+          "subject_id": "874878641094775072",
+          "rating": "6.2"
+        },
+        {
+          "name": "Agatha All Along",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/0ecc5aad3e678e1b57476ec993e5e6bb.jpg",
+          "slug": "agatha-all-along-uFV84f1U822",
+          "subject_id": "1707616906695296080",
+          "rating": "7.2"
+        },
+        {
+          "name": "The Penguin",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/c526a65c2238120fc4e09c38609c546e.jpg",
+          "slug": "the-penguin-2Tf1sEn9Kk3",
+          "subject_id": "2798716511383421320",
+          "rating": "8.6"
+        },
+        {
+          "name": "Agents of S.H.I.E.L.D.",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/0548fd06bbe26f0da38de6f67e8d92d9.jpg",
+          "slug": "agents-of-s-h-i-e-l-d-MaDkQWKg4",
+          "subject_id": "932372975866648",
+          "rating": "7.5"
+        },
+        {
+          "name": "Ms. Marvel",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/21368423421865617f84f12d124b8a5f.jpg",
+          "slug": "ms-marvel-kgT2kHi4kf",
+          "subject_id": "207438248858244128",
+          "rating": "6.2"
+        },
+        {
+          "name": "Constantine",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/cbdb1f69830b01346a930c9d106064f5.jpg",
+          "slug": "constantine-6Fbsxq5ZCB",
+          "subject_id": "509384253029924816",
+          "rating": "7.5"
+        },
+        {
+          "name": "Black Lightning",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/f3bc7b2ab8a7507779dd682fec486298.jpg",
+          "slug": "black-lightning-YiGjzGeABk1",
+          "subject_id": "1118247293028815640",
+          "rating": "6.1"
+        },
+        {
+          "name": "Runaways",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2022/09/07/43ebe48a0accf23d9f232a34c23b4e80.jpg",
+          "slug": "runaways-gYE4VwKe4Q1",
+          "subject_id": "1544153172271320872",
+          "rating": "6.9"
         },
         {
           "name": "Lucifer",
@@ -1139,53 +1014,32 @@
           "rating": "8.0"
         },
         {
-          "name": "Once Upon a Time",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/2ad12e181b9a6ff5e9899fc3c34dd0d3.jpg",
-          "slug": "once-upon-a-time-CPejvbIXcT6",
-          "subject_id": "5783166321533800240",
-          "rating": "7.7"
+          "name": "DC's Legends of Tomorrow",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/a613ba8c6c5531ec8afb1135f7ae134f.jpg",
+          "slug": "dcs-legends-of-tomorrow-C9Tfo5Y1ZL2",
+          "subject_id": "2328167480419570456",
+          "rating": "6.7"
         },
         {
-          "name": "One Piece [netflix]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/08/f2c5b15589ae0d074c8f7b8579d560aa.jpg",
-          "slug": "one-piece-netflix-qL3bmkP9Rr1",
-          "subject_id": "1216407338207298384",
-          "rating": "8.3"
+          "name": "She-Hulk: Attorney at Law",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/664b1b8123cbb0e2a2bb1dec35c54bb7.jpg",
+          "slug": "she-hulk-attorney-at-law-iBMdmfXN0P2",
+          "subject_id": "2369166069996082208",
+          "rating": "5.2"
         },
         {
-          "name": "Teen Wolf",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/8c2361ea97cd52332b9540a731ee26d3.jpg",
-          "slug": "teen-wolf-wKJrLSqXnC1",
-          "subject_id": "1358939779294970704",
-          "rating": "7.7"
+          "name": "Shadowhunters: The Mortal Instruments",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/f4bde278e614ca07fe9d649e2e72f441.jpg",
+          "slug": "shadowhunters-the-mortal-instruments-WpszPEC8v33",
+          "subject_id": "2565308269250102096",
+          "rating": "6.5"
         },
         {
-          "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/0034bfdf14ae43e6a8d3ffc7fd5c812e.jpg",
-          "slug": "wednesday-urChTxajYKa",
-          "subject_id": "9028867555875774472",
-          "rating": "8.0"
-        },
-        {
-          "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/fdc2d1ee2d8fe8d5c91c214c0da1927b.jpg",
-          "slug": "wednesday-hindi-kIx7IplYsG1",
-          "subject_id": "1414183037004383720",
-          "rating": "8.0"
-        },
-        {
-          "name": "Shadow and Bone",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/addcdf2bd69e5b2e7415a9c7b053c9b3.jpg",
-          "slug": "shadow-and-bone-4eavUoepm63",
-          "subject_id": "2604012957596013336",
-          "rating": "7.5"
-        },
-        {
-          "name": "Legend of the Seeker",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/4f70fe071fca89f739edaff69a714f2f.jpg",
-          "slug": "legend-of-the-seeker-AQBTTXyKec3",
-          "subject_id": "2683563877996056360",
-          "rating": "7.6"
+          "name": "Superman & Lois",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/58f1df3a4984c0e13b0b569b7e5b121d.jpg",
+          "slug": "superman-and-lois-cYPG9EkZ1m3",
+          "subject_id": "2816148333012603936",
+          "rating": "7.8"
         }
       ]
     },
@@ -1336,284 +1190,6 @@
       ]
     },
     {
-      "section": "Teen Fantasy",
-      "count": 20,
-      "items": [
-        {
-          "name": "Avatar: The Last Airbender",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/829a8cfbde1d0ecc084f5fe2b47afa78.jpg",
-          "slug": "avatar-the-last-airbender-YoJu6LgmUl9",
-          "subject_id": "7850278583678682192",
-          "rating": "7.2"
-        },
-        {
-          "name": "One Piece [netflix]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/08/f2c5b15589ae0d074c8f7b8579d560aa.jpg",
-          "slug": "one-piece-netflix-qL3bmkP9Rr1",
-          "subject_id": "1216407338207298384",
-          "rating": "8.3"
-        },
-        {
-          "name": "Stranger Things",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/07/7fd21d8dc5c08cd7e931db60c1de175b.jpg",
-          "slug": "stranger-things-wsymkZvcaU5",
-          "subject_id": "4956801153355891744",
-          "rating": "8.6"
-        },
-        {
-          "name": "IT: Welcome to Derry",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/93a75122ee57b635555eb40a5122fabf.jpg",
-          "slug": "it-welcome-to-derry-UeZadKkYol4",
-          "subject_id": "3646928918696838480",
-          "rating": "7.9"
-        },
-        {
-          "name": "Percy Jackson and the Olympians",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/33a4e7b923a548ddeb5ac364158752be.jpg",
-          "slug": "percy-jackson-and-the-olympians-OxG19N1Uao3",
-          "subject_id": "2845168888013275776",
-          "rating": "7.0"
-        },
-        {
-          "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/0034bfdf14ae43e6a8d3ffc7fd5c812e.jpg",
-          "slug": "wednesday-urChTxajYKa",
-          "subject_id": "9028867555875774472",
-          "rating": "8.0"
-        },
-        {
-          "name": "A Wrinkle in Time",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/a4e4fdee98a204eeefe9518c541e9859.jpg",
-          "slug": "a-wrinkle-in-time-ybrgzgLrhIa",
-          "subject_id": "8992435016898596648",
-          "rating": "4.3"
-        },
-        {
-          "name": "Dark [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/e6f0b937478f8abff12b8e1a974af311.jpg",
-          "slug": "dark-english-UG1YreRp7K5",
-          "subject_id": "4820822255225686840",
-          "rating": "8.7"
-        },
-        {
-          "name": "The Institute",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/77dfd1844392350371198afc51fddeb6.jpg",
-          "slug": "the-institute-GXFdSFUdvG",
-          "subject_id": "575375178381902192",
-          "rating": "6.7"
-        },
-        {
-          "name": "The Umbrella Academy",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/03/089127b502655ca974695e3678278883.jpg",
-          "slug": "the-umbrella-academy-MWTblhPHgY3",
-          "subject_id": "3333771074197671728",
-          "rating": "7.8"
-        },
-        {
-          "name": "Chilling Adventures of Sabrina",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2024/03/19/94a0b350373622d509a1548713a3a87e.jpg",
-          "slug": "chilling-adventures-of-sabrina-UQ2kyx24XH6",
-          "subject_id": "5630787213727335352",
-          "rating": "6.3"
-        },
-        {
-          "name": "Sweet Tooth",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/06fe175bc5771ebcf6a9444aecb51301.jpg",
-          "slug": "sweet-tooth-QI3N2XiPbi9",
-          "subject_id": "7799944270651479072",
-          "rating": "7.7"
-        },
-        {
-          "name": "Dead Boy Detectives",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/a42e81cc7a7598f62e9858e05b4c78f9.jpg",
-          "slug": "dead-boy-detectives-qDLnOBFkM53",
-          "subject_id": "2596136651147592784",
-          "rating": "7.5"
-        },
-        {
-          "name": "Merlin",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/008f87902d7f9d7af48a51833b677dbd.jpg",
-          "slug": "merlin-sMxCiIO6fZ9",
-          "subject_id": "8382755684005333552",
-          "rating": "7.9"
-        },
-        {
-          "name": "The Vampire Diaries",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/cc2e447b636be4a800cedbaccc21b7dc.jpg",
-          "slug": "the-vampire-diaries-0KncV4ardX",
-          "subject_id": "801622183708610352",
-          "rating": "7.7"
-        },
-        {
-          "name": "Teen Wolf",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/8c2361ea97cd52332b9540a731ee26d3.jpg",
-          "slug": "teen-wolf-wKJrLSqXnC1",
-          "subject_id": "1358939779294970704",
-          "rating": "7.7"
-        },
-        {
-          "name": "Harlan Coben's Shelter",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/2d706f6a65698fc10b5089221eb59bf7.jpg",
-          "slug": "harlan-cobens-shelter-KV3bC6S7FQ1",
-          "subject_id": "1552207535178925136",
-          "rating": "6.6"
-        },
-        {
-          "name": "Legacies",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/1c3718b6e3be3173bc19ad3f32faf4bc.jpg",
-          "slug": "legacies-sIZc8eEYQT2",
-          "subject_id": "2434705759104553752",
-          "rating": "7.2"
-        },
-        {
-          "name": "Locke & Key",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/de08c2c80ec36da5c8760af128b776f9.jpg",
-          "slug": "locke-and-key-M2XFH135x33",
-          "subject_id": "2565732360763364384",
-          "rating": "7.3"
-        },
-        {
-          "name": "Shadow and Bone",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/addcdf2bd69e5b2e7415a9c7b053c9b3.jpg",
-          "slug": "shadow-and-bone-4eavUoepm63",
-          "subject_id": "2604012957596013336",
-          "rating": "7.5"
-        }
-      ]
-    },
-    {
-      "section": "Teen Romance",
-      "count": 18,
-      "items": [
-        {
-          "name": "My Life with the Walter Boys",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/bd4114fca152ded3eb17f09ccf803166.jpg",
-          "slug": "my-life-with-the-walter-boys-KTgL0dWzKF3",
-          "subject_id": "3083088853704605864",
-          "rating": "6.8"
-        },
-        {
-          "name": "Sterling Point",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/66b5a399eb69ecff96099062f5280a1c.jpg",
-          "slug": "sterling-point-MaXarsHFNM3",
-          "subject_id": "3178523771661606824",
-          "rating": "7.1"
-        },
-        {
-          "name": "The Shards",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/46803563a8701aa615fb654fb4ef7639.jpg",
-          "slug": "the-shards-ORmZGjdXyF6",
-          "subject_id": "5598448838903318136",
-          "rating": "5.8"
-        },
-        {
-          "name": "The Map of Longing [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/e03378d3fd2356cb7b1029f368780799.jpg",
-          "slug": "the-map-of-longing-english-uj0yFVFuLF1",
-          "subject_id": "1404689929308986712",
-          "rating": "6.9"
-        },
-        {
-          "name": "Elle",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/07/f37bffe2fea1052fd707d92970dc973c.jpg",
-          "slug": "elle-i5sK2nsEnT5",
-          "subject_id": "4946200887917172616",
-          "rating": "6.9"
-        },
-        {
-          "name": "Every Year After",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/08/5e50eabf8ce3695ada4604b2b792e522.jpg",
-          "slug": "every-year-after-4uSiXtbEyy1",
-          "subject_id": "1307125388862182496",
-          "rating": "6.3"
-        },
-        {
-          "name": "Off Campus",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/dd1bd5d5e5f730c1e3b21f758baa796c.jpg",
-          "slug": "off-campus-aP9MRcE3oqa",
-          "subject_id": "8750210920061751384",
-          "rating": "7.9"
-        },
-        {
-          "name": "XO, Kitty",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/20/85acf6715c9975586d2e5fb9fdc0c69e.jpg",
-          "slug": "xo-kitty-CxXcx1uBHZ9",
-          "subject_id": "8388977201831627168",
-          "rating": "6.6"
-        },
-        {
-          "name": "Heartbreak High",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/03/292e55a9e59fd3e5b852658b5f862383.jpg",
-          "slug": "heartbreak-high-w4yxetH58G9",
-          "subject_id": "8124018725868688152",
-          "rating": "7.7"
-        },
-        {
-          "name": "Finding Her Edge",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/f00dc2fdbab86190f76472dbb82aebb8.jpg",
-          "slug": "finding-her-edge-CNJwLi9aON3",
-          "subject_id": "3192168088192043176",
-          "rating": "5.9"
-        },
-        {
-          "name": "Heated Rivalry",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/31/a27c1fa41c42d388fa5db2fa62c1478c.jpg",
-          "slug": "heated-rivalry-AgDCIMQVFY8",
-          "subject_id": "7535775794330062000",
-          "rating": "8.7"
-        },
-        {
-          "name": "The Summer I Turned Pretty",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/ddc61cd3c81481181c934598cf396662.jpg",
-          "slug": "the-summer-i-turned-pretty-qBSaCpLbiJ",
-          "subject_id": "613140447321543448",
-          "rating": "7.3"
-        },
-        {
-          "name": "Ginny & Georgia",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/946751160c6c4988e51fa237adb2eef2.jpg",
-          "slug": "ginny-and-georgia-KHAfHuS4M12",
-          "subject_id": "1702633325145248800",
-          "rating": "7.5"
-        },
-        {
-          "name": "Never Have I Ever",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/48e1c960eb00b2b3e8cb6f82911319f8.jpg",
-          "slug": "never-have-i-ever-Gl2rFTuhWe5",
-          "subject_id": "4398741389568267296",
-          "rating": "7.8"
-        },
-        {
-          "name": "Motorheads",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/20ce4aa9f12b0a19ae134307b8a71021.jpg",
-          "slug": "motorheads-KxHZAdMtDf2",
-          "subject_id": "1890275159739713040",
-          "rating": "7.6"
-        },
-        {
-          "name": "Heartstopper",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/ac42dc0f7f173c78f7733807ea986456.jpg",
-          "slug": "heartstopper-wEgoV4DGbk4",
-          "subject_id": "3630491063095280672",
-          "rating": "8.5"
-        },
-        {
-          "name": "Young Royals",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/60cfb738c60599021930240e58bba6d9.jpg",
-          "slug": "young-royals-ivN0ocZDSP4",
-          "subject_id": "4059520062166815512",
-          "rating": "8.2"
-        },
-        {
-          "name": "Love, Victor",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2022/11/03/a5a68821f072455049246a412bd869bf.jpg",
-          "slug": "love-victor-uj4fPVlx0na",
-          "subject_id": "8704464108311172128",
-          "rating": "8.0"
-        }
-      ]
-    },
-    {
       "section": "Bet+",
       "count": 20,
       "items": [
@@ -1756,6 +1332,430 @@
           "slug": "caught-up-4UpgiN50lT6",
           "subject_id": "5784921426633393080",
           "rating": "5.8"
+        }
+      ]
+    },
+    {
+      "section": "Action&Thriller",
+      "count": 19,
+      "items": [
+        {
+          "name": "Lucky",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/842ec08b960d317473d0b8773dba0da1.jpg",
+          "slug": "lucky-CVXotZJVNx4",
+          "subject_id": "3814823329035439888",
+          "rating": "6.6"
+        },
+        {
+          "name": "The Day of the Jackal",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/ce822fdfb7f142b91bd0d55373e4f47e.jpg",
+          "slug": "the-day-of-the-jackal-inLkJUZoke",
+          "subject_id": "193974049297629648",
+          "rating": "8.1"
+        },
+        {
+          "name": "Ride or Die",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/e9ab36916569503a93938827d6055bfd.jpg",
+          "slug": "ride-or-die-IQlFqTIjLj8",
+          "subject_id": "6981931016957448976",
+          "rating": "7.6"
+        },
+        {
+          "name": "The Agency",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/28/6fc525d1e910af6e2be8021f2a3f0c00.jpg",
+          "slug": "the-agency-sEVdHREsye5",
+          "subject_id": "4393540530991416920",
+          "rating": "7.5"
+        },
+        {
+          "name": "Citadel",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/08/319aea9a39315d6d8d9e13a02d556ac3.jpg",
+          "slug": "citadel-Maf0aT2zq24",
+          "subject_id": "3390071899957911192",
+          "rating": "6.2"
+        },
+        {
+          "name": "M.I.A.",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/88f3e2346ad5d00aea46d1f8f05f770f.jpg",
+          "slug": "m-i-a-8GHK5jqkPU2",
+          "subject_id": "2447882850302054880",
+          "rating": "6.5"
+        },
+        {
+          "name": "Prisoner",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/05/06/8f27d54dd1cfba569df444c9d0f310df.jpeg",
+          "slug": "prisoner-G1gDsMxCMa8",
+          "subject_id": "6860381857637712240",
+          "rating": "7.1"
+        },
+        {
+          "name": "The Night Agent",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/02/2301269227d1d3e11e76f56ff6eb7a84.jpg",
+          "slug": "the-night-agent-QmKtaMxB3N5",
+          "subject_id": "4860601308702802872",
+          "rating": "7.4"
+        },
+        {
+          "name": "Paradise",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/b7fbfc09482976d56415d4bc537934c2.jpg",
+          "slug": "paradise-CDwD5QsArZ4",
+          "subject_id": "4188983341900858800",
+          "rating": "7.9"
+        },
+        {
+          "name": "Hijack",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/63b845dc653afda13619e2a1222b7d86.jpg",
+          "slug": "hijack-gWnlIrXmfp4",
+          "subject_id": "3698980580839801328",
+          "rating": "7.3"
+        },
+        {
+          "name": "The Night Manager",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/a77533d1bb0290585e4d5700def36788.jpg",
+          "slug": "the-night-manager-gujLZdzBEg",
+          "subject_id": "225459289534647448",
+          "rating": "8.0"
+        },
+        {
+          "name": "The Copenhagen Test",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/55b78e40b1bfe38c58e733d5b57f9eb6.jpg",
+          "slug": "the-copenhagen-test-o2p7ZhDoYY",
+          "subject_id": "825412349548022832",
+          "rating": "7.2"
+        },
+        {
+          "name": "Tehran",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/1479048d612a4c9c3f59a076d0ab5b4d.jpg",
+          "slug": "tehran-EwwoLexSpY1",
+          "subject_id": "1657175116406477592",
+          "rating": "7.6"
+        },
+        {
+          "name": "The Hunting Party",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/29/c70ebaedfae496d18d1635be653841d3.jpg",
+          "slug": "the-hunting-party-QmMLBd5GbI6",
+          "subject_id": "5633977948689548736",
+          "rating": "6.7"
+        },
+        {
+          "name": "The Last Frontier",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/08/8e832d0f3d4024f75ecfc41e9c454d07.jpg",
+          "slug": "the-last-frontier-6bGhstHlWw1",
+          "subject_id": "1285226284775361584",
+          "rating": "6.7"
+        },
+        {
+          "name": "Tulsa King",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/6fbf376930c7f1b63cb201d2d4c0a66c.jpg",
+          "slug": "tulsa-king-MsmATkU0Mg6",
+          "subject_id": "5262873104975547168",
+          "rating": "7.9"
+        },
+        {
+          "name": "The Terminal List: Dark Wolf",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/f63af998864b7144e5ab2834db019ccb.jpg",
+          "slug": "the-terminal-list-dark-wolf-6PO0mcU0ara",
+          "subject_id": "8760681588620428552",
+          "rating": "7.5"
+        },
+        {
+          "name": "Task",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/6603106f14b76ea09f4c5357a4be3bbe.jpg",
+          "slug": "task-QOUf94URoU4",
+          "subject_id": "4120704302786790728",
+          "rating": "7.9"
+        },
+        {
+          "name": "Black Rabbit",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/619330e2fa2a9963f7792909a854baef.jpg",
+          "slug": "black-rabbit-UmN1KLQCAga",
+          "subject_id": "8617584105930344264",
+          "rating": "7.3"
+        }
+      ]
+    },
+    {
+      "section": "Gangster",
+      "count": 19,
+      "items": [
+        {
+          "name": "Snowfall",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/bd0959b7ce517e11ee5a4294e987317c.jpg",
+          "slug": "snowfall-6JvIRkxS4b",
+          "subject_id": "149973373144159000",
+          "rating": "8.5"
+        },
+        {
+          "name": "Peaky Blinders",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/10295919bb6d968ca4f1d424d08391da.jpg",
+          "slug": "peaky-blinders-Ii0kbUrUZL4",
+          "subject_id": "4006958073083480920",
+          "rating": "8.7"
+        },
+        {
+          "name": "Power",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/aeccff8c34d11a6127bf7d7d55d01279.jpg",
+          "slug": "power-OH5a2tHxgNa",
+          "subject_id": "9059923023431619616",
+          "rating": "8.1"
+        },
+        {
+          "name": "Tulsa King",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/6fbf376930c7f1b63cb201d2d4c0a66c.jpg",
+          "slug": "tulsa-king-MsmATkU0Mg6",
+          "subject_id": "5262873104975547168",
+          "rating": "7.9"
+        },
+        {
+          "name": "MobLand",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/28/0c6a3f0387b6e17d022dd37fab205883.jpg",
+          "slug": "mobland-wWHa6Cu6fa5",
+          "subject_id": "4335165664987072680",
+          "rating": "8.3"
+        },
+        {
+          "name": "The Family Business",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/5c66f59203c62adfa73ad24c3a997be1.jpg",
+          "slug": "the-family-business-O5KYeex1tT4",
+          "subject_id": "4108074495649403936",
+          "rating": "7.0"
+        },
+        {
+          "name": "The Family Business: New Orleans",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/48ea07f0676414dc636c90a813ff7feb.jpg",
+          "slug": "the-family-business-new-orleans-iFa9ZOFLnt1",
+          "subject_id": "1237064589544770608",
+          "rating": "7.0"
+        },
+        {
+          "name": "Gangs of London",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/70c0a3584d216d586a8a60a5726e5b7e.jpg",
+          "slug": "gangs-of-london-ilQtJgRW5B6",
+          "subject_id": "5537967377339536416",
+          "rating": "8.0"
+        },
+        {
+          "name": "Animal Kingdom",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/e6614dc6717764c9cb6c891543948379.jpg",
+          "slug": "animal-kingdom-wGT94IUFbD9",
+          "subject_id": "8084190016664130592",
+          "rating": "8.2"
+        },
+        {
+          "name": "Top Boy",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/6492b9b3193c79a4eb05139ad9630860.jpg",
+          "slug": "top-boy-IwXuciJfOCa",
+          "subject_id": "8918375349625442088",
+          "rating": "8.4"
+        },
+        {
+          "name": "Power Book II: Ghost",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/5aabd308d910cd4a847c38965cd54a65.jpg",
+          "slug": "power-book-ii-ghost-mvUr6FdWgF",
+          "subject_id": "558719019793142816",
+          "rating": "7.5"
+        },
+        {
+          "name": "Power Book IV: Force",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/18/80d9ca49bcad817d3c289d1597d90cba.jpg",
+          "slug": "power-book-iv-force-yhwvt88NUu9",
+          "subject_id": "7972206956398400280",
+          "rating": "8.1"
+        },
+        {
+          "name": "Power Book III: Raising Kanan",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/4bc92f23b31e614298f59421323f148f.jpg",
+          "slug": "power-book-iii-raising-kanan-u5VE8tVK705",
+          "subject_id": "4198190468661924632",
+          "rating": "7.7"
+        },
+        {
+          "name": "BMF",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/c92548347df06b29aa0e94daed2fb0f7.jpg",
+          "slug": "bmf-qXPfEZglmk9",
+          "subject_id": "7829314425252631320",
+          "rating": "7.4"
+        },
+        {
+          "name": "The Endgame",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2022/11/03/8621c8033d25479280d59dedc03dec3d.jpg",
+          "slug": "the-endgame-mT22Mg5tZ91",
+          "subject_id": "974554317418026016",
+          "rating": "6.9"
+        },
+        {
+          "name": "The Take",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/2dec9905dff2913dde4a3a18eeca4169.jpg",
+          "slug": "the-take-kgjamTRlN33",
+          "subject_id": "2569285037451530032",
+          "rating": "7.7"
+        },
+        {
+          "name": "Godfather of Harlem",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/d39d4833ee74e552497f75cb12841c53.jpg",
+          "slug": "godfather-of-harlem-qfj3fqqEq25",
+          "subject_id": "4229390210611696672",
+          "rating": "8.1"
+        },
+        {
+          "name": "Boardwalk Empire",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/cc8ab7daf213f3e3bf5c55ed40187d61.jpg",
+          "slug": "boardwalk-empire-Sz63XegH5H4",
+          "subject_id": "3940536237420858144",
+          "rating": "8.6"
+        },
+        {
+          "name": "Tokyo Vice",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2025/11/03/c74d3e2df63686964019b6236b1440ca.jpg",
+          "slug": "tokyo-vice-GLH65C8Z3z5",
+          "subject_id": "4671165186559071000",
+          "rating": "8.1"
+        }
+      ]
+    },
+    {
+      "section": "Teen Fantasy",
+      "count": 20,
+      "items": [
+        {
+          "name": "Avatar: The Last Airbender",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/829a8cfbde1d0ecc084f5fe2b47afa78.jpg",
+          "slug": "avatar-the-last-airbender-YoJu6LgmUl9",
+          "subject_id": "7850278583678682192",
+          "rating": "7.2"
+        },
+        {
+          "name": "One Piece [netflix]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/08/f2c5b15589ae0d074c8f7b8579d560aa.jpg",
+          "slug": "one-piece-netflix-qL3bmkP9Rr1",
+          "subject_id": "1216407338207298384",
+          "rating": "8.3"
+        },
+        {
+          "name": "Stranger Things",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/07/7fd21d8dc5c08cd7e931db60c1de175b.jpg",
+          "slug": "stranger-things-wsymkZvcaU5",
+          "subject_id": "4956801153355891744",
+          "rating": "8.6"
+        },
+        {
+          "name": "IT: Welcome to Derry",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/93a75122ee57b635555eb40a5122fabf.jpg",
+          "slug": "it-welcome-to-derry-UeZadKkYol4",
+          "subject_id": "3646928918696838480",
+          "rating": "7.9"
+        },
+        {
+          "name": "Percy Jackson and the Olympians",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/33a4e7b923a548ddeb5ac364158752be.jpg",
+          "slug": "percy-jackson-and-the-olympians-OxG19N1Uao3",
+          "subject_id": "2845168888013275776",
+          "rating": "7.0"
+        },
+        {
+          "name": "Wednesday",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/0034bfdf14ae43e6a8d3ffc7fd5c812e.jpg",
+          "slug": "wednesday-urChTxajYKa",
+          "subject_id": "9028867555875774472",
+          "rating": "8.0"
+        },
+        {
+          "name": "A Wrinkle in Time",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/a4e4fdee98a204eeefe9518c541e9859.jpg",
+          "slug": "a-wrinkle-in-time-ybrgzgLrhIa",
+          "subject_id": "8992435016898596648",
+          "rating": "4.3"
+        },
+        {
+          "name": "Dark [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/e6f0b937478f8abff12b8e1a974af311.jpg",
+          "slug": "dark-english-UG1YreRp7K5",
+          "subject_id": "4820822255225686840",
+          "rating": "8.7"
+        },
+        {
+          "name": "The Institute",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/77dfd1844392350371198afc51fddeb6.jpg",
+          "slug": "the-institute-GXFdSFUdvG",
+          "subject_id": "575375178381902192",
+          "rating": "6.7"
+        },
+        {
+          "name": "The Umbrella Academy",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/03/089127b502655ca974695e3678278883.jpg",
+          "slug": "the-umbrella-academy-MWTblhPHgY3",
+          "subject_id": "3333771074197671728",
+          "rating": "7.8"
+        },
+        {
+          "name": "Chilling Adventures of Sabrina",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2024/03/19/94a0b350373622d509a1548713a3a87e.jpg",
+          "slug": "chilling-adventures-of-sabrina-UQ2kyx24XH6",
+          "subject_id": "5630787213727335352",
+          "rating": "6.3"
+        },
+        {
+          "name": "Sweet Tooth",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/06fe175bc5771ebcf6a9444aecb51301.jpg",
+          "slug": "sweet-tooth-QI3N2XiPbi9",
+          "subject_id": "7799944270651479072",
+          "rating": "7.7"
+        },
+        {
+          "name": "Dead Boy Detectives",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/a42e81cc7a7598f62e9858e05b4c78f9.jpg",
+          "slug": "dead-boy-detectives-qDLnOBFkM53",
+          "subject_id": "2596136651147592784",
+          "rating": "7.5"
+        },
+        {
+          "name": "Merlin",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/008f87902d7f9d7af48a51833b677dbd.jpg",
+          "slug": "merlin-sMxCiIO6fZ9",
+          "subject_id": "8382755684005333552",
+          "rating": "7.9"
+        },
+        {
+          "name": "The Vampire Diaries",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/cc2e447b636be4a800cedbaccc21b7dc.jpg",
+          "slug": "the-vampire-diaries-0KncV4ardX",
+          "subject_id": "801622183708610352",
+          "rating": "7.7"
+        },
+        {
+          "name": "Teen Wolf",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/8c2361ea97cd52332b9540a731ee26d3.jpg",
+          "slug": "teen-wolf-wKJrLSqXnC1",
+          "subject_id": "1358939779294970704",
+          "rating": "7.7"
+        },
+        {
+          "name": "Harlan Coben's Shelter",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/2d706f6a65698fc10b5089221eb59bf7.jpg",
+          "slug": "harlan-cobens-shelter-KV3bC6S7FQ1",
+          "subject_id": "1552207535178925136",
+          "rating": "6.6"
+        },
+        {
+          "name": "Legacies",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/1c3718b6e3be3173bc19ad3f32faf4bc.jpg",
+          "slug": "legacies-sIZc8eEYQT2",
+          "subject_id": "2434705759104553752",
+          "rating": "7.2"
+        },
+        {
+          "name": "Locke & Key",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/de08c2c80ec36da5c8760af128b776f9.jpg",
+          "slug": "locke-and-key-M2XFH135x33",
+          "subject_id": "2565732360763364384",
+          "rating": "7.3"
+        },
+        {
+          "name": "Shadow and Bone",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/addcdf2bd69e5b2e7415a9c7b053c9b3.jpg",
+          "slug": "shadow-and-bone-4eavUoepm63",
+          "subject_id": "2604012957596013336",
+          "rating": "7.5"
         }
       ]
     },
@@ -2552,145 +2552,6 @@
       ]
     },
     {
-      "section": "💓Romance 💓",
-      "count": 19,
-      "items": [
-        {
-          "name": "Desire [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/13/3349443a0215b5e819352749b5cb4419.jpg",
-          "slug": "desire-english-kmGdK7SpIa8",
-          "subject_id": "6859463871728871848",
-          "rating": "6.2"
-        },
-        {
-          "name": "Heartstopper Forever",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/d578ec3c0494471c43a25bcac4f81c33.jpg",
-          "slug": "heartstopper-forever-8qLGeGNzuJ5",
-          "subject_id": "4812342005508508448",
-          "rating": "7.0"
-        },
-        {
-          "name": "Voicemails for Isabelle",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/34085af3629cbb0f88ff79ec542b36bb.jpg",
-          "slug": "voicemails-for-isabelle-cIXoz7BkcM2",
-          "subject_id": "2331071508061241456",
-          "rating": "7.3"
-        },
-        {
-          "name": "Boulevard [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/10/3cd95d4de7cbd2ecb26704f563337903.jpeg",
-          "slug": "boulevard-english-ihEjIVNGUe1",
-          "subject_id": "1041196367328201752",
-          "rating": "6.9"
-        },
-        {
-          "name": "40 Dates and 40 Nights",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/12/e1a2bb7ec9a86d87c7b2583ade05fe21.jpg",
-          "slug": "40-dates-and-40-nights-IyIrty839T6",
-          "subject_id": "5782312067034140240",
-          "rating": "7.1"
-        },
-        {
-          "name": "The Invite",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/43dee5c406f7374ab03fc736bd9db8c5.jpg",
-          "slug": "the-invite-6lXLuebA0v6",
-          "subject_id": "5455573294353205616",
-          "rating": "7.8"
-        },
-        {
-          "name": "Your Fault: London",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/ae522c9f6d1561467193d6fbcb27ef53.jpg",
-          "slug": "your-fault-london-k8ttUwkRTC4",
-          "subject_id": "3883803269768134800",
-          "rating": "6.0"
-        },
-        {
-          "name": "My Fault: London",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/21022c2c401eb1717fa50afbb50910cd.jpg",
-          "slug": "my-fault-london-yDBWNhHvOp6",
-          "subject_id": "5385251992921063816",
-          "rating": "6.2"
-        },
-        {
-          "name": "Your Heart Will Be Broken",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/16/f2e3ae8e0e7dad78435788be39f9b322.jpg",
-          "slug": "your-heart-will-be-broken-Sd9JnEVRmr7",
-          "subject_id": "6245590300333851720",
-          "rating": "4.7"
-        },
-        {
-          "name": "Your Fault",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/791eb4e0d3df66dc4aa56195ba48cf0f.jpg",
-          "slug": "your-fault-UkWvf8RKfK6",
-          "subject_id": "5661942290164629808",
-          "rating": "5.2"
-        },
-        {
-          "name": "My Fault",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/0ff9bedecb09e408aa14a472ecc66ba5.jpg",
-          "slug": "my-fault-SzGg66HWFk8",
-          "subject_id": "6994295303847695672",
-          "rating": "6.1"
-        },
-        {
-          "name": "Office Romance",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/05/22/df954872d885cb662863000e24fc3c5f.jpg",
-          "slug": "office-romance-GtaoOBHewg",
-          "subject_id": "223632047775042264",
-          "rating": "6.2"
-        },
-        {
-          "name": "You, Me & Tuscany",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2025/11/19/244d76050c96b950949a71664f60966b.jpg",
-          "slug": "you-me-and-tuscany-McCtrtSG6N7",
-          "subject_id": "6539873844478858840",
-          "rating": "6.5"
-        },
-        {
-          "name": "No Place to Be Single [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/05/06/a8ec8ab8d12df9223f2d7db965c05b84.jpg",
-          "slug": "no-place-to-be-single-english-w8EkWUYAFn",
-          "subject_id": "320435173198387888",
-          "rating": "6.0"
-        },
-        {
-          "name": "The Drama",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/03/32dcf6a52baecc4827666e5acbf1a538.jpg",
-          "slug": "the-drama-yD9CfVZLLC9",
-          "subject_id": "8078534599686739480",
-          "rating": "7.2"
-        },
-        {
-          "name": "Reminders of Him",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/03/12/5220a31c56b59bd74642c2940dbf8ffd.jpg",
-          "slug": "reminders-of-him-o40NKv64fZa",
-          "subject_id": "9222045495940598280",
-          "rating": "6.5"
-        },
-        {
-          "name": "Kissing Is the Easy Part",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/a444b0b9b593750fad5118d25976aedd.jpg",
-          "slug": "kissing-is-the-easy-part-IU5ceyvXyD6",
-          "subject_id": "5571375701531543376",
-          "rating": "6.0"
-        },
-        {
-          "name": "Love Me Love Me",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/b9e5ee48bb6a6fc144888200dbf5cc38.jpeg",
-          "slug": "love-me-love-me-02hM1Yh7M44",
-          "subject_id": "3421851806626989968",
-          "rating": "6.5"
-        },
-        {
-          "name": "People We Meet on Vacation",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/e330b8d65cd83834748be0d71cfea55b.jpg",
-          "slug": "people-we-meet-on-vacation-g0Qy2HbsKv1",
-          "subject_id": "1269091963102548304",
-          "rating": "6.7"
-        }
-      ]
-    },
-    {
       "section": "Must-watch Black Shows",
       "count": 20,
       "items": [
@@ -2832,6 +2693,291 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/d2491fb6a3ffb308c1d2a41708e14869.jpg",
           "slug": "all-american-homecoming-USBQU3n2Xj6",
           "subject_id": "5305891259041600544",
+          "rating": "6.3"
+        }
+      ]
+    },
+    {
+      "section": "💓Romance 💓",
+      "count": 19,
+      "items": [
+        {
+          "name": "Camp Rock 3",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/e88eef934472b833d5f7268afab32317.jpg",
+          "slug": "camp-rock-3-Uapqb8FpeS6",
+          "subject_id": "5769946006859171496",
+          "rating": "7.0"
+        },
+        {
+          "name": "Desire [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/13/3349443a0215b5e819352749b5cb4419.jpg",
+          "slug": "desire-english-kmGdK7SpIa8",
+          "subject_id": "6859463871728871848",
+          "rating": "6.2"
+        },
+        {
+          "name": "Heartstopper Forever",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/d578ec3c0494471c43a25bcac4f81c33.jpg",
+          "slug": "heartstopper-forever-8qLGeGNzuJ5",
+          "subject_id": "4812342005508508448",
+          "rating": "7.0"
+        },
+        {
+          "name": "Voicemails for Isabelle",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/34085af3629cbb0f88ff79ec542b36bb.jpg",
+          "slug": "voicemails-for-isabelle-cIXoz7BkcM2",
+          "subject_id": "2331071508061241456",
+          "rating": "7.3"
+        },
+        {
+          "name": "Boulevard [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/10/3cd95d4de7cbd2ecb26704f563337903.jpeg",
+          "slug": "boulevard-english-ihEjIVNGUe1",
+          "subject_id": "1041196367328201752",
+          "rating": "6.9"
+        },
+        {
+          "name": "40 Dates and 40 Nights",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/12/e1a2bb7ec9a86d87c7b2583ade05fe21.jpg",
+          "slug": "40-dates-and-40-nights-IyIrty839T6",
+          "subject_id": "5782312067034140240",
+          "rating": "7.1"
+        },
+        {
+          "name": "The Invite",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/43dee5c406f7374ab03fc736bd9db8c5.jpg",
+          "slug": "the-invite-6lXLuebA0v6",
+          "subject_id": "5455573294353205616",
+          "rating": "7.8"
+        },
+        {
+          "name": "Your Fault: London",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/ae522c9f6d1561467193d6fbcb27ef53.jpg",
+          "slug": "your-fault-london-k8ttUwkRTC4",
+          "subject_id": "3883803269768134800",
+          "rating": "6.0"
+        },
+        {
+          "name": "My Fault: London",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/21022c2c401eb1717fa50afbb50910cd.jpg",
+          "slug": "my-fault-london-yDBWNhHvOp6",
+          "subject_id": "5385251992921063816",
+          "rating": "6.2"
+        },
+        {
+          "name": "Your Heart Will Be Broken",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/16/f2e3ae8e0e7dad78435788be39f9b322.jpg",
+          "slug": "your-heart-will-be-broken-Sd9JnEVRmr7",
+          "subject_id": "6245590300333851720",
+          "rating": "4.7"
+        },
+        {
+          "name": "Your Fault",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/791eb4e0d3df66dc4aa56195ba48cf0f.jpg",
+          "slug": "your-fault-UkWvf8RKfK6",
+          "subject_id": "5661942290164629808",
+          "rating": "5.2"
+        },
+        {
+          "name": "My Fault",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/0ff9bedecb09e408aa14a472ecc66ba5.jpg",
+          "slug": "my-fault-SzGg66HWFk8",
+          "subject_id": "6994295303847695672",
+          "rating": "6.1"
+        },
+        {
+          "name": "Office Romance",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/05/22/df954872d885cb662863000e24fc3c5f.jpg",
+          "slug": "office-romance-GtaoOBHewg",
+          "subject_id": "223632047775042264",
+          "rating": "6.2"
+        },
+        {
+          "name": "You, Me & Tuscany",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2025/11/19/244d76050c96b950949a71664f60966b.jpg",
+          "slug": "you-me-and-tuscany-McCtrtSG6N7",
+          "subject_id": "6539873844478858840",
+          "rating": "6.5"
+        },
+        {
+          "name": "No Place to Be Single [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/05/06/a8ec8ab8d12df9223f2d7db965c05b84.jpg",
+          "slug": "no-place-to-be-single-english-w8EkWUYAFn",
+          "subject_id": "320435173198387888",
+          "rating": "6.0"
+        },
+        {
+          "name": "The Drama",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/03/32dcf6a52baecc4827666e5acbf1a538.jpg",
+          "slug": "the-drama-yD9CfVZLLC9",
+          "subject_id": "8078534599686739480",
+          "rating": "7.2"
+        },
+        {
+          "name": "Reminders of Him",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/03/12/5220a31c56b59bd74642c2940dbf8ffd.jpg",
+          "slug": "reminders-of-him-o40NKv64fZa",
+          "subject_id": "9222045495940598280",
+          "rating": "6.5"
+        },
+        {
+          "name": "Kissing Is the Easy Part",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/a444b0b9b593750fad5118d25976aedd.jpg",
+          "slug": "kissing-is-the-easy-part-IU5ceyvXyD6",
+          "subject_id": "5571375701531543376",
+          "rating": "6.0"
+        },
+        {
+          "name": "Love Me Love Me",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/b9e5ee48bb6a6fc144888200dbf5cc38.jpeg",
+          "slug": "love-me-love-me-02hM1Yh7M44",
+          "subject_id": "3421851806626989968",
+          "rating": "6.5"
+        }
+      ]
+    },
+    {
+      "section": "Top Venezuela",
+      "count": 20,
+      "items": [
+        {
+          "name": "The Whistler",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/03/30/a7bca9b3bfcb13c41c7b670364c927d8.jpg",
+          "slug": "the-whistler-mBPQyOeZr11",
+          "subject_id": "858947295281301272",
+          "rating": "6.0"
+        },
+        {
+          "name": "Jezabel",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/6ad32e8d8f4b4117e54e9106b01e1e58.jpg",
+          "slug": "jezabel-AAzFMIWmEG6",
+          "subject_id": "5613168245340523808",
+          "rating": "5.6"
+        },
+        {
+          "name": "From Afar",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/12/9e035557b9a54fb251f376c61f73b6f9.jpg",
+          "slug": "from-afar-StvRkw8jqT6",
+          "subject_id": "5786080192703676368",
+          "rating": "6.6"
+        },
+        {
+          "name": "Liz in September",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/03/30/92c8fb099efccfc95c43a8b8ec79d1a9.jpg",
+          "slug": "liz-in-september-YOCvqs5fed7",
+          "subject_id": "6054187581921708760",
+          "rating": "6.0"
+        },
+        {
+          "name": "The House at the End of Time",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/03/be0c4a8628ac8f6003dc267d80499199.jpg",
+          "slug": "the-house-at-the-end-of-time-kOicmPZdVA3",
+          "subject_id": "3017727892143885016",
+          "rating": "6.7"
+        },
+        {
+          "name": "The Liberator",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/11/1d9a02d614cf274087c033538b0f1cf5.jpg",
+          "slug": "the-liberator-qfdnUoOjSv5",
+          "subject_id": "4628006651486948024",
+          "rating": "6.8"
+        },
+        {
+          "name": "Infection",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/87ed80c79e66bf038223d886a4681830.jpg",
+          "slug": "infection-Kpp4hAhD948",
+          "subject_id": "6770646675888717776",
+          "rating": "5.1"
+        },
+        {
+          "name": "Sicario",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/04/09/4a236de52ba611a25fab43527b2237d7.jpg",
+          "slug": "sicario-Mu9Z8D48zC1",
+          "subject_id": "1361378994301584208",
+          "rating": "6.3"
+        },
+        {
+          "name": "Once Upon a Time in Venezuela",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/10/d0046898af09b808025587fe96a8f6cb.jpg",
+          "slug": "once-upon-a-time-in-venezuela-SzcwvqBJvA4",
+          "subject_id": "3851461720963171408",
+          "rating": "7.3"
+        },
+        {
+          "name": "Brother [Spanish]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/8025776ef9e545339883a1fceac01556.jpg",
+          "slug": "brother-spanish-o2rXlyUBNP1",
+          "subject_id": "1540522956928048312",
+          "rating": "7.2"
+        },
+        {
+          "name": "Secuestro express",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/09/08425ebaa1e357be1059786aaa02a356.jpg",
+          "slug": "secuestro-express-6xRJVwtOdo3",
+          "subject_id": "2845804354194524224",
+          "rating": "6.5"
+        },
+        {
+          "name": "Bad Hair [Spanish]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/12/dcc7c9d2cffe5d17bbfcf9161f5b37a7.jpg",
+          "slug": "bad-hair-spanish-WdYcoQGIX93",
+          "subject_id": "2652771327400099952",
+          "rating": "6.9"
+        },
+        {
+          "name": "My Straight Son",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/11/b9ec4538af7f53b431d939ec41be8469.jpg",
+          "slug": "my-straight-son-sQxgCAPVnt5",
+          "subject_id": "4594297824002591448",
+          "rating": "7.3"
+        },
+        {
+          "name": "The Zero Hour [Spanish]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/03/30/f8fa327c182571723a4fce8ee061f707.jpg",
+          "slug": "the-zero-hour-spanish-MAkTMIuazX3",
+          "subject_id": "3324265068715467136",
+          "rating": "6.7"
+        },
+        {
+          "name": "Potato, Peanut, Plantain [Spanish]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/95024da9aa06a9a52f1399caeffdda02.jpg",
+          "slug": "potato-peanut-plantain-spanish-aVAEKVGnRu5",
+          "subject_id": "4614264886980402408",
+          "rating": "6.4"
+        },
+        {
+          "name": "The Family [Spanish]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/12/89aab23c4094900df224dc05d88a8886.jpg",
+          "slug": "the-family-spanish-YwPvIegjHD9",
+          "subject_id": "8091097125624383056",
+          "rating": "6.8"
+        },
+        {
+          "name": "The Lake Vampire [Spanish]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/da047de5ba6846dc07b9d18f25fe807c.jpg",
+          "slug": "the-lake-vampire-spanish-k4Zf3Bfyrb5",
+          "subject_id": "4351420585046590680",
+          "rating": "5.9"
+        },
+        {
+          "name": "Postales de Leningrado [Spanish]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/10/26a352603d17ea7343661adb9d315308.jpg",
+          "slug": "postales-de-leningrado-spanish-ex9ur103iI6",
+          "subject_id": "5635368691312264784",
+          "rating": "6.4"
+        },
+        {
+          "name": "La Soledad",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/12/1c7bc604caf2a90a0c3cbec70782e184.jpg",
+          "slug": "la-soledad-mFrU4DPzUO2",
+          "subject_id": "2367806294087582800",
+          "rating": "6.5"
+        },
+        {
+          "name": "3 Bellezas [Spanish]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/12/cdf6b07a3579f97284a54a818efc0bee.jpg",
+          "slug": "3-bellezas-spanish-Qu6ryFIqZKa",
+          "subject_id": "9029112485512632760",
           "rating": "6.3"
         }
       ]
