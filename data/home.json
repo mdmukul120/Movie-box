@@ -284,6 +284,13 @@
           "rating": "6.7"
         },
         {
+          "name": "The Death of Robin Hood",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/30/3dda6351b063ad22eaf9ef445ff5f1eb-s.jpg",
+          "slug": "the-death-of-robin-hood-QiWcFVwydO7",
+          "subject_id": "6554909915096797832",
+          "rating": "6.1"
+        },
+        {
           "name": "Star Wars: The Mandalorian and Grogu",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/15/bbff0b180c70fb78bb96785e6fa43374.jpg",
           "slug": "star-wars-the-mandalorian-and-grogu-G96geTTsHA7",
@@ -352,13 +359,6 @@
           "slug": "citizen-vigilante-IIt7oflBjm2",
           "subject_id": "1980694604404375664",
           "rating": "6.1"
-        },
-        {
-          "name": "The Devil Wears Prada 2",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/79bddd3a40e50af5b753356b47d95737.jpg",
-          "slug": "the-devil-wears-prada-2-e9V6WgGKJ56",
-          "subject_id": "5113471328091261968",
-          "rating": "6.3"
         }
       ]
     },
@@ -1055,18 +1055,25 @@
       "count": 20,
       "items": [
         {
-          "name": "New Boyfriend",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/59b513baafb81af4939accfece798afe.jpg",
-          "slug": "new-boyfriend-aZgic3Ja3z4",
-          "subject_id": "3831688287996072992",
-          "rating": "6.2"
-        },
-        {
           "name": "Payback",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/10/e5373ae453cf089c52da1f412e374288.jpeg",
           "slug": "payback-Stphm9fMD12",
           "subject_id": "1700820980479811096",
           "rating": "6.5"
+        },
+        {
+          "name": "Lovex3",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/322fd1cf8e2ffd49bac5841ca8ec7abd.jpg",
+          "slug": "lovex3-Gps3l3ndmK",
+          "subject_id": "627556553905816000",
+          "rating": "6.0"
+        },
+        {
+          "name": "New Boyfriend",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/59b513baafb81af4939accfece798afe.jpg",
+          "slug": "new-boyfriend-aZgic3Ja3z4",
+          "subject_id": "3831688287996072992",
+          "rating": "6.2"
         },
         {
           "name": "Play Me",
@@ -1186,13 +1193,6 @@
           "slug": "bittersweet-love-C3yFlNXBV1",
           "subject_id": "26116168729645968",
           "rating": "6.4"
-        },
-        {
-          "name": "Ticket to Heaven",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/c8455e158f5aa2a60e8a4cd8f630b2e9.jpg",
-          "slug": "ticket-to-heaven-g6VeBWciZV",
-          "subject_id": "784996803929424648",
-          "rating": "6.1"
         }
       ]
     },
@@ -1917,6 +1917,13 @@
           "rating": "7.4"
         },
         {
+          "name": "A Bona Fide Killer",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/16/dcdc572d74083e26b7581a845dc168c4.jpg",
+          "slug": "a-bona-fide-killer-yzvVpvmbTK4",
+          "subject_id": "3991952166557736960",
+          "rating": "8.1"
+        },
+        {
           "name": "My Bias, My Boss",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/16/0eacd36b5f53b52f731d7d65d653e259.jpg",
           "slug": "my-bias-my-boss-WLJPOXtbR62",
@@ -1936,13 +1943,6 @@
           "slug": "flex-x-cop-MibemdOaf98",
           "subject_id": "6839541875842894728",
           "rating": "7.8"
-        },
-        {
-          "name": "A Bona Fide Killer",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/16/dcdc572d74083e26b7581a845dc168c4.jpg",
-          "slug": "a-bona-fide-killer-yzvVpvmbTK4",
-          "subject_id": "3991952166557736960",
-          "rating": "8.1"
         },
         {
           "name": "A Shop for Killers",
@@ -2840,152 +2840,6 @@
           "slug": "love-me-love-me-02hM1Yh7M44",
           "subject_id": "3421851806626989968",
           "rating": "6.5"
-        }
-      ]
-    },
-    {
-      "section": "Top Venezuela",
-      "count": 20,
-      "items": [
-        {
-          "name": "The Whistler",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/03/30/a7bca9b3bfcb13c41c7b670364c927d8.jpg",
-          "slug": "the-whistler-mBPQyOeZr11",
-          "subject_id": "858947295281301272",
-          "rating": "6.0"
-        },
-        {
-          "name": "Jezabel",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/6ad32e8d8f4b4117e54e9106b01e1e58.jpg",
-          "slug": "jezabel-AAzFMIWmEG6",
-          "subject_id": "5613168245340523808",
-          "rating": "5.6"
-        },
-        {
-          "name": "From Afar",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/12/9e035557b9a54fb251f376c61f73b6f9.jpg",
-          "slug": "from-afar-StvRkw8jqT6",
-          "subject_id": "5786080192703676368",
-          "rating": "6.6"
-        },
-        {
-          "name": "Liz in September",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/03/30/92c8fb099efccfc95c43a8b8ec79d1a9.jpg",
-          "slug": "liz-in-september-YOCvqs5fed7",
-          "subject_id": "6054187581921708760",
-          "rating": "6.0"
-        },
-        {
-          "name": "The House at the End of Time",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/03/be0c4a8628ac8f6003dc267d80499199.jpg",
-          "slug": "the-house-at-the-end-of-time-kOicmPZdVA3",
-          "subject_id": "3017727892143885016",
-          "rating": "6.7"
-        },
-        {
-          "name": "The Liberator",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/11/1d9a02d614cf274087c033538b0f1cf5.jpg",
-          "slug": "the-liberator-qfdnUoOjSv5",
-          "subject_id": "4628006651486948024",
-          "rating": "6.8"
-        },
-        {
-          "name": "Infection",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/87ed80c79e66bf038223d886a4681830.jpg",
-          "slug": "infection-Kpp4hAhD948",
-          "subject_id": "6770646675888717776",
-          "rating": "5.1"
-        },
-        {
-          "name": "Sicario",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/04/09/4a236de52ba611a25fab43527b2237d7.jpg",
-          "slug": "sicario-Mu9Z8D48zC1",
-          "subject_id": "1361378994301584208",
-          "rating": "6.3"
-        },
-        {
-          "name": "Once Upon a Time in Venezuela",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/10/d0046898af09b808025587fe96a8f6cb.jpg",
-          "slug": "once-upon-a-time-in-venezuela-SzcwvqBJvA4",
-          "subject_id": "3851461720963171408",
-          "rating": "7.3"
-        },
-        {
-          "name": "Brother [Spanish]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/8025776ef9e545339883a1fceac01556.jpg",
-          "slug": "brother-spanish-o2rXlyUBNP1",
-          "subject_id": "1540522956928048312",
-          "rating": "7.2"
-        },
-        {
-          "name": "Secuestro express",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/09/08425ebaa1e357be1059786aaa02a356.jpg",
-          "slug": "secuestro-express-6xRJVwtOdo3",
-          "subject_id": "2845804354194524224",
-          "rating": "6.5"
-        },
-        {
-          "name": "Bad Hair [Spanish]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/12/dcc7c9d2cffe5d17bbfcf9161f5b37a7.jpg",
-          "slug": "bad-hair-spanish-WdYcoQGIX93",
-          "subject_id": "2652771327400099952",
-          "rating": "6.9"
-        },
-        {
-          "name": "My Straight Son",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/11/b9ec4538af7f53b431d939ec41be8469.jpg",
-          "slug": "my-straight-son-sQxgCAPVnt5",
-          "subject_id": "4594297824002591448",
-          "rating": "7.3"
-        },
-        {
-          "name": "The Zero Hour [Spanish]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/03/30/f8fa327c182571723a4fce8ee061f707.jpg",
-          "slug": "the-zero-hour-spanish-MAkTMIuazX3",
-          "subject_id": "3324265068715467136",
-          "rating": "6.7"
-        },
-        {
-          "name": "Potato, Peanut, Plantain [Spanish]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/95024da9aa06a9a52f1399caeffdda02.jpg",
-          "slug": "potato-peanut-plantain-spanish-aVAEKVGnRu5",
-          "subject_id": "4614264886980402408",
-          "rating": "6.4"
-        },
-        {
-          "name": "The Family [Spanish]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/12/89aab23c4094900df224dc05d88a8886.jpg",
-          "slug": "the-family-spanish-YwPvIegjHD9",
-          "subject_id": "8091097125624383056",
-          "rating": "6.8"
-        },
-        {
-          "name": "The Lake Vampire [Spanish]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/da047de5ba6846dc07b9d18f25fe807c.jpg",
-          "slug": "the-lake-vampire-spanish-k4Zf3Bfyrb5",
-          "subject_id": "4351420585046590680",
-          "rating": "5.9"
-        },
-        {
-          "name": "Postales de Leningrado [Spanish]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/10/26a352603d17ea7343661adb9d315308.jpg",
-          "slug": "postales-de-leningrado-spanish-ex9ur103iI6",
-          "subject_id": "5635368691312264784",
-          "rating": "6.4"
-        },
-        {
-          "name": "La Soledad",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/12/1c7bc604caf2a90a0c3cbec70782e184.jpg",
-          "slug": "la-soledad-mFrU4DPzUO2",
-          "subject_id": "2367806294087582800",
-          "rating": "6.5"
-        },
-        {
-          "name": "3 Bellezas [Spanish]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2023/08/12/cdf6b07a3579f97284a54a818efc0bee.jpg",
-          "slug": "3-bellezas-spanish-Qu6ryFIqZKa",
-          "subject_id": "9029112485512632760",
-          "rating": "6.3"
         }
       ]
     }
