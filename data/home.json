@@ -6,6 +6,12 @@
       "count": 14,
       "items": [
         {
+          "name": "Lanterns",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/17/54644d0c2c3709671a35bd0b366915e6.webp",
+          "slug": "lanterns-yrpqwiUJSn9",
+          "subject_id": "7876999319520708224"
+        },
+        {
           "name": "Minions & Monsters",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/8f19fea37c3e4148d743831352c0a43e.webp",
           "slug": "minions-and-monsters-mpnc7Ut3rG",
@@ -54,12 +60,6 @@
           "subject_id": "1377981790605953880"
         },
         {
-          "name": "A Shop for Killers",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/22/b5afbba77095111f2a8b89c3316be474.png",
-          "slug": "a-shop-for-killers-english-4agdOsauHY5",
-          "subject_id": "5018216889491903336"
-        },
-        {
           "name": "Lucky",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/22/c8e42366f813b0b18cf385f96f26c76c.png",
           "slug": "lucky-CVXotZJVNx4",
@@ -96,8 +96,15 @@
       "count": 18,
       "items": [
         {
+          "name": "Lanterns",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/4167d20de88248bea9c456aa72af3f7b.jpg",
+          "slug": "lanterns-yrpqwiUJSn9",
+          "subject_id": "7876999319520708224",
+          "rating": "6.9"
+        },
+        {
           "name": "Umthetho",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/16/04cf01afbd21828f21e05c321a5d813e.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/17/b69b3dff19ccd8bfc04350dcaaa3f5c5.jpg",
           "slug": "umthetho-mL6Ua1F4uKa",
           "subject_id": "9022266259324424848",
           "rating": "5.5"
@@ -213,13 +220,6 @@
           "slug": "all-american-qHnle0GTdo1",
           "subject_id": "1167223938976469784",
           "rating": "7.6"
-        },
-        {
-          "name": "Kwa Baba",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/db86d1368e3fa53aba700f56265cc67d.jpeg",
-          "slug": "kwa-baba-WFoUozIudP",
-          "subject_id": "693338015313319144",
-          "rating": "6.4"
         }
       ]
     },
@@ -282,13 +282,6 @@
           "slug": "disclosure-day-i5yULASpAy7",
           "subject_id": "6343307888719022464",
           "rating": "6.7"
-        },
-        {
-          "name": "The Death of Robin Hood",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/30/3dda6351b063ad22eaf9ef445ff5f1eb-s.jpg",
-          "slug": "the-death-of-robin-hood-QiWcFVwydO7",
-          "subject_id": "6554909915096797832",
-          "rating": "6.1"
         },
         {
           "name": "Star Wars: The Mandalorian and Grogu",
@@ -359,6 +352,13 @@
           "slug": "citizen-vigilante-IIt7oflBjm2",
           "subject_id": "1980694604404375664",
           "rating": "6.1"
+        },
+        {
+          "name": "The Devil Wears Prada 2",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/79bddd3a40e50af5b753356b47d95737.jpg",
+          "slug": "the-devil-wears-prada-2-e9V6WgGKJ56",
+          "subject_id": "5113471328091261968",
+          "rating": "6.3"
         }
       ]
     },
@@ -612,14 +612,14 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/17/bdebff7b85ebfb5c9993e7df8f4fd845.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/17/477d6fcbbdff8bd810e4ecbf8d1f26d8.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/17/038656f94b4b8e2c1097516a3d4d4095.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/17/148fc1e272fba2dc0ec5394da975903c.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -913,8 +913,15 @@
     },
     {
       "section": "Superhero Series",
-      "count": 18,
+      "count": 19,
       "items": [
+        {
+          "name": "Lanterns",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/4167d20de88248bea9c456aa72af3f7b.jpg",
+          "slug": "lanterns-yrpqwiUJSn9",
+          "subject_id": "7876999319520708224",
+          "rating": "6.9"
+        },
         {
           "name": "Spider-Noir [True-Hue Full Color]",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/16/f442506c94b5d42668f651a99e0bb3a5.jpg",
@@ -1654,7 +1661,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/17/bdebff7b85ebfb5c9993e7df8f4fd845.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/17/477d6fcbbdff8bd810e4ecbf8d1f26d8.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -1938,13 +1945,6 @@
           "rating": "8.1"
         },
         {
-          "name": "The Affair Was Just The Beginning",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/24/d45de653fe53fc5f618c0d00039e5d1f.jpg",
-          "slug": "the-affair-was-just-the-beginning-C15VBGRaoQ3",
-          "subject_id": "3227105026141218304",
-          "rating": "7.1"
-        },
-        {
           "name": "A Shop for Killers",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/5afbfc3a171dede42c952d9d561ad60d.jpg",
           "slug": "a-shop-for-killers-AaOMYU9uMg5",
@@ -2034,6 +2034,13 @@
           "slug": "reborn-rookie-O1eXUMkDFz",
           "subject_id": "482888497238524880",
           "rating": "6.4"
+        },
+        {
+          "name": "Notes from the Last Row",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/b17bb02e0991546754a6c36ebdf67278.jpg",
+          "slug": "notes-from-the-last-row-80K4cQM54p8",
+          "subject_id": "7053715833327342688",
+          "rating": "7.3"
         }
       ]
     },
