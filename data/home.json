@@ -482,7 +482,7 @@
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/b35dc5e8b24a5500184faf3b1898aec1.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/5065e35302704930c2b07a8788f86843.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -841,6 +841,20 @@
           "rating": "7.9"
         },
         {
+          "name": "Weirdo 101",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/3c4e5a0eaa7b368dcf31847148820875.jpg",
+          "slug": "weirdo-101-sumlpyFuvY9",
+          "subject_id": "8372796037634868128",
+          "rating": "6.7"
+        },
+        {
+          "name": "Lost to Light",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/23/7bcda324c0e9b824c9c2ec0b2eb43bad.jpg",
+          "slug": "lost-to-light-S5DCTD6mvJa",
+          "subject_id": "9009008949412229608",
+          "rating": "7.1"
+        },
+        {
           "name": "Lovex3",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/322fd1cf8e2ffd49bac5841ca8ec7abd.jpg",
           "slug": "lovex3-Gps3l3ndmK",
@@ -958,20 +972,6 @@
           "slug": "when-oranges-fall-mNHjMMJdhg9",
           "subject_id": "7774047841039040712",
           "rating": "6.1"
-        },
-        {
-          "name": "Knot",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/19/d99ac94a58bcbb071845ac4b3fa0e667.jpg",
-          "slug": "knot-IqG26hg2zV6",
-          "subject_id": "5815059999739072848",
-          "rating": "8.4"
-        },
-        {
-          "name": "Crazy Love, Moo-Moo!",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/05/06/3b988402509d217eaeefafcc5af42c3c.jpg",
-          "slug": "crazy-love-moo-moo-2D5ErK5xVn2",
-          "subject_id": "2002513648152890104",
-          "rating": "7.0"
         }
       ]
     },
@@ -1519,7 +1519,7 @@
     },
     {
       "section": "Anime[English Dubbed]",
-      "count": 15,
+      "count": 14,
       "items": [
         {
           "name": "One Piece [English]",
@@ -1541,13 +1541,6 @@
           "slug": "tomb-raider-king-english-U6jocrpvXf6",
           "subject_id": "5251845174610881368",
           "rating": "6.6"
-        },
-        {
-          "name": "Black Torch [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/05/4080a7e99947447caaca209e9bda651e.jpg",
-          "slug": "black-torch-english-2rDQl6UiYg4",
-          "subject_id": "3586957830244420632",
-          "rating": "7.2"
         },
         {
           "name": "Bleach: Thousand-Year Blood War [English]",
