@@ -158,7 +158,7 @@
     },
     {
       "section": "Popular Movie",
-      "count": 13,
+      "count": 12,
       "items": [
         {
           "name": "Toy Story 5",
@@ -194,13 +194,6 @@
           "slug": "colony-06FbDRS87x3",
           "subject_id": "2966181623634480144",
           "rating": "6.5"
-        },
-        {
-          "name": "The Death of Robin Hood",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/30/3dda6351b063ad22eaf9ef445ff5f1eb-s.jpg",
-          "slug": "the-death-of-robin-hood-QiWcFVwydO7",
-          "subject_id": "6554909915096797832",
-          "rating": "6.1"
         },
         {
           "name": "Star Wars: The Mandalorian and Grogu",
@@ -482,7 +475,7 @@
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/c2f929015d229ea935b7e9ea77d5a71f.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/b143674053d2b908bdfed68ee80b6970.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -884,7 +877,7 @@
         },
         {
           "name": "Gelboys",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/e1ebf932feca578b38b2f6483bca464a.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/9848bfa9ed4ad488f26b97c496f57ec0.jpg",
           "slug": "gelboys-IAR9vlurJAa",
           "subject_id": "8890250886400852416",
           "rating": "8.4"
