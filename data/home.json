@@ -3,7 +3,7 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 9,
+      "count": 11,
       "items": [
         {
           "name": "Mutiny",
@@ -12,10 +12,28 @@
           "subject_id": "5859976759130620224"
         },
         {
+          "name": "Average Joe",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/20/676d6e66707f9a080841ca321f94de68.webp",
+          "slug": "average-joe-Cp7iesmcza9",
+          "subject_id": "7696750596816532640"
+        },
+        {
+          "name": "Diarra from Detroit",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/20/4c4d5bafee3bf5490539499146404513.webp",
+          "slug": "diarra-from-detroit-etToo06wv76",
+          "subject_id": "5137437377136395312"
+        },
+        {
           "name": "Toy Story 5",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/6974ee3d7a66f38efc6f9716c1c8e243.webp",
           "slug": "toy-story-5-itqlLfhYzn",
           "subject_id": "319207171181497384"
+        },
+        {
+          "name": "Reacher Season 4",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/327f286fab2ce911b726969035482723.png",
+          "slug": "reacher-e1nw56h5sj4",
+          "subject_id": "3620534210064175096"
         },
         {
           "name": "Sterling Point",
@@ -48,12 +66,6 @@
           "subject_id": "6882147824180812112"
         },
         {
-          "name": "All the Queen's Men S5",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/12/63987aadc98615755a7ec3e4faaa69bc.png",
-          "slug": "all-the-queens-men-KZRjzyGRtj3",
-          "subject_id": "2781623667900437536"
-        },
-        {
           "name": "What Happened At WWE SummerSlam 2026 Night",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/c692ea0e7f7904b799a93bb1535e55c3.jpg",
           "slug": "what-happened-at-wwe-summerslam-2026-night-2-O7zvOuSXHV7",
@@ -63,8 +75,15 @@
     },
     {
       "section": "Popular Series",
-      "count": 11,
+      "count": 12,
       "items": [
+        {
+          "name": "Reacher",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/6d0a9947b95ff8dff702c10614205d14.jpg",
+          "slug": "reacher-e1nw56h5sj4",
+          "subject_id": "3620534210064175096",
+          "rating": "8.0"
+        },
         {
           "name": "Umthetho",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/3c86e3b58065e77c35b4ab1c8ef79599.jpg",
@@ -146,8 +165,15 @@
     },
     {
       "section": "Popular Movie",
-      "count": 12,
+      "count": 13,
       "items": [
+        {
+          "name": "Mutiny",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/f6138874d99d120aa0510fd6f2c25549.jpg",
+          "slug": "mutiny-E6TlP0RKSY6",
+          "subject_id": "5859976759130620224",
+          "rating": "6.0"
+        },
         {
           "name": "Toy Story 5",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/16/503cde6da9515420e0e34a6ce16775fa.jpg",
@@ -456,14 +482,14 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/20/e3fe141cd423999b9f4a7521ed76ed2f.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/20/b35c26de2716e80c362744576753ad05.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/20/aaecc7b561b42cf103a40d6c58dc4793.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/20/73c1cba9b66ba1696ed8727bb8907eb8.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -576,7 +602,7 @@
     },
     {
       "section": "Teen Romance",
-      "count": 18,
+      "count": 20,
       "items": [
         {
           "name": "My Life with the Walter Boys",
@@ -628,6 +654,13 @@
           "rating": "7.9"
         },
         {
+          "name": "Euphoria",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/30/96c0f834cbcaac01e73aada0baa4467e.jpg",
+          "slug": "euphoria-I6uQOU2CNd9",
+          "subject_id": "7740509070100419352",
+          "rating": "8.1"
+        },
+        {
           "name": "XO, Kitty",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/d80a6622cd646e2dd1d71c67e762732e.jpg",
           "slug": "xo-kitty-CxXcx1uBHZ9",
@@ -654,6 +687,13 @@
           "slug": "heated-rivalry-AgDCIMQVFY8",
           "subject_id": "7535775794330062000",
           "rating": "8.7"
+        },
+        {
+          "name": "Maxton Hall - The World Between Us",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/29/9601ca1eaa51c844aa2b0dcca87a7eba.jpg",
+          "slug": "maxton-hall-the-world-between-us-qvDxTdpUYT6",
+          "subject_id": "5793635004743909696",
+          "rating": "7.5"
         },
         {
           "name": "The Summer I Turned Pretty",
@@ -708,7 +748,7 @@
     },
     {
       "section": "Superhero Series",
-      "count": 14,
+      "count": 15,
       "items": [
         {
           "name": "The Boys",
@@ -723,6 +763,13 @@
           "slug": "invincible-SphnLpQ7b13",
           "subject_id": "2533864553830568992",
           "rating": "8.7"
+        },
+        {
+          "name": "Peacemaker",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/4430baa2a74fc07f2e66df87a778fd2a.jpg",
+          "slug": "peacemaker-mpXuq5gyju",
+          "subject_id": "410381707066627104",
+          "rating": "8.3"
         },
         {
           "name": "Ironheart",
@@ -879,7 +926,7 @@
         },
         {
           "name": "Gelboys",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/9848bfa9ed4ad488f26b97c496f57ec0.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/20/ef70091daac63eee1a862bb1575d68d4.jpg",
           "slug": "gelboys-IAR9vlurJAa",
           "subject_id": "8890250886400852416",
           "rating": "8.4"
@@ -1104,8 +1151,15 @@
     },
     {
       "section": "Action&Thriller",
-      "count": 17,
+      "count": 18,
       "items": [
+        {
+          "name": "Reacher",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/6d0a9947b95ff8dff702c10614205d14.jpg",
+          "slug": "reacher-e1nw56h5sj4",
+          "subject_id": "3620534210064175096",
+          "rating": "8.0"
+        },
         {
           "name": "Lucky",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/16/4bec1fe2a8d3de1be33d604339ed1311.jpg",
@@ -1393,7 +1447,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/20/e3fe141cd423999b9f4a7521ed76ed2f.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/20/b35c26de2716e80c362744576753ad05.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -1500,7 +1554,7 @@
     },
     {
       "section": "Anime[English Dubbed]",
-      "count": 14,
+      "count": 15,
       "items": [
         {
           "name": "One Piece [English]",
@@ -1543,6 +1597,13 @@
           "slug": "black-clover-english-4Q7h8lHl4T8",
           "subject_id": "7459884463091499088",
           "rating": "7.1"
+        },
+        {
+          "name": "Demon Slayer: Kimetsu no Yaiba [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/db9dcda1b31e0bfcd37bc302c1b3c552.jpg",
+          "slug": "demon-slayer-kimetsu-no-yaiba-english-cK8E2dUTaC8",
+          "subject_id": "7231184498325966096",
+          "rating": "8.6"
         },
         {
           "name": "Jujutsu Kaisen [English]",
@@ -1732,6 +1793,13 @@
       "count": 20,
       "items": [
         {
+          "name": "Pull Strings",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/b0ee96f2ff8f50418a0e5498b2dab032.jpg",
+          "slug": "pull-strings-oeN11uKAnc7",
+          "subject_id": "6042691840497846024",
+          "rating": "7.0"
+        },
+        {
           "name": "The Road to Splendor",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/c6893a989dbeb55e7768ba34269ec7c6.jpg",
           "slug": "the-road-to-splendor-YsVTLrsaCQ7",
@@ -1863,13 +1931,6 @@
           "slug": "zhan-zhao-adventures-qvZe0JEkXE7",
           "subject_id": "6429533834689530496",
           "rating": "6.4"
-        },
-        {
-          "name": "The Heir",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/4b63d99edaba4ad1fde56c693e9290f0-s.jpg",
-          "slug": "the-heir-Agj7uZngfW7",
-          "subject_id": "6663579390913693976",
-          "rating": "3.2"
         }
       ]
     },
@@ -2312,7 +2373,7 @@
     },
     {
       "section": "💓Romance 💓",
-      "count": 17,
+      "count": 18,
       "items": [
         {
           "name": "Camp Rock 3",
@@ -2376,6 +2437,13 @@
           "slug": "your-heart-will-be-broken-Sd9JnEVRmr7",
           "subject_id": "6245590300333851720",
           "rating": "4.7"
+        },
+        {
+          "name": "Our Fault",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/15/a83491c189ad0a109777ed1d5ceac00f.jpg",
+          "slug": "our-fault-I606AqWKe33",
+          "subject_id": "2561731431760381424",
+          "rating": "5.4"
         },
         {
           "name": "Your Fault",
