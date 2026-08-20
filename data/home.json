@@ -75,7 +75,7 @@
     },
     {
       "section": "Popular Series",
-      "count": 12,
+      "count": 13,
       "items": [
         {
           "name": "Reacher",
@@ -83,6 +83,13 @@
           "slug": "reacher-e1nw56h5sj4",
           "subject_id": "3620534210064175096",
           "rating": "8.0"
+        },
+        {
+          "name": "Outer Banks",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/e35f6443f67af2987adeb1c51122b814.jpg",
+          "slug": "outer-banks-YWAQovb3ZR4",
+          "subject_id": "4087993015279702808",
+          "rating": "7.5"
         },
         {
           "name": "Umthetho",
@@ -1665,7 +1672,7 @@
     },
     {
       "section": "K-Drama",
-      "count": 17,
+      "count": 18,
       "items": [
         {
           "name": "Our Sticky Love",
@@ -1682,18 +1689,25 @@
           "rating": "7.4"
         },
         {
-          "name": "A Bona Fide Killer",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/ee1d68c1176911fa0a8f3d1209aa8438.jpg",
-          "slug": "a-bona-fide-killer-yzvVpvmbTK4",
-          "subject_id": "3991952166557736960",
-          "rating": "8.1"
-        },
-        {
           "name": "My Bias, My Boss",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/16/0eacd36b5f53b52f731d7d65d653e259.jpg",
           "slug": "my-bias-my-boss-WLJPOXtbR62",
           "subject_id": "1771433716380746040",
           "rating": "7.4"
+        },
+        {
+          "name": "OK! Let's Get Divorced",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/5864e3345aabe06aa7683f5728dd2129.jpg",
+          "slug": "ok-lets-get-divorced-8UuuIxB66i4",
+          "subject_id": "3602198324125778944",
+          "rating": "6.5"
+        },
+        {
+          "name": "A Bona Fide Killer",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/ee1d68c1176911fa0a8f3d1209aa8438.jpg",
+          "slug": "a-bona-fide-killer-yzvVpvmbTK4",
+          "subject_id": "3991952166557736960",
+          "rating": "8.1"
         },
         {
           "name": "A Trap Called Desire",
