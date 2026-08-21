@@ -3,13 +3,19 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 11,
+      "count": 12,
       "items": [
         {
           "name": "Mutiny",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/20/f2becf7f708a8b261c4d1001bfa4c3c0.webp",
           "slug": "mutiny-E6TlP0RKSY6",
           "subject_id": "5859976759130620224"
+        },
+        {
+          "name": "Outer Banks",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/21/5549f0a4fb0847737bfecd82cbefbfa8.webp",
+          "slug": "outer-banks-YWAQovb3ZR4",
+          "subject_id": "4087993015279702808"
         },
         {
           "name": "Average Joe",
@@ -1960,6 +1966,13 @@
           "rating": "7.4"
         },
         {
+          "name": "Facing El Chapo [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/21/5fd807294cd4dd0d519c0cf33a1cbede.jpg",
+          "slug": "facing-el-chapo-english-axYDc3YD5u",
+          "subject_id": "407345050834850208",
+          "rating": "7.1"
+        },
+        {
           "name": "The Isolate Thief",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/10/504a274335dfaa92cfffe219d833e547.jpg",
           "slug": "the-isolate-thief-UUiZwcQsfJ5",
@@ -2063,13 +2076,6 @@
           "slug": "one-spoon-of-chocolate-ajluWqdVZv4",
           "subject_id": "3790367387967538984",
           "rating": "5.3"
-        },
-        {
-          "name": "Desert Warrior",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/05/12/0332f29ab3ea069013012a552126187b.jpg",
-          "slug": "desert-warrior-wYIDZJyWtp6",
-          "subject_id": "5380761448920563664",
-          "rating": "3.7"
         }
       ]
     },
@@ -2255,7 +2261,7 @@
     },
     {
       "section": "Must-watch Black Shows",
-      "count": 18,
+      "count": 17,
       "items": [
         {
           "name": "All the Queen's Men",
@@ -2333,13 +2339,6 @@
           "slug": "the-family-business-O5KYeex1tT4",
           "subject_id": "4108074495649403936",
           "rating": "7.0"
-        },
-        {
-          "name": "Bel-Air",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/47516ecb7e4e266d4c36284f674803b7.jpg",
-          "slug": "bel-air-yHFEhjS0vc1",
-          "subject_id": "1008516032576771104",
-          "rating": "6.4"
         },
         {
           "name": "BMF",
