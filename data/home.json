@@ -99,7 +99,7 @@
         },
         {
           "name": "Umthetho",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/24/d0b2f5d185a9f2649454c0bc6124062d.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/8e1310d844b4ee1387255f3cd142f2c5.jpg",
           "slug": "umthetho-mL6Ua1F4uKa",
           "subject_id": "9022266259324424848",
           "rating": "5.6"
@@ -180,6 +180,13 @@
       "section": "Popular Movie",
       "count": 13,
       "items": [
+        {
+          "name": "Motor City",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/21/87b04f3411bf9c5f09515aed11116761.jpg",
+          "slug": "motor-city-qHpqkw3Dxx2",
+          "subject_id": "2132665354236100760",
+          "rating": "6.1"
+        },
         {
           "name": "Mutiny",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/f6138874d99d120aa0510fd6f2c25549.jpg",
@@ -263,13 +270,6 @@
           "slug": "wings-of-dread-yrDKQLnQaV",
           "subject_id": "773981808395539960",
           "rating": "6.9"
-        },
-        {
-          "name": "Strung",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/24/2524c63d9e807564518d673db491e09a.jpg",
-          "slug": "strung-CZr8R8uZ5f3",
-          "subject_id": "2722262626939167336",
-          "rating": "5.0"
         }
       ]
     },
@@ -453,7 +453,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/582f2775c4d6235bd0ceb63a569aac29.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/5f537374ab682a4a3355e47da9506ebb.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -495,14 +495,14 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/2d083ab1adb844c576c91438cfbca735.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/76dc6622455c450b388d27a92c71284c.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/e2dcb4cc8e14486e1f62c5003b30c3e0.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/42ad8e56ec1e23e0bcc5e70cf92c12f1.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -1106,7 +1106,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/74cf7b2aeb2b1e0053b956fef7001307.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/fee26a2ef852ec792455efbae89c34c4.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -1460,7 +1460,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/2d083ab1adb844c576c91438cfbca735.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/76dc6622455c450b388d27a92c71284c.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -1967,7 +1967,7 @@
         },
         {
           "name": "Facing El Chapo [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/290601767fe169120627e3b61e52210c.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/7dd66a12374333e5725c82cd290fb116.jpg",
           "slug": "facing-el-chapo-english-axYDc3YD5u",
           "subject_id": "407345050834850208",
           "rating": "6.7"
@@ -2370,7 +2370,7 @@
         },
         {
           "name": "Reasonable Doubt",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/5665ed8108a690d962984240f9f0ab98.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/9aafc1fbacf55fd859a23caaa95bee19.jpg",
           "slug": "reasonable-doubt-ijJ0E6WFGla",
           "subject_id": "8686590447290045472",
           "rating": "6.7"
