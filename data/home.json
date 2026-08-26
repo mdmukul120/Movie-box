@@ -466,7 +466,7 @@
         },
         {
           "name": "Outlander: Blood of My Blood",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/7eb99db01e2bd01acef440778a49e120.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/281808a439eba21efc0ea9d09112c057.jpg",
           "slug": "outlander-blood-of-my-blood-KPufy1Yjik9",
           "subject_id": "7828436465754735880",
           "rating": "8.1"
@@ -1334,7 +1334,7 @@
         },
         {
           "name": "MobLand",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/28/0c6a3f0387b6e17d022dd37fab205883.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/4587c46350033824c5010c7fc8445fc8.jpg",
           "slug": "mobland-wWHa6Cu6fa5",
           "subject_id": "4335165664987072680",
           "rating": "8.3"
@@ -1962,14 +1962,14 @@
     },
     {
       "section": "Action Movies",
-      "count": 17,
+      "count": 18,
       "items": [
         {
-          "name": "The Furious",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/b6af8e3269563c85828beb0a6a268c4c.jpg",
-          "slug": "the-furious-6lxRH1LLAe5",
-          "subject_id": "4394044471852286152",
-          "rating": "7.4"
+          "name": "Land of Wolves",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/05/26/203edc1216fff9cb0ab16d6f01246ffa.jpg",
+          "slug": "land-of-wolves-m9H0bIUFgA2",
+          "subject_id": "2169574896576124064",
+          "rating": "6.7"
         },
         {
           "name": "Facing El Chapo [English]",
@@ -1977,6 +1977,13 @@
           "slug": "facing-el-chapo-english-axYDc3YD5u",
           "subject_id": "407345050834850208",
           "rating": "6.7"
+        },
+        {
+          "name": "The Furious",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/b6af8e3269563c85828beb0a6a268c4c.jpg",
+          "slug": "the-furious-6lxRH1LLAe5",
+          "subject_id": "4394044471852286152",
+          "rating": "7.4"
         },
         {
           "name": "The Isolate Thief",
