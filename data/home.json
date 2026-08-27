@@ -3,8 +3,14 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 11,
+      "count": 12,
       "items": [
+        {
+          "name": "Beauty in Black  S3",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/833adf4ea89155e719198f4665e5fc09.jpg",
+          "slug": "beauty-in-black-E6NEe5Ha927",
+          "subject_id": "5904172458474619680"
+        },
         {
           "name": "The Last Sunrise",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/2c61329512ec1a53164160483c454612.webp",
@@ -77,6 +83,13 @@
       "section": "Popular Series",
       "count": 13,
       "items": [
+        {
+          "name": "Beauty in Black",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/19/82571ca952891c852c18d1a30d2c8218.jpg",
+          "slug": "beauty-in-black-E6NEe5Ha927",
+          "subject_id": "5904172458474619680",
+          "rating": "5.9"
+        },
         {
           "name": "Reacher",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/20/e91f2d892477c96766a6d76cf1766614.jpg",
@@ -160,19 +173,12 @@
           "slug": "mushoku-tensei-jobless-reincarnation-english-wU27nPdjoc8",
           "subject_id": "6882147824180812112",
           "rating": "8.2"
-        },
-        {
-          "name": "All the Queen's Men",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/24/401e620ceb63d3bcffe9a1d777dd151f.jpg",
-          "slug": "all-the-queens-men-KZRjzyGRtj3",
-          "subject_id": "2781623667900437536",
-          "rating": "6.7"
         }
       ]
     },
     {
       "section": "Popular Movie",
-      "count": 13,
+      "count": 12,
       "items": [
         {
           "name": "Mutiny",
@@ -187,13 +193,6 @@
           "slug": "the-last-sunrise-a7PGMx5VlH6",
           "subject_id": "5622677105902242520",
           "rating": "6.5"
-        },
-        {
-          "name": "Toy Story 5",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/16/503cde6da9515420e0e34a6ce16775fa.jpg",
-          "slug": "toy-story-5-itqlLfhYzn",
-          "subject_id": "319207171181497384",
-          "rating": "6.4"
         },
         {
           "name": "The Last House",
@@ -211,7 +210,7 @@
         },
         {
           "name": "72 Hours",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/22/5315c8324a24c669c4058b516c242c7d.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/365bf4342b0851c57cfcb887afff023e.jpg",
           "slug": "72-hours-kUNxK9h2Iy1",
           "subject_id": "1309175290853217376",
           "rating": "5.4"
@@ -273,7 +272,7 @@
       "items": [
         {
           "name": "Batman: Caped Crusader",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/94388dafacdb5085075bbe9e9fd0e3fa.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/bf4ff6cf2181bd5659a551f4a7f1c9ca.jpg",
           "slug": "batman-caped-crusader-Sxx7RwAxvE2",
           "subject_id": "2226969025052033872",
           "rating": "7.2"
@@ -447,7 +446,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/50ab7f764c828ef457f5a614dd3bfdb4.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/b6306a1365d55188dbb999d5442612f8.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -634,21 +633,21 @@
         },
         {
           "name": "The Map of Longing [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/2702769e9b09ba1b28a844f1d423dbdb.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/b075890d2c9f4409e59390614ab0b05e.jpg",
           "slug": "the-map-of-longing-english-uj0yFVFuLF1",
           "subject_id": "1404689929308986712",
           "rating": "6.9"
         },
         {
           "name": "Elle",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/07/f37bffe2fea1052fd707d92970dc973c.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/71d37c21125f752c5bd2ea891358bc1e.jpg",
           "slug": "elle-i5sK2nsEnT5",
           "subject_id": "4946200887917172616",
-          "rating": "6.9"
+          "rating": "7.0"
         },
         {
           "name": "Every Year After",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/22/c436d7302b02ff3953ea4ef35deeccfc.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/0017dc9ae59885bc989644f7cf0ef8bf.jpg",
           "slug": "every-year-after-4uSiXtbEyy1",
           "subject_id": "1307125388862182496",
           "rating": "6.3"
@@ -780,7 +779,7 @@
         },
         {
           "name": "Ironheart",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/9ae6a2daa1ba9d9fdea6624d2599fd8a.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/6e1405144591d173c86b09dba33867db.jpg",
           "slug": "ironheart-uB7agjeorB5",
           "subject_id": "4703349546003449600",
           "rating": "4.5"
@@ -868,6 +867,13 @@
       "section": "BL Story",
       "count": 20,
       "items": [
+        {
+          "name": "Nour",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/42a2d117e5dcc8c98c73fef12e4d7e73.jpg",
+          "slug": "nour-gI252dSJDa",
+          "subject_id": "144047681390928920",
+          "rating": "6.5"
+        },
         {
           "name": "Kiss or Kill",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/20/ad8a413747b3180b5f47216494e2b5ea.jpg",
@@ -975,10 +981,10 @@
         },
         {
           "name": "Heartstopper Forever",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/d578ec3c0494471c43a25bcac4f81c33.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/ca5fe9b54123e617c577ddc95f357de0.jpg",
           "slug": "heartstopper-forever-8qLGeGNzuJ5",
           "subject_id": "4812342005508508448",
-          "rating": "7.0"
+          "rating": "6.9"
         },
         {
           "name": "Be My Player Two",
@@ -996,17 +1002,10 @@
         },
         {
           "name": "A Dog and a Plane",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/07/e110a430b16b6b6629f96b17eaa4aeb9.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/f537116a6131c79544d92773fcd2269b.jpg",
           "slug": "a-dog-and-a-plane-OFkSbNN2iT5",
           "subject_id": "4944976582793478288",
-          "rating": "8.7"
-        },
-        {
-          "name": "The Prosecutor's Proposal",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/26/bb82fe6996de44d0ffeaf97ca2d5c4f9.jpg",
-          "slug": "the-prosecutors-proposal-6zqTyuXZrba",
-          "subject_id": "8548014991247562192",
-          "rating": "6.5"
+          "rating": "8.5"
         }
       ]
     },
@@ -1218,7 +1217,7 @@
         },
         {
           "name": "The Night Agent",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/02/2301269227d1d3e11e76f56ff6eb7a84.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/a70fee557f37d8fb4cfe805fd891aeaf.jpg",
           "slug": "the-night-agent-QmKtaMxB3N5",
           "subject_id": "4860601308702802872",
           "rating": "7.4"
@@ -1440,7 +1439,7 @@
         },
         {
           "name": "Stranger Things",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/07/7fd21d8dc5c08cd7e931db60c1de175b.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/3a6578880ede9c409c0c0901a2999fde.jpg",
           "slug": "stranger-things-wsymkZvcaU5",
           "subject_id": "4956801153355891744",
           "rating": "8.6"
@@ -1767,7 +1766,7 @@
         },
         {
           "name": "The Apartment Job",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/909cf9e68147339d69f23dd0d16b1f54.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/afab1d0d39178fc89ef59cb7c1d152fb.jpg",
           "slug": "the-apartment-job-EOzTHJBIBq2",
           "subject_id": "2038798660372169320",
           "rating": "7.0"
@@ -1806,6 +1805,13 @@
       "section": "C-Drama",
       "count": 20,
       "items": [
+        {
+          "name": "The Early Spring",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/476a79d37e9a00d4d89b31b923411934.jpg",
+          "slug": "the-early-spring-2LpemdrrJx5",
+          "subject_id": "4653142619558688856",
+          "rating": "6.3"
+        },
         {
           "name": "Pull Strings",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/b0ee96f2ff8f50418a0e5498b2dab032.jpg",
@@ -1878,7 +1884,7 @@
         },
         {
           "name": "The First Jasmine",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/deddb53c3e32734ffcb1ad2172a77aa2.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/289db13ddee11bd5b2e11b5900564936.jpg",
           "slug": "the-first-jasmine-sMbVQeA2KJ5",
           "subject_id": "4815718470426018720",
           "rating": "7.8"
@@ -1938,13 +1944,6 @@
           "slug": "ashes-to-crown-KLIwltwfb66",
           "subject_id": "5119475124361642096",
           "rating": "6.8"
-        },
-        {
-          "name": "Zhan Zhao Adventures",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/05/13/4a312e4d6828ad50125aa46399a4ad32.jpeg",
-          "slug": "zhan-zhao-adventures-qvZe0JEkXE7",
-          "subject_id": "6429533834689530496",
-          "rating": "6.4"
         }
       ]
     },
@@ -2089,8 +2088,15 @@
     },
     {
       "section": "Horror Movies",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "name": "Pinocchio: Unstrung",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/b9bdc23c20e66a4f7a22562bddc168b8.jpg",
+          "slug": "pinocchio-unstrung-I2kDd8Rm1X9",
+          "subject_id": "8352681232614545872",
+          "rating": "5.9"
+        },
         {
           "name": "Soulm8te",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/0265339781f484503689afc0f695f01b.jpg",
@@ -2424,10 +2430,10 @@
         },
         {
           "name": "Heartstopper Forever",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/d578ec3c0494471c43a25bcac4f81c33.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/ca5fe9b54123e617c577ddc95f357de0.jpg",
           "slug": "heartstopper-forever-8qLGeGNzuJ5",
           "subject_id": "4812342005508508448",
-          "rating": "7.0"
+          "rating": "6.9"
         },
         {
           "name": "Boulevard [English]",
