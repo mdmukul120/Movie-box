@@ -3,19 +3,13 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 12,
+      "count": 11,
       "items": [
         {
           "name": "The Last Sunrise",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/2c61329512ec1a53164160483c454612.webp",
           "slug": "the-last-sunrise-a7PGMx5VlH6",
           "subject_id": "5622677105902242520"
-        },
-        {
-          "name": "Motor City",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/0dd5fd6fb59baefe661e706364baae7b.webp",
-          "slug": "motor-city-qHpqkw3Dxx2",
-          "subject_id": "2132665354236100760"
         },
         {
           "name": "Mutiny",
@@ -99,10 +93,10 @@
         },
         {
           "name": "Umthetho",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/8e1310d844b4ee1387255f3cd142f2c5.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/fc67ead00b1f2d34f946e63e90a2c7b6.jpg",
           "slug": "umthetho-mL6Ua1F4uKa",
           "subject_id": "9022266259324424848",
-          "rating": "5.6"
+          "rating": "5.5"
         },
         {
           "name": "My Life with the Walter Boys",
@@ -178,7 +172,7 @@
     },
     {
       "section": "Popular Movie",
-      "count": 14,
+      "count": 13,
       "items": [
         {
           "name": "Mutiny",
@@ -186,13 +180,6 @@
           "slug": "mutiny-E6TlP0RKSY6",
           "subject_id": "5859976759130620224",
           "rating": "6.0"
-        },
-        {
-          "name": "Motor City",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/b89e3e9e1745111a6c7e5ef946f89187.jpg",
-          "slug": "motor-city-qHpqkw3Dxx2",
-          "subject_id": "2132665354236100760",
-          "rating": "6.1"
         },
         {
           "name": "The Last Sunrise",
@@ -210,7 +197,7 @@
         },
         {
           "name": "The Last House",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/e6202f59dc6fc69794e970fa29d874bf.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/c51f3a92c4e7ed4ae8b53cd038893437.jpg",
           "slug": "the-last-house-OFGQnYlfCi6",
           "subject_id": "5287814749399434456",
           "rating": "5.5"
@@ -286,7 +273,7 @@
       "items": [
         {
           "name": "Batman: Caped Crusader",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/25635ec47387cc8dfa47b8161e9ab1a6.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/94388dafacdb5085075bbe9e9fd0e3fa.jpg",
           "slug": "batman-caped-crusader-Sxx7RwAxvE2",
           "subject_id": "2226969025052033872",
           "rating": "7.2"
@@ -321,7 +308,7 @@
         },
         {
           "name": "My Two Cents",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/2a950f8c94e230845939315cd937e6e9.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/c618c11529ded6bca0759787107e53a1.jpg",
           "slug": "my-two-cents-YQx74ad3QO2",
           "subject_id": "2366818057009385952",
           "rating": "8.3"
@@ -370,7 +357,7 @@
         },
         {
           "name": "Tomb Raider: The Legend of Lara Croft",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/29d6c5cbd54bb49744032ccf557f213e.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/b9e4e65cc0e5ed8109122d977d26a91b.jpg",
           "slug": "tomb-raider-the-legend-of-lara-croft-SH8Ub1dtBa6",
           "subject_id": "5179348510898013008",
           "rating": "5.6"
@@ -460,7 +447,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/673262b5af1412528781bb02d4ed8722.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/50ab7f764c828ef457f5a614dd3bfdb4.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -502,14 +489,14 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/76dc6622455c450b388d27a92c71284c.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/58829250ed8037853f0bfb74d37dfd95.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/7c27336147c3ccd913cf93dcbaf985d3.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/795d6e7035e60e04ef0b932cb664a564.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -1113,7 +1100,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/afc10880faf3a372d8afbe016d1f7484.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/f8a5dcc83ed68db63a4bfe20aad2c650.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -1217,7 +1204,7 @@
         },
         {
           "name": "M.I.A.",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/15/c61fced0a0c59e6b6608fc908997a53a.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/f926d0fff96b896b6704d6a7bdf9d7c9.jpg",
           "slug": "m-i-a-8GHK5jqkPU2",
           "subject_id": "2447882850302054880",
           "rating": "6.5"
@@ -1287,7 +1274,7 @@
         },
         {
           "name": "Tulsa King",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/56c687dc38892c75d9d7bc267354f43a.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/f2caa983a39bc0e89f7e6c0315b4199f.jpg",
           "slug": "tulsa-king-MsmATkU0Mg6",
           "subject_id": "5262873104975547168",
           "rating": "7.9"
@@ -1328,7 +1315,7 @@
         },
         {
           "name": "Tulsa King",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/56c687dc38892c75d9d7bc267354f43a.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/f2caa983a39bc0e89f7e6c0315b4199f.jpg",
           "slug": "tulsa-king-MsmATkU0Mg6",
           "subject_id": "5262873104975547168",
           "rating": "7.9"
@@ -1467,7 +1454,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/76dc6622455c450b388d27a92c71284c.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/58829250ed8037853f0bfb74d37dfd95.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -1592,10 +1579,10 @@
         },
         {
           "name": "Tomb Raider King [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/15/d5908d3d78dec00abd17eec9be4ebd8f.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/614862d1c98a630e4487340b44f624c6.jpg",
           "slug": "tomb-raider-king-english-U6jocrpvXf6",
           "subject_id": "5251845174610881368",
-          "rating": "6.6"
+          "rating": "6.5"
         },
         {
           "name": "Bleach: Thousand-Year Blood War [English]",
@@ -1696,10 +1683,10 @@
         },
         {
           "name": "Dream to You",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/24/b6e05000319e838196e86e15d792f8de.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/20e48c4ed77564e8529c43437eb90153.jpg",
           "slug": "dream-to-you-q58DzFkBgo6",
           "subject_id": "5364311187842810056",
-          "rating": "7.1"
+          "rating": "7.0"
         },
         {
           "name": "My Bias, My Boss",
@@ -1780,7 +1767,7 @@
         },
         {
           "name": "The Apartment Job",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/fa10813f39df5a3f788bc616e244e39f.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/909cf9e68147339d69f23dd0d16b1f54.jpg",
           "slug": "the-apartment-job-EOzTHJBIBq2",
           "subject_id": "2038798660372169320",
           "rating": "7.0"
@@ -1905,10 +1892,10 @@
         },
         {
           "name": "The Eternal Fragrance",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/b26e346159b9ab4a61e43157bf4bff58.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/54716251fa55888582804a9060b8d580.jpg",
           "slug": "the-eternal-fragrance-GFATvWrl4i6",
           "subject_id": "5280412654585235680",
-          "rating": "6.1"
+          "rating": "6.0"
         },
         {
           "name": "The Legend of Rosy Clouds",
@@ -1940,7 +1927,7 @@
         },
         {
           "name": "Double Helix",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/21/3734e6e5f4b3c999b257fab56433287b.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/09bf1c2ea5efdd32d03b09aadb7d3c0c.jpg",
           "slug": "double-helix-2TlVdUQgua2",
           "subject_id": "1820579151322012336",
           "rating": "7.6"
@@ -1967,7 +1954,7 @@
       "items": [
         {
           "name": "Facing El Chapo [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/7dd66a12374333e5725c82cd290fb116.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/4ec14b3b8d80bcc1465668576cc17735.jpg",
           "slug": "facing-el-chapo-english-axYDc3YD5u",
           "subject_id": "407345050834850208",
           "rating": "6.7"
@@ -2281,6 +2268,11 @@
       ]
     },
     {
+      "section": "Banner",
+      "count": 0,
+      "items": []
+    },
+    {
       "section": "Must-watch Black Shows",
       "count": 17,
       "items": [
@@ -2453,10 +2445,10 @@
         },
         {
           "name": "The Invite",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/24/3123c54f13b3e8a3eed458f50ae97b0c.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/3bb4c38a8c5bab242e2f4862b5e2ec27.jpg",
           "slug": "the-invite-6lXLuebA0v6",
           "subject_id": "5455573294353205616",
-          "rating": "7.6"
+          "rating": "7.5"
         },
         {
           "name": "Your Fault: London",
