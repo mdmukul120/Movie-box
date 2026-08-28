@@ -3,13 +3,19 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 12,
+      "count": 13,
       "items": [
         {
           "name": "Beauty in Black  S3",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/833adf4ea89155e719198f4665e5fc09.jpg",
           "slug": "beauty-in-black-E6NEe5Ha927",
           "subject_id": "5904172458474619680"
+        },
+        {
+          "name": "Mousetrap [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/28/24a49fa86edb0b5d406f35180167dbfe.webp",
+          "slug": "mousetrap-english-4ia2OQBkDT7",
+          "subject_id": "6628223167519768920"
         },
         {
           "name": "The Last Sunrise",
@@ -98,6 +104,13 @@
           "rating": "8.0"
         },
         {
+          "name": "Mousetrap [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/23/28f5b329ebb289d691b019e6f47d7687.jpg",
+          "slug": "mousetrap-english-4ia2OQBkDT7",
+          "subject_id": "6628223167519768920",
+          "rating": "6.1"
+        },
+        {
           "name": "Outer Banks",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/23/c52b77259317dcab2355eb198c3b462b.jpg",
           "slug": "outer-banks-YWAQovb3ZR4",
@@ -166,13 +179,6 @@
           "slug": "lucky-CVXotZJVNx4",
           "subject_id": "3814823329035439888",
           "rating": "6.7"
-        },
-        {
-          "name": "Mushoku Tensei: Jobless Reincarnation [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/29/165b9b02ef1077859684cc7e985f93c9.jpg",
-          "slug": "mushoku-tensei-jobless-reincarnation-english-wU27nPdjoc8",
-          "subject_id": "6882147824180812112",
-          "rating": "8.2"
         }
       ]
     },
@@ -180,6 +186,13 @@
       "section": "Popular Movie",
       "count": 12,
       "items": [
+        {
+          "name": "The Whisper Man",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/8e033965faf4fc07c344066189e022e9.jpg",
+          "slug": "the-whisper-man-AkT6dtuLbF7",
+          "subject_id": "6432685097291767512",
+          "rating": "6.8"
+        },
         {
           "name": "Mutiny",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/f6138874d99d120aa0510fd6f2c25549.jpg",
@@ -256,13 +269,131 @@
           "slug": "man-of-war-8yTewd1tMo9",
           "subject_id": "7889166891003397584",
           "rating": "5.2"
+        }
+      ]
+    },
+    {
+      "section": "Nollywood Movie",
+      "count": 17,
+      "items": [
+        {
+          "name": "ONCE UPON A VILLAGE 4",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/b0193f260a167beaea512f0c81e7297a.jpg",
+          "slug": "once-upon-a-village-4-uRTsyuCqJQ7",
+          "subject_id": "6588943114617388496",
+          "rating": "0"
         },
         {
-          "name": "Wings of Dread",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/13/6565b4f2af5a2c7c41f6be7e5b8fd5dd.jpeg",
-          "slug": "wings-of-dread-yrDKQLnQaV",
-          "subject_id": "773981808395539960",
-          "rating": "6.9"
+          "name": "NEVER LET GO",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/37f3c05de1a457c075780f3bcccfd53a.jpg",
+          "slug": "never-let-go-KxbF1GFerE5",
+          "subject_id": "4743927143959352352",
+          "rating": "0"
+        },
+        {
+          "name": "SECOND CHANCES",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/15/c72da804271ec4b581d36f9574489ff2.jpg",
+          "slug": "second-chances-uxlNhOFJCN5",
+          "subject_id": "4868271841657379704",
+          "rating": "0"
+        },
+        {
+          "name": "DOUBLE TROUBLE 2 - DESTINY ETIKO, CHINENYE UBA, CHIOMA NWOSU, PAPAYA EX",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/03328d1a7cb934392d6dfcce101f81ea.jpg",
+          "slug": "double-trouble-2-destiny-etiko-chinenye-uba-chioma-nwosu-papaya-ex-GtWn2mSsI76",
+          "subject_id": "5140264458291498304",
+          "rating": "0"
+        },
+        {
+          "name": "Where Is Mr. Right?",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/91f91acea82a5cc8ff3ffbfd58572c64.jpeg",
+          "slug": "where-is-mr-right-siqFYy7jCd5",
+          "subject_id": "4380843218779489368",
+          "rating": "6.6"
+        },
+        {
+          "name": "Colours of Fire",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/15/d59fdd819338556ea3cf2d7a26fe65ee.jpg",
+          "slug": "colours-of-fire-0yNgr1RWcH7",
+          "subject_id": "6460017629213476688",
+          "rating": "7.2"
+        },
+        {
+          "name": "JUST BEFORE FOREVER",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/22963f6d481ca51ed3c67bac9b8896bc.jpg",
+          "slug": "just-before-forever-Mw0gjwSu7S4",
+          "subject_id": "4089837262962411040",
+          "rating": "0"
+        },
+        {
+          "name": "A QUIET PAIN",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/58bd6ea742f9ff71418ff144a355f4e6.jpg",
+          "slug": "a-quiet-pain-udfi6MfbWf4",
+          "subject_id": "3572957121622822544",
+          "rating": "0"
+        },
+        {
+          "name": "A PERFECT MISMATCH",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/7910ee37647d900cf20974e258608b98.jpg",
+          "slug": "a-perfect-mismatch-OJyd4h6eX67",
+          "subject_id": "5969249805627967448",
+          "rating": "0"
+        },
+        {
+          "name": "TWIN LOVE",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/08/a3128debab163db5d87e0a978f84b9f4.jpg",
+          "slug": "twin-love-Mu9pXymW5Ka",
+          "subject_id": "9016996875618107840",
+          "rating": "0"
+        },
+        {
+          "name": "KISS ME TOMORROW",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/07/f6cf6b20a02dfb1723e5448a07eccde9.jpg",
+          "slug": "kiss-me-tomorrow-g0oDtY0ytm2",
+          "subject_id": "1982866289118922376",
+          "rating": "0"
+        },
+        {
+          "name": "ONCE UPON A VILLAGE",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/06/d0dd8947cbd6484014d4f6f1f90feefd.jpg",
+          "slug": "once-upon-a-village-QWm9mdB75V8",
+          "subject_id": "7487127325759668176",
+          "rating": "0"
+        },
+        {
+          "name": "BEHIND THESE LAUGHS",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/902b3b3ff0a72b6c2bd4366b1c8f8fde.jpg",
+          "slug": "behind-these-laughs-2bdByRqVQl8",
+          "subject_id": "7010229687813654328",
+          "rating": "0"
+        },
+        {
+          "name": "REMEMBER ME",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/01/74173a435d429d7e9fb0b83dba1bdd1c.jpg",
+          "slug": "remember-me-cQ3HeHKhaZ9",
+          "subject_id": "8381702493062973400",
+          "rating": "0"
+        },
+        {
+          "name": "Okanjuwa",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/24/8c8f1a3e5a4d5d7bbd4499d094669f7d.jpeg",
+          "slug": "okanjuwa-utnW09SWhFa",
+          "subject_id": "8951933317994141456",
+          "rating": "7.1"
+        },
+        {
+          "name": "SIBE THE MOVIE",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/25/eca380418ea32060b7768985cf31f586.jpg",
+          "slug": "sibe-the-movie-oOhwTDBOHia",
+          "subject_id": "8646228059944897608",
+          "rating": "0"
+        },
+        {
+          "name": "Love & New Notes",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/09/2dcad69ebcda98000a4b7875775748d1.jpeg",
+          "slug": "love-and-new-notes-0Qg7h6YdL34",
+          "subject_id": "3408119902828385136",
+          "rating": "6.0"
         }
       ]
     },
@@ -279,7 +410,7 @@
         },
         {
           "name": "The Legend of Vox Machina",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/24/61edcc11070b73d67d1e41878642ab90.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/28/299c51ea684a9a88792698bfb4f7486b.jpg",
           "slug": "the-legend-of-vox-machina-SPQ6Bv09df3",
           "subject_id": "2723824540651508768",
           "rating": "8.4"
@@ -1674,11 +1805,32 @@
       "count": 18,
       "items": [
         {
+          "name": "Mousetrap",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/23/28f5b329ebb289d691b019e6f47d7687.jpg",
+          "slug": "mousetrap-mNxck67i9R3",
+          "subject_id": "3237392537967127384",
+          "rating": "6.1"
+        },
+        {
           "name": "Our Sticky Love",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/77042f419bcfd4cbaf5d429d4e34c009.jpg",
           "slug": "our-sticky-love-UqJcKTRWXF7",
           "subject_id": "6443205490834393880",
           "rating": "7.5"
+        },
+        {
+          "name": "A Bona Fide Killer",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/23/378ccba9b189fe3c0b57f48ccb38e068.jpg",
+          "slug": "a-bona-fide-killer-yzvVpvmbTK4",
+          "subject_id": "3991952166557736960",
+          "rating": "7.2"
+        },
+        {
+          "name": "Flex x Cop",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/ab02086490423450ad890217f3d23d2e.jpg",
+          "slug": "flex-x-cop-MibemdOaf98",
+          "subject_id": "6839541875842894728",
+          "rating": "7.8"
         },
         {
           "name": "Dream to You",
@@ -1702,25 +1854,11 @@
           "rating": "6.8"
         },
         {
-          "name": "A Bona Fide Killer",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/23/378ccba9b189fe3c0b57f48ccb38e068.jpg",
-          "slug": "a-bona-fide-killer-yzvVpvmbTK4",
-          "subject_id": "3991952166557736960",
-          "rating": "7.2"
-        },
-        {
           "name": "A Trap Called Desire",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/27/e8c3e089b0ec88e1a59d79bca575f4d1.jpg",
           "slug": "a-trap-called-desire-cCEU55ZRMt4",
           "subject_id": "3760443413439626896",
           "rating": "6.6"
-        },
-        {
-          "name": "Flex x Cop",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/ab02086490423450ad890217f3d23d2e.jpg",
-          "slug": "flex-x-cop-MibemdOaf98",
-          "subject_id": "6839541875842894728",
-          "rating": "7.8"
         },
         {
           "name": "See You at Work Tomorrow!",
@@ -1791,13 +1929,6 @@
           "slug": "family-register-oE2DwZKKvF5",
           "subject_id": "4758450584460611448",
           "rating": "6.7"
-        },
-        {
-          "name": "Reborn Rookie",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/02/7521fb70b46221edc8240472cb1f57fd.jpeg",
-          "slug": "reborn-rookie-O1eXUMkDFz",
-          "subject_id": "482888497238524880",
-          "rating": "6.4"
         }
       ]
     },
@@ -2272,11 +2403,6 @@
           "rating": "7.1"
         }
       ]
-    },
-    {
-      "section": "Banner",
-      "count": 0,
-      "items": []
     },
     {
       "section": "Must-watch Black Shows",
