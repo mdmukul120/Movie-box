@@ -1,53 +1,23 @@
 [
   {
-    "title": "DJ CISCO AFROBEATS VINTAGE VOL.1",
-    "subject_id": "887559129919804688",
-    "slug": "dj-cisco-afrobeats-vintage-vol-1-EyHEYcS1z31",
-    "poster": "https://pbcdnw.aoneroom.com/image/2023/07/20/6442ee733c77193762e4b8383c61a804.webp",
-    "rating": "7.7",
+    "title": "John Mbugua",
+    "subject_id": "7435553110435024048",
+    "slug": "john-mbugua-oM2KqeyUgR8",
+    "poster": "https://pbcdnw.aoneroom.com/image/2025/10/14/5cf346a165071d011e51215abd9eb7bf.jpg",
+    "rating": "7.0",
     "corner_tag": "",
-    "year": "2023",
-    "player_api_endpoint": "/api/stream/887559129919804688?detail_path=dj-cisco-afrobeats-vintage-vol-1-EyHEYcS1z31"
+    "year": "2025",
+    "player_api_endpoint": "/api/stream/7435553110435024048?detail_path=john-mbugua-oM2KqeyUgR8"
   },
   {
-    "title": "RHUMBA|ZOUK|OLD CLASSIC AFRICAN MUSIC|DJ BUNNEY|MONIQUE SEKA|KANDA|MADILU|OLIVER NGOMA|YVONNE CHAKA",
-    "subject_id": "6756745426898404144",
-    "slug": "rhumba-zouk-old-classic-african-music-dj-bunney-monique-seka-kanda-madilu-oliver-ngoma-yvonne-chaka-oyXcFiSX738",
-    "poster": "https://pbcdnw.aoneroom.com/image/2024/08/05/1889af547b53bbdb7ecdaba955c51d46.jpg",
-    "rating": "7.5",
+    "title": "Best of Burnaboy Mix 2020  #Burnaboy #Afrobeat #BestofBurnaboy #Afrobeats",
+    "subject_id": "7761560364823003088",
+    "slug": "best-of-burnaboy-mix-2020-burnaboy-afrobeat-bestofburnaboy-afrobeats-6BzxrLM1mf9",
+    "poster": "https://pbcdnw.aoneroom.com/image/2023/08/10/fe391f0a480667b8701d31233b82cfb5.webp",
+    "rating": "7.8",
     "corner_tag": "",
-    "year": "2023",
-    "player_api_endpoint": "/api/stream/6756745426898404144?detail_path=rhumba-zouk-old-classic-african-music-dj-bunney-monique-seka-kanda-madilu-oliver-ngoma-yvonne-chaka-oyXcFiSX738"
-  },
-  {
-    "title": "Sistas",
-    "subject_id": "1018086181784933408",
-    "slug": "sistas-WvtmA9qQcd1",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/22/dc8dbbe699d4a6a8ebbc3baa03f8cd3e.jpg",
-    "rating": "5.7",
-    "corner_tag": "",
-    "year": "2019",
-    "player_api_endpoint": "/api/stream/1018086181784933408?detail_path=sistas-WvtmA9qQcd1"
-  },
-  {
-    "title": "Youngins",
-    "subject_id": "5539220821668940352",
-    "slug": "youngins-qPxHkRMGbB6",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/24/79d4a6321fe9dab10f312bac716b00ea.jpg",
-    "rating": "8.2",
-    "corner_tag": "",
-    "year": "2024",
-    "player_api_endpoint": "/api/stream/5539220821668940352?detail_path=youngins-qPxHkRMGbB6"
-  },
-  {
-    "title": "Sining - Dionela ft. Jay R 💗 Best OPM Tagalog Love Songs💗 OPM Tagalog Top Songs 2024 Playlist #new1",
-    "subject_id": "4268811450900170648",
-    "slug": "sining-dionela-ft-jay-r-best-opm-tagalog-love-songs-opm-tagalog-top-songs-2024-playlist-new1-IIduQsvcl55",
-    "poster": "https://pbcdnw.aoneroom.com/image/2024/10/24/c5024911bdf7e32aed472207465dc9c2.jpg",
-    "rating": "7.1",
-    "corner_tag": "",
-    "year": "2024",
-    "player_api_endpoint": "/api/stream/4268811450900170648?detail_path=sining-dionela-ft-jay-r-best-opm-tagalog-love-songs-opm-tagalog-top-songs-2024-playlist-new1-IIduQsvcl55"
+    "year": "2020",
+    "player_api_endpoint": "/api/stream/7761560364823003088?detail_path=best-of-burnaboy-mix-2020-burnaboy-afrobeat-bestofburnaboy-afrobeats-6BzxrLM1mf9"
   },
   {
     "title": "Prison Break",
@@ -60,16 +30,6 @@
     "player_api_endpoint": "/api/stream/2835060171381039112?detail_path=prison-break-mdR9oayBqn3"
   },
   {
-    "title": "RNBs BEST OF 2000S THROWBACK   DJ MASUMBUKO VISUALIZER MIX",
-    "subject_id": "5799815954456609864",
-    "slug": "rnbs-best-of-2000s-throwback-dj-masumbuko-visualizer-mix-21IzdjydrU6",
-    "poster": "https://pbcdnw.aoneroom.com/image/2024/09/24/2d5aca200edfb8ffc293d7f7a290830c.jpg",
-    "rating": "7.0",
-    "corner_tag": "",
-    "year": "2022",
-    "player_api_endpoint": "/api/stream/5799815954456609864?detail_path=rnbs-best-of-2000s-throwback-dj-masumbuko-visualizer-mix-21IzdjydrU6"
-  },
-  {
     "title": "Teen Wolf",
     "subject_id": "1358939779294970704",
     "slug": "teen-wolf-wKJrLSqXnC1",
@@ -80,44 +40,54 @@
     "player_api_endpoint": "/api/stream/1358939779294970704?detail_path=teen-wolf-wKJrLSqXnC1"
   },
   {
-    "title": "BEST OF  REGGAE LOVERS ROCK ONE DROP VIDEO MIX 2022 -DJ GABU FT ETANA,ROMAIN VIRGO CHRIS MARTIN",
-    "subject_id": "3141976591954248464",
-    "slug": "best-of-reggae-lovers-rock-one-drop-video-mix-2022-dj-gabu-ft-etana-romain-virgo-chris-martin-U4YOCRJh6K3",
-    "poster": "https://pbcdnw.aoneroom.com/image/2023/09/18/e1a8b6474980f47738361ab901f3cd2f.webp",
-    "rating": "7.5",
+    "title": "Johnny Johnny Yessss Papa! +More Nursery Rhymes and Kids Songs | Little Baby Bum",
+    "subject_id": "2688943235413722640",
+    "slug": "johnny-johnny-yessss-papa-more-nursery-rhymes-and-kids-songs-little-baby-bum-E8YBlz5oDc3",
+    "poster": "https://pbcdnw.aoneroom.com/image/2023/09/15/7074f4c7d356b24a97b757e630a33afb.jpg",
+    "rating": "7.1",
+    "corner_tag": "",
+    "year": "2021",
+    "player_api_endpoint": "/api/stream/2688943235413722640?detail_path=johnny-johnny-yessss-papa-more-nursery-rhymes-and-kids-songs-little-baby-bum-E8YBlz5oDc3"
+  },
+  {
+    "title": "The Vampire Diaries",
+    "subject_id": "801622183708610352",
+    "slug": "the-vampire-diaries-0KncV4ardX",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/cc2e447b636be4a800cedbaccc21b7dc.jpg",
+    "rating": "7.7",
+    "corner_tag": "",
+    "year": "2009",
+    "player_api_endpoint": "/api/stream/801622183708610352?detail_path=the-vampire-diaries-0KncV4ardX"
+  },
+  {
+    "title": "ONE DROP REGGAE  VIDEO MIX 2022 DJ JONTEH FT ETANA,CHRIS MARTIN,BUSY SIGNAL ROMAIN VIRGORH EXCLUSIVE",
+    "subject_id": "3776160405488288560",
+    "slug": "one-drop-reggae-video-mix-2022-dj-jonteh-ft-etana-chris-martin-busy-signal-romain-virgorh-exclusive-GDBCxxZQWu4",
+    "poster": "https://pbcdnw.aoneroom.com/image/2024/09/24/065c9f0c824f2d8a830c09ade6758ee3.jpg",
+    "rating": "7.6",
     "corner_tag": "",
     "year": "2022",
-    "player_api_endpoint": "/api/stream/3141976591954248464?detail_path=best-of-reggae-lovers-rock-one-drop-video-mix-2022-dj-gabu-ft-etana-romain-virgo-chris-martin-U4YOCRJh6K3"
+    "player_api_endpoint": "/api/stream/3776160405488288560?detail_path=one-drop-reggae-video-mix-2022-dj-jonteh-ft-etana-chris-martin-busy-signal-romain-virgorh-exclusive-GDBCxxZQWu4"
   },
   {
-    "title": "All the Queen's Men",
-    "subject_id": "2781623667900437536",
-    "slug": "all-the-queens-men-KZRjzyGRtj3",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/24/401e620ceb63d3bcffe9a1d777dd151f.jpg",
-    "rating": "6.7",
+    "title": "The Oval",
+    "subject_id": "7638377634019562528",
+    "slug": "the-oval-Me5h4IJQf69",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/07/31/537d0841a9c042eed15c7498e1351d90.jpg",
+    "rating": "4.5",
+    "corner_tag": "",
+    "year": "2019",
+    "player_api_endpoint": "/api/stream/7638377634019562528?detail_path=the-oval-Me5h4IJQf69"
+  },
+  {
+    "title": "Fadhilah Intan Full Album Cover Terbaik - Denting - 2021",
+    "subject_id": "7004017798767070600",
+    "slug": "fadhilah-intan-full-album-cover-terbaik-denting-2021-sQb9z4vtol8",
+    "poster": "https://pbcdnw.aoneroom.com/image/2023/10/19/3d98fb6e260e67c5c25112ee2e381dac.webp",
+    "rating": "7.9",
     "corner_tag": "",
     "year": "2021",
-    "player_api_endpoint": "/api/stream/2781623667900437536?detail_path=all-the-queens-men-KZRjzyGRtj3"
-  },
-  {
-    "title": "Beauty in Black",
-    "subject_id": "5904172458474619680",
-    "slug": "beauty-in-black-E6NEe5Ha927",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/07/19/82571ca952891c852c18d1a30d2c8218.jpg",
-    "rating": "5.9",
-    "corner_tag": "",
-    "year": "2024",
-    "player_api_endpoint": "/api/stream/5904172458474619680?detail_path=beauty-in-black-E6NEe5Ha927"
-  },
-  {
-    "title": "SHOLAWAT AL BUSYRO merdu diulang 41x selepas subuh agar dimurahkan rezeki & ditunaikan segala hajat",
-    "subject_id": "6289985601840500712",
-    "slug": "sholawat-al-busyro-merdu-diulang-41x-selepas-subuh-agar-dimurahkan-rezeki-and-ditunaikan-segala-hajat-GR4duPrcEu7",
-    "poster": "https://pbcdnw.aoneroom.com/image/2023/10/20/2d04f96fa99a52ec141568a35194a255.jpg",
-    "rating": "7.8",
-    "corner_tag": "",
-    "year": "2021",
-    "player_api_endpoint": "/api/stream/6289985601840500712?detail_path=sholawat-al-busyro-merdu-diulang-41x-selepas-subuh-agar-dimurahkan-rezeki-and-ditunaikan-segala-hajat-GR4duPrcEu7"
+    "player_api_endpoint": "/api/stream/7004017798767070600?detail_path=fadhilah-intan-full-album-cover-terbaik-denting-2021-sQb9z4vtol8"
   },
   {
     "title": "Lucifer",
@@ -130,16 +100,6 @@
     "player_api_endpoint": "/api/stream/2190807691784770592?detail_path=lucifer-UQASHYbVPB2"
   },
   {
-    "title": "Fatal Seduction",
-    "subject_id": "4220839310829966384",
-    "slug": "fatal-seduction-Mk8Rj2juN15",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/18/8461658eb709c4fecda0a9642e9774a7.jpg",
-    "rating": "5.0",
-    "corner_tag": "",
-    "year": "2023",
-    "player_api_endpoint": "/api/stream/4220839310829966384?detail_path=fatal-seduction-Mk8Rj2juN15"
-  },
-  {
     "title": "Zatima",
     "subject_id": "695049665544344344",
     "slug": "zatima-YayVf8LklP",
@@ -150,14 +110,24 @@
     "player_api_endpoint": "/api/stream/695049665544344344?detail_path=zatima-YayVf8LklP"
   },
   {
-    "title": "Avatar: The Last Airbender",
-    "subject_id": "7850278583678682192",
-    "slug": "avatar-the-last-airbender-YoJu6LgmUl9",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/23/a29d89c01f0009d244dd01487395368f.jpg",
-    "rating": "7.1",
+    "title": "Kumpulan Lagu Keroncong Modern Terbaru Full Album 2021",
+    "subject_id": "2203206984269189096",
+    "slug": "kumpulan-lagu-keroncong-modern-terbaru-full-album-2021-SzEdyt6IKC2",
+    "poster": "https://pbcdnw.aoneroom.com/image/2023/10/19/de9001125cff01664c6e896e8f14a911.webp",
+    "rating": "7.2",
     "corner_tag": "",
-    "year": "2024",
-    "player_api_endpoint": "/api/stream/7850278583678682192?detail_path=avatar-the-last-airbender-YoJu6LgmUl9"
+    "year": "2021",
+    "player_api_endpoint": "/api/stream/2203206984269189096?detail_path=kumpulan-lagu-keroncong-modern-terbaru-full-album-2021-SzEdyt6IKC2"
+  },
+  {
+    "title": "Vikings",
+    "subject_id": "5223419090865378336",
+    "slug": "vikings-69BlciwjRd6",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/6f5836260890dc14b5a1308031a4c728.jpg",
+    "rating": "8.5",
+    "corner_tag": "",
+    "year": "2013",
+    "player_api_endpoint": "/api/stream/5223419090865378336?detail_path=vikings-69BlciwjRd6"
   },
   {
     "title": "Stranger Things",
@@ -170,24 +140,24 @@
     "player_api_endpoint": "/api/stream/4956801153355891744?detail_path=stranger-things-wsymkZvcaU5"
   },
   {
-    "title": "The Chi",
-    "subject_id": "2586420771551597336",
-    "slug": "the-chi-0OZDg6KP353",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/28/38f20aab62f98e373f0e833c75be3181.jpg",
-    "rating": "7.5",
+    "title": "The Wife",
+    "subject_id": "8213885704594702288",
+    "slug": "the-wife-8SxKI1oGLM9",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/26/164552f10065ba62cbd1b391c4c9af19.jpg",
+    "rating": "7.9",
     "corner_tag": "",
-    "year": "2018",
-    "player_api_endpoint": "/api/stream/2586420771551597336?detail_path=the-chi-0OZDg6KP353"
+    "year": "2021",
+    "player_api_endpoint": "/api/stream/8213885704594702288?detail_path=the-wife-8SxKI1oGLM9"
   },
   {
-    "title": "Grey's Anatomy",
-    "subject_id": "4179251535492304688",
-    "slug": "greys-anatomy-mjmvIV01JY4",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/21/cdef61a325d876b0d1659b3ecc87fcbd.jpg",
-    "rating": "7.6",
+    "title": "The Originals",
+    "subject_id": "2730113747162387224",
+    "slug": "the-originals-ShDV3wTWFf3",
+    "poster": "https://pbcdnw.aoneroom.com/image/2022/11/03/efca45d821cb035ade885d3f6fb00a96.jpg",
+    "rating": "8.3",
     "corner_tag": "",
-    "year": "2005",
-    "player_api_endpoint": "/api/stream/4179251535492304688?detail_path=greys-anatomy-mjmvIV01JY4"
+    "year": "2013",
+    "player_api_endpoint": "/api/stream/2730113747162387224?detail_path=the-originals-ShDV3wTWFf3"
   },
   {
     "title": "The Walking Dead",
@@ -210,6 +180,36 @@
     "player_api_endpoint": "/api/stream/2867356962868579120?detail_path=one-piece-CTqWaizwOp3"
   },
   {
+    "title": "Wednesday",
+    "subject_id": "9028867555875774472",
+    "slug": "wednesday-urChTxajYKa",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/29/47355b85c8dd750d2f874ce8840f3ca1.jpg",
+    "rating": "8.0",
+    "corner_tag": "",
+    "year": "2022",
+    "player_api_endpoint": "/api/stream/9028867555875774472?detail_path=wednesday-urChTxajYKa"
+  },
+  {
+    "title": "Naruto: Shippuden",
+    "subject_id": "5728465289486950408",
+    "slug": "naruto-shippuden-OrlV8QLqaP6",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/56c166dc8ab736cf4a82d1ed6dc58c29.jpg",
+    "rating": "8.7",
+    "corner_tag": "",
+    "year": "2009",
+    "player_api_endpoint": "/api/stream/5728465289486950408?detail_path=naruto-shippuden-OrlV8QLqaP6"
+  },
+  {
+    "title": "Snowfall",
+    "subject_id": "149973373144159000",
+    "slug": "snowfall-6JvIRkxS4b",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/bd0959b7ce517e11ee5a4294e987317c.jpg",
+    "rating": "8.5",
+    "corner_tag": "",
+    "year": "2017",
+    "player_api_endpoint": "/api/stream/149973373144159000?detail_path=snowfall-6JvIRkxS4b"
+  },
+  {
     "title": "Squid Game",
     "subject_id": "3089349649006742360",
     "slug": "squid-game-4CyZm1LfdG3",
@@ -230,16 +230,6 @@
     "player_api_endpoint": "/api/stream/8848113103456850976?detail_path=the-rookie-Ic9rY21sCxa"
   },
   {
-    "title": "From",
-    "subject_id": "267563007482495928",
-    "slug": "from-kAJr3NmrLj",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/03/24/0202301b04b1d160132e7d11250746bc.jpg",
-    "rating": "7.8",
-    "corner_tag": "",
-    "year": "2022",
-    "player_api_endpoint": "/api/stream/267563007482495928?detail_path=from-kAJr3NmrLj"
-  },
-  {
     "title": "Power",
     "subject_id": "9059923023431619616",
     "slug": "power-OH5a2tHxgNa",
@@ -250,14 +240,184 @@
     "player_api_endpoint": "/api/stream/9059923023431619616?detail_path=power-OH5a2tHxgNa"
   },
   {
+    "title": "Into the Badlands",
+    "subject_id": "4307499516648903712",
+    "slug": "into-the-badlands-eXagCyooc85",
+    "poster": "https://pbcdnw.aoneroom.com/image/2022/11/03/82b67ff7e2805b2c47522ea31d1dd95a.jpg",
+    "rating": "7.9",
+    "corner_tag": "",
+    "year": "2015",
+    "player_api_endpoint": "/api/stream/4307499516648903712?detail_path=into-the-badlands-eXagCyooc85"
+  },
+  {
+    "title": "Legacies",
+    "subject_id": "2434705759104553752",
+    "slug": "legacies-sIZc8eEYQT2",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/26/1c3718b6e3be3173bc19ad3f32faf4bc.jpg",
+    "rating": "7.2",
+    "corner_tag": "",
+    "year": "2018",
+    "player_api_endpoint": "/api/stream/2434705759104553752?detail_path=legacies-sIZc8eEYQT2"
+  },
+  {
+    "title": "Kwa Baba",
+    "subject_id": "693338015313319144",
+    "slug": "kwa-baba-WFoUozIudP",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/07/01/db86d1368e3fa53aba700f56265cc67d.jpeg",
+    "rating": "6.4",
+    "corner_tag": "",
+    "year": "2026",
+    "player_api_endpoint": "/api/stream/693338015313319144?detail_path=kwa-baba-WFoUozIudP"
+  },
+  {
+    "title": "Ginny & Georgia",
+    "subject_id": "1702633325145248800",
+    "slug": "ginny-and-georgia-KHAfHuS4M12",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/26/946751160c6c4988e51fa237adb2eef2.jpg",
+    "rating": "7.5",
+    "corner_tag": "",
+    "year": "2021",
+    "player_api_endpoint": "/api/stream/1702633325145248800?detail_path=ginny-and-georgia-KHAfHuS4M12"
+  },
+  {
+    "title": "Outlaws",
+    "subject_id": "2016806085985744984",
+    "slug": "outlaws-6xNQb8AZYo2",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/27/080ea18136a80dfb05449865bf9d18cb.jpg",
+    "rating": "7.1",
+    "corner_tag": "",
+    "year": "2023",
+    "player_api_endpoint": "/api/stream/2016806085985744984?detail_path=outlaws-6xNQb8AZYo2"
+  },
+  {
+    "title": "Everybody Hates Chris",
+    "subject_id": "3611051252987085648",
+    "slug": "everybody-hates-chris-kINUTjuEKi4",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/ae5f19c63daeffa1f585ee0ea5d8cb31.jpg",
+    "rating": "7.6",
+    "corner_tag": "",
+    "year": "2005",
+    "player_api_endpoint": "/api/stream/3611051252987085648?detail_path=everybody-hates-chris-kINUTjuEKi4"
+  },
+  {
+    "title": "Best 90S - 2000s R&B Music - Mary J Blige, Usher, Mario, Mariah Carey and more",
+    "subject_id": "8760725390307510488",
+    "slug": "best-90s-2000s-randb-music-mary-j-blige-usher-mario-mariah-carey-and-more-ibZ9Rlldara",
+    "poster": "https://pbcdnw.aoneroom.com/image/2023/07/20/8bb9c72d49be9c2adea8c805076dca61.webp",
+    "rating": "7.6",
+    "corner_tag": "",
+    "year": "2023",
+    "player_api_endpoint": "/api/stream/8760725390307510488?detail_path=best-90s-2000s-randb-music-mary-j-blige-usher-mario-mariah-carey-and-more-ibZ9Rlldara"
+  },
+  {
+    "title": "Is True Love Real Bridgerton Challenge",
+    "subject_id": "4917419132561359416",
+    "slug": "is-true-love-real-bridgerton-challenge-2JmByqzPfR5",
+    "poster": "https://pbcdnw.aoneroom.com/image/2024/10/23/d2090a2748e3192cfefa36363452ab93.jpg",
+    "rating": "7.1",
+    "corner_tag": "",
+    "year": "2024",
+    "player_api_endpoint": "/api/stream/4917419132561359416?detail_path=is-true-love-real-bridgerton-challenge-2JmByqzPfR5"
+  },
+  {
+    "title": "All the Queen's Men",
+    "subject_id": "2781623667900437536",
+    "slug": "all-the-queens-men-KZRjzyGRtj3",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/24/401e620ceb63d3bcffe9a1d777dd151f.jpg",
+    "rating": "6.7",
+    "corner_tag": "",
+    "year": "2021",
+    "player_api_endpoint": "/api/stream/2781623667900437536?detail_path=all-the-queens-men-KZRjzyGRtj3"
+  },
+  {
+    "title": "Avatar: The Last Airbender",
+    "subject_id": "7850278583678682192",
+    "slug": "avatar-the-last-airbender-YoJu6LgmUl9",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/23/a29d89c01f0009d244dd01487395368f.jpg",
+    "rating": "7.1",
+    "corner_tag": "",
+    "year": "2024",
+    "player_api_endpoint": "/api/stream/7850278583678682192?detail_path=avatar-the-last-airbender-YoJu6LgmUl9"
+  },
+  {
+    "title": "BEST SONGS OF JUICEWRLD FULL ALBUM 2021  JUICEWRLD COLLECTIONS FULL ALBUM 2021",
+    "subject_id": "6508949439460589520",
+    "slug": "best-songs-of-juicewrld-full-album-2021-juicewrld-collections-full-album-2021-IqeuVYy3PK7",
+    "poster": "https://pbcdnw.aoneroom.com/image/2023/08/10/2098ea0dccb0af362f7aad3fb8b76e39.jpg",
+    "rating": "7.8",
+    "corner_tag": "",
+    "year": "2021",
+    "player_api_endpoint": "/api/stream/6508949439460589520?detail_path=best-songs-of-juicewrld-full-album-2021-juicewrld-collections-full-album-2021-IqeuVYy3PK7"
+  },
+  {
+    "title": "Merlin",
+    "subject_id": "8382755684005333552",
+    "slug": "merlin-sMxCiIO6fZ9",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/008f87902d7f9d7af48a51833b677dbd.jpg",
+    "rating": "7.9",
+    "corner_tag": "",
+    "year": "2009",
+    "player_api_endpoint": "/api/stream/8382755684005333552?detail_path=merlin-sMxCiIO6fZ9"
+  },
+  {
+    "title": "DJ ALEXA MONYOR MONYOR MIXTAPE TERGALAU | VIRAL TIKTOK 2023",
+    "subject_id": "6289222265892916616",
+    "slug": "dj-alexa-monyor-monyor-mixtape-tergalau-viral-tiktok-2023-yNyS7SGHAu7",
+    "poster": "https://pbcdnw.aoneroom.com/image/2023/10/21/84ff8055184f09db1171a12c6ef01e20.jpg",
+    "rating": "7.8",
+    "corner_tag": "",
+    "year": "2023",
+    "player_api_endpoint": "/api/stream/6289222265892916616?detail_path=dj-alexa-monyor-monyor-mixtape-tergalau-viral-tiktok-2023-yNyS7SGHAu7"
+  },
+  {
+    "title": "From",
+    "subject_id": "267563007482495928",
+    "slug": "from-kAJr3NmrLj",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/03/24/0202301b04b1d160132e7d11250746bc.jpg",
+    "rating": "7.8",
+    "corner_tag": "",
+    "year": "2022",
+    "player_api_endpoint": "/api/stream/267563007482495928?detail_path=from-kAJr3NmrLj"
+  },
+  {
+    "title": "Lagu Dangdut Full Bass Enak Banget Didengar Dangdut Terbaru Full Bass 2023  Sekejap Saja",
+    "subject_id": "7930224678650924232",
+    "slug": "lagu-dangdut-full-bass-enak-banget-didengar-dangdut-terbaru-full-bass-2023-sekejap-saja-guTzPAOvOr9",
+    "poster": "https://pbcdnw.aoneroom.com/image/2023/10/21/8dca9a8c6a89b38e7332fdc489f51732.jpg",
+    "rating": "7.1",
+    "corner_tag": "",
+    "year": "2023",
+    "player_api_endpoint": "/api/stream/7930224678650924232?detail_path=lagu-dangdut-full-bass-enak-banget-didengar-dangdut-terbaru-full-bass-2023-sekejap-saja-guTzPAOvOr9"
+  },
+  {
+    "title": "The Boys",
+    "subject_id": "5139196938264400928",
+    "slug": "the-boys-c8bx84KzD76",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/25/fa50806b53402ba8e236f59897a93900.jpg",
+    "rating": "8.5",
+    "corner_tag": "",
+    "year": "2019",
+    "player_api_endpoint": "/api/stream/5139196938264400928?detail_path=the-boys-c8bx84KzD76"
+  },
+  {
     "title": "Reacher",
     "subject_id": "3620534210064175096",
     "slug": "reacher-e1nw56h5sj4",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/20/e91f2d892477c96766a6d76cf1766614.jpg",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/29/f8b88ce8766279c25734425c662fc44a.jpg",
     "rating": "8.0",
     "corner_tag": "",
     "year": "2022",
     "player_api_endpoint": "/api/stream/3620534210064175096?detail_path=reacher-e1nw56h5sj4"
+  },
+  {
+    "title": "DJ TKRYS - Active ton Mode Bouyon 2023 | The Best of Bouyon 2023",
+    "subject_id": "286813687632019408",
+    "slug": "dj-tkrys-active-ton-mode-bouyon-2023-the-best-of-bouyon-2023-MoQggONBbl",
+    "poster": "https://pbcdnw.aoneroom.com/image/2023/08/11/0ca2c9d9c5655f427ad5f300b02c6197.webp",
+    "rating": "7.8",
+    "corner_tag": "",
+    "year": "2022",
+    "player_api_endpoint": "/api/stream/286813687632019408?detail_path=dj-tkrys-active-ton-mode-bouyon-2023-the-best-of-bouyon-2023-MoQggONBbl"
   },
   {
     "title": "Supernatural",
@@ -273,21 +433,11 @@
     "title": "The Witcher",
     "subject_id": "3819281169544270880",
     "slug": "the-witcher-qdCxXLAl8y4",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/16/3be5085059122b8fb01614698fa61010.jpg",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/29/dea84af809fbf9f2a5737412c3133711.jpg",
     "rating": "7.8",
     "corner_tag": "",
     "year": "2019",
     "player_api_endpoint": "/api/stream/3819281169544270880?detail_path=the-witcher-qdCxXLAl8y4"
-  },
-  {
-    "title": "Legacies",
-    "subject_id": "2434705759104553752",
-    "slug": "legacies-sIZc8eEYQT2",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/26/1c3718b6e3be3173bc19ad3f32faf4bc.jpg",
-    "rating": "7.2",
-    "corner_tag": "",
-    "year": "2018",
-    "player_api_endpoint": "/api/stream/2434705759104553752?detail_path=legacies-sIZc8eEYQT2"
   },
   {
     "title": "Smallville",
@@ -300,126 +450,6 @@
     "player_api_endpoint": "/api/stream/4007903643419692840?detail_path=smallville-GzHfxcXe4M4"
   },
   {
-    "title": "NEW AFROBEAT DANCEHALL AMAPIANO 2024 VIDEO MIX BY DJ JOJO Ft Ayra Star, Omah Lay, Burna Boy, Wizkid",
-    "subject_id": "980546156499453272",
-    "slug": "new-afrobeat-dancehall-amapiano-2024-video-mix-by-dj-jojo-ft-ayra-star-omah-lay-burna-boy-wizkid-ezypnXwUqa1",
-    "poster": "https://pbcdnw.aoneroom.com/image/2024/06/01/7a293c9e6aa4265061fecfed5f7e70ed.jpg",
-    "rating": "7.6",
-    "corner_tag": "HOT",
-    "year": "2024",
-    "player_api_endpoint": "/api/stream/980546156499453272?detail_path=new-afrobeat-dancehall-amapiano-2024-video-mix-by-dj-jojo-ft-ayra-star-omah-lay-burna-boy-wizkid-ezypnXwUqa1"
-  },
-  {
-    "title": "REGULAR SWEDISH MASSAGE I MALE MASSEUR JAKE I MASAHEKING WELLNESS SPA I 4K",
-    "subject_id": "7341408514470200472",
-    "slug": "regular-swedish-massage-i-male-masseur-jake-i-masaheking-wellness-spa-i-4k-skRYdPbJjK8",
-    "poster": "https://pbcdnw.aoneroom.com/image/2024/10/22/a982b33f0b45ad559748cc8f58ae55de.jpg",
-    "rating": "7.7",
-    "corner_tag": "",
-    "year": "2024",
-    "player_api_endpoint": "/api/stream/7341408514470200472?detail_path=regular-swedish-massage-i-male-masseur-jake-i-masaheking-wellness-spa-i-4k-skRYdPbJjK8"
-  },
-  {
-    "title": "Vikings",
-    "subject_id": "5223419090865378336",
-    "slug": "vikings-69BlciwjRd6",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/6f5836260890dc14b5a1308031a4c728.jpg",
-    "rating": "8.5",
-    "corner_tag": "",
-    "year": "2013",
-    "player_api_endpoint": "/api/stream/5223419090865378336?detail_path=vikings-69BlciwjRd6"
-  },
-  {
-    "title": "The Originals",
-    "subject_id": "2730113747162387224",
-    "slug": "the-originals-ShDV3wTWFf3",
-    "poster": "https://pbcdnw.aoneroom.com/image/2022/11/03/efca45d821cb035ade885d3f6fb00a96.jpg",
-    "rating": "8.3",
-    "corner_tag": "",
-    "year": "2013",
-    "player_api_endpoint": "/api/stream/2730113747162387224?detail_path=the-originals-ShDV3wTWFf3"
-  },
-  {
-    "title": "Music to Drive 80's 🏍️ Synthwave Retrowave Chillwave Drive 🏝️ Vaporwave Music Mix",
-    "subject_id": "4792730816004638560",
-    "slug": "music-to-drive-80s-synthwave-retrowave-chillwave-drive-vaporwave-music-mix-sAjGVGZK2I5",
-    "poster": "https://pbcdnw.aoneroom.com/image/2024/06/02/4d0ddcef3775e1d976a63e24dd859a12.jpg",
-    "rating": "7.3",
-    "corner_tag": "",
-    "year": "2024",
-    "player_api_endpoint": "/api/stream/4792730816004638560?detail_path=music-to-drive-80s-synthwave-retrowave-chillwave-drive-vaporwave-music-mix-sAjGVGZK2I5"
-  },
-  {
-    "title": "Naruto: Shippuden",
-    "subject_id": "5728465289486950408",
-    "slug": "naruto-shippuden-OrlV8QLqaP6",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/56c166dc8ab736cf4a82d1ed6dc58c29.jpg",
-    "rating": "8.7",
-    "corner_tag": "",
-    "year": "2009",
-    "player_api_endpoint": "/api/stream/5728465289486950408?detail_path=naruto-shippuden-OrlV8QLqaP6"
-  },
-  {
-    "title": "Kangaroo Hop ⭐ LittleBabyBum Nursery Rhymes - One Hour Baby Songs Mix",
-    "subject_id": "8238919216758424072",
-    "slug": "kangaroo-hop-littlebabybum-nursery-rhymes-one-hour-baby-songs-mix-eHYyX2VkCO9",
-    "poster": "https://pbcdnw.aoneroom.com/image/2023/09/16/d6201353097422ae9e2210254c879899.webp",
-    "rating": "7.2",
-    "corner_tag": "",
-    "year": "2023",
-    "player_api_endpoint": "/api/stream/8238919216758424072?detail_path=kangaroo-hop-littlebabybum-nursery-rhymes-one-hour-baby-songs-mix-eHYyX2VkCO9"
-  },
-  {
-    "title": "Spartacus: Blood and Sand",
-    "subject_id": "7330269013203108312",
-    "slug": "spartacus-blood-and-sand-sApqTE0IuJ8",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/1316ee5cc5b9252871d15c9255c7727c.jpg",
-    "rating": "8.4",
-    "corner_tag": "",
-    "year": "2010",
-    "player_api_endpoint": "/api/stream/7330269013203108312?detail_path=spartacus-blood-and-sand-sApqTE0IuJ8"
-  },
-  {
-    "title": "Lullabies For Babies, 4 Hours Relaxing Music for Kids To Go To Sleep",
-    "subject_id": "285779703246505488",
-    "slug": "lullabies-for-babies-4-hours-relaxing-music-for-kids-to-go-to-sleep-K3yY0WbS6l",
-    "poster": "https://pbcdnw.aoneroom.com/image/2023/09/14/e248143a744fbc7d03c65ffa1e104de4.webp",
-    "rating": "7.6",
-    "corner_tag": "",
-    "year": "2022",
-    "player_api_endpoint": "/api/stream/285779703246505488?detail_path=lullabies-for-babies-4-hours-relaxing-music-for-kids-to-go-to-sleep-K3yY0WbS6l"
-  },
-  {
-    "title": "The Boys",
-    "subject_id": "5139196938264400928",
-    "slug": "the-boys-c8bx84KzD76",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/25/fa50806b53402ba8e236f59897a93900.jpg",
-    "rating": "8.5",
-    "corner_tag": "",
-    "year": "2019",
-    "player_api_endpoint": "/api/stream/5139196938264400928?detail_path=the-boys-c8bx84KzD76"
-  },
-  {
-    "title": "Kwa Baba",
-    "subject_id": "693338015313319144",
-    "slug": "kwa-baba-WFoUozIudP",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/07/01/db86d1368e3fa53aba700f56265cc67d.jpeg",
-    "rating": "6.4",
-    "corner_tag": "",
-    "year": "2026",
-    "player_api_endpoint": "/api/stream/693338015313319144?detail_path=kwa-baba-WFoUozIudP"
-  },
-  {
-    "title": "Bob The Train Went to the Zoo + More Kids Songs & Nursery Rhymes",
-    "subject_id": "5537032943853523272",
-    "slug": "bob-the-train-went-to-the-zoo-more-kids-songs-and-nursery-rhymes-CHCwK2wF1B6",
-    "poster": "https://pbcdnw.aoneroom.com/image/2023/09/14/993530edc023364a08d0b9e8fc9632b7.webp",
-    "rating": "7.1",
-    "corner_tag": "",
-    "year": "2022",
-    "player_api_endpoint": "/api/stream/5537032943853523272?detail_path=bob-the-train-went-to-the-zoo-more-kids-songs-and-nursery-rhymes-CHCwK2wF1B6"
-  },
-  {
     "title": "Boruto: Naruto Next Generations",
     "subject_id": "530904994120352848",
     "slug": "boruto-naruto-next-generations-m3udT88ydD",
@@ -428,16 +458,6 @@
     "corner_tag": "",
     "year": "2017",
     "player_api_endpoint": "/api/stream/530904994120352848?detail_path=boruto-naruto-next-generations-m3udT88ydD"
-  },
-  {
-    "title": "Power Book II: Ghost",
-    "subject_id": "558719019793142816",
-    "slug": "power-book-ii-ghost-mvUr6FdWgF",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/26/5aabd308d910cd4a847c38965cd54a65.jpg",
-    "rating": "7.5",
-    "corner_tag": "",
-    "year": "2020",
-    "player_api_endpoint": "/api/stream/558719019793142816?detail_path=power-book-ii-ghost-mvUr6FdWgF"
   },
   {
     "title": "The Night Agent",
@@ -450,6 +470,16 @@
     "player_api_endpoint": "/api/stream/4860601308702802872?detail_path=the-night-agent-QmKtaMxB3N5"
   },
   {
+    "title": "XO, Kitty",
+    "subject_id": "8388977201831627168",
+    "slug": "xo-kitty-CxXcx1uBHZ9",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/18/d80a6622cd646e2dd1d71c67e762732e.jpg",
+    "rating": "6.6",
+    "corner_tag": "",
+    "year": "2023",
+    "player_api_endpoint": "/api/stream/8388977201831627168?detail_path=xo-kitty-CxXcx1uBHZ9"
+  },
+  {
     "title": "24",
     "subject_id": "2687504527670005552",
     "slug": "24-w008rjyNwc3",
@@ -460,14 +490,14 @@
     "player_api_endpoint": "/api/stream/2687504527670005552?detail_path=24-w008rjyNwc3"
   },
   {
-    "title": "Spartacus: Gods of the Arena",
-    "subject_id": "315796373906018088",
-    "slug": "spartacus-gods-of-the-arena-aXL9QfKlkn",
-    "poster": "https://pbcdnw.aoneroom.com/image/2025/11/02/c6a9cc8f73c17dff11c8bbe8d0b1b991.jpg",
-    "rating": "8.4",
+    "title": "SEAL Team",
+    "subject_id": "5302091346856006688",
+    "slug": "seal-team-a1OiEtlDFj6",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/26/54e0e33ae3b990fd608810e5bec40cb7.jpg",
+    "rating": "7.9",
     "corner_tag": "",
-    "year": "2010",
-    "player_api_endpoint": "/api/stream/315796373906018088?detail_path=spartacus-gods-of-the-arena-aXL9QfKlkn"
+    "year": "2017",
+    "player_api_endpoint": "/api/stream/5302091346856006688?detail_path=seal-team-a1OiEtlDFj6"
   },
   {
     "title": "S.W.A.T.",
@@ -478,36 +508,6 @@
     "corner_tag": "",
     "year": "2017",
     "player_api_endpoint": "/api/stream/3126852726836057120?detail_path=s-w-a-t-0IIbMJ91ZI3"
-  },
-  {
-    "title": "Adulting",
-    "subject_id": "9024835728341091408",
-    "slug": "adulting-CvwBDXhQFKa",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/26/ed769a0a2983c7b3d6f9775080e22bc5.jpg",
-    "rating": "7.8",
-    "corner_tag": "",
-    "year": "2023",
-    "player_api_endpoint": "/api/stream/9024835728341091408?detail_path=adulting-CvwBDXhQFKa"
-  },
-  {
-    "title": "Jujutsu Kaisen",
-    "subject_id": "134079758618484744",
-    "slug": "jujutsu-kaisen-gCBS4ln5U9",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/26/bc9427603613c8c9c239a85b2bbc552b.jpg",
-    "rating": "8.5",
-    "corner_tag": "",
-    "year": "2020",
-    "player_api_endpoint": "/api/stream/134079758618484744?detail_path=jujutsu-kaisen-gCBS4ln5U9"
-  },
-  {
-    "title": "Grimm",
-    "subject_id": "4252505398181252912",
-    "slug": "grimm-WX11jgew845",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/905445044e041f4f162b333736ce3dc4.jpg",
-    "rating": "7.9",
-    "corner_tag": "",
-    "year": "2011",
-    "player_api_endpoint": "/api/stream/4252505398181252912?detail_path=grimm-WX11jgew845"
   },
   {
     "title": "My Hero Academia",
@@ -550,14 +550,34 @@
     "player_api_endpoint": "/api/stream/6366028332823628072?detail_path=my-demon-UiDHFKAtgA7"
   },
   {
-    "title": "Siren",
-    "subject_id": "4001676954452775968",
-    "slug": "siren-2PdILQOIBL4",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/412ac7a3bfab9261290882bf270a7a91.jpg",
-    "rating": "7.0",
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "subject_id": "3619725132714887968",
+    "slug": "demon-slayer-kimetsu-no-yaiba-OpOlWPwnoj4",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/26/db9dcda1b31e0bfcd37bc302c1b3c552.jpg",
+    "rating": "8.6",
     "corner_tag": "",
-    "year": "2018",
-    "player_api_endpoint": "/api/stream/4001676954452775968?detail_path=siren-2PdILQOIBL4"
+    "year": "2021",
+    "player_api_endpoint": "/api/stream/3619725132714887968?detail_path=demon-slayer-kimetsu-no-yaiba-OpOlWPwnoj4"
+  },
+  {
+    "title": "Rick and Morty",
+    "subject_id": "2344713369481008160",
+    "slug": "rick-and-morty-aPze2KlOcN2",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/28/58ce3ce358df4709696591e63f928cc8.jpg",
+    "rating": "9.0",
+    "corner_tag": "",
+    "year": "2013",
+    "player_api_endpoint": "/api/stream/2344713369481008160?detail_path=rick-and-morty-aPze2KlOcN2"
+  },
+  {
+    "title": "Money Heist",
+    "subject_id": "222030967182086936",
+    "slug": "money-heist-8UcoFG3Uog",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/a1a62163ad361da8ed58b6c96b779d41.jpg",
+    "rating": "8.2",
+    "corner_tag": "",
+    "year": "2017",
+    "player_api_endpoint": "/api/stream/222030967182086936?detail_path=money-heist-8UcoFG3Uog"
   },
   {
     "title": "The Summer I Turned Pretty",
@@ -570,144 +590,134 @@
     "player_api_endpoint": "/api/stream/613140447321543448?detail_path=the-summer-i-turned-pretty-qBSaCpLbiJ"
   },
   {
-    "title": "The Day of the Jackal",
-    "subject_id": "193974049297629648",
-    "slug": "the-day-of-the-jackal-inLkJUZoke",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/26/ce822fdfb7f142b91bd0d55373e4f47e.jpg",
-    "rating": "8.1",
+    "title": "Shaka iLembe",
+    "subject_id": "7585839457308657496",
+    "slug": "shaka-ilembe-CNhm8EXdn29",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/07/31/e627178b44198564ad6ee2b9a76c8037.jpg",
+    "rating": "9.1",
     "corner_tag": "",
-    "year": "2024",
-    "player_api_endpoint": "/api/stream/193974049297629648?detail_path=the-day-of-the-jackal-inLkJUZoke"
+    "year": "2023",
+    "player_api_endpoint": "/api/stream/7585839457308657496?detail_path=shaka-ilembe-CNhm8EXdn29"
   },
   {
-    "title": "The Cleaning Lady",
-    "subject_id": "136506554727158552",
-    "slug": "the-cleaning-lady-ylSRFruc5a",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/26/89276c5f6a0eab054bd0d6dff8140260.jpg",
-    "rating": "7.0",
-    "corner_tag": "",
-    "year": "2022",
-    "player_api_endpoint": "/api/stream/136506554727158552?detail_path=the-cleaning-lady-ylSRFruc5a"
-  },
-  {
-    "title": "PAROKYA NI EDGAR 2022 PLAYLIST",
-    "subject_id": "2978554346914415264",
-    "slug": "parokya-ni-edgar-2022-playlist-mpn00BfO1y3",
-    "poster": "https://pbcdnw.aoneroom.com/image/2024/10/24/662305225f57ea8884cce24bb920be3f.jpg",
-    "rating": "7.7",
-    "corner_tag": "",
-    "year": "2022",
-    "player_api_endpoint": "/api/stream/2978554346914415264?detail_path=parokya-ni-edgar-2022-playlist-mpn00BfO1y3"
-  },
-  {
-    "title": "Daftar putar pilihan oleh MICHELA THEA 2022 | Lagu untuk didengarkan untuk bersantai dan bekerja",
-    "subject_id": "5704130897067266024",
-    "slug": "daftar-putar-pilihan-oleh-michela-thea-2022-lagu-untuk-didengarkan-untuk-bersantai-dan-bekerja-KrC3pdLYmN6",
-    "poster": "https://pbcdnw.aoneroom.com/image/2023/10/21/2cec218eca3b330cadaecf2d08792706.jpg",
-    "rating": "7.9",
-    "corner_tag": "",
-    "year": "2022",
-    "player_api_endpoint": "/api/stream/5704130897067266024?detail_path=daftar-putar-pilihan-oleh-michela-thea-2022-lagu-untuk-didengarkan-untuk-bersantai-dan-bekerja-KrC3pdLYmN6"
-  },
-  {
-    "title": "The Vampire Diaries",
-    "subject_id": "801622183708610352",
-    "slug": "the-vampire-diaries-0KncV4ardX",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/cc2e447b636be4a800cedbaccc21b7dc.jpg",
-    "rating": "7.7",
-    "corner_tag": "",
-    "year": "2009",
-    "player_api_endpoint": "/api/stream/801622183708610352?detail_path=the-vampire-diaries-0KncV4ardX"
-  },
-  {
-    "title": "The Oval",
-    "subject_id": "7638377634019562528",
-    "slug": "the-oval-Me5h4IJQf69",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/07/31/537d0841a9c042eed15c7498e1351d90.jpg",
-    "rating": "4.5",
-    "corner_tag": "",
-    "year": "2019",
-    "player_api_endpoint": "/api/stream/7638377634019562528?detail_path=the-oval-Me5h4IJQf69"
-  },
-  {
-    "title": "No No No! Wash Hands +More Nursery Rhymes and Kids Songs | Little Baby Bum",
-    "subject_id": "706969347620753664",
-    "slug": "no-no-no-wash-hands-more-nursery-rhymes-and-kids-songs-little-baby-bum-kGGTROtVdQ",
-    "poster": "https://pbcdnw.aoneroom.com/image/2023/09/16/69bf98f54780cf69ea5568c473d2842c.jpg",
+    "title": "THROWBACK R&B HITS 2006   2010   DJ KENB JORDIN SPARKS, RIHANNA, BEYONCE, CHRIS BROWN",
+    "subject_id": "3675065458832592400",
+    "slug": "throwback-randb-hits-2006-2010-dj-kenb-jordin-sparks-rihanna-beyonce-chris-brown-QozQoj0Qtn4",
+    "poster": "https://pbcdnw.aoneroom.com/image/2023/09/19/02f76d925c94baf3f72e337de8529a1b.jpg",
     "rating": "7.8",
     "corner_tag": "",
     "year": "2021",
-    "player_api_endpoint": "/api/stream/706969347620753664?detail_path=no-no-no-wash-hands-more-nursery-rhymes-and-kids-songs-little-baby-bum-kGGTROtVdQ"
+    "player_api_endpoint": "/api/stream/3675065458832592400?detail_path=throwback-randb-hits-2006-2010-dj-kenb-jordin-sparks-rihanna-beyonce-chris-brown-QozQoj0Qtn4"
   },
   {
-    "title": "Merlin",
-    "subject_id": "8382755684005333552",
-    "slug": "merlin-sMxCiIO6fZ9",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/008f87902d7f9d7af48a51833b677dbd.jpg",
-    "rating": "7.9",
+    "title": "Sholawat Penenang Hati, Sholawat Ya Sayyidi Ya Rasulullah,Sholawat Paling Merdu dan menyentuh hati",
+    "subject_id": "8033010049272401288",
+    "slug": "sholawat-penenang-hati-sholawat-ya-sayyidi-ya-rasulullah-sholawat-paling-merdu-dan-menyentuh-hati-wOhppGOgpz9",
+    "poster": "https://pbcdnw.aoneroom.com/image/2023/10/19/0ab82fb5627b2f8b23010d49257acb0d.webp",
+    "rating": "7.3",
     "corner_tag": "",
-    "year": "2009",
-    "player_api_endpoint": "/api/stream/8382755684005333552?detail_path=merlin-sMxCiIO6fZ9"
+    "year": "2022",
+    "player_api_endpoint": "/api/stream/8033010049272401288?detail_path=sholawat-penenang-hati-sholawat-ya-sayyidi-ya-rasulullah-sholawat-paling-merdu-dan-menyentuh-hati-wOhppGOgpz9"
   },
   {
-    "title": "Goldilocks & The Three Little Bears + More English Stories Fairy Tales & Baby Rhymes by Kids Tv",
-    "subject_id": "8476482997590574608",
-    "slug": "goldilocks-and-the-three-little-bears-more-english-stories-fairy-tales-and-baby-rhymes-by-kids-tv-0IeG6DGna6a",
-    "poster": "https://pbcdnw.aoneroom.com/image/2023/09/16/b619062b5ad868a223720302e340d133.jpg",
-    "rating": "7.4",
+    "title": "Sistas",
+    "subject_id": "1018086181784933408",
+    "slug": "sistas-WvtmA9qQcd1",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/22/dc8dbbe699d4a6a8ebbc3baa03f8cd3e.jpg",
+    "rating": "5.7",
     "corner_tag": "",
-    "year": "2021",
-    "player_api_endpoint": "/api/stream/8476482997590574608?detail_path=goldilocks-and-the-three-little-bears-more-english-stories-fairy-tales-and-baby-rhymes-by-kids-tv-0IeG6DGna6a"
+    "year": "2019",
+    "player_api_endpoint": "/api/stream/1018086181784933408?detail_path=sistas-WvtmA9qQcd1"
   },
   {
-    "title": "The Wife",
-    "subject_id": "8213885704594702288",
-    "slug": "the-wife-8SxKI1oGLM9",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/26/164552f10065ba62cbd1b391c4c9af19.jpg",
-    "rating": "7.9",
+    "title": "Youngins",
+    "subject_id": "5539220821668940352",
+    "slug": "youngins-qPxHkRMGbB6",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/24/79d4a6321fe9dab10f312bac716b00ea.jpg",
+    "rating": "8.2",
     "corner_tag": "",
-    "year": "2021",
-    "player_api_endpoint": "/api/stream/8213885704594702288?detail_path=the-wife-8SxKI1oGLM9"
+    "year": "2024",
+    "player_api_endpoint": "/api/stream/5539220821668940352?detail_path=youngins-qPxHkRMGbB6"
   },
   {
-    "title": "Surah Al Furqan Khalid Al Jaleel - Heart Touching Recitation",
-    "subject_id": "3227274522193710280",
-    "slug": "surah-al-furqan-khalid-al-jaleel-heart-touching-recitation-iXZJ8LZWoQ3",
-    "poster": "https://pbcdnw.aoneroom.com/image/2023/10/19/fb4e2f989cd4924d94727543e23ba3be.webp",
+    "title": "Beauty in Black",
+    "subject_id": "5904172458474619680",
+    "slug": "beauty-in-black-E6NEe5Ha927",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/07/19/82571ca952891c852c18d1a30d2c8218.jpg",
+    "rating": "5.9",
+    "corner_tag": "",
+    "year": "2024",
+    "player_api_endpoint": "/api/stream/5904172458474619680?detail_path=beauty-in-black-E6NEe5Ha927"
+  },
+  {
+    "title": "Fatal Seduction",
+    "subject_id": "4220839310829966384",
+    "slug": "fatal-seduction-Mk8Rj2juN15",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/18/8461658eb709c4fecda0a9642e9774a7.jpg",
+    "rating": "5.0",
+    "corner_tag": "",
+    "year": "2023",
+    "player_api_endpoint": "/api/stream/4220839310829966384?detail_path=fatal-seduction-Mk8Rj2juN15"
+  },
+  {
+    "title": "Grey's Anatomy",
+    "subject_id": "4179251535492304688",
+    "slug": "greys-anatomy-mjmvIV01JY4",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/21/cdef61a325d876b0d1659b3ecc87fcbd.jpg",
     "rating": "7.6",
     "corner_tag": "",
-    "year": "2016",
-    "player_api_endpoint": "/api/stream/3227274522193710280?detail_path=surah-al-furqan-khalid-al-jaleel-heart-touching-recitation-iXZJ8LZWoQ3"
+    "year": "2005",
+    "player_api_endpoint": "/api/stream/4179251535492304688?detail_path=greys-anatomy-mjmvIV01JY4"
   },
   {
-    "title": "Into the Badlands",
-    "subject_id": "4307499516648903712",
-    "slug": "into-the-badlands-eXagCyooc85",
-    "poster": "https://pbcdnw.aoneroom.com/image/2022/11/03/82b67ff7e2805b2c47522ea31d1dd95a.jpg",
+    "title": "Spartacus: Blood and Sand",
+    "subject_id": "7330269013203108312",
+    "slug": "spartacus-blood-and-sand-sApqTE0IuJ8",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/1316ee5cc5b9252871d15c9255c7727c.jpg",
+    "rating": "8.4",
+    "corner_tag": "",
+    "year": "2010",
+    "player_api_endpoint": "/api/stream/7330269013203108312?detail_path=spartacus-blood-and-sand-sApqTE0IuJ8"
+  },
+  {
+    "title": "Power Book II: Ghost",
+    "subject_id": "558719019793142816",
+    "slug": "power-book-ii-ghost-mvUr6FdWgF",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/26/5aabd308d910cd4a847c38965cd54a65.jpg",
+    "rating": "7.5",
+    "corner_tag": "",
+    "year": "2020",
+    "player_api_endpoint": "/api/stream/558719019793142816?detail_path=power-book-ii-ghost-mvUr6FdWgF"
+  },
+  {
+    "title": "Spartacus: Gods of the Arena",
+    "subject_id": "315796373906018088",
+    "slug": "spartacus-gods-of-the-arena-aXL9QfKlkn",
+    "poster": "https://pbcdnw.aoneroom.com/image/2025/11/02/c6a9cc8f73c17dff11c8bbe8d0b1b991.jpg",
+    "rating": "8.4",
+    "corner_tag": "",
+    "year": "2010",
+    "player_api_endpoint": "/api/stream/315796373906018088?detail_path=spartacus-gods-of-the-arena-aXL9QfKlkn"
+  },
+  {
+    "title": "Jujutsu Kaisen",
+    "subject_id": "134079758618484744",
+    "slug": "jujutsu-kaisen-gCBS4ln5U9",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/26/bc9427603613c8c9c239a85b2bbc552b.jpg",
+    "rating": "8.5",
+    "corner_tag": "",
+    "year": "2020",
+    "player_api_endpoint": "/api/stream/134079758618484744?detail_path=jujutsu-kaisen-gCBS4ln5U9"
+  },
+  {
+    "title": "Grimm",
+    "subject_id": "4252505398181252912",
+    "slug": "grimm-WX11jgew845",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/905445044e041f4f162b333736ce3dc4.jpg",
     "rating": "7.9",
     "corner_tag": "",
-    "year": "2015",
-    "player_api_endpoint": "/api/stream/4307499516648903712?detail_path=into-the-badlands-eXagCyooc85"
-  },
-  {
-    "title": "Outlaws",
-    "subject_id": "2016806085985744984",
-    "slug": "outlaws-6xNQb8AZYo2",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/27/080ea18136a80dfb05449865bf9d18cb.jpg",
-    "rating": "7.1",
-    "corner_tag": "",
-    "year": "2023",
-    "player_api_endpoint": "/api/stream/2016806085985744984?detail_path=outlaws-6xNQb8AZYo2"
-  },
-  {
-    "title": "XO, Kitty",
-    "subject_id": "8388977201831627168",
-    "slug": "xo-kitty-CxXcx1uBHZ9",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/18/d80a6622cd646e2dd1d71c67e762732e.jpg",
-    "rating": "6.6",
-    "corner_tag": "",
-    "year": "2023",
-    "player_api_endpoint": "/api/stream/8388977201831627168?detail_path=xo-kitty-CxXcx1uBHZ9"
+    "year": "2011",
+    "player_api_endpoint": "/api/stream/4252505398181252912?detail_path=grimm-WX11jgew845"
   },
   {
     "title": "Naruto [English]",
@@ -718,16 +728,6 @@
     "corner_tag": "",
     "year": "2007",
     "player_api_endpoint": "/api/stream/3569304491382001728?detail_path=naruto-english-A0dBFa3sFf4"
-  },
-  {
-    "title": "Demon Slayer: Kimetsu no Yaiba",
-    "subject_id": "3619725132714887968",
-    "slug": "demon-slayer-kimetsu-no-yaiba-OpOlWPwnoj4",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/26/db9dcda1b31e0bfcd37bc302c1b3c552.jpg",
-    "rating": "8.6",
-    "corner_tag": "",
-    "year": "2021",
-    "player_api_endpoint": "/api/stream/3619725132714887968?detail_path=demon-slayer-kimetsu-no-yaiba-OpOlWPwnoj4"
   },
   {
     "title": "Empire",
@@ -750,24 +750,14 @@
     "player_api_endpoint": "/api/stream/1454644129677332272?detail_path=suits-mFneKDHhsJ1"
   },
   {
-    "title": "Shaka iLembe",
-    "subject_id": "7585839457308657496",
-    "slug": "shaka-ilembe-CNhm8EXdn29",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/07/31/e627178b44198564ad6ee2b9a76c8037.jpg",
-    "rating": "9.1",
+    "title": "Breaking Bad",
+    "subject_id": "6207982430134357800",
+    "slug": "breaking-bad-ej6Bp0MCAo7",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/03/30/bbe3def74e939ed9bd94d2b4f213023b.jpg",
+    "rating": "9.5",
     "corner_tag": "",
-    "year": "2023",
-    "player_api_endpoint": "/api/stream/7585839457308657496?detail_path=shaka-ilembe-CNhm8EXdn29"
-  },
-  {
-    "title": "Bridgerton",
-    "subject_id": "8992509766509417240",
-    "slug": "bridgerton-E4I97hZMhIa",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/26/7faad583c634d3e1280b4d1c491b1c0d.jpg",
-    "rating": "7.5",
-    "corner_tag": "",
-    "year": "2020",
-    "player_api_endpoint": "/api/stream/8992509766509417240?detail_path=bridgerton-E4I97hZMhIa"
+    "year": "2008",
+    "player_api_endpoint": "/api/stream/6207982430134357800?detail_path=breaking-bad-ej6Bp0MCAo7"
   },
   {
     "title": "The Family Business",
@@ -780,24 +770,24 @@
     "player_api_endpoint": "/api/stream/4108074495649403936?detail_path=the-family-business-O5KYeex1tT4"
   },
   {
-    "title": "Grown-ish",
-    "subject_id": "989894703648756768",
-    "slug": "grown-ish-oEQT6n9J7b1",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/22/5febd6e83ee4893fa3d45ded96f88e3f.jpg",
-    "rating": "6.6",
+    "title": "Legend of the Seeker",
+    "subject_id": "2683563877996056360",
+    "slug": "legend-of-the-seeker-AQBTTXyKec3",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/4f70fe071fca89f739edaff69a714f2f.jpg",
+    "rating": "7.6",
     "corner_tag": "",
-    "year": "2018",
-    "player_api_endpoint": "/api/stream/989894703648756768?detail_path=grown-ish-oEQT6n9J7b1"
+    "year": "2008",
+    "player_api_endpoint": "/api/stream/2683563877996056360?detail_path=legend-of-the-seeker-AQBTTXyKec3"
   },
   {
-    "title": "Attack on Titan",
-    "subject_id": "1975770531236301600",
-    "slug": "attack-on-titan-c0p85b63Xl2",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/2735770dff71711ed9ad492f40b5695d.jpg",
-    "rating": "9.1",
+    "title": "Agents of S.H.I.E.L.D.",
+    "subject_id": "932372975866648",
+    "slug": "agents-of-s-h-i-e-l-d-MaDkQWKg4",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/0548fd06bbe26f0da38de6f67e8d92d9.jpg",
+    "rating": "7.5",
     "corner_tag": "",
     "year": "2013",
-    "player_api_endpoint": "/api/stream/1975770531236301600?detail_path=attack-on-titan-c0p85b63Xl2"
+    "player_api_endpoint": "/api/stream/932372975866648?detail_path=agents-of-s-h-i-e-l-d-MaDkQWKg4"
   },
   {
     "title": "Black-ish",
@@ -820,36 +810,6 @@
     "player_api_endpoint": "/api/stream/4398741389568267296?detail_path=never-have-i-ever-Gl2rFTuhWe5"
   },
   {
-    "title": "The Legend of Korra",
-    "subject_id": "8288990199971989792",
-    "slug": "the-legend-of-korra-CTySJM6FjS9",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/8689548f52b8177ed99abe1fa4951ba8.jpg",
-    "rating": "8.3",
-    "corner_tag": "",
-    "year": "2012",
-    "player_api_endpoint": "/api/stream/8288990199971989792?detail_path=the-legend-of-korra-CTySJM6FjS9"
-  },
-  {
-    "title": "Solo Leveling",
-    "subject_id": "1295107631744466896",
-    "slug": "solo-leveling-IcfQ28CBFx1",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/22/3d0b32e29243622650e1ae30c0d81a91.jpg",
-    "rating": "8.5",
-    "corner_tag": "",
-    "year": "2024",
-    "player_api_endpoint": "/api/stream/1295107631744466896?detail_path=solo-leveling-IcfQ28CBFx1"
-  },
-  {
-    "title": "Ithonga",
-    "subject_id": "8546068815938043944",
-    "slug": "ithonga-Aumh5Zj5jba",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/29/a31ded970689d09114d00cf6f5c115d8.jpg",
-    "rating": "9.1",
-    "corner_tag": "",
-    "year": "2025",
-    "player_api_endpoint": "/api/stream/8546068815938043944?detail_path=ithonga-Aumh5Zj5jba"
-  },
-  {
     "title": "Cobra Kai",
     "subject_id": "8694788844073407520",
     "slug": "cobra-kai-88knLtXdima",
@@ -858,6 +818,16 @@
     "corner_tag": "",
     "year": "2018",
     "player_api_endpoint": "/api/stream/8694788844073407520?detail_path=cobra-kai-88knLtXdima"
+  },
+  {
+    "title": "The Boondocks",
+    "subject_id": "3670666773445101560",
+    "slug": "the-boondocks-4czqnZWG9n4",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/199c2ff7f99095ea9df9dbf6ddbf62e9.jpg",
+    "rating": "8.5",
+    "corner_tag": "",
+    "year": "2005",
+    "player_api_endpoint": "/api/stream/3670666773445101560?detail_path=the-boondocks-4czqnZWG9n4"
   },
   {
     "title": "High Potential",
@@ -870,23 +840,63 @@
     "player_api_endpoint": "/api/stream/8264471735991502064?detail_path=high-potential-8UqmEtPmvQ9"
   },
   {
-    "title": "Inimba",
-    "subject_id": "3285864451169305360",
-    "slug": "inimba-eHwbBjeiJU3",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/07/02/779855d0e04002c535064b41a555736b.jpeg",
-    "rating": "8.8",
+    "title": "Wura",
+    "subject_id": "3156319133801794232",
+    "slug": "wura-QId59msY9L3",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/28/3cd54de6a1da861dc098b2f3b6b831a6.jpg",
+    "rating": "6.9",
     "corner_tag": "",
-    "year": "2025",
-    "player_api_endpoint": "/api/stream/3285864451169305360?detail_path=inimba-eHwbBjeiJU3"
+    "year": "2023",
+    "player_api_endpoint": "/api/stream/3156319133801794232?detail_path=wura-QId59msY9L3"
   },
   {
-    "title": "Peaky Blinders",
-    "subject_id": "4006958073083480920",
-    "slug": "peaky-blinders-Ii0kbUrUZL4",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/10295919bb6d968ca4f1d424d08391da.jpg",
-    "rating": "8.7",
+    "title": "The Four Of Us",
+    "subject_id": "1786846550119830928",
+    "slug": "the-four-of-us-edt1Rx7MZ72",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/07/02/d8a4be0d3fee63430a9dbb1d21437c0a.jpeg",
+    "rating": "6.4",
     "corner_tag": "",
-    "year": "2014",
-    "player_api_endpoint": "/api/stream/4006958073083480920?detail_path=peaky-blinders-Ii0kbUrUZL4"
+    "year": "2026",
+    "player_api_endpoint": "/api/stream/1786846550119830928?detail_path=the-four-of-us-edt1Rx7MZ72"
+  },
+  {
+    "title": "Blood & Water",
+    "subject_id": "5571568452684370976",
+    "slug": "blood-and-water-cU5YJ2fQzD6",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/26/03c5f69d17e8e96e58ba378aaef8ee14.jpg",
+    "rating": "6.7",
+    "corner_tag": "",
+    "year": "2020",
+    "player_api_endpoint": "/api/stream/5571568452684370976?detail_path=blood-and-water-cU5YJ2fQzD6"
+  },
+  {
+    "title": "Jumong",
+    "subject_id": "2872082682098401232",
+    "slug": "jumong-gEQiheuaaq3",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/04/09/54b0bc334f59a9b3ab3265da9e1b64cd.jpg",
+    "rating": "8.1",
+    "corner_tag": "",
+    "year": "2006",
+    "player_api_endpoint": "/api/stream/2872082682098401232?detail_path=jumong-gEQiheuaaq3"
+  },
+  {
+    "title": "One Piece [netflix]",
+    "subject_id": "1216407338207298384",
+    "slug": "one-piece-netflix-qL3bmkP9Rr1",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/08/29/05635936c06ef862a50d59fd92565e47.jpg",
+    "rating": "8.3",
+    "corner_tag": "",
+    "year": "2023",
+    "player_api_endpoint": "/api/stream/1216407338207298384?detail_path=one-piece-netflix-qL3bmkP9Rr1"
+  },
+  {
+    "title": "Hidden Love",
+    "subject_id": "4351748582572180560",
+    "slug": "hidden-love-QK8d2bo3tb5",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/26/da77aef7f60b100d54dc1be3bfad1dac.jpg",
+    "rating": "8.6",
+    "corner_tag": "",
+    "year": "2023",
+    "player_api_endpoint": "/api/stream/4351748582572180560?detail_path=hidden-love-QK8d2bo3tb5"
   }
 ]
