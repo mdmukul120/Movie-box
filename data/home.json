@@ -3,7 +3,7 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 13,
+      "count": 12,
       "items": [
         {
           "name": "Beauty in Black  S3",
@@ -22,12 +22,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/2c61329512ec1a53164160483c454612.webp",
           "slug": "the-last-sunrise-a7PGMx5VlH6",
           "subject_id": "5622677105902242520"
-        },
-        {
-          "name": "Mutiny",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/20/f2becf7f708a8b261c4d1001bfa4c3c0.webp",
-          "slug": "mutiny-E6TlP0RKSY6",
-          "subject_id": "5859976759130620224"
         },
         {
           "name": "Outer Banks",
@@ -119,10 +113,10 @@
         },
         {
           "name": "Umthetho",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/29/99b02f6a630e16d42eaacb2f4f59040b.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/036d26104b6b34e7656707866a85b8b6.jpg",
           "slug": "umthetho-mL6Ua1F4uKa",
           "subject_id": "9022266259324424848",
-          "rating": "5.4"
+          "rating": "5.5"
         },
         {
           "name": "My Life with the Walter Boys",
@@ -184,7 +178,7 @@
     },
     {
       "section": "Popular Movie",
-      "count": 12,
+      "count": 11,
       "items": [
         {
           "name": "The Whisper Man",
@@ -192,13 +186,6 @@
           "slug": "the-whisper-man-AkT6dtuLbF7",
           "subject_id": "6432685097291767512",
           "rating": "6.8"
-        },
-        {
-          "name": "Mutiny",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/f6138874d99d120aa0510fd6f2c25549.jpg",
-          "slug": "mutiny-E6TlP0RKSY6",
-          "subject_id": "5859976759130620224",
-          "rating": "6.0"
         },
         {
           "name": "The Last Sunrise",
@@ -577,7 +564,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/29/2f80fcf26e64825823531130f0bf81a8.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/255aa1d5cf6c6a653689b4afb07cfd78.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -619,14 +606,14 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/29/47355b85c8dd750d2f874ce8840f3ca1.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/db4f7cdd7224c72b956aa6e9429c70a7.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/29/b6d119426b708a3d8e2ef781882f9acd.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/2d05c07a62f5c6663b1c7650285683d3.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -785,7 +772,7 @@
         },
         {
           "name": "Off Campus",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/29/863077c195ec8fb8cf5f288f8a7552fc.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/73f276b1f9100dcd7ef54ae12d134565.jpg",
           "slug": "off-campus-aP9MRcE3oqa",
           "subject_id": "8750210920061751384",
           "rating": "7.8"
@@ -1230,7 +1217,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/29/0c89140401ab263927b72e0445fece3e.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/68db8271741c214a9f0c8f0a67e4bc8a.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -1584,7 +1571,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/29/47355b85c8dd750d2f874ce8840f3ca1.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/db4f7cdd7224c72b956aa6e9429c70a7.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -1779,7 +1766,7 @@
         },
         {
           "name": "Naruto: Shippuden [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/56c166dc8ab736cf4a82d1ed6dc58c29.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/5b47dd1f066cc51485aa36a7fe4f6571.jpg",
           "slug": "naruto-shippuden-english-84CHPUIQj18",
           "subject_id": "6732266150736413040",
           "rating": "8.7"
@@ -2084,7 +2071,7 @@
       "items": [
         {
           "name": "Facing El Chapo [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/29/a0c21c27204d6cedd748aa08e68f39a4.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/e1052f9eca6d1108067de7b3172120ed.jpg",
           "slug": "facing-el-chapo-english-axYDc3YD5u",
           "subject_id": "407345050834850208",
           "rating": "6.7"
