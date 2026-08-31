@@ -113,7 +113,7 @@
         },
         {
           "name": "Umthetho",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/f6b6d86606af216016bf37e7f688bce4.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/c81a11f94ef9d0d51f4e11c120feb61e.jpg",
           "slug": "umthetho-mL6Ua1F4uKa",
           "subject_id": "9022266259324424848",
           "rating": "5.5"
@@ -564,7 +564,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/36a6f688b6605135fd7a8e2ef08b2cfd.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/d5f9538998105a4302caea657272f7fa.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -606,14 +606,14 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/64fedc4f134735e28d3548adf8aacf90.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/383e6afeaf9312b5f27c3d0f8bb27128.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/64fedc4f134735e28d3548adf8aacf90.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/5b7fbd963958873697564bd2c8f6250f.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -986,6 +986,20 @@
       "count": 20,
       "items": [
         {
+          "name": "You Maniac",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/dfd147d267b49ad669b9314bc84a1ae1.jpg",
+          "slug": "you-maniac-Q0ZLwhb6yG8",
+          "subject_id": "7290397896028442960",
+          "rating": "7.1"
+        },
+        {
+          "name": "Mr. Fanboy",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/3e00ec0d05e1ca5e146250f440a7e88f.jpg",
+          "slug": "mr-fanboy-E6DHbmxYT48",
+          "subject_id": "6780765170550952464",
+          "rating": "6.4"
+        },
+        {
           "name": "Nour",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/42a2d117e5dcc8c98c73fef12e4d7e73.jpg",
           "slug": "nour-gI252dSJDa",
@@ -1110,20 +1124,6 @@
           "slug": "be-my-player-two-m5ZZBZkewMa",
           "subject_id": "9049811191337568008",
           "rating": "6.4"
-        },
-        {
-          "name": "Painter of the Night",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/14/828b8818cc39762d3cf13519d55bc17c.jpg",
-          "slug": "painter-of-the-night-8GBDSjm92j4",
-          "subject_id": "3614871750414062480",
-          "rating": "6.4"
-        },
-        {
-          "name": "A Dog and a Plane",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/f537116a6131c79544d92773fcd2269b.jpg",
-          "slug": "a-dog-and-a-plane-OFkSbNN2iT5",
-          "subject_id": "4944976582793478288",
-          "rating": "8.5"
         }
       ]
     },
@@ -1217,7 +1217,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/f1757d5685c96b82ca152484ef2ff1dd.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/df1ac75e525b80aa872a16625593000a.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -1571,7 +1571,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/64fedc4f134735e28d3548adf8aacf90.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/383e6afeaf9312b5f27c3d0f8bb27128.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -1799,6 +1799,13 @@
           "rating": "6.1"
         },
         {
+          "name": "Four Hands, Two Sonatas",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/b84deef1dc4027f4bc312c35eec57119.jpg",
+          "slug": "four-hands-two-sonatas-cwxtxxOsgp4",
+          "subject_id": "3699219544767103960",
+          "rating": "9.0"
+        },
+        {
           "name": "Our Sticky Love",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/77042f419bcfd4cbaf5d429d4e34c009.jpg",
           "slug": "our-sticky-love-UqJcKTRWXF7",
@@ -1909,13 +1916,6 @@
           "slug": "doctor-on-the-edge-EGz1AWsEG34",
           "subject_id": "3407121516205589720",
           "rating": "7.0"
-        },
-        {
-          "name": "Family Register",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/25/23bd314d57f9cd0d65409e16f844903c.jpg",
-          "slug": "family-register-oE2DwZKKvF5",
-          "subject_id": "4758450584460611448",
-          "rating": "6.7"
         }
       ]
     },
@@ -2071,7 +2071,7 @@
       "items": [
         {
           "name": "Facing El Chapo [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/99226eb9258f76719e77fcc8790ddad4.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/3371a8ca08676d1626f9de0204e905f4.jpg",
           "slug": "facing-el-chapo-english-axYDc3YD5u",
           "subject_id": "407345050834850208",
           "rating": "6.7"
@@ -2502,7 +2502,7 @@
         },
         {
           "name": "Reasonable Doubt",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/23a484c2c237673b79326ee6a48c2670.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/82b4558d55fff7af6e6e91b7a2cb3413.jpg",
           "slug": "reasonable-doubt-ijJ0E6WFGla",
           "subject_id": "8686590447290045472",
           "rating": "6.7"
