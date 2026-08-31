@@ -3,8 +3,14 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 12,
+      "count": 8,
       "items": [
+        {
+          "name": "The Mongoose",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/34d81f2f75833fcf1fa903e72f4c8a73.png",
+          "slug": "the-mongoose-EW7unqgKUE",
+          "subject_id": "553873435005440912"
+        },
         {
           "name": "Beauty in Black  S3",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/833adf4ea89155e719198f4665e5fc09.jpg",
@@ -30,40 +36,10 @@
           "subject_id": "4087993015279702808"
         },
         {
-          "name": "Average Joe",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/20/676d6e66707f9a080841ca321f94de68.webp",
-          "slug": "average-joe-Cp7iesmcza9",
-          "subject_id": "7696750596816532640"
-        },
-        {
-          "name": "Diarra from Detroit",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/20/4c4d5bafee3bf5490539499146404513.webp",
-          "slug": "diarra-from-detroit-etToo06wv76",
-          "subject_id": "5137437377136395312"
-        },
-        {
           "name": "Reacher Season 4",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/327f286fab2ce911b726969035482723.png",
           "slug": "reacher-e1nw56h5sj4",
           "subject_id": "3620534210064175096"
-        },
-        {
-          "name": "Sterling Point",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/515b48885e6bc55b64b3e01cad699ffa.png",
-          "slug": "sterling-point-MaXarsHFNM3",
-          "subject_id": "3178523771661606824"
-        },
-        {
-          "name": "Our Sticky Love",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/07/329fd3564d1026a3693c28b6aab0ca06.png",
-          "slug": "our-sticky-love-english-aFWDVwPuHl2",
-          "subject_id": "1972374749166588664"
-        },
-        {
-          "name": "My Life with the Walter Boys Season3",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/06/6f502931567f6fdb9a9942a244fb6c53.png",
-          "slug": "my-life-with-the-walter-boys-KTgL0dWzKF3",
-          "subject_id": "3083088853704605864"
         },
         {
           "name": "Mushoku Tensei: Jobless Reincarnation [English]",
@@ -98,13 +74,6 @@
           "rating": "8.0"
         },
         {
-          "name": "Mousetrap [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/23/28f5b329ebb289d691b019e6f47d7687.jpg",
-          "slug": "mousetrap-english-4ia2OQBkDT7",
-          "subject_id": "6628223167519768920",
-          "rating": "6.1"
-        },
-        {
           "name": "Outer Banks",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/7cf0e17037183e11efc82120eea60b3b.jpg",
           "slug": "outer-banks-YWAQovb3ZR4",
@@ -113,10 +82,17 @@
         },
         {
           "name": "Umthetho",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/c81a11f94ef9d0d51f4e11c120feb61e.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/b1f3516702318e8d863840a9f9a8e913.jpg",
           "slug": "umthetho-mL6Ua1F4uKa",
           "subject_id": "9022266259324424848",
           "rating": "5.5"
+        },
+        {
+          "name": "Mousetrap [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/23/28f5b329ebb289d691b019e6f47d7687.jpg",
+          "slug": "mousetrap-english-4ia2OQBkDT7",
+          "subject_id": "6628223167519768920",
+          "rating": "6.1"
         },
         {
           "name": "My Life with the Walter Boys",
@@ -181,11 +157,11 @@
       "count": 11,
       "items": [
         {
-          "name": "The Whisper Man",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/8e033965faf4fc07c344066189e022e9.jpg",
-          "slug": "the-whisper-man-AkT6dtuLbF7",
-          "subject_id": "6432685097291767512",
-          "rating": "6.8"
+          "name": "The Mongoose",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/16/401ada6d96f8e744e77d89bf5e80f52d.jpg",
+          "slug": "the-mongoose-EW7unqgKUE",
+          "subject_id": "553873435005440912",
+          "rating": "6.6"
         },
         {
           "name": "The Last Sunrise",
@@ -193,6 +169,13 @@
           "slug": "the-last-sunrise-a7PGMx5VlH6",
           "subject_id": "5622677105902242520",
           "rating": "6.5"
+        },
+        {
+          "name": "The Whisper Man",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/8e033965faf4fc07c344066189e022e9.jpg",
+          "slug": "the-whisper-man-AkT6dtuLbF7",
+          "subject_id": "6432685097291767512",
+          "rating": "6.8"
         },
         {
           "name": "The Last House",
@@ -249,13 +232,6 @@
           "slug": "the-furious-6lxRH1LLAe5",
           "subject_id": "4394044471852286152",
           "rating": "7.4"
-        },
-        {
-          "name": "Man of War",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/23/0708453d1a3fe1d3cb9f71a6cfd01d16.jpg",
-          "slug": "man-of-war-8yTewd1tMo9",
-          "subject_id": "7889166891003397584",
-          "rating": "5.2"
         }
       ]
     },
@@ -263,6 +239,20 @@
       "section": "Nollywood Movie",
       "count": 17,
       "items": [
+        {
+          "name": "CLASS CHARACTER",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/28/b567f875e5521ce757a154fd72071989.jpg",
+          "slug": "class-character-IqGa7rdL527",
+          "subject_id": "5903427713829954720",
+          "rating": "0"
+        },
+        {
+          "name": "THE BRIDE SWITCH",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/28/20c5bba39558372bac4a6cca39e0eb51.jpg",
+          "slug": "the-bride-switch-er2J145VRA",
+          "subject_id": "499108160985260936",
+          "rating": "0"
+        },
         {
           "name": "ONCE UPON A VILLAGE 4",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/b0193f260a167beaea512f0c81e7297a.jpg",
@@ -367,20 +357,6 @@
           "slug": "okanjuwa-utnW09SWhFa",
           "subject_id": "8951933317994141456",
           "rating": "7.1"
-        },
-        {
-          "name": "SIBE THE MOVIE",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/25/eca380418ea32060b7768985cf31f586.jpg",
-          "slug": "sibe-the-movie-oOhwTDBOHia",
-          "subject_id": "8646228059944897608",
-          "rating": "0"
-        },
-        {
-          "name": "Love & New Notes",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/09/2dcad69ebcda98000a4b7875775748d1.jpeg",
-          "slug": "love-and-new-notes-0Qg7h6YdL34",
-          "subject_id": "3408119902828385136",
-          "rating": "6.0"
         }
       ]
     },
@@ -606,14 +582,14 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/383e6afeaf9312b5f27c3d0f8bb27128.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/f6c039164cd73b87b0265f72f8de2d6a.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/5b7fbd963958873697564bd2c8f6250f.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/b33d8b664ffc555a2b17c25ba46a1eed.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -1571,7 +1547,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/383e6afeaf9312b5f27c3d0f8bb27128.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/f6c039164cd73b87b0265f72f8de2d6a.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -1688,6 +1664,13 @@
           "rating": "9.0"
         },
         {
+          "name": "Bleach: Thousand-Year Blood War [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/dfb652a2ab5dbad1ab05172bb471f0e2.jpg",
+          "slug": "bleach-thousand-year-blood-war-english-IKoyJ28zSi8",
+          "subject_id": "6969976563899551152",
+          "rating": "9.0"
+        },
+        {
           "name": "Mushoku Tensei: Jobless Reincarnation [English]",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/29/165b9b02ef1077859684cc7e985f93c9.jpg",
           "slug": "mushoku-tensei-jobless-reincarnation-english-wU27nPdjoc8",
@@ -1700,13 +1683,6 @@
           "slug": "tomb-raider-king-english-U6jocrpvXf6",
           "subject_id": "5251845174610881368",
           "rating": "6.4"
-        },
-        {
-          "name": "Bleach: Thousand-Year Blood War [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/dfb652a2ab5dbad1ab05172bb471f0e2.jpg",
-          "slug": "bleach-thousand-year-blood-war-english-IKoyJ28zSi8",
-          "subject_id": "6969976563899551152",
-          "rating": "9.0"
         },
         {
           "name": "Baki-Dou: The Invincible Samurai [English]",
@@ -2071,7 +2047,7 @@
       "items": [
         {
           "name": "Facing El Chapo [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/3371a8ca08676d1626f9de0204e905f4.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/95f71927b444c7d2ec229de34dea5740.jpg",
           "slug": "facing-el-chapo-english-axYDc3YD5u",
           "subject_id": "407345050834850208",
           "rating": "6.7"
