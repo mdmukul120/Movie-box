@@ -3,8 +3,20 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 8,
+      "count": 10,
       "items": [
+        {
+          "name": "Just Play Dead",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/7d008968291e992906d7207b1d4da7f2.webp",
+          "slug": "just-play-dead-QonHH9LbMH2",
+          "subject_id": "2271215194556744920"
+        },
+        {
+          "name": "The Weight",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/be612efa85540f2c66905db0d7988cb8.jpeg",
+          "slug": "the-weight-GDJDd7qHo54",
+          "subject_id": "3430275971587400712"
+        },
         {
           "name": "The Mongoose",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/34d81f2f75833fcf1fa903e72f4c8a73.png",
@@ -82,7 +94,7 @@
         },
         {
           "name": "Umthetho",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/0e6eedf5d9f1aac32d1cf41e61125f77.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/77c952974b8d25c39dd62b4fef1deef2.jpg",
           "slug": "umthetho-mL6Ua1F4uKa",
           "subject_id": "9022266259324424848",
           "rating": "5.5"
@@ -164,6 +176,20 @@
       "count": 11,
       "items": [
         {
+          "name": "Just Play Dead",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/e3deec98a048ee2af96e39431616cc14.jpg",
+          "slug": "just-play-dead-QonHH9LbMH2",
+          "subject_id": "2271215194556744920",
+          "rating": "7.5"
+        },
+        {
+          "name": "The Weight",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/59b73e5ae970354c4dd82b577af3be58.jpg",
+          "slug": "the-weight-GDJDd7qHo54",
+          "subject_id": "3430275971587400712",
+          "rating": "7.3"
+        },
+        {
           "name": "The Mongoose",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/16/401ada6d96f8e744e77d89bf5e80f52d.jpg",
           "slug": "the-mongoose-EW7unqgKUE",
@@ -225,20 +251,6 @@
           "slug": "the-bay-AOQzLfHZUe7",
           "subject_id": "6077059093984959048",
           "rating": "6.9"
-        },
-        {
-          "name": "Descendants: Wicked Wonderland",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/22/60160d199792688f656ad63af137827d.jpg",
-          "slug": "descendants-wicked-wonderland-aTLg1X0aQ91",
-          "subject_id": "972522100491799624",
-          "rating": "5.4"
-        },
-        {
-          "name": "The Furious",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/b6af8e3269563c85828beb0a6a268c4c.jpg",
-          "slug": "the-furious-6lxRH1LLAe5",
-          "subject_id": "4394044471852286152",
-          "rating": "7.4"
         }
       ]
     },
@@ -554,7 +566,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/efd1645fe95b5565783744c94758bba8.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/5247ed7b2217505b2d367d9e1a9eacd2.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -596,14 +608,14 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/4ca4d2f445d91c77b702154801554f4a.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/f8d701a7020a8d0949439697934cda8b.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/7208d9e6415734d4a1b24ac260912d88.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/e327de0fc60d93a158b299122ca81026.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -1207,7 +1219,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/0779f7aa03867f66ce4b756e7ac9022b.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/3f47e79705913a53413058d9b7cf8357.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -1561,7 +1573,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/4ca4d2f445d91c77b702154801554f4a.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/f8d701a7020a8d0949439697934cda8b.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -1789,18 +1801,25 @@
           "rating": "6.9"
         },
         {
-          "name": "Four Hands, Two Sonatas",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/b84deef1dc4027f4bc312c35eec57119.jpg",
-          "slug": "four-hands-two-sonatas-cwxtxxOsgp4",
-          "subject_id": "3699219544767103960",
-          "rating": "9.0"
-        },
-        {
           "name": "Our Sticky Love",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/53f2a495bb094cab1b22f960224620d4.jpg",
           "slug": "our-sticky-love-UqJcKTRWXF7",
           "subject_id": "6443205490834393880",
           "rating": "7.5"
+        },
+        {
+          "name": "My Bias, My Boss",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/8c5bdd75df5c47066e24c742ee05ccec.jpg",
+          "slug": "my-bias-my-boss-WLJPOXtbR62",
+          "subject_id": "1771433716380746040",
+          "rating": "7.6"
+        },
+        {
+          "name": "Four Hands, Two Sonatas",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/b84deef1dc4027f4bc312c35eec57119.jpg",
+          "slug": "four-hands-two-sonatas-cwxtxxOsgp4",
+          "subject_id": "3699219544767103960",
+          "rating": "9.0"
         },
         {
           "name": "A Bona Fide Killer",
@@ -1822,13 +1841,6 @@
           "slug": "dream-to-you-q58DzFkBgo6",
           "subject_id": "5364311187842810056",
           "rating": "7.0"
-        },
-        {
-          "name": "My Bias, My Boss",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/8c5bdd75df5c47066e24c742ee05ccec.jpg",
-          "slug": "my-bias-my-boss-WLJPOXtbR62",
-          "subject_id": "1771433716380746040",
-          "rating": "7.6"
         },
         {
           "name": "OK! Let's Get Divorced",
@@ -2057,11 +2069,32 @@
     },
     {
       "section": "Action Movies",
-      "count": 19,
+      "count": 17,
       "items": [
         {
+          "name": "Just Play Dead",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/e3deec98a048ee2af96e39431616cc14.jpg",
+          "slug": "just-play-dead-QonHH9LbMH2",
+          "subject_id": "2271215194556744920",
+          "rating": "7.5"
+        },
+        {
+          "name": "The Mongoose",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/16/401ada6d96f8e744e77d89bf5e80f52d.jpg",
+          "slug": "the-mongoose-EW7unqgKUE",
+          "subject_id": "553873435005440912",
+          "rating": "6.6"
+        },
+        {
+          "name": "The Weight",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/59b73e5ae970354c4dd82b577af3be58.jpg",
+          "slug": "the-weight-GDJDd7qHo54",
+          "subject_id": "3430275971587400712",
+          "rating": "7.3"
+        },
+        {
           "name": "Facing El Chapo [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/e73f34c28f89ac35550e7b6f60d748e5.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/8fa74a0be3870d8837012c6318562021.jpg",
           "slug": "facing-el-chapo-english-axYDc3YD5u",
           "subject_id": "407345050834850208",
           "rating": "6.7"
@@ -2156,41 +2189,6 @@
           "slug": "the-get-out-skFOsE670A9",
           "subject_id": "8041054437655332808",
           "rating": "6.1"
-        },
-        {
-          "name": "Mortal Kombat",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2022/09/02/f26887190321f7c48e32e4d3af583ff9.jpg",
-          "slug": "mortal-kombat-0ISdrp8hJl3",
-          "subject_id": "2812062564983656232",
-          "rating": "6.1"
-        },
-        {
-          "name": "In the Grey",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/28/18e2b949339ba8b44c0e87c6e6fb3e10.jpg",
-          "slug": "in-the-grey-wYwNECerQ67",
-          "subject_id": "5967767680059949152",
-          "rating": "6.3"
-        },
-        {
-          "name": "Seven Snipers",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/28/5420557c0d852fbe1c6e42f5c78d6eaa.jpg",
-          "slug": "seven-snipers-Iy44H4ZN803",
-          "subject_id": "2519820846680659272",
-          "rating": "4.4"
-        },
-        {
-          "name": "Blades of the Guardians",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/31/cf808c1350338af9dc221ff08923ea33.jpg",
-          "slug": "blades-of-the-guardians-mR5Km7nt5V8",
-          "subject_id": "7487204000589662032",
-          "rating": "6.8"
-        },
-        {
-          "name": "One Spoon of Chocolate",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/724d68ec4a5d66febb849243e71a951f.jpg",
-          "slug": "one-spoon-of-chocolate-ajluWqdVZv4",
-          "subject_id": "3790367387967538984",
-          "rating": "5.3"
         }
       ]
     },
