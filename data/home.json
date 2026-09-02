@@ -3,8 +3,14 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 10,
+      "count": 11,
       "items": [
+        {
+          "name": "The Runner",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/e47448fe2452e3e722d9da989e3f45ca.webp",
+          "slug": "the-runner-McIeQZEGPQ",
+          "subject_id": "715214082269397240"
+        },
         {
           "name": "Just Play Dead",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/7d008968291e992906d7207b1d4da7f2.webp",
@@ -94,7 +100,7 @@
         },
         {
           "name": "Umthetho",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/c35bd58df25fecb3f170f7013e9c6409.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/a588c299a7d88343552aa4f9b38ef558.jpg",
           "slug": "umthetho-mL6Ua1F4uKa",
           "subject_id": "9022266259324424848",
           "rating": "5.5"
@@ -176,6 +182,13 @@
       "count": 11,
       "items": [
         {
+          "name": "The Runner",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/dd255bf9579ee58dcfb1667dc805acb8.jpg",
+          "slug": "the-runner-McIeQZEGPQ",
+          "subject_id": "715214082269397240",
+          "rating": "6.5"
+        },
+        {
           "name": "Just Play Dead",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/78c989697a5f1982ee9306fdf70e41d6.jpg",
           "slug": "just-play-dead-QonHH9LbMH2",
@@ -183,18 +196,18 @@
           "rating": "5.8"
         },
         {
-          "name": "The Weight",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/319321605ec477ca141cdeced45a477d.jpg",
-          "slug": "the-weight-GDJDd7qHo54",
-          "subject_id": "3430275971587400712",
-          "rating": "7.3"
-        },
-        {
           "name": "The Mongoose",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/16/401ada6d96f8e744e77d89bf5e80f52d.jpg",
           "slug": "the-mongoose-EW7unqgKUE",
           "subject_id": "553873435005440912",
           "rating": "6.6"
+        },
+        {
+          "name": "The Weight",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/319321605ec477ca141cdeced45a477d.jpg",
+          "slug": "the-weight-GDJDd7qHo54",
+          "subject_id": "3430275971587400712",
+          "rating": "7.3"
         },
         {
           "name": "The Last Sunrise",
@@ -244,13 +257,6 @@
           "slug": "star-wars-the-mandalorian-and-grogu-G96geTTsHA7",
           "subject_id": "6371921081103962288",
           "rating": "6.8"
-        },
-        {
-          "name": "The Bay",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/17/8cb94013a82c29405b5cfdc7b481dccc.jpg",
-          "slug": "the-bay-AOQzLfHZUe7",
-          "subject_id": "6077059093984959048",
-          "rating": "6.9"
         }
       ]
     },
@@ -520,7 +526,7 @@
     },
     {
       "section": "Epic Fantasy",
-      "count": 16,
+      "count": 15,
       "items": [
         {
           "name": "The Lord of the Rings: The Rings of Power",
@@ -608,14 +614,14 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/99a6206d8cd482a455e6fa58e878d81e.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/8f04e30a82f3cd2e6800b9eabcdea9a9.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/14efcdd09be41b0516de05576564ee90.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/ec7bda8c5b36de040e68a4b83901500c.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -626,13 +632,6 @@
           "slug": "shadow-and-bone-4eavUoepm63",
           "subject_id": "2604012957596013336",
           "rating": "7.5"
-        },
-        {
-          "name": "Legend of the Seeker",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/4f70fe071fca89f739edaff69a714f2f.jpg",
-          "slug": "legend-of-the-seeker-AQBTTXyKec3",
-          "subject_id": "2683563877996056360",
-          "rating": "7.6"
         }
       ]
     },
@@ -1573,7 +1572,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/99a6206d8cd482a455e6fa58e878d81e.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/8f04e30a82f3cd2e6800b9eabcdea9a9.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -2094,7 +2093,7 @@
         },
         {
           "name": "Facing El Chapo [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/af390146b6ecaa84eec65a604e2d6bbf.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/2e3f01d58d70053738d0ea5c43249743.jpg",
           "slug": "facing-el-chapo-english-axYDc3YD5u",
           "subject_id": "407345050834850208",
           "rating": "6.7"
