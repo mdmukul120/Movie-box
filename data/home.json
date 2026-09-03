@@ -6,6 +6,12 @@
       "count": 11,
       "items": [
         {
+          "name": "The Gentlemen S2",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/6670bf7210192a3287d7792466c39156.png",
+          "slug": "the-gentlemen-efKGpux2bB4",
+          "subject_id": "3860480352347113768"
+        },
+        {
           "name": "The Runner",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/e47448fe2452e3e722d9da989e3f45ca.webp",
           "slug": "the-runner-McIeQZEGPQ",
@@ -36,28 +42,22 @@
           "subject_id": "5904172458474619680"
         },
         {
+          "name": "Reacher Season 4",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/327f286fab2ce911b726969035482723.png",
+          "slug": "reacher-e1nw56h5sj4",
+          "subject_id": "3620534210064175096"
+        },
+        {
           "name": "Mousetrap [English]",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/28/24a49fa86edb0b5d406f35180167dbfe.webp",
           "slug": "mousetrap-english-4ia2OQBkDT7",
           "subject_id": "6628223167519768920"
         },
         {
-          "name": "The Last Sunrise",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/2c61329512ec1a53164160483c454612.webp",
-          "slug": "the-last-sunrise-a7PGMx5VlH6",
-          "subject_id": "5622677105902242520"
-        },
-        {
           "name": "Outer Banks",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/21/5549f0a4fb0847737bfecd82cbefbfa8.webp",
           "slug": "outer-banks-YWAQovb3ZR4",
           "subject_id": "4087993015279702808"
-        },
-        {
-          "name": "Reacher Season 4",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/327f286fab2ce911b726969035482723.png",
-          "slug": "reacher-e1nw56h5sj4",
-          "subject_id": "3620534210064175096"
         },
         {
           "name": "Bleach: Thousand-Year Blood War - The Calamity season 4",
@@ -75,7 +75,7 @@
     },
     {
       "section": "Popular Series",
-      "count": 14,
+      "count": 15,
       "items": [
         {
           "name": "Beauty in Black",
@@ -89,6 +89,13 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/29/f8b88ce8766279c25734425c662fc44a.jpg",
           "slug": "reacher-e1nw56h5sj4",
           "subject_id": "3620534210064175096",
+          "rating": "8.0"
+        },
+        {
+          "name": "The Gentlemen",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/29/648c5ea8e91d500304515298968978d8.jpg",
+          "slug": "the-gentlemen-efKGpux2bB4",
+          "subject_id": "3860480352347113768",
           "rating": "8.0"
         },
         {
@@ -1086,7 +1093,7 @@
         },
         {
           "name": "Gelboys",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/c3309742cb2b9fa3dd58f7d361976c8c.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/94d449ce9d83293678f777214b499032.jpg",
           "slug": "gelboys-IAR9vlurJAa",
           "subject_id": "8890250886400852416",
           "rating": "8.4"
@@ -1685,117 +1692,6 @@
       ]
     },
     {
-      "section": "Anime[English Dubbed]",
-      "count": 15,
-      "items": [
-        {
-          "name": "One Piece [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/24/ce5f39e3e79ed6554fd4a20b05e2ae56.jpg",
-          "slug": "one-piece-english-OJafGbGekK4",
-          "subject_id": "3984321945629247112",
-          "rating": "9.0"
-        },
-        {
-          "name": "Bleach: Thousand-Year Blood War [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/dfb652a2ab5dbad1ab05172bb471f0e2.jpg",
-          "slug": "bleach-thousand-year-blood-war-english-IKoyJ28zSi8",
-          "subject_id": "6969976563899551152",
-          "rating": "9.0"
-        },
-        {
-          "name": "Mushoku Tensei: Jobless Reincarnation [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/29/165b9b02ef1077859684cc7e985f93c9.jpg",
-          "slug": "mushoku-tensei-jobless-reincarnation-english-wU27nPdjoc8",
-          "subject_id": "6882147824180812112",
-          "rating": "8.2"
-        },
-        {
-          "name": "Tomb Raider King [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/4a5287e2fa8cfe65b8376dbf7268e4fb.jpg",
-          "slug": "tomb-raider-king-english-U6jocrpvXf6",
-          "subject_id": "5251845174610881368",
-          "rating": "6.3"
-        },
-        {
-          "name": "Baki-Dou: The Invincible Samurai [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/4f51904a0d522a77e38cf1efa39474cf.jpg",
-          "slug": "baki-dou-the-invincible-samurai-english-Y4VQfk2CWq3",
-          "subject_id": "2882660027444218216",
-          "rating": "6.0"
-        },
-        {
-          "name": "Black Clover [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2024/04/15/386a86ed69fea9bcb84146ae4ef90c98.jpg",
-          "slug": "black-clover-english-4Q7h8lHl4T8",
-          "subject_id": "7459884463091499088",
-          "rating": "7.1"
-        },
-        {
-          "name": "Demon Slayer: Kimetsu no Yaiba [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/db9dcda1b31e0bfcd37bc302c1b3c552.jpg",
-          "slug": "demon-slayer-kimetsu-no-yaiba-english-cK8E2dUTaC8",
-          "subject_id": "7231184498325966096",
-          "rating": "8.6"
-        },
-        {
-          "name": "Jujutsu Kaisen [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/bc9427603613c8c9c239a85b2bbc552b.jpg",
-          "slug": "jujutsu-kaisen-english-KD0jSM9ot5",
-          "subject_id": "74102370522777768",
-          "rating": "8.5"
-        },
-        {
-          "name": "Attack on Titan [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/2735770dff71711ed9ad492f40b5695d.jpg",
-          "slug": "attack-on-titan-english-6lPl9A2Wn1a",
-          "subject_id": "8411756968024720848",
-          "rating": "9.1"
-        },
-        {
-          "name": "Solo Leveling [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/29/c316f3ad74b7d92c27601c63b0f48bb8.jpg",
-          "slug": "solo-leveling-english-mn2tT8k2Ne3",
-          "subject_id": "2718124161808976184",
-          "rating": "8.5"
-        },
-        {
-          "name": "Bleach [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/3b8cae098dcee14bcd8f00c8ab0b5261.jpg",
-          "slug": "bleach-english-kiMESBgMCd3",
-          "subject_id": "2702347127728095920",
-          "rating": "8.2"
-        },
-        {
-          "name": "My Hero Academia [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/17/bc67e03e7c319b6f02a94db7f51b6166.jpg",
-          "slug": "my-hero-academia-english-iB4F0KPk0j2",
-          "subject_id": "1935876747371726288",
-          "rating": "8.2"
-        },
-        {
-          "name": "Naruto: Shippuden [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/b91b67b6bece84f546f8a2a01dc712b8.jpg",
-          "slug": "naruto-shippuden-english-84CHPUIQj18",
-          "subject_id": "6732266150736413040",
-          "rating": "8.7"
-        },
-        {
-          "name": "Naruto [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/a8c30c08d21f108d2c9b25fa06df81dd.jpg",
-          "slug": "naruto-english-A0dBFa3sFf4",
-          "subject_id": "3569304491382001728",
-          "rating": "8.4"
-        },
-        {
-          "name": "Boruto: Naruto Next Generations [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/b4aa4fb1757cbbc7d49f6e16b9260e10.jpg",
-          "slug": "boruto-naruto-next-generations-english-8ccmtlY4MD8",
-          "subject_id": "7252839141464228512",
-          "rating": "6.3"
-        }
-      ]
-    },
-    {
       "section": "K-Drama",
       "count": 18,
       "items": [
@@ -2070,6 +1966,117 @@
           "slug": "ashes-to-crown-KLIwltwfb66",
           "subject_id": "5119475124361642096",
           "rating": "6.7"
+        }
+      ]
+    },
+    {
+      "section": "Anime[English Dubbed]",
+      "count": 15,
+      "items": [
+        {
+          "name": "One Piece [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/24/ce5f39e3e79ed6554fd4a20b05e2ae56.jpg",
+          "slug": "one-piece-english-OJafGbGekK4",
+          "subject_id": "3984321945629247112",
+          "rating": "9.0"
+        },
+        {
+          "name": "Bleach: Thousand-Year Blood War [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/dfb652a2ab5dbad1ab05172bb471f0e2.jpg",
+          "slug": "bleach-thousand-year-blood-war-english-IKoyJ28zSi8",
+          "subject_id": "6969976563899551152",
+          "rating": "9.0"
+        },
+        {
+          "name": "Mushoku Tensei: Jobless Reincarnation [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/29/165b9b02ef1077859684cc7e985f93c9.jpg",
+          "slug": "mushoku-tensei-jobless-reincarnation-english-wU27nPdjoc8",
+          "subject_id": "6882147824180812112",
+          "rating": "8.2"
+        },
+        {
+          "name": "Tomb Raider King [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/4a5287e2fa8cfe65b8376dbf7268e4fb.jpg",
+          "slug": "tomb-raider-king-english-U6jocrpvXf6",
+          "subject_id": "5251845174610881368",
+          "rating": "6.3"
+        },
+        {
+          "name": "Baki-Dou: The Invincible Samurai [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/4f51904a0d522a77e38cf1efa39474cf.jpg",
+          "slug": "baki-dou-the-invincible-samurai-english-Y4VQfk2CWq3",
+          "subject_id": "2882660027444218216",
+          "rating": "6.0"
+        },
+        {
+          "name": "Black Clover [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2024/04/15/386a86ed69fea9bcb84146ae4ef90c98.jpg",
+          "slug": "black-clover-english-4Q7h8lHl4T8",
+          "subject_id": "7459884463091499088",
+          "rating": "7.1"
+        },
+        {
+          "name": "Demon Slayer: Kimetsu no Yaiba [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/db9dcda1b31e0bfcd37bc302c1b3c552.jpg",
+          "slug": "demon-slayer-kimetsu-no-yaiba-english-cK8E2dUTaC8",
+          "subject_id": "7231184498325966096",
+          "rating": "8.6"
+        },
+        {
+          "name": "Jujutsu Kaisen [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/bc9427603613c8c9c239a85b2bbc552b.jpg",
+          "slug": "jujutsu-kaisen-english-KD0jSM9ot5",
+          "subject_id": "74102370522777768",
+          "rating": "8.5"
+        },
+        {
+          "name": "Attack on Titan [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/2735770dff71711ed9ad492f40b5695d.jpg",
+          "slug": "attack-on-titan-english-6lPl9A2Wn1a",
+          "subject_id": "8411756968024720848",
+          "rating": "9.1"
+        },
+        {
+          "name": "Solo Leveling [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/29/c316f3ad74b7d92c27601c63b0f48bb8.jpg",
+          "slug": "solo-leveling-english-mn2tT8k2Ne3",
+          "subject_id": "2718124161808976184",
+          "rating": "8.5"
+        },
+        {
+          "name": "Bleach [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/3b8cae098dcee14bcd8f00c8ab0b5261.jpg",
+          "slug": "bleach-english-kiMESBgMCd3",
+          "subject_id": "2702347127728095920",
+          "rating": "8.2"
+        },
+        {
+          "name": "My Hero Academia [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/17/bc67e03e7c319b6f02a94db7f51b6166.jpg",
+          "slug": "my-hero-academia-english-iB4F0KPk0j2",
+          "subject_id": "1935876747371726288",
+          "rating": "8.2"
+        },
+        {
+          "name": "Naruto: Shippuden [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/30/b91b67b6bece84f546f8a2a01dc712b8.jpg",
+          "slug": "naruto-shippuden-english-84CHPUIQj18",
+          "subject_id": "6732266150736413040",
+          "rating": "8.7"
+        },
+        {
+          "name": "Naruto [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/a8c30c08d21f108d2c9b25fa06df81dd.jpg",
+          "slug": "naruto-english-A0dBFa3sFf4",
+          "subject_id": "3569304491382001728",
+          "rating": "8.4"
+        },
+        {
+          "name": "Boruto: Naruto Next Generations [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/b4aa4fb1757cbbc7d49f6e16b9260e10.jpg",
+          "slug": "boruto-naruto-next-generations-english-8ccmtlY4MD8",
+          "subject_id": "7252839141464228512",
+          "rating": "6.3"
         }
       ]
     },
