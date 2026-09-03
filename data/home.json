@@ -100,7 +100,7 @@
         },
         {
           "name": "Umthetho",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/dabf57c88086f092773571804bed7c44.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/a07f68f7f7dce90d392f5fa332e78f3f.jpg",
           "slug": "umthetho-mL6Ua1F4uKa",
           "subject_id": "9022266259324424848",
           "rating": "5.5"
@@ -262,8 +262,15 @@
     },
     {
       "section": "Nollywood Movie",
-      "count": 18,
+      "count": 19,
       "items": [
+        {
+          "name": "MAN OF MY DREAM",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/25e2292884694b52fe2608f4560d2d7f.jpg",
+          "slug": "man-of-my-dream-a5sZpQtGyK3",
+          "subject_id": "3148177245366284824",
+          "rating": "0"
+        },
         {
           "name": "ECHOES OF DESIRE",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/440b2db17152044b12d5a98d3324af8f.jpg",
@@ -614,14 +621,14 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/e06086398f05c9b0e50fd92ed95d9034.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/5f87d4e2b2005899c2b7473020441780.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/e06086398f05c9b0e50fd92ed95d9034.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/93a5a1887707b3d7eec97be35fdeafd8.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -1572,7 +1579,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/e06086398f05c9b0e50fd92ed95d9034.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/5f87d4e2b2005899c2b7473020441780.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -2093,7 +2100,7 @@
         },
         {
           "name": "Facing El Chapo [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/2b495e31427f1f4cb9276ab3c0e5eda5.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/f7e826ff924d4f8f23d38e28a95d39d1.jpg",
           "slug": "facing-el-chapo-english-axYDc3YD5u",
           "subject_id": "407345050834850208",
           "rating": "6.7"
