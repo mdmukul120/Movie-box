@@ -100,14 +100,14 @@
         },
         {
           "name": "The Gentlemen",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/29/648c5ea8e91d500304515298968978d8.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/e4eeb1e6990824edebdca8b1673e09bd.jpg",
           "slug": "the-gentlemen-efKGpux2bB4",
           "subject_id": "3860480352347113768",
           "rating": "8.0"
         },
         {
           "name": "Outer Banks",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/04/98b4022f6a4a10ce9bbef7227ff26453.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/43c47e0587c9c1b3959afbf2cb57e8d9.jpg",
           "slug": "outer-banks-YWAQovb3ZR4",
           "subject_id": "4087993015279702808",
           "rating": "7.5"
@@ -193,7 +193,7 @@
     },
     {
       "section": "Popular Movie",
-      "count": 11,
+      "count": 12,
       "items": [
         {
           "name": "Mayday",
@@ -224,11 +224,18 @@
           "rating": "6.6"
         },
         {
+          "name": "Clash of the Thundermans",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/ab4a8ca296ce8038a4e5982368ae80d4.jpeg",
+          "slug": "clash-of-the-thundermans-ujcl180zbw3",
+          "subject_id": "2953609872106996688",
+          "rating": "6.2"
+        },
+        {
           "name": "The Weight",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/319321605ec477ca141cdeced45a477d.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/42c8323048b0159b218562e7cf20360d.jpg",
           "slug": "the-weight-GDJDd7qHo54",
           "subject_id": "3430275971587400712",
-          "rating": "7.3"
+          "rating": "6.9"
         },
         {
           "name": "The Last Sunrise",
@@ -475,10 +482,10 @@
         },
         {
           "name": "Mating Season",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/f35ec694c8cf5eb2e62c42d5b7df2124.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/f969d8229d78206e34cd13b93908002c.jpg",
           "slug": "mating-season-EevJRYdiaR3",
           "subject_id": "3237611268840772784",
-          "rating": "6.5"
+          "rating": "6.6"
         },
         {
           "name": "Regular Show",
@@ -524,7 +531,7 @@
         },
         {
           "name": "WondLa",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/d4979a30dc5a89baefde531d87a3f730.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/84ad78ad5a1e45656a7baccf9746570b.jpg",
           "slug": "wondla-CfmbYXH83Z3",
           "subject_id": "3344346067511956200",
           "rating": "7.6"
@@ -572,7 +579,7 @@
         },
         {
           "name": "The Witcher",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/04/1e4f1a63dbb7714461115ba5fce27692.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/c1c4c3c8cb8312093f4d465d80180efe.jpg",
           "slug": "the-witcher-qdCxXLAl8y4",
           "subject_id": "3819281169544270880",
           "rating": "7.8"
@@ -607,7 +614,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/752452293c95e5d52b5e09080b003597.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/b1b5ed068b4bbf029970375fc05e3793.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -920,7 +927,7 @@
         },
         {
           "name": "Young Royals",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/2d7b14ee76791ae13e3134cb78956e8d.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/dcc53b420192bc2d6f71a170f81b8f18.jpg",
           "slug": "young-royals-ivN0ocZDSP4",
           "subject_id": "4059520062166815512",
           "rating": "8.2"
@@ -1295,7 +1302,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/34fd099b620d1c8e9212f837ca78b0de.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/07/0e4eadb7b1218835e3a320bdcb28d5b9.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -1364,7 +1371,7 @@
         },
         {
           "name": "Lucky",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/04/98bb808e295485ff741d144aa2b72da9.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/efe207f1148f85fa17c83e3019548ce9.jpg",
           "slug": "lucky-CVXotZJVNx4",
           "subject_id": "3814823329035439888",
           "rating": "6.7"
@@ -1392,7 +1399,7 @@
         },
         {
           "name": "Citadel",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/9843716f83f40424d5bbb3f3212fc1fd.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/fa021d50f59d247f5f194a97e20013dc.jpg",
           "slug": "citadel-Maf0aT2zq24",
           "subject_id": "3390071899957911192",
           "rating": "6.2"
@@ -1476,7 +1483,7 @@
         },
         {
           "name": "Black Rabbit",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/e88fa4a638bd966ecc343a07b0d73ac8.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/8d925721f82cea7f8f37bd5ceddabb97.jpg",
           "slug": "black-rabbit-UmN1KLQCAga",
           "subject_id": "8617584105930344264",
           "rating": "7.3"
@@ -1684,7 +1691,7 @@
         },
         {
           "name": "The Umbrella Academy",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/138e5363d8336ee339b8b75b2450a372.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/29c3db3d05b46bb7945a1fc931d282b4.jpg",
           "slug": "the-umbrella-academy-MWTblhPHgY3",
           "subject_id": "3333771074197671728",
           "rating": "7.8"
@@ -2177,10 +2184,10 @@
         },
         {
           "name": "The Weight",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/319321605ec477ca141cdeced45a477d.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/42c8323048b0159b218562e7cf20360d.jpg",
           "slug": "the-weight-GDJDd7qHo54",
           "subject_id": "3430275971587400712",
-          "rating": "7.3"
+          "rating": "6.9"
         },
         {
           "name": "Facing El Chapo [English]",
@@ -2358,7 +2365,7 @@
         },
         {
           "name": "Thrash",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/44816785d40f527cb559d71d30a27de1.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/afe896e3b884ae939c3b444b14e760f3.jpg",
           "slug": "thrash-OnZc0hnnvV3",
           "subject_id": "3296362893133890168",
           "rating": "5.0"
@@ -2386,10 +2393,10 @@
         },
         {
           "name": "Psycho Killer",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/e4486fada9677532094510a16baeac2a.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/509cbfe6c0c3d1c1ce971676676ac39f.jpg",
           "slug": "psycho-killer-IGW0Ag8OIE8",
           "subject_id": "7265661903765493376",
-          "rating": "4.8"
+          "rating": "4.7"
         },
         {
           "name": "Iron Lung",
