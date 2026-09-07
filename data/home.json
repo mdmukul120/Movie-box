@@ -85,13 +85,6 @@
           "rating": "5.9"
         },
         {
-          "name": "Ordinary People",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/04/e6d5f8a86b368b2176e5cc2aefb7fed4.jpeg",
-          "slug": "ordinary-people-YmqiCnDJ0V1",
-          "subject_id": "1611074008508777000",
-          "rating": "6.7"
-        },
-        {
           "name": "Reacher",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/29/f8b88ce8766279c25734425c662fc44a.jpg",
           "slug": "reacher-e1nw56h5sj4",
@@ -104,6 +97,13 @@
           "slug": "the-gentlemen-efKGpux2bB4",
           "subject_id": "3860480352347113768",
           "rating": "8.0"
+        },
+        {
+          "name": "Ordinary People",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/04/e6d5f8a86b368b2176e5cc2aefb7fed4.jpeg",
+          "slug": "ordinary-people-YmqiCnDJ0V1",
+          "subject_id": "1611074008508777000",
+          "rating": "6.7"
         },
         {
           "name": "Outer Banks",
@@ -193,8 +193,29 @@
     },
     {
       "section": "Popular Movie",
-      "count": 12,
+      "count": 13,
       "items": [
+        {
+          "name": "Clash of the Thundermans",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/ab4a8ca296ce8038a4e5982368ae80d4.jpeg",
+          "slug": "clash-of-the-thundermans-ujcl180zbw3",
+          "subject_id": "2953609872106996688",
+          "rating": "6.2"
+        },
+        {
+          "name": "The Mongoose",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/16/401ada6d96f8e744e77d89bf5e80f52d.jpg",
+          "slug": "the-mongoose-EW7unqgKUE",
+          "subject_id": "553873435005440912",
+          "rating": "6.6"
+        },
+        {
+          "name": "The Girl in the River",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/c380cebf9395774cdd89856b38ac29e3.jpg",
+          "slug": "the-girl-in-the-river-Yy2BweofGR2",
+          "subject_id": "2405288803855491864",
+          "rating": "7.1"
+        },
         {
           "name": "Mayday",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/14ec3010d089d6e05a39abae3a7007da.jpg",
@@ -215,20 +236,6 @@
           "slug": "just-play-dead-QonHH9LbMH2",
           "subject_id": "2271215194556744920",
           "rating": "5.8"
-        },
-        {
-          "name": "The Mongoose",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/16/401ada6d96f8e744e77d89bf5e80f52d.jpg",
-          "slug": "the-mongoose-EW7unqgKUE",
-          "subject_id": "553873435005440912",
-          "rating": "6.6"
-        },
-        {
-          "name": "Clash of the Thundermans",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/ab4a8ca296ce8038a4e5982368ae80d4.jpeg",
-          "slug": "clash-of-the-thundermans-ujcl180zbw3",
-          "subject_id": "2953609872106996688",
-          "rating": "6.2"
         },
         {
           "name": "The Weight",
@@ -285,6 +292,13 @@
       "section": "Nollywood Movie",
       "count": 20,
       "items": [
+        {
+          "name": "THE MERGER",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/05/03f785108672c1a0b7870642a8fd05b4.jpg",
+          "slug": "the-merger-2t6idXhMmo9",
+          "subject_id": "7883557909601602112",
+          "rating": "0"
+        },
         {
           "name": "A Mama Deola Wedding Story",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/d13c948a90a9d6307e9212058e0eb272.jpeg",
@@ -416,13 +430,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/06/d0dd8947cbd6484014d4f6f1f90feefd.jpg",
           "slug": "once-upon-a-village-QWm9mdB75V8",
           "subject_id": "7487127325759668176",
-          "rating": "0"
-        },
-        {
-          "name": "BEHIND THESE LAUGHS",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/902b3b3ff0a72b6c2bd4366b1c8f8fde.jpg",
-          "slug": "behind-these-laughs-2bdByRqVQl8",
-          "subject_id": "7010229687813654328",
           "rating": "0"
         }
       ]
@@ -2183,6 +2190,13 @@
           "rating": "6.6"
         },
         {
+          "name": "Fight Against Evil 3",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/02/19/0706c33faa80f2f979cd2e746c5a771c.jpg",
+          "slug": "fight-against-evil-3-gsqNlqJQK12",
+          "subject_id": "1702365167251509768",
+          "rating": "7.1"
+        },
+        {
           "name": "The Weight",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/42c8323048b0159b218562e7cf20360d.jpg",
           "slug": "the-weight-GDJDd7qHo54",
@@ -2278,13 +2292,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/27/cb8916da4514d07ed0f03aeac31d4863.jpeg",
           "slug": "citizen-vigilante-IIt7oflBjm2",
           "subject_id": "1980694604404375664",
-          "rating": "6.1"
-        },
-        {
-          "name": "The Get Out",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/21/b71e767b3b183af1f31d3b6af22226d0.jpg",
-          "slug": "the-get-out-skFOsE670A9",
-          "subject_id": "8041054437655332808",
           "rating": "6.1"
         }
       ]
