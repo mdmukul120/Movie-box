@@ -3,8 +3,14 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 11,
+      "count": 12,
       "items": [
+        {
+          "name": "Moana",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/f901c71edef9a66a5af71657b5bdd0d9.webp",
+          "slug": "moana-KHgXxMgKVV",
+          "subject_id": "784222266707137040"
+        },
         {
           "name": "Ordinary People",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/04/03e6d276f4b48a48e478959af0aa839f.jpeg",
@@ -196,6 +202,20 @@
       "count": 13,
       "items": [
         {
+          "name": "Moana",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/29/3d85e28ee1669839f4e01824c037e2ca.jpg",
+          "slug": "moana-KHgXxMgKVV",
+          "subject_id": "784222266707137040",
+          "rating": "6.9"
+        },
+        {
+          "name": "The Girl in the River",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/c380cebf9395774cdd89856b38ac29e3.jpg",
+          "slug": "the-girl-in-the-river-Yy2BweofGR2",
+          "subject_id": "2405288803855491864",
+          "rating": "7.1"
+        },
+        {
           "name": "Clash of the Thundermans",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/ab4a8ca296ce8038a4e5982368ae80d4.jpeg",
           "slug": "clash-of-the-thundermans-ujcl180zbw3",
@@ -208,13 +228,6 @@
           "slug": "the-mongoose-EW7unqgKUE",
           "subject_id": "553873435005440912",
           "rating": "6.6"
-        },
-        {
-          "name": "The Girl in the River",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/c380cebf9395774cdd89856b38ac29e3.jpg",
-          "slug": "the-girl-in-the-river-Yy2BweofGR2",
-          "subject_id": "2405288803855491864",
-          "rating": "7.1"
         },
         {
           "name": "Mayday",
@@ -278,13 +291,6 @@
           "slug": "72-hours-kUNxK9h2Iy1",
           "subject_id": "1309175290853217376",
           "rating": "5.4"
-        },
-        {
-          "name": "Colony",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/28/195545c9d7b2dfbb6856bad0ac237fc8.jpg",
-          "slug": "colony-06FbDRS87x3",
-          "subject_id": "2966181623634480144",
-          "rating": "6.5"
         }
       ]
     },
@@ -621,7 +627,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/07/40ed01da615016f0fd3f1d1cb3dd1f88.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/8f45de3b5006211122e55c34ab816e7e.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -850,7 +856,7 @@
         },
         {
           "name": "Off Campus",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/07/65047010e2113a8fc71ca603d10d41fb.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/8bea5f86f4213f84b4aa07cefb6c0eba.jpg",
           "slug": "off-campus-aP9MRcE3oqa",
           "subject_id": "8750210920061751384",
           "rating": "7.8"
@@ -1309,7 +1315,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/07/14e5d092e6962b6c814a45d571e9e383.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/9f045ae8c21b7ea945fe936d8ceccc62.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
