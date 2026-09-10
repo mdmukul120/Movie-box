@@ -12,16 +12,16 @@
           "subject_id": "2673691619177778536"
         },
         {
-          "name": "Drawn Together [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/9a80e991895f601f2de6b293576ceff1-s.png",
-          "slug": "drawn-together-english-SveJzNvP0h2",
-          "subject_id": "1908910611593841624"
-        },
-        {
           "name": "Moana",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/f901c71edef9a66a5af71657b5bdd0d9.webp",
           "slug": "moana-KHgXxMgKVV",
           "subject_id": "784222266707137040"
+        },
+        {
+          "name": "Drawn Together [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/9a80e991895f601f2de6b293576ceff1-s.png",
+          "slug": "drawn-together-english-SveJzNvP0h2",
+          "subject_id": "1908910611593841624"
         },
         {
           "name": "One Night Only",
@@ -145,10 +145,10 @@
         },
         {
           "name": "Umthetho",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/34b78ebf771d191aa95c8ff235c70585.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/fd144967c918eb62d869a3230bc617f5.jpg",
           "slug": "umthetho-mL6Ua1F4uKa",
           "subject_id": "9022266259324424848",
-          "rating": "4.3"
+          "rating": "4.4"
         },
         {
           "name": "Mousetrap [English]",
@@ -659,7 +659,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/fac6796fd13793be76e2eeb6da9309a8.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/59085d732402f7ce4a34674dce9e13d0.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -701,7 +701,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/688cc513bd5cae3704f1876bf5239338.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/e7981700187356f44abe20e23e699750.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -715,7 +715,7 @@
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/d914dd9e5de2c3bf5090d7301028c85f.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/1fdaf0d367dbc5b0087d769bf6886403.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -888,7 +888,7 @@
         },
         {
           "name": "Off Campus",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/8d62ce02b95a853b4e9d55c1364be278.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/2eb49da1d26b87015dffe987539801cb.jpg",
           "slug": "off-campus-aP9MRcE3oqa",
           "subject_id": "8750210920061751384",
           "rating": "7.8"
@@ -1347,7 +1347,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/4e9aeaee921d1f5c630f15016e00e3ba.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/efcaf151ed1c2a0a71037ba3b725355f.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -1708,7 +1708,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/688cc513bd5cae3704f1876bf5239338.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/e7981700187356f44abe20e23e699750.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -2258,7 +2258,7 @@
         },
         {
           "name": "Facing El Chapo [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/fa1532a80066601908c18f11fb4bf20a.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/2cd8f6a719bb1e429a6dc69a785a1c79.jpg",
           "slug": "facing-el-chapo-english-axYDc3YD5u",
           "subject_id": "407345050834850208",
           "rating": "6.7"
@@ -2353,6 +2353,13 @@
       "section": "Horror Movies",
       "count": 18,
       "items": [
+        {
+          "name": "Parasomnia",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/04/8382035c6a7cffd8701694040a47f71f.jpg",
+          "slug": "parasomnia-gWBQYsXXbJ3",
+          "subject_id": "3129679886374818448",
+          "rating": "7.1"
+        },
         {
           "name": "Pinocchio: Unstrung",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/b9bdc23c20e66a4f7a22562bddc168b8.jpg",
@@ -2471,13 +2478,6 @@
           "slug": "hokum-edzRC6Gmcc",
           "subject_id": "165144987024476984",
           "rating": "8.0"
-        },
-        {
-          "name": "Lee Cronin's The Mummy",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/28/b71fcd97cda5e1d9bc2980df45399d1d.jpg",
-          "slug": "lee-cronins-the-mummy-Qorft0fi5c7",
-          "subject_id": "6038696541660108168",
-          "rating": "6.1"
         }
       ]
     },
