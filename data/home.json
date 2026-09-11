@@ -3,7 +3,7 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 16,
+      "count": 15,
       "items": [
         {
           "name": "Why Did I Get Married Again?",
@@ -90,12 +90,6 @@
           "subject_id": "5904172458474619680"
         },
         {
-          "name": "Reacher Season 4",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/12/327f286fab2ce911b726969035482723.png",
-          "slug": "reacher-e1nw56h5sj4",
-          "subject_id": "3620534210064175096"
-        },
-        {
           "name": "Bleach: Thousand-Year Blood War - The Calamity season 4",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/b4515dac7fe9fdf8fc461b299a9785df.png",
           "slug": "bleach-thousand-year-blood-war-english-IKoyJ28zSi8",
@@ -105,7 +99,7 @@
     },
     {
       "section": "Popular Series",
-      "count": 17,
+      "count": 16,
       "items": [
         {
           "name": "Beauty in Black",
@@ -127,13 +121,6 @@
           "slug": "the-drop-a-snowfall-saga-WtYsBLavBx7",
           "subject_id": "6330007782678741440",
           "rating": "6.5"
-        },
-        {
-          "name": "Reacher",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/6e5eff12ff0b3851ebeb8ac5c07e21bf.jpg",
-          "slug": "reacher-e1nw56h5sj4",
-          "subject_id": "3620534210064175096",
-          "rating": "8.0"
         },
         {
           "name": "The Gentlemen",
@@ -158,7 +145,7 @@
         },
         {
           "name": "Umthetho",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/11/40ebddea311debad1766ba1dcb049375.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/11/417890421ef1f7d8e54d74629392c16c.jpg",
           "slug": "umthetho-mL6Ua1F4uKa",
           "subject_id": "9022266259324424848",
           "rating": "4.4"
@@ -707,7 +694,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/11/da7d2defc0161231d2b35f577f904967.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/11/b93f4fc3c1e306c6a45bcec2661b4d8a.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -721,7 +708,7 @@
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/11/f30c1f2c7a3c69bc5896aaa9088df56f.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/11/2dc9bab74ee5d15534096f798cf1eb61.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -1411,15 +1398,8 @@
     },
     {
       "section": "Action&Thriller",
-      "count": 18,
+      "count": 17,
       "items": [
-        {
-          "name": "Reacher",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/6e5eff12ff0b3851ebeb8ac5c07e21bf.jpg",
-          "slug": "reacher-e1nw56h5sj4",
-          "subject_id": "3620534210064175096",
-          "rating": "8.0"
-        },
         {
           "name": "Lucky",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/04d549b1cf5256b3b647b51774c95414.jpg",
@@ -1714,7 +1694,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/11/da7d2defc0161231d2b35f577f904967.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/11/b93f4fc3c1e306c6a45bcec2661b4d8a.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -1829,11 +1809,11 @@
       "count": 18,
       "items": [
         {
-          "name": "Mousetrap",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/82ee3b8998cd140814b03648a476f730.jpg",
-          "slug": "mousetrap-mNxck67i9R3",
-          "subject_id": "3237392537967127384",
-          "rating": "6.9"
+          "name": "A Bona Fide Killer",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/2e6899e0516c34a0188010bfbcf1037f.jpg",
+          "slug": "a-bona-fide-killer-yzvVpvmbTK4",
+          "subject_id": "3991952166557736960",
+          "rating": "7.3"
         },
         {
           "name": "My Bias, My Boss",
@@ -1843,11 +1823,32 @@
           "rating": "7.3"
         },
         {
+          "name": "The Ordinary Jackpot",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/10e8878a59b8a8de42cf68f95923afe7.jpg",
+          "slug": "the-ordinary-jackpot-ejKw9jdwAB6",
+          "subject_id": "5544642088840625616",
+          "rating": "6.9"
+        },
+        {
+          "name": "Flex x Cop",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/ab02086490423450ad890217f3d23d2e.jpg",
+          "slug": "flex-x-cop-MibemdOaf98",
+          "subject_id": "6839541875842894728",
+          "rating": "7.8"
+        },
+        {
           "name": "Made in Korea",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/3f70fcfec476a89228de3db0f3fad208.jpg",
           "slug": "made-in-korea-iLPB8TtOpE3",
           "subject_id": "3065017840546861048",
           "rating": "7.2"
+        },
+        {
+          "name": "Mousetrap",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/82ee3b8998cd140814b03648a476f730.jpg",
+          "slug": "mousetrap-mNxck67i9R3",
+          "subject_id": "3237392537967127384",
+          "rating": "6.9"
         },
         {
           "name": "Our Sticky Love",
@@ -1862,20 +1863,6 @@
           "slug": "four-hands-two-sonatas-cwxtxxOsgp4",
           "subject_id": "3699219544767103960",
           "rating": "8.5"
-        },
-        {
-          "name": "A Bona Fide Killer",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/2e6899e0516c34a0188010bfbcf1037f.jpg",
-          "slug": "a-bona-fide-killer-yzvVpvmbTK4",
-          "subject_id": "3991952166557736960",
-          "rating": "7.3"
-        },
-        {
-          "name": "Flex x Cop",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/ab02086490423450ad890217f3d23d2e.jpg",
-          "slug": "flex-x-cop-MibemdOaf98",
-          "subject_id": "6839541875842894728",
-          "rating": "7.8"
         },
         {
           "name": "Dream to You",
@@ -1946,13 +1933,6 @@
           "slug": "the-apartment-job-EOzTHJBIBq2",
           "subject_id": "2038798660372169320",
           "rating": "7.1"
-        },
-        {
-          "name": "The Husband",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/29/a80f6ea6ed8fa80ec6b3d1791410d53e.jpg",
-          "slug": "the-husband-Eq3dUeiou1",
-          "subject_id": "20172844525045848",
-          "rating": "6.3"
         }
       ]
     },
@@ -2232,8 +2212,50 @@
     },
     {
       "section": "Action Movies",
-      "count": 17,
+      "count": 14,
       "items": [
+        {
+          "name": "Runner[CAM]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/e652add0ce8fc0da52f34237ab088f76.jpg",
+          "slug": "runner-cam-QOMZhgKwwg",
+          "subject_id": "223695587521217720",
+          "rating": "6.9"
+        },
+        {
+          "name": "By Any Means[CAM]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/04/10954170aae90c1490451fd2557046fc.jpg",
+          "slug": "by-any-means-cam-g02jddvJ7U4",
+          "subject_id": "4116962936374151664",
+          "rating": "6.9"
+        },
+        {
+          "name": "Star Wars: The Mandalorian and Grogu",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/863f485ef20babfe716cc2db21949a21.jpg",
+          "slug": "star-wars-the-mandalorian-and-grogu-G96geTTsHA7",
+          "subject_id": "6371921081103962288",
+          "rating": "6.8"
+        },
+        {
+          "name": "The Dog Stars",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/2b291c35180591388d3a09f67da40a13.jpg",
+          "slug": "the-dog-stars-ckRYy8wX5I1",
+          "subject_id": "1436232475147128696",
+          "rating": "6.5"
+        },
+        {
+          "name": "The Runner",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/dd255bf9579ee58dcfb1667dc805acb8.jpg",
+          "slug": "the-runner-McIeQZEGPQ",
+          "subject_id": "715214082269397240",
+          "rating": "6.5"
+        },
+        {
+          "name": "Mayday",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/7ccd96a85fa20f1cfbad5eef2281e9db.jpg",
+          "slug": "mayday-EyFZ8SeW7k1",
+          "subject_id": "1111774575987245152",
+          "rating": "6.9"
+        },
         {
           "name": "Just Play Dead",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/78c989697a5f1982ee9306fdf70e41d6.jpg",
@@ -2264,7 +2286,7 @@
         },
         {
           "name": "Facing El Chapo [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/11/b3b77ed8366d843dd5aac15518dd911c.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/11/45cd62fc3b89a59fa02796f3add3c682.jpg",
           "slug": "facing-el-chapo-english-axYDc3YD5u",
           "subject_id": "407345050834850208",
           "rating": "6.7"
@@ -2289,69 +2311,6 @@
           "slug": "the-furious-6lxRH1LLAe5",
           "subject_id": "4394044471852286152",
           "rating": "7.4"
-        },
-        {
-          "name": "The Isolate Thief",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/10/504a274335dfaa92cfffe219d833e547.jpg",
-          "slug": "the-isolate-thief-UUiZwcQsfJ5",
-          "subject_id": "4809042395809606056",
-          "rating": "6.5"
-        },
-        {
-          "name": "Lucky Strike",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/16/7072620c989105346c68db59e5c8ee14.jpg",
-          "slug": "lucky-strike-GzdM5cq3uDa",
-          "subject_id": "8927502289884139048",
-          "rating": "6.1"
-        },
-        {
-          "name": "The Gentleman Thief",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/29/007843e3ca61b2173351c28f91975100.jpg",
-          "slug": "the-gentleman-thief-4MvTGoR2Ed9",
-          "subject_id": "7738420098402606664",
-          "rating": "6.9"
-        },
-        {
-          "name": "The Debt Collector [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/ebeb737e6c9dc9d215f29ef078dd524b.jpg",
-          "slug": "the-debt-collector-english-AKIa94vfnN9",
-          "subject_id": "8222087944836898552",
-          "rating": "5.6"
-        },
-        {
-          "name": "Man of War",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/23/0708453d1a3fe1d3cb9f71a6cfd01d16.jpg",
-          "slug": "man-of-war-8yTewd1tMo9",
-          "subject_id": "7889166891003397584",
-          "rating": "5.2"
-        },
-        {
-          "name": "Kill Trip",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/09/50b625d62f0f8996c723b1a1e46a0cd0.jpg",
-          "slug": "kill-trip-SxRqrMmKDY7",
-          "subject_id": "6695999306228813416",
-          "rating": "7.1"
-        },
-        {
-          "name": "Borderline",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/18/5b9af35710af3752cb365435def874f3.jpg",
-          "slug": "borderline-k8jeYFSJlD",
-          "subject_id": "532693095842998656",
-          "rating": "5.6"
-        },
-        {
-          "name": "Masters of the Universe",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/b0b742f2e9ff3244f485157b415f7d73.jpg",
-          "slug": "masters-of-the-universe-g6fDdvegRi9",
-          "subject_id": "7808991045882365944",
-          "rating": "6.4"
-        },
-        {
-          "name": "Citizen Vigilante",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/27/cb8916da4514d07ed0f03aeac31d4863.jpeg",
-          "slug": "citizen-vigilante-IIt7oflBjm2",
-          "subject_id": "1980694604404375664",
-          "rating": "6.1"
         }
       ]
     },
