@@ -3,8 +3,14 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 15,
+      "count": 12,
       "items": [
+        {
+          "name": "A Love Other Than Yours",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/a73a0bbf8b778a0809eb86de91ed339a.webp",
+          "slug": "a-love-other-than-yours-W77cR5lvfL4",
+          "subject_id": "3996826000955958296"
+        },
         {
           "name": "Why Did I Get Married Again?",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/8a61ba83d39190da19cbd0b19682c467.webp",
@@ -60,30 +66,6 @@
           "subject_id": "3860480352347113768"
         },
         {
-          "name": "The Runner",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/e47448fe2452e3e722d9da989e3f45ca.webp",
-          "slug": "the-runner-McIeQZEGPQ",
-          "subject_id": "715214082269397240"
-        },
-        {
-          "name": "Just Play Dead",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/7d008968291e992906d7207b1d4da7f2.webp",
-          "slug": "just-play-dead-QonHH9LbMH2",
-          "subject_id": "2271215194556744920"
-        },
-        {
-          "name": "The Weight",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/be612efa85540f2c66905db0d7988cb8.jpeg",
-          "slug": "the-weight-GDJDd7qHo54",
-          "subject_id": "3430275971587400712"
-        },
-        {
-          "name": "The Mongoose",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/34d81f2f75833fcf1fa903e72f4c8a73.png",
-          "slug": "the-mongoose-EW7unqgKUE",
-          "subject_id": "553873435005440912"
-        },
-        {
           "name": "Beauty in Black  S3",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/833adf4ea89155e719198f4665e5fc09.jpg",
           "slug": "beauty-in-black-E6NEe5Ha927",
@@ -107,6 +89,13 @@
           "slug": "beauty-in-black-E6NEe5Ha927",
           "subject_id": "5904172458474619680",
           "rating": "5.9"
+        },
+        {
+          "name": "A Love Other Than Yours",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/ba358c5aafb9c307519f00ba5c68e585.jpg",
+          "slug": "a-love-other-than-yours-W77cR5lvfL4",
+          "subject_id": "3996826000955958296",
+          "rating": "6.5"
         },
         {
           "name": "Crew Girl",
@@ -205,19 +194,12 @@
           "slug": "all-the-queens-men-KZRjzyGRtj3",
           "subject_id": "2781623667900437536",
           "rating": "6.7"
-        },
-        {
-          "name": "Kwa Baba",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/db86d1368e3fa53aba700f56265cc67d.jpeg",
-          "slug": "kwa-baba-WFoUozIudP",
-          "subject_id": "693338015313319144",
-          "rating": "6.4"
         }
       ]
     },
     {
       "section": "Popular Movie",
-      "count": 14,
+      "count": 13,
       "items": [
         {
           "name": "Why Did I Get Married Again?",
@@ -260,13 +242,6 @@
           "slug": "clash-of-the-thundermans-ujcl180zbw3",
           "subject_id": "2953609872106996688",
           "rating": "6.2"
-        },
-        {
-          "name": "The Mongoose",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/16/401ada6d96f8e744e77d89bf5e80f52d.jpg",
-          "slug": "the-mongoose-EW7unqgKUE",
-          "subject_id": "553873435005440912",
-          "rating": "6.6"
         },
         {
           "name": "Mayday",
@@ -323,6 +298,62 @@
       "section": "Nollywood Movie",
       "count": 20,
       "items": [
+        {
+          "name": "GROOMED FOR LOVE",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/13/6c94e3c29435dacdbc94bcba334b274a.jpg",
+          "slug": "groomed-for-love-MoYV5QG55o7",
+          "subject_id": "6201097380126162680",
+          "rating": "0"
+        },
+        {
+          "name": "CHILD OF THUNDER - DESTINY ETIKO, YUL EDOCHIE, LIZZY GOLD",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/13/613b2a13c22d1e9c9b1aec1f116aac56.jpg",
+          "slug": "child-of-thunder-destiny-etiko-yul-edochie-lizzy-gold-ifB4KXVKzB",
+          "subject_id": "508679392525181672",
+          "rating": "0"
+        },
+        {
+          "name": "THE PRICE OF LOVE",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/12/5ff2665c5bb67c24d130de2a1c774192.jpg",
+          "slug": "the-price-of-love-QoJy5Vr5kz",
+          "subject_id": "478184025212044824",
+          "rating": "0"
+        },
+        {
+          "name": "MY HOUSEMATE",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/12/76e4a9dc242ea57fcbe15a6f0ca2078a.jpg",
+          "slug": "my-housemate-Yg5izPVKhp6",
+          "subject_id": "5378100419791143600",
+          "rating": "0"
+        },
+        {
+          "name": "The Invisible Guest",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/11/11b8316cf88377c05595656914f3571b.jpg",
+          "slug": "the-invisible-guest-0AAqgJn3fY4",
+          "subject_id": "4172709670550920472",
+          "rating": "0"
+        },
+        {
+          "name": "WHATEVER SHE WANTS",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/053127404f1ddae8b1e0ed5d27d2da92.jpg",
+          "slug": "whatever-she-wants-Ote12iA8kQa",
+          "subject_id": "9101319195446373192",
+          "rating": "0"
+        },
+        {
+          "name": "ONCE UPON A VILLAGE 6",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/f0847a9aa5b1e2349e8e4c69a601cc8e.jpg",
+          "slug": "once-upon-a-village-6-ga3kT5Ybzx",
+          "subject_id": "454407910895113272",
+          "rating": "0"
+        },
+        {
+          "name": "DESTINED ODDS",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/bcb574c847a40aa5544697efd5466fa8.jpg",
+          "slug": "destined-odds-I6yLU7pG1g2",
+          "subject_id": "1895559791653569680",
+          "rating": "0"
+        },
         {
           "name": "FRIENDLY FOE",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/486fae9e8ad2471f193a08ba585c72e8.jpg",
@@ -405,62 +436,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/b0193f260a167beaea512f0c81e7297a.jpg",
           "slug": "once-upon-a-village-4-uRTsyuCqJQ7",
           "subject_id": "6588943114617388496",
-          "rating": "0"
-        },
-        {
-          "name": "NEVER LET GO",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/25/37f3c05de1a457c075780f3bcccfd53a.jpg",
-          "slug": "never-let-go-KxbF1GFerE5",
-          "subject_id": "4743927143959352352",
-          "rating": "0"
-        },
-        {
-          "name": "SECOND CHANCES",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/15/c72da804271ec4b581d36f9574489ff2.jpg",
-          "slug": "second-chances-uxlNhOFJCN5",
-          "subject_id": "4868271841657379704",
-          "rating": "0"
-        },
-        {
-          "name": "DOUBLE TROUBLE 2 - DESTINY ETIKO, CHINENYE UBA, CHIOMA NWOSU, PAPAYA EX",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/03328d1a7cb934392d6dfcce101f81ea.jpg",
-          "slug": "double-trouble-2-destiny-etiko-chinenye-uba-chioma-nwosu-papaya-ex-GtWn2mSsI76",
-          "subject_id": "5140264458291498304",
-          "rating": "0"
-        },
-        {
-          "name": "Where Is Mr. Right?",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/14/91f91acea82a5cc8ff3ffbfd58572c64.jpeg",
-          "slug": "where-is-mr-right-siqFYy7jCd5",
-          "subject_id": "4380843218779489368",
-          "rating": "6.6"
-        },
-        {
-          "name": "Colours of Fire",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/15/d59fdd819338556ea3cf2d7a26fe65ee.jpg",
-          "slug": "colours-of-fire-0yNgr1RWcH7",
-          "subject_id": "6460017629213476688",
-          "rating": "7.2"
-        },
-        {
-          "name": "JUST BEFORE FOREVER",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/11/22963f6d481ca51ed3c67bac9b8896bc.jpg",
-          "slug": "just-before-forever-Mw0gjwSu7S4",
-          "subject_id": "4089837262962411040",
-          "rating": "0"
-        },
-        {
-          "name": "A QUIET PAIN",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/10/58bd6ea742f9ff71418ff144a355f4e6.jpg",
-          "slug": "a-quiet-pain-udfi6MfbWf4",
-          "subject_id": "3572957121622822544",
-          "rating": "0"
-        },
-        {
-          "name": "A PERFECT MISMATCH",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/09/7910ee37647d900cf20974e258608b98.jpg",
-          "slug": "a-perfect-mismatch-OJyd4h6eX67",
-          "subject_id": "5969249805627967448",
           "rating": "0"
         }
       ]
@@ -652,7 +627,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/14131a294e6c87a5353b36371e959dcc.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/daf4e06989e1b41f3b06c5b7431eae3b.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -1340,7 +1315,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/5dea73c21c4036094b7f0ba48cfe0a16.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/6a4460504d84f9c2afd67c3f679ae58e.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -1946,6 +1921,20 @@
       "count": 20,
       "items": [
         {
+          "name": "Against the Current",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/04/5cd23d8ea000ab1adcdabace21aaf451.jpg",
+          "slug": "against-the-current-Cf0MeaVEAZ9",
+          "subject_id": "8387460927515509288",
+          "rating": "6.5"
+        },
+        {
+          "name": "Blossom Through the Cloud",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/4442ae5d377af32b8242abe55e6ffd61.jpeg",
+          "slug": "blossom-through-the-cloud-ccN3reMKyx",
+          "subject_id": "454312153525502096",
+          "rating": "6.4"
+        },
+        {
           "name": "The Early Spring",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/11/64dc0d31dace1b1907ffd49669d8e738.jpg",
           "slug": "the-early-spring-2LpemdrrJx5",
@@ -2070,20 +2059,6 @@
           "slug": "dazzling-4m2tffvJtt3",
           "subject_id": "2916965717943766216",
           "rating": "8.0"
-        },
-        {
-          "name": "Double Helix",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/12/221a191f40b57d16165fc7784836ad38.jpg",
-          "slug": "double-helix-2TlVdUQgua2",
-          "subject_id": "1820579151322012336",
-          "rating": "7.6"
-        },
-        {
-          "name": "Ashes to Crown",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/358b69d260c416bfb188efce7a4b6f91.jpg",
-          "slug": "ashes-to-crown-KLIwltwfb66",
-          "subject_id": "5119475124361642096",
-          "rating": "6.7"
         }
       ]
     },
@@ -2212,42 +2187,28 @@
     },
     {
       "section": "Action Movies",
-      "count": 14,
+      "count": 17,
       "items": [
         {
-          "name": "Runner[CAM]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/e652add0ce8fc0da52f34237ab088f76.jpg",
-          "slug": "runner-cam-QOMZhgKwwg",
-          "subject_id": "223695587521217720",
-          "rating": "6.9"
+          "name": "Little Lorraine",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/12/36f1713b586178ec4f4e58b803f0fca5.jpg",
+          "slug": "little-lorraine-QGkpJWUbkX3",
+          "subject_id": "3320994978326806264",
+          "rating": "7.6"
         },
         {
-          "name": "By Any Means[CAM]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/04/10954170aae90c1490451fd2557046fc.jpg",
-          "slug": "by-any-means-cam-g02jddvJ7U4",
-          "subject_id": "4116962936374151664",
-          "rating": "6.9"
+          "name": "Knightfall",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/12/d39349af998df9b46251280b2a54e3ec.jpg",
+          "slug": "knightfall-4ucKftldu6a",
+          "subject_id": "8480813381723866648",
+          "rating": "4.0"
         },
         {
-          "name": "Star Wars: The Mandalorian and Grogu",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/863f485ef20babfe716cc2db21949a21.jpg",
-          "slug": "star-wars-the-mandalorian-and-grogu-G96geTTsHA7",
-          "subject_id": "6371921081103962288",
-          "rating": "6.8"
-        },
-        {
-          "name": "The Dog Stars",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/2b291c35180591388d3a09f67da40a13.jpg",
-          "slug": "the-dog-stars-ckRYy8wX5I1",
-          "subject_id": "1436232475147128696",
-          "rating": "6.5"
-        },
-        {
-          "name": "The Runner",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/dd255bf9579ee58dcfb1667dc805acb8.jpg",
-          "slug": "the-runner-McIeQZEGPQ",
-          "subject_id": "715214082269397240",
-          "rating": "6.5"
+          "name": "Hot Spot",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/23/7a0cb4c9c4117343b18bbdeda7f3f17e.jpg",
+          "slug": "hot-spot-AAlZIy262x9",
+          "subject_id": "8000876104154333512",
+          "rating": "4.9"
         },
         {
           "name": "Mayday",
@@ -2257,18 +2218,18 @@
           "rating": "6.8"
         },
         {
+          "name": "The Runner",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/dd255bf9579ee58dcfb1667dc805acb8.jpg",
+          "slug": "the-runner-McIeQZEGPQ",
+          "subject_id": "715214082269397240",
+          "rating": "6.5"
+        },
+        {
           "name": "Just Play Dead",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/13/1ae9792fc469c6e87ab110cdbf956e26.jpg",
           "slug": "just-play-dead-QonHH9LbMH2",
           "subject_id": "2271215194556744920",
           "rating": "4.1"
-        },
-        {
-          "name": "The Mongoose",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/16/401ada6d96f8e744e77d89bf5e80f52d.jpg",
-          "slug": "the-mongoose-EW7unqgKUE",
-          "subject_id": "553873435005440912",
-          "rating": "6.6"
         },
         {
           "name": "Fight Against Evil 3",
@@ -2282,6 +2243,13 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/7b4824b6a01d1f0793503d9a03d11a15.jpg",
           "slug": "the-weight-GDJDd7qHo54",
           "subject_id": "3430275971587400712",
+          "rating": "6.8"
+        },
+        {
+          "name": "Star Wars: The Mandalorian and Grogu",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/19/863f485ef20babfe716cc2db21949a21.jpg",
+          "slug": "star-wars-the-mandalorian-and-grogu-G96geTTsHA7",
+          "subject_id": "6371921081103962288",
           "rating": "6.8"
         },
         {
@@ -2311,6 +2279,34 @@
           "slug": "the-furious-6lxRH1LLAe5",
           "subject_id": "4394044471852286152",
           "rating": "7.2"
+        },
+        {
+          "name": "The Isolate Thief",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/10/504a274335dfaa92cfffe219d833e547.jpg",
+          "slug": "the-isolate-thief-UUiZwcQsfJ5",
+          "subject_id": "4809042395809606056",
+          "rating": "6.5"
+        },
+        {
+          "name": "Lucky Strike",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/16/7072620c989105346c68db59e5c8ee14.jpg",
+          "slug": "lucky-strike-GzdM5cq3uDa",
+          "subject_id": "8927502289884139048",
+          "rating": "6.1"
+        },
+        {
+          "name": "The Gentleman Thief",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/29/007843e3ca61b2173351c28f91975100.jpg",
+          "slug": "the-gentleman-thief-4MvTGoR2Ed9",
+          "subject_id": "7738420098402606664",
+          "rating": "6.9"
+        },
+        {
+          "name": "The Debt Collector [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/ebeb737e6c9dc9d215f29ef078dd524b.jpg",
+          "slug": "the-debt-collector-english-AKIa94vfnN9",
+          "subject_id": "8222087944836898552",
+          "rating": "5.6"
         }
       ]
     },
