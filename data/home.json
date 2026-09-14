@@ -291,10 +291,10 @@
         },
         {
           "name": "The Weight",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/fe6c792229257b2440525d4c95d068e4.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/7b4824b6a01d1f0793503d9a03d11a15.jpg",
           "slug": "the-weight-GDJDd7qHo54",
           "subject_id": "3430275971587400712",
-          "rating": "6.9"
+          "rating": "6.8"
         },
         {
           "name": "The Last Sunrise",
@@ -652,7 +652,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/13/232f1a7c47223915fccd6619afd11d66.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/14131a294e6c87a5353b36371e959dcc.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -1340,7 +1340,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/13/86110f33af0b60bc83238ce2a6d567ba.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/5dea73c21c4036094b7f0ba48cfe0a16.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -1555,7 +1555,7 @@
         },
         {
           "name": "MobLand",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/12/6a65b858172ad00d09ec28d54f167890.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/a2bf8aba05708f757ee196d48608e319.jpg",
           "slug": "mobland-wWHa6Cu6fa5",
           "subject_id": "4335165664987072680",
           "rating": "8.3"
@@ -1823,6 +1823,13 @@
           "rating": "7.2"
         },
         {
+          "name": "A Love Other Than Yours",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/ba358c5aafb9c307519f00ba5c68e585.jpg",
+          "slug": "a-love-other-than-yours-W77cR5lvfL4",
+          "subject_id": "3996826000955958296",
+          "rating": "6.5"
+        },
+        {
           "name": "The Ordinary Jackpot",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/10e8878a59b8a8de42cf68f95923afe7.jpg",
           "slug": "the-ordinary-jackpot-ejKw9jdwAB6",
@@ -1926,13 +1933,6 @@
           "slug": "love-in-sync-gWVZyU3gMf9",
           "subject_id": "7767287484132091128",
           "rating": "6.4"
-        },
-        {
-          "name": "The Apartment Job",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/13/ef859a5aed0e42b3b77d491ae813cfd7.jpg",
-          "slug": "the-apartment-job-EOzTHJBIBq2",
-          "subject_id": "2038798660372169320",
-          "rating": "7.0"
         }
       ]
     },
@@ -2279,10 +2279,10 @@
         },
         {
           "name": "The Weight",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/fe6c792229257b2440525d4c95d068e4.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/7b4824b6a01d1f0793503d9a03d11a15.jpg",
           "slug": "the-weight-GDJDd7qHo54",
           "subject_id": "3430275971587400712",
-          "rating": "6.9"
+          "rating": "6.8"
         },
         {
           "name": "Facing El Chapo [English]",
