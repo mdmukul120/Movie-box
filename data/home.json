@@ -3,8 +3,14 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 12,
+      "count": 13,
       "items": [
+        {
+          "name": "Paris Has Fallen",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/17b301cb4986e4cfaee42ad2c34f37ac.webp",
+          "slug": "paris-has-fallen-MECZzYIddA8",
+          "subject_id": "7204616799684888000"
+        },
         {
           "name": "A Love Other Than Yours",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/a73a0bbf8b778a0809eb86de91ed339a.webp",
@@ -91,6 +97,13 @@
           "rating": "5.9"
         },
         {
+          "name": "Paris Has Fallen",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/a89db93dee0396d4cc26832d09cdf9be.jpg",
+          "slug": "paris-has-fallen-MECZzYIddA8",
+          "subject_id": "7204616799684888000",
+          "rating": "6.6"
+        },
+        {
           "name": "A Love Other Than Yours",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/ba358c5aafb9c307519f00ba5c68e585.jpg",
           "slug": "a-love-other-than-yours-W77cR5lvfL4",
@@ -134,7 +147,7 @@
         },
         {
           "name": "Umthetho",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/f746ae0c112bb4f4a9901cc1527b7e39.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/a62f0c5af0b833261869dd24045686d5.jpg",
           "slug": "umthetho-mL6Ua1F4uKa",
           "subject_id": "9022266259324424848",
           "rating": "4.4"
@@ -187,13 +200,6 @@
           "slug": "all-american-qHnle0GTdo1",
           "subject_id": "1167223938976469784",
           "rating": "7.6"
-        },
-        {
-          "name": "All the Queen's Men",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/05/f95dcf4fd9359840e55e8925d3091e17.jpg",
-          "slug": "all-the-queens-men-KZRjzyGRtj3",
-          "subject_id": "2781623667900437536",
-          "rating": "6.7"
         }
       ]
     },
@@ -627,7 +633,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/06f84a6e805c33a36d93ddcf21bd04ae.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/315e37b92a85e5714421b36152d7c92c.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -669,7 +675,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/138771dfc6e55affe4c58b70150fff1d.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/a9d950282a93a24bd984a9fbcb4958ea.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -683,7 +689,7 @@
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/6ccc4391efceb2ef41446b768d4b9180.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/c9a30ca3433e2665c5a25a4c242ecf88.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -1315,7 +1321,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/06521b5d36736faeeaa77f258a8c0ee4.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/9a184cdf64ff21d1707f7b38cda8f638.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -1489,7 +1495,7 @@
         },
         {
           "name": "Black Rabbit",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/f333d717e3254692cc5fc3d49f48b948.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/051f6bd8e2352a049e540ed07f6cdb9b.jpg",
           "slug": "black-rabbit-UmN1KLQCAga",
           "subject_id": "8617584105930344264",
           "rating": "7.3"
@@ -1669,7 +1675,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/138771dfc6e55affe4c58b70150fff1d.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/a9d950282a93a24bd984a9fbcb4958ea.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -2254,7 +2260,7 @@
         },
         {
           "name": "Facing El Chapo [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/13145072731da03a2714f25dc5b36f3a.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/787a2ef6b9ae50440ebbee09eb981edb.jpg",
           "slug": "facing-el-chapo-english-axYDc3YD5u",
           "subject_id": "407345050834850208",
           "rating": "6.7"
@@ -2314,6 +2320,13 @@
       "section": "Horror Movies",
       "count": 18,
       "items": [
+        {
+          "name": "Kiss of Death",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/51b68148e606b921d86650179b9fad51.jpg",
+          "slug": "kiss-of-death-ORMAikj7NA6",
+          "subject_id": "5533855725153307016",
+          "rating": "6.3"
+        },
         {
           "name": "Parasomnia",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/04/8382035c6a7cffd8701694040a47f71f.jpg",
@@ -2432,13 +2445,6 @@
           "slug": "iron-lung-4uq6Txi2XZ1",
           "subject_id": "1677951808099992400",
           "rating": "0"
-        },
-        {
-          "name": "Hokum",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/03/28/f6b47d39018deaaf9c39d5efa3c1f59a.jpg",
-          "slug": "hokum-edzRC6Gmcc",
-          "subject_id": "165144987024476984",
-          "rating": "8.0"
         }
       ]
     },
