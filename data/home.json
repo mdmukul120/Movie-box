@@ -6,6 +6,12 @@
       "count": 13,
       "items": [
         {
+          "name": "Neagley",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/258db67557b23779312dcad1458b9c0a.webp",
+          "slug": "neagley-kgfRKfjK46",
+          "subject_id": "82258967610676552"
+        },
+        {
           "name": "Paris Has Fallen",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/17b301cb4986e4cfaee42ad2c34f37ac.webp",
           "slug": "paris-has-fallen-MECZzYIddA8",
@@ -46,12 +52,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/949296f3590388f4d6fa9416166cf9d3.webp",
           "slug": "one-night-only-IUHJgG6Y1a5",
           "subject_id": "4332297711312601408"
-        },
-        {
-          "name": "Clash of the Thundermans",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/3ed89d1a7c0ce43fcd63a3ed3c937d1b.webp",
-          "slug": "clash-of-the-thundermans-ujcl180zbw3",
-          "subject_id": "2953609872106996688"
         },
         {
           "name": "Ordinary People",
@@ -95,6 +95,13 @@
           "slug": "beauty-in-black-E6NEe5Ha927",
           "subject_id": "5904172458474619680",
           "rating": "5.9"
+        },
+        {
+          "name": "Neagley",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/cae6bf74aeb0d6411d531ca0bedd36b1.jpg",
+          "slug": "neagley-kgfRKfjK46",
+          "subject_id": "82258967610676552",
+          "rating": "6.9"
         },
         {
           "name": "Paris Has Fallen",
@@ -147,7 +154,7 @@
         },
         {
           "name": "Umthetho",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/a62f0c5af0b833261869dd24045686d5.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/50e2307d87c494ff7405bb47cb4c5e4a.jpg",
           "slug": "umthetho-mL6Ua1F4uKa",
           "subject_id": "9022266259324424848",
           "rating": "4.4"
@@ -193,13 +200,6 @@
           "slug": "sterling-point-MaXarsHFNM3",
           "subject_id": "3178523771661606824",
           "rating": "7.4"
-        },
-        {
-          "name": "All American",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/13/bae1bd605c572e0ca8f28b33274b91a3.jpg",
-          "slug": "all-american-qHnle0GTdo1",
-          "subject_id": "1167223938976469784",
-          "rating": "7.6"
         }
       ]
     },
@@ -675,7 +675,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/a9d950282a93a24bd984a9fbcb4958ea.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/13c1c8cf371c91f5e7b6d42e9ddc1072.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -689,7 +689,7 @@
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/c9a30ca3433e2665c5a25a4c242ecf88.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/d8f38fa3d6021b181e7be91325886e2c.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -1379,8 +1379,29 @@
     },
     {
       "section": "Action&Thriller",
-      "count": 17,
+      "count": 18,
       "items": [
+        {
+          "name": "Neagley",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/cae6bf74aeb0d6411d531ca0bedd36b1.jpg",
+          "slug": "neagley-kgfRKfjK46",
+          "subject_id": "82258967610676552",
+          "rating": "6.9"
+        },
+        {
+          "name": "Paris Has Fallen",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/a89db93dee0396d4cc26832d09cdf9be.jpg",
+          "slug": "paris-has-fallen-MECZzYIddA8",
+          "subject_id": "7204616799684888000",
+          "rating": "6.6"
+        },
+        {
+          "name": "The Gentlemen",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/13/e119bdc781f6854da3efd083a248e03c.jpg",
+          "slug": "the-gentlemen-efKGpux2bB4",
+          "subject_id": "3860480352347113768",
+          "rating": "8.0"
+        },
         {
           "name": "Lucky",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/13/c0b8fe1f61b835854629a81823d24668.jpg",
@@ -1485,20 +1506,6 @@
           "slug": "the-last-frontier-6bGhstHlWw1",
           "subject_id": "1285226284775361584",
           "rating": "6.7"
-        },
-        {
-          "name": "Tulsa King",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/f2caa983a39bc0e89f7e6c0315b4199f.jpg",
-          "slug": "tulsa-king-MsmATkU0Mg6",
-          "subject_id": "5262873104975547168",
-          "rating": "7.9"
-        },
-        {
-          "name": "Black Rabbit",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/051f6bd8e2352a049e540ed07f6cdb9b.jpg",
-          "slug": "black-rabbit-UmN1KLQCAga",
-          "subject_id": "8617584105930344264",
-          "rating": "7.3"
         }
       ]
     },
@@ -1675,7 +1682,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/a9d950282a93a24bd984a9fbcb4958ea.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/13c1c8cf371c91f5e7b6d42e9ddc1072.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -2260,7 +2267,7 @@
         },
         {
           "name": "Facing El Chapo [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/787a2ef6b9ae50440ebbee09eb981edb.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/cde3a8fb189339b1e0b5736993ff4772.jpg",
           "slug": "facing-el-chapo-english-axYDc3YD5u",
           "subject_id": "407345050834850208",
           "rating": "6.7"
