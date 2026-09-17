@@ -3,13 +3,19 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 13,
+      "count": 14,
       "items": [
         {
           "name": "Neagley",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/258db67557b23779312dcad1458b9c0a.webp",
           "slug": "neagley-kgfRKfjK46",
           "subject_id": "82258967610676552"
+        },
+        {
+          "name": "Monster: The Lizzie Borden Story",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/f1afc52d849ab4a5358f5b7382a857c0.webp",
+          "slug": "monster-MY4FMlRoAFa",
+          "subject_id": "8955962000002143264"
         },
         {
           "name": "Paris Has Fallen",
@@ -95,6 +101,13 @@
           "slug": "beauty-in-black-E6NEe5Ha927",
           "subject_id": "5904172458474619680",
           "rating": "5.9"
+        },
+        {
+          "name": "Monster",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/4bcbd8370fd513d228a05ac8d2594817.jpg",
+          "slug": "monster-MY4FMlRoAFa",
+          "subject_id": "8955962000002143264",
+          "rating": "7.7"
         },
         {
           "name": "Neagley",
@@ -193,13 +206,6 @@
           "slug": "my-life-with-the-walter-boys-KTgL0dWzKF3",
           "subject_id": "3083088853704605864",
           "rating": "6.8"
-        },
-        {
-          "name": "Sterling Point",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/55ff0be26db9e8f9dd2214123e421871.jpg",
-          "slug": "sterling-point-MaXarsHFNM3",
-          "subject_id": "3178523771661606824",
-          "rating": "7.4"
         }
       ]
     },
