@@ -3,13 +3,43 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "name": "The Fix",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/d03fc02fe897ffdb7b8b4f97477986ea.jpeg",
+          "slug": "the-fix-U4maQqLbH",
+          "subject_id": "9430056502182520"
+        },
+        {
+          "name": "You+Me - Against the World [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/07c010e018facfcb1e667a71a01ccede.png",
+          "slug": "you-me-against-the-world-english-8iZF6nIFoe1",
+          "subject_id": "1034205646629007888"
+        },
+        {
+          "name": "Best of the Best",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/7a52a7ce474e698d5716aeb905584531.webp",
+          "slug": "best-of-the-best-8Ms2BiKOCq",
+          "subject_id": "360439884793928344"
+        },
+        {
+          "name": "The Scandal",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/816eea724206d8ae6f86778ab903c1fb.webp",
+          "slug": "the-scandal-mlNU8SlJXV8",
+          "subject_id": "7499050641378399408"
+        },
         {
           "name": "Neagley",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/258db67557b23779312dcad1458b9c0a.webp",
           "slug": "neagley-kgfRKfjK46",
           "subject_id": "82258967610676552"
+        },
+        {
+          "name": "MobLand Seaosn2",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/5fb7013fa1189d2ac3ce9d8b1127eb5a.jpeg",
+          "slug": "mobland-wWHa6Cu6fa5",
+          "subject_id": "4335165664987072680"
         },
         {
           "name": "Monster: The Lizzie Borden Story",
@@ -48,40 +78,16 @@
           "subject_id": "4252608531620414856"
         },
         {
-          "name": "Drawn Together [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/9a80e991895f601f2de6b293576ceff1-s.png",
-          "slug": "drawn-together-english-SveJzNvP0h2",
-          "subject_id": "1908910611593841624"
-        },
-        {
-          "name": "One Night Only",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/949296f3590388f4d6fa9416166cf9d3.webp",
-          "slug": "one-night-only-IUHJgG6Y1a5",
-          "subject_id": "4332297711312601408"
-        },
-        {
           "name": "Ordinary People",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/04/03e6d276f4b48a48e478959af0aa839f.jpeg",
           "slug": "ordinary-people-YmqiCnDJ0V1",
           "subject_id": "1611074008508777000"
         },
         {
-          "name": "Mayday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/04/bdfa994745227a8de3b224a514a39de4.webp",
-          "slug": "mayday-EyFZ8SeW7k1",
-          "subject_id": "1111774575987245152"
-        },
-        {
           "name": "The Gentlemen S2",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/6670bf7210192a3287d7792466c39156.png",
           "slug": "the-gentlemen-efKGpux2bB4",
           "subject_id": "3860480352347113768"
-        },
-        {
-          "name": "Beauty in Black  S3",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/833adf4ea89155e719198f4665e5fc09.jpg",
-          "slug": "beauty-in-black-E6NEe5Ha927",
-          "subject_id": "5904172458474619680"
         },
         {
           "name": "Bleach: Thousand-Year Blood War - The Calamity season 4",
@@ -93,7 +99,7 @@
     },
     {
       "section": "Popular Series",
-      "count": 16,
+      "count": 17,
       "items": [
         {
           "name": "Beauty in Black",
@@ -103,18 +109,18 @@
           "rating": "5.9"
         },
         {
-          "name": "MobLand",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/a2bf8aba05708f757ee196d48608e319.jpg",
-          "slug": "mobland-wWHa6Cu6fa5",
-          "subject_id": "4335165664987072680",
-          "rating": "8.3"
-        },
-        {
           "name": "Neagley",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/cae6bf74aeb0d6411d531ca0bedd36b1.jpg",
           "slug": "neagley-kgfRKfjK46",
           "subject_id": "82258967610676552",
           "rating": "6.9"
+        },
+        {
+          "name": "MobLand",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/a2bf8aba05708f757ee196d48608e319.jpg",
+          "slug": "mobland-wWHa6Cu6fa5",
+          "subject_id": "4335165664987072680",
+          "rating": "8.3"
         },
         {
           "name": "Paris Has Fallen",
@@ -136,6 +142,13 @@
           "slug": "city-of-blood-english-wQ2OI6CHYua",
           "subject_id": "8812360255402304816",
           "rating": "7.1"
+        },
+        {
+          "name": "The Scandal [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/876fa95f0f03ebdfde01df32676be1fd.jpg",
+          "slug": "the-scandal-english-4qe9RAlXnk3",
+          "subject_id": "2793870652791586000",
+          "rating": "6.3"
         },
         {
           "name": "A Love Other Than Yours",
@@ -211,8 +224,29 @@
     },
     {
       "section": "Popular Movie",
-      "count": 13,
+      "count": 15,
       "items": [
+        {
+          "name": "The Fix",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/988cbdb133d471922a5f4a772c648880.jpg",
+          "slug": "the-fix-U4maQqLbH",
+          "subject_id": "9430056502182520",
+          "rating": "6.5"
+        },
+        {
+          "name": "Best of the Best",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/52bf31ace5c09395e96508833df8c302.jpg",
+          "slug": "best-of-the-best-8Ms2BiKOCq",
+          "subject_id": "360439884793928344",
+          "rating": "6.0"
+        },
+        {
+          "name": "You+Me - Against the World [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/aa9ce7c3193653fcbedc2a0c78e30ac1.jpg",
+          "slug": "you-me-against-the-world-english-8iZF6nIFoe1",
+          "subject_id": "1034205646629007888",
+          "rating": "6.6"
+        },
         {
           "name": "Why Did I Get Married Again?",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/07/36aff191e6a7a3f783ee2f5f2d9c6c4d.jpg",
@@ -296,13 +330,6 @@
           "slug": "the-whisper-man-AkT6dtuLbF7",
           "subject_id": "6432685097291767512",
           "rating": "6.2"
-        },
-        {
-          "name": "The Last House",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/c51f3a92c4e7ed4ae8b53cd038893437.jpg",
-          "slug": "the-last-house-OFGQnYlfCi6",
-          "subject_id": "5287814749399434456",
-          "rating": "5.5"
         }
       ]
     },
@@ -639,7 +666,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/0cd3419b8cbc6e356dd1eacb32a449a1.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/1805118cbebd4a7a0c7e66e78cb328f6.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -681,7 +708,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/9de153548ea1122abbcc95ba9e321ee7.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/d9cc7c043cd5116bba811f940a7de475.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -695,7 +722,7 @@
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/c741e86df4592c8025e8d77a2cabdfd2.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/129f56e6e359cd7ce1b1f7d34400ab0f.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -875,7 +902,7 @@
         },
         {
           "name": "Off Campus",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/74fcfa495ebf5dc425b2dbba9aafec75.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/b10cefb9ca6f33cb70a23acd5b56a08c.jpg",
           "slug": "off-campus-aP9MRcE3oqa",
           "subject_id": "8750210920061751384",
           "rating": "7.8"
@@ -1327,7 +1354,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/4668af3f2fd630b66bcab933f21014e7.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/26e0b82e1cb482c775f7c83b08f3ee41.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -1688,7 +1715,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/9de153548ea1122abbcc95ba9e321ee7.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/d9cc7c043cd5116bba811f940a7de475.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -1803,25 +1830,11 @@
       "count": 18,
       "items": [
         {
-          "name": "A Bona Fide Killer",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/2e6899e0516c34a0188010bfbcf1037f.jpg",
-          "slug": "a-bona-fide-killer-yzvVpvmbTK4",
-          "subject_id": "3991952166557736960",
-          "rating": "7.3"
-        },
-        {
-          "name": "My Bias, My Boss",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/9129569037d53b3b5dfdc4f7d17ba68a.jpg",
-          "slug": "my-bias-my-boss-WLJPOXtbR62",
-          "subject_id": "1771433716380746040",
-          "rating": "7.2"
-        },
-        {
-          "name": "A Love Other Than Yours",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/ba358c5aafb9c307519f00ba5c68e585.jpg",
-          "slug": "a-love-other-than-yours-W77cR5lvfL4",
-          "subject_id": "3996826000955958296",
-          "rating": "6.5"
+          "name": "The Scandal",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/876fa95f0f03ebdfde01df32676be1fd.jpg",
+          "slug": "the-scandal-mlNU8SlJXV8",
+          "subject_id": "7499050641378399408",
+          "rating": "6.3"
         },
         {
           "name": "Flex x Cop",
@@ -1831,11 +1844,32 @@
           "rating": "7.8"
         },
         {
+          "name": "A Bona Fide Killer",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/2e6899e0516c34a0188010bfbcf1037f.jpg",
+          "slug": "a-bona-fide-killer-yzvVpvmbTK4",
+          "subject_id": "3991952166557736960",
+          "rating": "7.3"
+        },
+        {
           "name": "Four Hands, Two Sonatas",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/48a75a4a710d06a599b30102768104b1.jpg",
           "slug": "four-hands-two-sonatas-cwxtxxOsgp4",
           "subject_id": "3699219544767103960",
           "rating": "8.3"
+        },
+        {
+          "name": "A Love Other Than Yours",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/ba358c5aafb9c307519f00ba5c68e585.jpg",
+          "slug": "a-love-other-than-yours-W77cR5lvfL4",
+          "subject_id": "3996826000955958296",
+          "rating": "6.5"
+        },
+        {
+          "name": "My Bias, My Boss",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/9129569037d53b3b5dfdc4f7d17ba68a.jpg",
+          "slug": "my-bias-my-boss-WLJPOXtbR62",
+          "subject_id": "1771433716380746040",
+          "rating": "7.2"
         },
         {
           "name": "The Ordinary Jackpot",
@@ -1920,13 +1954,6 @@
           "slug": "my-idol-my-debut-2lmjz7SQD99",
           "subject_id": "7684229533956204968",
           "rating": "7.0"
-        },
-        {
-          "name": "Love in Sync",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/a6a0b1c99785c0a898d1b31acb9cb897.jpg",
-          "slug": "love-in-sync-gWVZyU3gMf9",
-          "subject_id": "7767287484132091128",
-          "rating": "6.4"
         }
       ]
     },
@@ -1940,6 +1967,20 @@
       "count": 20,
       "items": [
         {
+          "name": "The Early Spring",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/6ef3affa71dfec768286dfa1cb7af784.jpg",
+          "slug": "the-early-spring-2LpemdrrJx5",
+          "subject_id": "4653142619558688856",
+          "rating": "8.3"
+        },
+        {
+          "name": "Spring of the Blade",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/fab92530fed3593e53969f8149b26585.jpg",
+          "slug": "spring-of-the-blade-QMViXWhRBT3",
+          "subject_id": "3270704106746311256",
+          "rating": "7.1"
+        },
+        {
           "name": "Against the Current",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/04/5cd23d8ea000ab1adcdabace21aaf451.jpg",
           "slug": "against-the-current-Cf0MeaVEAZ9",
@@ -1952,13 +1993,6 @@
           "slug": "blossom-through-the-cloud-ccN3reMKyx",
           "subject_id": "454312153525502096",
           "rating": "6.4"
-        },
-        {
-          "name": "The Early Spring",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/6ef3affa71dfec768286dfa1cb7af784.jpg",
-          "slug": "the-early-spring-2LpemdrrJx5",
-          "subject_id": "4653142619558688856",
-          "rating": "8.3"
         },
         {
           "name": "Pull Strings",
@@ -2071,13 +2105,6 @@
           "slug": "archives-the-nanyang-mystery-k6uE0HcL1r1",
           "subject_id": "1205185279615720416",
           "rating": "7.9"
-        },
-        {
-          "name": "Dazzling",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/78b4ae152ff43b30723b67c60d29ecbf-s.jpg",
-          "slug": "dazzling-4m2tffvJtt3",
-          "subject_id": "2916965717943766216",
-          "rating": "8.0"
         }
       ]
     },
@@ -2209,11 +2236,25 @@
       "count": 17,
       "items": [
         {
+          "name": "The Fix",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/988cbdb133d471922a5f4a772c648880.jpg",
+          "slug": "the-fix-U4maQqLbH",
+          "subject_id": "9430056502182520",
+          "rating": "6.5"
+        },
+        {
           "name": "Little Lorraine",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/12/36f1713b586178ec4f4e58b803f0fca5.jpg",
           "slug": "little-lorraine-QGkpJWUbkX3",
           "subject_id": "3320994978326806264",
           "rating": "7.6"
+        },
+        {
+          "name": "Drive Through Fire",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/e83050e94e50933980b405303c330457.jpg",
+          "slug": "drive-through-fire-we1t7e81Uy2",
+          "subject_id": "2151090709175096528",
+          "rating": "6.2"
         },
         {
           "name": "Knightfall",
@@ -2312,20 +2353,6 @@
           "slug": "lucky-strike-GzdM5cq3uDa",
           "subject_id": "8927502289884139048",
           "rating": "6.1"
-        },
-        {
-          "name": "The Gentleman Thief",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/29/007843e3ca61b2173351c28f91975100.jpg",
-          "slug": "the-gentleman-thief-4MvTGoR2Ed9",
-          "subject_id": "7738420098402606664",
-          "rating": "6.9"
-        },
-        {
-          "name": "The Debt Collector [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/ebeb737e6c9dc9d215f29ef078dd524b.jpg",
-          "slug": "the-debt-collector-english-AKIa94vfnN9",
-          "subject_id": "8222087944836898552",
-          "rating": "5.6"
         }
       ]
     },
@@ -2706,6 +2733,20 @@
       "count": 19,
       "items": [
         {
+          "name": "You+Me - Against the World [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/aa9ce7c3193653fcbedc2a0c78e30ac1.jpg",
+          "slug": "you-me-against-the-world-english-8iZF6nIFoe1",
+          "subject_id": "1034205646629007888",
+          "rating": "6.6"
+        },
+        {
+          "name": "The Last Sunrise",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/24/f1c9816931d7d52e25e91bbb74fef62d.jpg",
+          "slug": "the-last-sunrise-a7PGMx5VlH6",
+          "subject_id": "5622677105902242520",
+          "rating": "6.5"
+        },
+        {
           "name": "One Night Only",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/12/32b198f20214739a555a07511b3f5525.jpg",
           "slug": "one-night-only-IUHJgG6Y1a5",
@@ -2718,13 +2759,6 @@
           "slug": "drawn-together-english-SveJzNvP0h2",
           "subject_id": "1908910611593841624",
           "rating": "6.2"
-        },
-        {
-          "name": "The Last Sunrise",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/24/f1c9816931d7d52e25e91bbb74fef62d.jpg",
-          "slug": "the-last-sunrise-a7PGMx5VlH6",
-          "subject_id": "5622677105902242520",
-          "rating": "6.5"
         },
         {
           "name": "Camp Rock 3",
@@ -2830,13 +2864,6 @@
           "slug": "no-place-to-be-single-english-w8EkWUYAFn",
           "subject_id": "320435173198387888",
           "rating": "6.0"
-        },
-        {
-          "name": "The Drama",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/03/32dcf6a52baecc4827666e5acbf1a538.jpg",
-          "slug": "the-drama-yD9CfVZLLC9",
-          "subject_id": "8078534599686739480",
-          "rating": "7.2"
         }
       ]
     }
