@@ -103,11 +103,11 @@
           "rating": "5.9"
         },
         {
-          "name": "Monster",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/4bcbd8370fd513d228a05ac8d2594817.jpg",
-          "slug": "monster-MY4FMlRoAFa",
-          "subject_id": "8955962000002143264",
-          "rating": "7.7"
+          "name": "MobLand",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/a2bf8aba05708f757ee196d48608e319.jpg",
+          "slug": "mobland-wWHa6Cu6fa5",
+          "subject_id": "4335165664987072680",
+          "rating": "8.3"
         },
         {
           "name": "Neagley",
@@ -124,11 +124,32 @@
           "rating": "6.6"
         },
         {
+          "name": "Monster",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/4bcbd8370fd513d228a05ac8d2594817.jpg",
+          "slug": "monster-MY4FMlRoAFa",
+          "subject_id": "8955962000002143264",
+          "rating": "7.7"
+        },
+        {
+          "name": "City of Blood [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/89235d4d94850de617451ef8ee19bc3a.jpg",
+          "slug": "city-of-blood-english-wQ2OI6CHYua",
+          "subject_id": "8812360255402304816",
+          "rating": "7.1"
+        },
+        {
           "name": "A Love Other Than Yours",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/ba358c5aafb9c307519f00ba5c68e585.jpg",
           "slug": "a-love-other-than-yours-W77cR5lvfL4",
           "subject_id": "3996826000955958296",
           "rating": "6.5"
+        },
+        {
+          "name": "The Gentlemen",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/fc1841aea1c1572162d5d7317593a37a.jpg",
+          "slug": "the-gentlemen-efKGpux2bB4",
+          "subject_id": "3860480352347113768",
+          "rating": "8.0"
         },
         {
           "name": "Crew Girl",
@@ -145,13 +166,6 @@
           "rating": "6.5"
         },
         {
-          "name": "The Gentlemen",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/fc1841aea1c1572162d5d7317593a37a.jpg",
-          "slug": "the-gentlemen-efKGpux2bB4",
-          "subject_id": "3860480352347113768",
-          "rating": "8.0"
-        },
-        {
           "name": "Ordinary People",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/04/e6d5f8a86b368b2176e5cc2aefb7fed4.jpeg",
           "slug": "ordinary-people-YmqiCnDJ0V1",
@@ -166,6 +180,20 @@
           "rating": "7.5"
         },
         {
+          "name": "Kwa Baba",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/db86d1368e3fa53aba700f56265cc67d.jpeg",
+          "slug": "kwa-baba-WFoUozIudP",
+          "subject_id": "693338015313319144",
+          "rating": "6.4"
+        },
+        {
+          "name": "The Four Of Us",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/02/d8a4be0d3fee63430a9dbb1d21437c0a.jpeg",
+          "slug": "the-four-of-us-edt1Rx7MZ72",
+          "subject_id": "1786846550119830928",
+          "rating": "6.4"
+        },
+        {
           "name": "Umthetho",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/ad22301e074b0b881175fe4962d1ed77.jpg",
           "slug": "umthetho-mL6Ua1F4uKa",
@@ -178,34 +206,6 @@
           "slug": "mousetrap-english-4ia2OQBkDT7",
           "subject_id": "6628223167519768920",
           "rating": "6.9"
-        },
-        {
-          "name": "The Early Spring",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/6ef3affa71dfec768286dfa1cb7af784.jpg",
-          "slug": "the-early-spring-2LpemdrrJx5",
-          "subject_id": "4653142619558688856",
-          "rating": "8.3"
-        },
-        {
-          "name": "A Bona Fide Killer",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/2e6899e0516c34a0188010bfbcf1037f.jpg",
-          "slug": "a-bona-fide-killer-yzvVpvmbTK4",
-          "subject_id": "3991952166557736960",
-          "rating": "7.3"
-        },
-        {
-          "name": "Our Sticky Love [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/53f2a495bb094cab1b22f960224620d4.jpg",
-          "slug": "our-sticky-love-english-aFWDVwPuHl2",
-          "subject_id": "1972374749166588664",
-          "rating": "7.5"
-        },
-        {
-          "name": "My Life with the Walter Boys",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/5dc3d6d4562ffc6062cfb6d1a420e97a.jpg",
-          "slug": "my-life-with-the-walter-boys-KTgL0dWzKF3",
-          "subject_id": "3083088853704605864",
-          "rating": "6.8"
         }
       ]
     },
@@ -310,6 +310,20 @@
       "section": "Nollywood Movie",
       "count": 20,
       "items": [
+        {
+          "name": "ONCE UPON A VILLAGE 7",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/066f1f172dad82e3bac702155766f427.jpg",
+          "slug": "once-upon-a-village-7-oUOmHNEnuX4",
+          "subject_id": "4162519087547153616",
+          "rating": "0"
+        },
+        {
+          "name": "CHILD OF THUNDER 2 - DESTINY ETIKO, YUL EDOCHIE, LIZZY GOLD",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/127e0d6d8f7d6634542cde0059165eef.jpg",
+          "slug": "child-of-thunder-2-destiny-etiko-yul-edochie-lizzy-gold-a3jRhc2b0K1",
+          "subject_id": "1462044209615099384",
+          "rating": "0"
+        },
         {
           "name": "MY FAVOURITE HELLO",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/b99964d45723ffd045aa97fe421c83aa.jpg",
@@ -434,20 +448,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/5d651ead02dc0e229542f3f008ac78ba.jpg",
           "slug": "shes-perfect-KrmDUPOM7q9",
           "subject_id": "7907358848829516152",
-          "rating": "0"
-        },
-        {
-          "name": "CLASS CHARACTER",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/28/b567f875e5521ce757a154fd72071989.jpg",
-          "slug": "class-character-IqGa7rdL527",
-          "subject_id": "5903427713829954720",
-          "rating": "0"
-        },
-        {
-          "name": "THE BRIDE SWITCH",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/28/20c5bba39558372bac4a6cca39e0eb51.jpg",
-          "slug": "the-bride-switch-er2J145VRA",
-          "subject_id": "499108160985260936",
           "rating": "0"
         }
       ]
@@ -639,7 +639,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/b63f6a119ebe96f56c2ee1a6fa0f94d0.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/0cd3419b8cbc6e356dd1eacb32a449a1.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -681,7 +681,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/6217ec702e7cbc9c4f8f727c18d599a5.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/9de153548ea1122abbcc95ba9e321ee7.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -695,7 +695,7 @@
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/9d7f6ab4b1d18b256fda9339f0483d7f.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/c741e86df4592c8025e8d77a2cabdfd2.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -875,7 +875,7 @@
         },
         {
           "name": "Off Campus",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/353d9ac2712241f8085006267b55a43c.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/74fcfa495ebf5dc425b2dbba9aafec75.jpg",
           "slug": "off-campus-aP9MRcE3oqa",
           "subject_id": "8750210920061751384",
           "rating": "7.8"
@@ -1096,11 +1096,11 @@
       "count": 20,
       "items": [
         {
-          "name": "You Maniac",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/ab0b3d8945fe4472473ef855bea43911.jpg",
-          "slug": "you-maniac-Q0ZLwhb6yG8",
-          "subject_id": "7290397896028442960",
-          "rating": "9.4"
+          "name": "Knot",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/19/d99ac94a58bcbb071845ac4b3fa0e667.jpg",
+          "slug": "knot-IqG26hg2zV6",
+          "subject_id": "5815059999739072848",
+          "rating": "8.4"
         },
         {
           "name": "Mr. Fanboy",
@@ -1110,11 +1110,11 @@
           "rating": "6.4"
         },
         {
-          "name": "The Missing Piece",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/9c2b2314528fefd179e5a9fcab4bc0b8.jpg",
-          "slug": "the-missing-piece-wcuGqrxcSG4",
-          "subject_id": "3937589623030960304",
-          "rating": "6.0"
+          "name": "Don't Be Too Emotional",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/e4cf44cac3d33a2990917924b0a97cb9.jpg",
+          "slug": "dont-be-too-emotional-eJXKcpe4Zr4",
+          "subject_id": "3736032451416707984",
+          "rating": "7.8"
         },
         {
           "name": "Nour",
@@ -1122,6 +1122,27 @@
           "slug": "nour-gI252dSJDa",
           "subject_id": "144047681390928920",
           "rating": "6.5"
+        },
+        {
+          "name": "The Missing Piece",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/9c2b2314528fefd179e5a9fcab4bc0b8.jpg",
+          "slug": "the-missing-piece-wcuGqrxcSG4",
+          "subject_id": "3937589623030960304",
+          "rating": "6.0"
+        },
+        {
+          "name": "Love Penalty",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/b8ca97e1745e03d996d858e36b600251.jpg",
+          "slug": "love-penalty-YSYTXvWlP11",
+          "subject_id": "864049075405091416",
+          "rating": "6.0"
+        },
+        {
+          "name": "You Maniac",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/ab0b3d8945fe4472473ef855bea43911.jpg",
+          "slug": "you-maniac-Q0ZLwhb6yG8",
+          "subject_id": "7290397896028442960",
+          "rating": "9.4"
         },
         {
           "name": "Kiss or Kill",
@@ -1136,13 +1157,6 @@
           "slug": "summer-fever-yrdJSMHgqZ4",
           "subject_id": "4188695418567548824",
           "rating": "6.2"
-        },
-        {
-          "name": "Don't Be Too Emotional",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/e4cf44cac3d33a2990917924b0a97cb9.jpg",
-          "slug": "dont-be-too-emotional-eJXKcpe4Zr4",
-          "subject_id": "3736032451416707984",
-          "rating": "7.8"
         },
         {
           "name": "Ippon: Hold Me Tight",
@@ -1220,20 +1234,6 @@
           "slug": "match-point-QUNc1QpALO1",
           "subject_id": "1526543923932456440",
           "rating": "8.8"
-        },
-        {
-          "name": "The Table",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/17/ec20741395c481dca0e1fcc35b3e735b.jpg",
-          "slug": "the-table-U8SNGDMCmD2",
-          "subject_id": "2211485173491843384",
-          "rating": "6.7"
-        },
-        {
-          "name": "Heartstopper Forever",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/05/a9628160337b0f247f84b114bfb60cf5.jpg",
-          "slug": "heartstopper-forever-8qLGeGNzuJ5",
-          "subject_id": "4812342005508508448",
-          "rating": "6.9"
         }
       ]
     },
@@ -1327,7 +1327,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/d7e579bded6ec0b1aa1f3450ff72a81c.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/4668af3f2fd630b66bcab933f21014e7.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -1688,7 +1688,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/6217ec702e7cbc9c4f8f727c18d599a5.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/9de153548ea1122abbcc95ba9e321ee7.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
