@@ -3,7 +3,7 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 15,
+      "count": 14,
       "items": [
         {
           "name": "The Fix",
@@ -16,12 +16,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/07c010e018facfcb1e667a71a01ccede.png",
           "slug": "you-me-against-the-world-english-8iZF6nIFoe1",
           "subject_id": "1034205646629007888"
-        },
-        {
-          "name": "Best of the Best",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/7a52a7ce474e698d5716aeb905584531.webp",
-          "slug": "best-of-the-best-8Ms2BiKOCq",
-          "subject_id": "360439884793928344"
         },
         {
           "name": "The Scandal",
@@ -102,13 +96,6 @@
       "count": 17,
       "items": [
         {
-          "name": "Beauty in Black",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/19/82571ca952891c852c18d1a30d2c8218.jpg",
-          "slug": "beauty-in-black-E6NEe5Ha927",
-          "subject_id": "5904172458474619680",
-          "rating": "5.9"
-        },
-        {
           "name": "Neagley",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/cae6bf74aeb0d6411d531ca0bedd36b1.jpg",
           "slug": "neagley-kgfRKfjK46",
@@ -130,8 +117,15 @@
           "rating": "6.6"
         },
         {
+          "name": "Beauty in Black",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/19/82571ca952891c852c18d1a30d2c8218.jpg",
+          "slug": "beauty-in-black-E6NEe5Ha927",
+          "subject_id": "5904172458474619680",
+          "rating": "5.9"
+        },
+        {
           "name": "Monster",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/19/03f33ff7f891147315a37383a242a495.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/20/3971e4291ba52620d1378142b293a82b.jpg",
           "slug": "monster-MY4FMlRoAFa",
           "subject_id": "8955962000002143264",
           "rating": "7.7"
@@ -224,7 +218,7 @@
     },
     {
       "section": "Popular Movie",
-      "count": 15,
+      "count": 14,
       "items": [
         {
           "name": "The Fix",
@@ -232,13 +226,6 @@
           "slug": "the-fix-U4maQqLbH",
           "subject_id": "9430056502182520",
           "rating": "6.5"
-        },
-        {
-          "name": "Best of the Best",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/52bf31ace5c09395e96508833df8c302.jpg",
-          "slug": "best-of-the-best-8Ms2BiKOCq",
-          "subject_id": "360439884793928344",
-          "rating": "6.0"
         },
         {
           "name": "You+Me - Against the World [English]",
@@ -666,7 +653,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/19/778d92d59449882800c2ee20fafa0924.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/20/6887c9c5103ea6b18a6e253c62ebe5ae.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -1236,7 +1223,7 @@
         },
         {
           "name": "Gelboys",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/dc309a32c66be51e6a5cac9a11c8e5cf.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/20/56b3724ac3d7a2ef6607ccb836fb23f8.jpg",
           "slug": "gelboys-IAR9vlurJAa",
           "subject_id": "8890250886400852416",
           "rating": "8.4"
