@@ -325,10 +325,24 @@
       "count": 20,
       "items": [
         {
+          "name": "MARRIED FOR THE WEEKEND",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/44af44a0d86bcf1850c72aba4567ed90.jpg",
+          "slug": "married-for-the-weekend-uXumIjpIKi1",
+          "subject_id": "1093166957668596944",
+          "rating": "0"
+        },
+        {
           "name": "ONCE UPON A VILLAGE 7",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/066f1f172dad82e3bac702155766f427.jpg",
           "slug": "once-upon-a-village-7-oUOmHNEnuX4",
           "subject_id": "4162519087547153616",
+          "rating": "0"
+        },
+        {
+          "name": "LONG ENOUGH ; VICTORY MICHAEL, PRISMA JAMES, JENNIFER OBODO, CHINEDU",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/5a1e65c5cf95ef76bcdc2ccc4e197b00.jpg",
+          "slug": "long-enough-victory-michael-prisma-james-jennifer-obodo-chinedu-KxdzcVY2rXa",
+          "subject_id": "9197587451412372456",
           "rating": "0"
         },
         {
@@ -448,20 +462,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/25e2292884694b52fe2608f4560d2d7f.jpg",
           "slug": "man-of-my-dream-a5sZpQtGyK3",
           "subject_id": "3148177245366284824",
-          "rating": "0"
-        },
-        {
-          "name": "ECHOES OF DESIRE",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/440b2db17152044b12d5a98d3324af8f.jpg",
-          "slug": "echoes-of-desire-ePMvYNF2px",
-          "subject_id": "452191776489855760",
-          "rating": "0"
-        },
-        {
-          "name": "SHE'S PERFECT",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/5d651ead02dc0e229542f3f008ac78ba.jpg",
-          "slug": "shes-perfect-KrmDUPOM7q9",
-          "subject_id": "7907358848829516152",
           "rating": "0"
         }
       ]
@@ -653,7 +653,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/20/6887c9c5103ea6b18a6e253c62ebe5ae.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/20/95ac9bb64f17bc4a90a2b380618dbbf3.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -1110,13 +1110,6 @@
       "count": 20,
       "items": [
         {
-          "name": "Knot",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/19/d99ac94a58bcbb071845ac4b3fa0e667.jpg",
-          "slug": "knot-IqG26hg2zV6",
-          "subject_id": "5815059999739072848",
-          "rating": "8.4"
-        },
-        {
           "name": "Mr. Fanboy",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/3e00ec0d05e1ca5e146250f440a7e88f.jpg",
           "slug": "mr-fanboy-E6DHbmxYT48",
@@ -1131,6 +1124,27 @@
           "rating": "7.8"
         },
         {
+          "name": "The Crow Club",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/30/298fe46b731ad0418d49ba36bc5ad2ee.jpg",
+          "slug": "the-crow-club-mtR9ySxRsO8",
+          "subject_id": "7397551347174098632",
+          "rating": "6.4"
+        },
+        {
+          "name": "Knot",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/19/d99ac94a58bcbb071845ac4b3fa0e667.jpg",
+          "slug": "knot-IqG26hg2zV6",
+          "subject_id": "5815059999739072848",
+          "rating": "8.4"
+        },
+        {
+          "name": "Oops! Mysterious Sounds",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/04/15/142246cf3d548a58c2b78ac2b2484b56.jpg",
+          "slug": "oops-mysterious-sounds-KfQvJcPs0M8",
+          "subject_id": "7364276594854479032",
+          "rating": "6.3"
+        },
+        {
           "name": "Nour",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/42a2d117e5dcc8c98c73fef12e4d7e73.jpg",
           "slug": "nour-gI252dSJDa",
@@ -1143,6 +1157,13 @@
           "slug": "the-missing-piece-wcuGqrxcSG4",
           "subject_id": "3937589623030960304",
           "rating": "6.0"
+        },
+        {
+          "name": "Police in Love",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/4d6ceeb3c4f80f0ca202ee960575cc3d.jpg",
+          "slug": "police-in-love-4m6Rc0uTpD8",
+          "subject_id": "7247995197891003528",
+          "rating": "6.3"
         },
         {
           "name": "Love Penalty",
@@ -1227,27 +1248,6 @@
           "slug": "gelboys-IAR9vlurJAa",
           "subject_id": "8890250886400852416",
           "rating": "8.4"
-        },
-        {
-          "name": "High School Boy",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/03/cc627b2e6211f0b737a7b193c79cdb18.jpg",
-          "slug": "high-school-boy-4cbzehXhKZ9",
-          "subject_id": "8389563451445760256",
-          "rating": "6.3"
-        },
-        {
-          "name": "Your Third",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/4599667c9c236d0d2a873f1115da6e4d.jpg",
-          "slug": "your-third-QY7rChgzXa5",
-          "subject_id": "4344873942491056576",
-          "rating": "7.1"
-        },
-        {
-          "name": "Match Point",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/19/c7d5132064bf17a3c8951a82880bddb2.jpg",
-          "slug": "match-point-QUNc1QpALO1",
-          "subject_id": "1526543923932456440",
-          "rating": "8.7"
         }
       ]
     },
@@ -2102,7 +2102,7 @@
     },
     {
       "section": "Anime[English Dubbed]",
-      "count": 16,
+      "count": 15,
       "items": [
         {
           "name": "One Piece [English]",
@@ -2117,13 +2117,6 @@
           "slug": "bleach-thousand-year-blood-war-english-IKoyJ28zSi8",
           "subject_id": "6969976563899551152",
           "rating": "9.0"
-        },
-        {
-          "name": "Mushoku Tensei: Jobless Reincarnation [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/29/165b9b02ef1077859684cc7e985f93c9.jpg",
-          "slug": "mushoku-tensei-jobless-reincarnation-english-wU27nPdjoc8",
-          "subject_id": "6882147824180812112",
-          "rating": "8.2"
         },
         {
           "name": "Tomb Raider King [English]",
@@ -2230,6 +2223,13 @@
           "rating": "6.5"
         },
         {
+          "name": "Rage of Stars",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/02/be336fce6719343252ad174518e7e77a.jpg",
+          "slug": "rage-of-stars-s81yBCn4GQ2",
+          "subject_id": "2391712944808673616",
+          "rating": "6.2"
+        },
+        {
           "name": "Little Lorraine",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/12/36f1713b586178ec4f4e58b803f0fca5.jpg",
           "slug": "little-lorraine-QGkpJWUbkX3",
@@ -2333,13 +2333,6 @@
           "slug": "the-isolate-thief-UUiZwcQsfJ5",
           "subject_id": "4809042395809606056",
           "rating": "6.5"
-        },
-        {
-          "name": "Lucky Strike",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/16/7072620c989105346c68db59e5c8ee14.jpg",
-          "slug": "lucky-strike-GzdM5cq3uDa",
-          "subject_id": "8927502289884139048",
-          "rating": "6.1"
         }
       ]
     },
@@ -2347,6 +2340,13 @@
       "section": "Horror Movies",
       "count": 18,
       "items": [
+        {
+          "name": "Teenage Sex and Death at Camp Miasma",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/2e440cb46d65fa546931dac5a06eecb6.jpg",
+          "slug": "teenage-sex-and-death-at-camp-miasma-QScu6hklis5",
+          "subject_id": "4579540480119166280",
+          "rating": "7.2"
+        },
         {
           "name": "Kiss of Death",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/51b68148e606b921d86650179b9fad51.jpg",
@@ -2465,13 +2465,6 @@
           "slug": "psycho-killer-IGW0Ag8OIE8",
           "subject_id": "7265661903765493376",
           "rating": "4.7"
-        },
-        {
-          "name": "Iron Lung",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/05/14/44dac3e4016f5eada69b8678deb7b9e6.jpeg",
-          "slug": "iron-lung-4uq6Txi2XZ1",
-          "subject_id": "1677951808099992400",
-          "rating": "0"
         }
       ]
     },
