@@ -896,7 +896,7 @@
         },
         {
           "name": "Off Campus",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/917ec4062623a4a4edae54b347600f31.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/16f41523f6a648798817bfe01bd792b9.jpg",
           "slug": "off-campus-aP9MRcE3oqa",
           "subject_id": "8750210920061751384",
           "rating": "7.8"
@@ -1124,6 +1124,20 @@
           "rating": "6.4"
         },
         {
+          "name": "You Maniac",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/ab0b3d8945fe4472473ef855bea43911.jpg",
+          "slug": "you-maniac-Q0ZLwhb6yG8",
+          "subject_id": "7290397896028442960",
+          "rating": "9.4"
+        },
+        {
+          "name": "The Last Oath",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/13/c678c61bd22c447c150985fca825b2c8.jpg",
+          "slug": "the-last-oath-Ii0Nxna7KB",
+          "subject_id": "510941087943609392",
+          "rating": "8.7"
+        },
+        {
           "name": "Don't Be Too Emotional",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/e4cf44cac3d33a2990917924b0a97cb9.jpg",
           "slug": "dont-be-too-emotional-eJXKcpe4Zr4",
@@ -1178,13 +1192,6 @@
           "slug": "love-penalty-YSYTXvWlP11",
           "subject_id": "864049075405091416",
           "rating": "6.0"
-        },
-        {
-          "name": "You Maniac",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/ab0b3d8945fe4472473ef855bea43911.jpg",
-          "slug": "you-maniac-Q0ZLwhb6yG8",
-          "subject_id": "7290397896028442960",
-          "rating": "9.4"
         },
         {
           "name": "Kiss or Kill",
@@ -1248,13 +1255,6 @@
           "slug": "play-me-0oik0tr1qw5",
           "subject_id": "4635365523360998424",
           "rating": "6.7"
-        },
-        {
-          "name": "Gelboys",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/ec465ebd4796253af10a5838dd8187fd.jpg",
-          "slug": "gelboys-IAR9vlurJAa",
-          "subject_id": "8890250886400852416",
-          "rating": "8.4"
         }
       ]
     },
@@ -1264,7 +1264,7 @@
       "items": [
         {
           "name": "Sistas",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/cacc2a552655b0b437f286603dcd6616.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/06d1f3a0e537b52d35b9e36b5704b843.jpg",
           "slug": "sistas-WvtmA9qQcd1",
           "subject_id": "1018086181784933408",
           "rating": "5.7"
@@ -2645,7 +2645,7 @@
         },
         {
           "name": "Sistas",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/cacc2a552655b0b437f286603dcd6616.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/06d1f3a0e537b52d35b9e36b5704b843.jpg",
           "slug": "sistas-WvtmA9qQcd1",
           "subject_id": "1018086181784933408",
           "rating": "5.7"
@@ -2694,7 +2694,7 @@
         },
         {
           "name": "Reasonable Doubt",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/12/0d8a5122cc14b8aab8de4b3da9a773c9.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/9d9716058849075f076a5293b9aadf30.jpg",
           "slug": "reasonable-doubt-ijJ0E6WFGla",
           "subject_id": "8686590447290045472",
           "rating": "6.7"
