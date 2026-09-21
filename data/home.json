@@ -125,7 +125,7 @@
         },
         {
           "name": "Monster",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/20/5a0edbd27eabbd4b52a220a368e00335.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/c9739643d871f207d02347d013180ba2.jpg",
           "slug": "monster-MY4FMlRoAFa",
           "subject_id": "8955962000002143264",
           "rating": "7.7"
@@ -218,7 +218,7 @@
     },
     {
       "section": "Popular Movie",
-      "count": 14,
+      "count": 15,
       "items": [
         {
           "name": "The Fix",
@@ -296,6 +296,13 @@
           "slug": "just-play-dead-QonHH9LbMH2",
           "subject_id": "2271215194556744920",
           "rating": "4.1"
+        },
+        {
+          "name": "Spider-Man: Brand New Day",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/20/9c6c02338937d1d5d34cb1aaf0203788.jpg",
+          "slug": "spider-man-brand-new-day-Aea8ARY1bb7",
+          "subject_id": "6026412232966389904",
+          "rating": "8.0"
         },
         {
           "name": "The Weight",
@@ -486,14 +493,14 @@
         },
         {
           "name": "The Legend of Vox Machina",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/07/354e43893b73db569d8e8ced2e9f8ea7.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/20/f98a03930041470bdc14cf8beaade699.jpg",
           "slug": "the-legend-of-vox-machina-SPQ6Bv09df3",
           "subject_id": "2723824540651508768",
           "rating": "8.4"
         },
         {
           "name": "Rick and Morty",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/b81b6d9fe9cb773fca868499b540d47d.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/20/81ceea7940bff16115347923a24d0d68.jpg",
           "slug": "rick-and-morty-aPze2KlOcN2",
           "subject_id": "2344713369481008160",
           "rating": "9.0"
@@ -632,7 +639,7 @@
         },
         {
           "name": "The Sandman",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/07/698ea2fdc492fb9f4c9ce68a704fdb35.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/20/7641c430a0a3a8790b8ea27ec96903b7.jpg",
           "slug": "the-sandman-48fHwaUTnf3",
           "subject_id": "2726173097488438040",
           "rating": "7.6"
@@ -889,7 +896,7 @@
         },
         {
           "name": "Off Campus",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/20/8f03851478f3197f9c127704699890b0.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/917ec4062623a4a4edae54b347600f31.jpg",
           "slug": "off-campus-aP9MRcE3oqa",
           "subject_id": "8750210920061751384",
           "rating": "7.8"
@@ -1098,7 +1105,7 @@
         },
         {
           "name": "Superman & Lois",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/05/225b13594e742652331d8eae24e9ce01.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/20/bf8f930637b7f07aa78c4dd82869c090.jpg",
           "slug": "superman-and-lois-cYPG9EkZ1m3",
           "subject_id": "2816148333012603936",
           "rating": "7.8"
@@ -1244,7 +1251,7 @@
         },
         {
           "name": "Gelboys",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/20/b2fc11badcac919c534324b2d2f68334.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/ec465ebd4796253af10a5838dd8187fd.jpg",
           "slug": "gelboys-IAR9vlurJAa",
           "subject_id": "8890250886400852416",
           "rating": "8.4"
@@ -2106,7 +2113,7 @@
       "items": [
         {
           "name": "One Piece [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/07/6432e5c357a3ca84f1587db87668c683.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/20/5ac1f5b864810fa097672ebe01a8b788.jpg",
           "slug": "one-piece-english-OJafGbGekK4",
           "subject_id": "3984321945629247112",
           "rating": "9.0"
