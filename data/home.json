@@ -325,6 +325,13 @@
       "count": 20,
       "items": [
         {
+          "name": "ALL THINGS EQUAL",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/20/585be6e6c88798c5f72359f24d9ac45b.jpg",
+          "slug": "all-things-equal-6BxX2DaVUI7",
+          "subject_id": "6483155750834565352",
+          "rating": "0"
+        },
+        {
           "name": "MARRIED FOR THE WEEKEND",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/44af44a0d86bcf1850c72aba4567ed90.jpg",
           "slug": "married-for-the-weekend-uXumIjpIKi1",
@@ -455,13 +462,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/00902d021587261ebd48a19ebddaf991.jpg",
           "slug": "once-upon-a-village-5-ca6RumAnKR9",
           "subject_id": "8281286587179226760",
-          "rating": "0"
-        },
-        {
-          "name": "MAN OF MY DREAM",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/25e2292884694b52fe2608f4560d2d7f.jpg",
-          "slug": "man-of-my-dream-a5sZpQtGyK3",
-          "subject_id": "3148177245366284824",
           "rating": "0"
         }
       ]
@@ -653,7 +653,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/22/af02a356bfc0c33aad6cc88cda16b90e.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/22/9f7ddf37c9578563443503db9f8a0676.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -1341,7 +1341,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/22/2dd320f38e31edf3857effac29a36b21.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/22/77c54344c33cd3c8e01f4ae370be796f.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -2223,6 +2223,20 @@
           "rating": "6.5"
         },
         {
+          "name": "One Last Shot",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/63894b74622eb16ea8d72aa417abb81d.jpg",
+          "slug": "one-last-shot-aHRYms5S2k6",
+          "subject_id": "5307165083527700104",
+          "rating": "6.3"
+        },
+        {
+          "name": "Legend of the White Dragon",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/8ded48936fa22974496c66637c13d235.jpg",
+          "slug": "legend-of-the-white-dragon-UYKZCrlVS2a",
+          "subject_id": "8432060147626820688",
+          "rating": "5.9"
+        },
+        {
           "name": "Rage of Stars",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/02/be336fce6719343252ad174518e7e77a.jpg",
           "slug": "rage-of-stars-s81yBCn4GQ2",
@@ -2319,20 +2333,6 @@
           "slug": "land-of-wolves-m9H0bIUFgA2",
           "subject_id": "2169574896576124064",
           "rating": "6.7"
-        },
-        {
-          "name": "The Furious",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/12/588fc07be6f3061b05983c1826c232a2.jpg",
-          "slug": "the-furious-6lxRH1LLAe5",
-          "subject_id": "4394044471852286152",
-          "rating": "7.2"
-        },
-        {
-          "name": "The Isolate Thief",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/10/504a274335dfaa92cfffe219d833e547.jpg",
-          "slug": "the-isolate-thief-UUiZwcQsfJ5",
-          "subject_id": "4809042395809606056",
-          "rating": "6.5"
         }
       ]
     },
