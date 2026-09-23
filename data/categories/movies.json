@@ -1,23 +1,23 @@
 [
   {
-    "title": "Afgan",
-    "subject_id": "4488423775431707664",
-    "slug": "afgan-wMwuMAL1zl5",
-    "poster": "https://pbcdnw.aoneroom.com/image/2025/10/31/dbad7270079ac39cbf6397e9f404643b.jpg",
-    "rating": "7.5",
+    "title": "Silent Sanctuary - Playlist",
+    "subject_id": "8633074292567198368",
+    "slug": "silent-sanctuary-playlist-EixzVbszJha",
+    "poster": "https://pbcdnw.aoneroom.com/image/2023/10/21/2e56e58e7bae0d1dc8e17fda59787b8c.jpg",
+    "rating": "7.4",
     "corner_tag": "",
     "year": "2023",
-    "player_api_endpoint": "/api/stream/4488423775431707664?detail_path=afgan-wMwuMAL1zl5"
+    "player_api_endpoint": "/api/stream/8633074292567198368?detail_path=silent-sanctuary-playlist-EixzVbszJha"
   },
   {
-    "title": "Post Malone Eats His Last Meal",
-    "subject_id": "268302577228465304",
-    "slug": "post-malone-eats-his-last-meal-YYhExknPOj",
-    "poster": "https://pbcdnw.aoneroom.com/image/2024/10/21/ff680dbe9ff7707c2d69930d9de1aa06.jpg",
+    "title": "NEW AFROBEAT 2024 VIDEO MIX - BEST OF AFROBEAT (24, 23) AYRA STARR COMMAS, KIZZ DANIEL DOUBLE #V24",
+    "subject_id": "3833678057760507816",
+    "slug": "new-afrobeat-2024-video-mix-best-of-afrobeat-24-23-ayra-starr-commas-kizz-daniel-double-v24-SvssY3Khcz4",
+    "poster": "https://pbcdnw.aoneroom.com/image/2024/09/24/56581cc50c2680f5f56d48d7a950cf2c.jpg",
     "rating": "7.1",
     "corner_tag": "",
-    "year": "2023",
-    "player_api_endpoint": "/api/stream/268302577228465304?detail_path=post-malone-eats-his-last-meal-YYhExknPOj"
+    "year": "2024",
+    "player_api_endpoint": "/api/stream/3833678057760507816?detail_path=new-afrobeat-2024-video-mix-best-of-afrobeat-24-23-ayra-starr-commas-kizz-daniel-double-v24-SvssY3Khcz4"
   },
   {
     "title": "Sistas",
@@ -40,14 +40,14 @@
     "player_api_endpoint": "/api/stream/5539220821668940352?detail_path=youngins-qPxHkRMGbB6"
   },
   {
-    "title": "$uicideboy$ - Live at Woo Hah 2017",
-    "subject_id": "2515429878812607840",
-    "slug": "uicideboy-live-at-woo-hah-2017-o29LGC7HOZ2",
-    "poster": "https://pbcdnw.aoneroom.com/image/2024/10/22/bfa465c2885380f32c934a24f18b99c4.jpg",
-    "rating": "7.8",
+    "title": "NISCAYA - BILAL INDRAJAYA | PRIMADONA | EKSPEKTASI | KUPU KUPU || LAGU POP TERPOPULER 2024",
+    "subject_id": "5695538013980295264",
+    "slug": "niscaya-bilal-indrajaya-primadona-ekspektasi-kupu-kupu-lagu-pop-terpopuler-2024-mHa7PGICJM6",
+    "poster": "https://pbcdnw.aoneroom.com/image/2024/10/23/d4be3563cfa8c27880debff124f8cb54.jpg",
+    "rating": "7.0",
     "corner_tag": "",
-    "year": "2017",
-    "player_api_endpoint": "/api/stream/2515429878812607840?detail_path=uicideboy-live-at-woo-hah-2017-o29LGC7HOZ2"
+    "year": "2024",
+    "player_api_endpoint": "/api/stream/5695538013980295264?detail_path=niscaya-bilal-indrajaya-primadona-ekspektasi-kupu-kupu-lagu-pop-terpopuler-2024-mHa7PGICJM6"
   },
   {
     "title": "Prison Break",
@@ -60,14 +60,14 @@
     "player_api_endpoint": "/api/stream/2835060171381039112?detail_path=prison-break-mdR9oayBqn3"
   },
   {
-    "title": "Best Music Mix 2024 🎧 EDM Remixes of Popular Songs 🎧 EDM Gaming Music Mix ​2024",
-    "subject_id": "9066813713268754272",
-    "slug": "best-music-mix-2024-edm-remixes-of-popular-songs-edm-gaming-music-mix-2024-06HCtVn6MNa",
-    "poster": "https://pbcdnw.aoneroom.com/image/2024/05/31/4fa0d81149f05953a2338ee3e7463d6d.jpg",
-    "rating": "7.5",
+    "title": "DJ SILVER - BEST OF LAVA LAVA MIXTAPE|[Lavalava greatest hits 2022]Best Songs of lava lava|BONGO MIX",
+    "subject_id": "3294035164203992144",
+    "slug": "dj-silver-best-of-lava-lava-mixtape-lavalava-greatest-hits-2022-best-songs-of-lava-lava-bongo-mix-AEVnFioIkV3",
+    "poster": "https://pbcdnw.aoneroom.com/image/2023/08/11/99d8c35a9e7a66dca3f61880cef2f48c.jpg",
+    "rating": "7.1",
     "corner_tag": "",
-    "year": "2024",
-    "player_api_endpoint": "/api/stream/9066813713268754272?detail_path=best-music-mix-2024-edm-remixes-of-popular-songs-edm-gaming-music-mix-2024-06HCtVn6MNa"
+    "year": "2022",
+    "player_api_endpoint": "/api/stream/3294035164203992144?detail_path=dj-silver-best-of-lava-lava-mixtape-lavalava-greatest-hits-2022-best-songs-of-lava-lava-bongo-mix-AEVnFioIkV3"
   },
   {
     "title": "Teen Wolf",
@@ -80,14 +80,14 @@
     "player_api_endpoint": "/api/stream/1358939779294970704?detail_path=teen-wolf-wKJrLSqXnC1"
   },
   {
-    "title": "DJ LYTA - KANAMBO DANCEHALL MIX 2023 | Vybz Kartel | Konshens | popcaan",
-    "subject_id": "8294532171293936856",
-    "slug": "dj-lyta-kanambo-dancehall-mix-2023-vybz-kartel-konshens-popcaan-gYiHxiO2JS9",
-    "poster": "https://pbcdnw.aoneroom.com/image/2023/09/18/cd24246da3e9e7c225d8a025f8645c8b.webp",
-    "rating": "7.8",
+    "title": "BEST OF AFROBEATS 2023 NAIJA VIDEO MIX (BURNA BOY |WIZKID |TEMS |ASAKE |OXLADE |KIZZ DANIEL| RUGER)",
+    "subject_id": "3836316885667168360",
+    "slug": "best-of-afrobeats-2023-naija-video-mix-burna-boy-wizkid-tems-asake-oxlade-kizz-daniel-ruger-EuVPL64noz4",
+    "poster": "https://pbcdnw.aoneroom.com/image/2024/09/24/93fea44317aaa7c9c5920d976ee3a223.jpg",
+    "rating": "7.5",
     "corner_tag": "",
     "year": "2023",
-    "player_api_endpoint": "/api/stream/8294532171293936856?detail_path=dj-lyta-kanambo-dancehall-mix-2023-vybz-kartel-konshens-popcaan-gYiHxiO2JS9"
+    "player_api_endpoint": "/api/stream/3836316885667168360?detail_path=best-of-afrobeats-2023-naija-video-mix-burna-boy-wizkid-tems-asake-oxlade-kizz-daniel-ruger-EuVPL64noz4"
   },
   {
     "title": "The Vampire Diaries",
@@ -103,21 +103,21 @@
     "title": "All the Queen's Men",
     "subject_id": "2781623667900437536",
     "slug": "all-the-queens-men-KZRjzyGRtj3",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/09/20/4ab3b693956111fd521f8c94129bcbb0.jpg",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/09/23/42b334e3382936a840dfd45349ca6fde.jpg",
     "rating": "6.7",
     "corner_tag": "",
     "year": "2021",
     "player_api_endpoint": "/api/stream/2781623667900437536?detail_path=all-the-queens-men-KZRjzyGRtj3"
   },
   {
-    "title": "Best of POP, EDM Party Workout Mix Dj Shinski [Rihanna, Chris Brown, Pitbull, Calvin Harris, Avicii]",
-    "subject_id": "8068127076274032616",
-    "slug": "best-of-pop-edm-party-workout-mix-dj-shinski-rihanna-chris-brown-pitbull-calvin-harris-avicii-QER6wDF60C9",
-    "poster": "https://pbcdnw.aoneroom.com/image/2023/10/22/c4a6786b4a4bf0ff8fa5a8e3bf2918cc.webp",
-    "rating": "7.9",
+    "title": "Feby Putri Playlist",
+    "subject_id": "1490003819109960904",
+    "slug": "feby-putri-playlist-yzHaLNse4M1",
+    "poster": "https://pbcdnw.aoneroom.com/image/2023/10/20/43458cd58f92f0924cedc7858ac951ad.jpg",
+    "rating": "7.8",
     "corner_tag": "",
     "year": "2022",
-    "player_api_endpoint": "/api/stream/8068127076274032616?detail_path=best-of-pop-edm-party-workout-mix-dj-shinski-rihanna-chris-brown-pitbull-calvin-harris-avicii-QER6wDF60C9"
+    "player_api_endpoint": "/api/stream/1490003819109960904?detail_path=feby-putri-playlist-yzHaLNse4M1"
   },
   {
     "title": "Beauty in Black",
@@ -243,7 +243,7 @@
     "title": "The Chi",
     "subject_id": "2586420771551597336",
     "slug": "the-chi-0OZDg6KP353",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/09/07/8df577f80348721777a43649884c6ab6.jpg",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/09/23/75a4864df9ac41e3b7c5af75e3da9431.jpg",
     "rating": "7.5",
     "corner_tag": "",
     "year": "2018",
@@ -300,24 +300,24 @@
     "player_api_endpoint": "/api/stream/693338015313319144?detail_path=kwa-baba-WFoUozIudP"
   },
   {
-    "title": "LAGABOG x HIGH SCORE FLOW G PLAYLIST💥Tagalog Rap Songs Nonstop 2024💥Skusta Clee,Shanti Dope,Yayoi",
-    "subject_id": "2236417855392729152",
-    "slug": "lagabog-x-high-score-flow-g-playlisttagalog-rap-songs-nonstop-2024skusta-clee-shanti-dope-yayoi-Mq3nbuGOcF2",
-    "poster": "https://pbcdnw.aoneroom.com/image/2024/05/27/1d731808a908896da4ad67d4bfa2df7d.jpg",
-    "rating": "7.8",
-    "corner_tag": "HOT",
-    "year": "2024",
-    "player_api_endpoint": "/api/stream/2236417855392729152?detail_path=lagabog-x-high-score-flow-g-playlisttagalog-rap-songs-nonstop-2024skusta-clee-shanti-dope-yayoi-Mq3nbuGOcF2"
+    "title": "M b o s s o 2023 MIX - TOP 10 BEST SONGS",
+    "subject_id": "5305958686806933880",
+    "slug": "m-b-o-s-s-o-2023-mix-top-10-best-songs-u3oalawlXj6",
+    "poster": "https://pbcdnw.aoneroom.com/image/2023/09/20/ca1a276cebd583a0bb4a006dab9fb9f4.jpg",
+    "rating": "7.3",
+    "corner_tag": "",
+    "year": "2023",
+    "player_api_endpoint": "/api/stream/5305958686806933880?detail_path=m-b-o-s-s-o-2023-mix-top-10-best-songs-u3oalawlXj6"
   },
   {
-    "title": "Laapataa Ladies Full Movie in Hindi | Nitanshi Goel | Sparsh Srivastav | Pratibha R | Review & Facts",
-    "subject_id": "5413940991478890440",
-    "slug": "laapataa-ladies-full-movie-in-hindi-nitanshi-goel-sparsh-srivastav-pratibha-r-review-and-facts-yrbQ5cfUVr6",
-    "poster": "https://pbcdnw.aoneroom.com/image/2024/10/23/61906c4280c1138f8659bc46d6978fed.jpg",
+    "title": "Dunya Aazmaishon Ka Ghar Hai | خوبصورت دنیا بہترین آخرت @Hannan.Siddiqui.Official",
+    "subject_id": "855443573167325856",
+    "slug": "dunya-aazmaishon-ka-ghar-hai-khwbswrt-dny-bhtryn-akhrt-athannan-siddiqui-official-SDO81PjWb11",
+    "poster": "https://pbcdnw.aoneroom.com/image/2024/10/24/183de3dd2e44aa4499afa3289dba6c90.jpg",
     "rating": "7.7",
     "corner_tag": "",
-    "year": "2024",
-    "player_api_endpoint": "/api/stream/5413940991478890440?detail_path=laapataa-ladies-full-movie-in-hindi-nitanshi-goel-sparsh-srivastav-pratibha-r-review-and-facts-yrbQ5cfUVr6"
+    "year": "2023",
+    "player_api_endpoint": "/api/stream/855443573167325856?detail_path=dunya-aazmaishon-ka-ghar-hai-khwbswrt-dny-bhtryn-akhrt-athannan-siddiqui-official-SDO81PjWb11"
   },
   {
     "title": "Snowfall",
@@ -340,54 +340,54 @@
     "player_api_endpoint": "/api/stream/7330269013203108312?detail_path=spartacus-blood-and-sand-sApqTE0IuJ8"
   },
   {
-    "title": "Early 2000s Throwback R&B Clean Video Mix 4 - Dj Shinski [Toni Braxton, TLC, Destiny's child, Eve]",
-    "subject_id": "284780467293931736",
-    "slug": "early-2000s-throwback-randb-clean-video-mix-4-dj-shinski-toni-braxton-tlc-destinys-child-eve-SPEPePri2l",
-    "poster": "https://pbcdnw.aoneroom.com/image/2023/07/20/b5919707f960b4cedf7fb05a690cb939.webp",
+    "title": "Best of AP Dhillon|AP Dhillon songs|Ap Dhillon superhits|AP Dhillon songs",
+    "subject_id": "3653785298187813920",
+    "slug": "best-of-ap-dhillon-ap-dhillon-songs-ap-dhillon-superhits-ap-dhillon-songs-KJFln9hnUl4",
+    "poster": "https://pbcdnw.aoneroom.com/image/2024/09/12/f1e4445c4f80d64dbe26248a280eb145.jpg",
     "rating": "7.0",
     "corner_tag": "",
     "year": "2023",
-    "player_api_endpoint": "/api/stream/284780467293931736?detail_path=early-2000s-throwback-randb-clean-video-mix-4-dj-shinski-toni-braxton-tlc-destinys-child-eve-SPEPePri2l"
+    "player_api_endpoint": "/api/stream/3653785298187813920?detail_path=best-of-ap-dhillon-ap-dhillon-songs-ap-dhillon-superhits-ap-dhillon-songs-KJFln9hnUl4"
   },
   {
     "title": "Squid Game",
     "subject_id": "3089349649006742360",
     "slug": "squid-game-4CyZm1LfdG3",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/09/22/9fb6ad21d08847d5c73fadf835edf23a.jpg",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/09/23/ff5cb1b578aafe06790fb296dcb23cef.jpg",
     "rating": "7.9",
     "corner_tag": "",
     "year": "2021",
     "player_api_endpoint": "/api/stream/3089349649006742360?detail_path=squid-game-4CyZm1LfdG3"
   },
   {
-    "title": "IGBO CULTURAL VIBES PRAISE ft KCEE, FLAVOUR, ODUMEJE, PHYNO ONYENZE  UMU OBILIGBO ZORO JANUARY 2022",
-    "subject_id": "4465218182558695376",
-    "slug": "igbo-cultural-vibes-praise-ft-kcee-flavour-odumeje-phyno-onyenze-umu-obiligbo-zoro-january-2022-iTHuh7iKQj5",
-    "poster": "https://pbcdnw.aoneroom.com/image/2023/08/12/cb0a9e15142fcd73e1de6a2a64d40cc1.jpg",
+    "title": "Hip Hop Party DJ Mix #70 | #Rap #RnB #turnup #DJMix #Throwbacks | #90s #2000s #2010s |",
+    "subject_id": "7370747904220611864",
+    "slug": "hip-hop-party-dj-mix-70-rap-rnb-turnup-djmix-throwbacks-90s-2000s-2010s-ePajCeq6uM8",
+    "poster": "https://pbcdnw.aoneroom.com/image/2024/08/05/25d8a97229cb9241fa0ae69c6a8c3759.jpg",
     "rating": "7.9",
     "corner_tag": "",
     "year": "2022",
-    "player_api_endpoint": "/api/stream/4465218182558695376?detail_path=igbo-cultural-vibes-praise-ft-kcee-flavour-odumeje-phyno-onyenze-umu-obiligbo-zoro-january-2022-iTHuh7iKQj5"
+    "player_api_endpoint": "/api/stream/7370747904220611864?detail_path=hip-hop-party-dj-mix-70-rap-rnb-turnup-djmix-throwbacks-90s-2000s-2010s-ePajCeq6uM8"
   },
   {
     "title": "The Rookie",
     "subject_id": "8848113103456850976",
     "slug": "the-rookie-Ic9rY21sCxa",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/09/22/3e84e4b83eeb989afdbb4b30f21319d0.jpg",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/09/23/c8c8fa5644eabff7fe9a31677146f8cb.jpg",
     "rating": "8.0",
     "corner_tag": "",
     "year": "2018",
     "player_api_endpoint": "/api/stream/8848113103456850976?detail_path=the-rookie-Ic9rY21sCxa"
   },
   {
-    "title": "JOSEY FT ROSELINE LAYO COMPLIT MIX BY DJ HERITIER DENON 0152441517/0575348382",
-    "subject_id": "2865190336014566568",
-    "slug": "josey-ft-roseline-layo-complit-mix-by-dj-heritier-denon-0152441517-0575348382-kCS3YBkBEp3",
-    "poster": "https://pbcdnw.aoneroom.com/image/2025/05/14/85aaa7ea9d88510c877046bac00fd665.jpg",
+    "title": "Adeyinka Alaseyori ft Toluwani Sings  | Day 7 of  21 Days Covenant Praise and Worship",
+    "subject_id": "989194764639684504",
+    "slug": "adeyinka-alaseyori-ft-toluwani-sings-day-7-of-21-days-covenant-praise-and-worship-8Wxylyow4b1",
+    "poster": "https://pbcdnw.aoneroom.com/image/2024/10/24/2c8a7bdc762dfcd252f4d068d520e375.jpg",
     "rating": "7.1",
     "corner_tag": "",
-    "year": "2024",
-    "player_api_endpoint": "/api/stream/2865190336014566568?detail_path=josey-ft-roseline-layo-complit-mix-by-dj-heritier-denon-0152441517-0575348382-kCS3YBkBEp3"
+    "year": "2022",
+    "player_api_endpoint": "/api/stream/989194764639684504?detail_path=adeyinka-alaseyori-ft-toluwani-sings-day-7-of-21-days-covenant-praise-and-worship-8Wxylyow4b1"
   },
   {
     "title": "From",
@@ -410,14 +410,14 @@
     "player_api_endpoint": "/api/stream/5139196938264400928?detail_path=the-boys-c8bx84KzD76"
   },
   {
-    "title": "PARTY REMIX 2024 🔥 Mashups & Remixes Of Popular Songs 🔥 DJ Remix Club Music Dance Mix 2024",
-    "subject_id": "2833766408046215288",
-    "slug": "party-remix-2024-mashups-and-remixes-of-popular-songs-dj-remix-club-music-dance-mix-2024-M4kYMJaGkn3",
-    "poster": "https://pbcdnw.aoneroom.com/image/2024/06/02/84a90d56f901f6c00e26ca39c29f5b0d.jpg",
-    "rating": "7.0",
+    "title": "'Barcelona: A Love Untold' FULL MOVIE Part 1 | Kathryn Bernardo, Daniel Padilla",
+    "subject_id": "6563287708905996856",
+    "slug": "barcelona-a-love-untold-full-movie-part-1-kathryn-bernardo-daniel-padilla-6dBrFGuVPO7",
+    "poster": "https://pbcdnw.aoneroom.com/image/2024/10/24/87b378d2c7949ed9640f9e1d3dcfb1b4.jpg",
+    "rating": "7.7",
     "corner_tag": "",
-    "year": "2024",
-    "player_api_endpoint": "/api/stream/2833766408046215288?detail_path=party-remix-2024-mashups-and-remixes-of-popular-songs-dj-remix-club-music-dance-mix-2024-M4kYMJaGkn3"
+    "year": "2021",
+    "player_api_endpoint": "/api/stream/6563287708905996856?detail_path=barcelona-a-love-untold-full-movie-part-1-kathryn-bernardo-daniel-padilla-6dBrFGuVPO7"
   },
   {
     "title": "Power",
@@ -600,24 +600,24 @@
     "player_api_endpoint": "/api/stream/9024835728341091408?detail_path=adulting-CvwBDXhQFKa"
   },
   {
-    "title": "Hip Hop 2020 Video Mix(Clean) - Dancehall 2020, R&B 2020 (DRAKE, RODDY RICCH, POST MALONE, LIL BABY)",
-    "subject_id": "1279256897098581824",
-    "slug": "hip-hop-2020-video-mix-clean-dancehall-2020-randb-2020-drake-roddy-ricch-post-malone-lil-baby-yZ28z3D0vw1",
-    "poster": "https://pbcdnw.aoneroom.com/image/2024/09/12/648d72ec02994db70b65208f7e32258d.jpg",
-    "rating": "7.9",
-    "corner_tag": "",
-    "year": "2020",
-    "player_api_endpoint": "/api/stream/1279256897098581824?detail_path=hip-hop-2020-video-mix-clean-dancehall-2020-randb-2020-drake-roddy-ricch-post-malone-lil-baby-yZ28z3D0vw1"
+    "title": "Alan Walker Greatest Hits Full Album 2023 - Alan Walker (Remix) 2023 - The Best Songs of Alan Walker",
+    "subject_id": "2579277894119738016",
+    "slug": "alan-walker-greatest-hits-full-album-2023-alan-walker-remix-2023-the-best-songs-of-alan-walker-0km6MJr7x43",
+    "poster": "https://pbcdnw.aoneroom.com/image/2023/10/20/e73ac267b2839616921a0ec1480f661b.jpg",
+    "rating": "7.1",
+    "corner_tag": "HOT",
+    "year": "2023",
+    "player_api_endpoint": "/api/stream/2579277894119738016?detail_path=alan-walker-greatest-hits-full-album-2023-alan-walker-remix-2023-the-best-songs-of-alan-walker-0km6MJr7x43"
   },
   {
-    "title": "AKHIRNYA PRAZ KALAH SAMA CEWEK! 🤣🤣 GUE MENDING PILATES SAMA VIDI‼️- VIDI, SINTYA MARISCA",
-    "subject_id": "205441161006384808",
-    "slug": "akhirnya-praz-kalah-sama-cewek-gue-mending-pilates-sama-vidi-vidi-sintya-marisca-AOEDwQcVaf",
-    "poster": "https://pbcdnw.aoneroom.com/image/2024/10/23/7290f8f904d445afd152fd13c090d8e7.jpg",
-    "rating": "7.7",
+    "title": "Best Boxing Music Mix 2023 👊 Best Hip Hop & Rap Workout Music 👊 Workout & Training Motivation Music",
+    "subject_id": "392840320821724376",
+    "slug": "best-boxing-music-mix-2023-best-hip-hop-and-rap-workout-music-workout-and-training-motivation-music-4Axt29cd1t",
+    "poster": "https://pbcdnw.aoneroom.com/image/2024/05/27/e43fb3a835a293c420b2a4814c343fab.jpg",
+    "rating": "7.2",
     "corner_tag": "",
-    "year": "2024",
-    "player_api_endpoint": "/api/stream/205441161006384808?detail_path=akhirnya-praz-kalah-sama-cewek-gue-mending-pilates-sama-vidi-vidi-sintya-marisca-AOEDwQcVaf"
+    "year": "2023",
+    "player_api_endpoint": "/api/stream/392840320821724376?detail_path=best-boxing-music-mix-2023-best-hip-hop-and-rap-workout-music-workout-and-training-motivation-music-4Axt29cd1t"
   },
   {
     "title": "Grimm",
@@ -640,14 +640,14 @@
     "player_api_endpoint": "/api/stream/134079758618484744?detail_path=jujutsu-kaisen-gCBS4ln5U9"
   },
   {
-    "title": "The Wine Down: R&B Feels - Ep. 089 (R&B Mix)",
-    "subject_id": "3964865501649667048",
-    "slug": "the-wine-down-randb-feels-ep-089-randb-mix-OZwC2AO7TI4",
-    "poster": "https://pbcdnw.aoneroom.com/image/2024/08/05/4c993491f071fe3ca3302071b699c466.jpg",
+    "title": "NON STOP 12 LAGU TEMBANG KENANGAN VANNY VABIOLA",
+    "subject_id": "3912147471035695048",
+    "slug": "non-stop-12-lagu-tembang-kenangan-vanny-vabiola-I4njw5YFZE4",
+    "poster": "https://pbcdnw.aoneroom.com/image/2024/10/24/bf84a9f2e21cbc54bb437c27ab215920.jpg",
     "rating": "7.4",
     "corner_tag": "",
-    "year": "2024",
-    "player_api_endpoint": "/api/stream/3964865501649667048?detail_path=the-wine-down-randb-feels-ep-089-randb-mix-OZwC2AO7TI4"
+    "year": "2022",
+    "player_api_endpoint": "/api/stream/3912147471035695048?detail_path=non-stop-12-lagu-tembang-kenangan-vanny-vabiola-I4njw5YFZE4"
   },
   {
     "title": "Ruthless",
@@ -660,14 +660,14 @@
     "player_api_endpoint": "/api/stream/6060991864533046304?detail_path=ruthless-GDxWvFepJd7"
   },
   {
-    "title": "LIE DETECTIOR TEST WITH BROTHERS! (I STILL LOVE MY EX...)",
-    "subject_id": "6342734197589246768",
-    "slug": "lie-detectior-test-with-brothers-i-still-love-my-ex-CdRIdrYMxy7",
-    "poster": "https://pbcdnw.aoneroom.com/image/2024/10/22/acef162f9bc9473f9e3873db8b47609c.jpg",
-    "rating": "7.2",
+    "title": "Rajvir Jawanda New Punjabi Songs | New All Punjabi Jukebox 2021 | Rajvir Jawanda Punjabi Song | New",
+    "subject_id": "1278131714451277152",
+    "slug": "rajvir-jawanda-new-punjabi-songs-new-all-punjabi-jukebox-2021-rajvir-jawanda-punjabi-song-new-42iJkA7Rpw1",
+    "poster": "https://pbcdnw.aoneroom.com/image/2024/10/18/3d9d95ec9ce2cbfbd5f79829bddf6d80.jpg",
+    "rating": "7.0",
     "corner_tag": "",
-    "year": "2023",
-    "player_api_endpoint": "/api/stream/6342734197589246768?detail_path=lie-detectior-test-with-brothers-i-still-love-my-ex-CdRIdrYMxy7"
+    "year": "2021",
+    "player_api_endpoint": "/api/stream/1278131714451277152?detail_path=rajvir-jawanda-new-punjabi-songs-new-all-punjabi-jukebox-2021-rajvir-jawanda-punjabi-song-new-42iJkA7Rpw1"
   },
   {
     "title": "Black Clover",
@@ -678,16 +678,6 @@
     "corner_tag": "",
     "year": "2017",
     "player_api_endpoint": "/api/stream/3380137095141441488?detail_path=black-clover-cE1aW4X3H14"
-  },
-  {
-    "title": "Ada Ehi- New Nonstop Playlist 2022-The Greatest Christian Gospel Songs off All Time.",
-    "subject_id": "1011107626580623312",
-    "slug": "ada-ehi-new-nonstop-playlist-2022-the-greatest-christian-gospel-songs-off-all-time-oQy1aMMSGc1",
-    "poster": "https://pbcdnw.aoneroom.com/image/2023/08/10/48168df523c5a8892719f8a77f6f2fa4.jpg",
-    "rating": "7.5",
-    "corner_tag": "",
-    "year": "2022",
-    "player_api_endpoint": "/api/stream/1011107626580623312?detail_path=ada-ehi-new-nonstop-playlist-2022-the-greatest-christian-gospel-songs-off-all-time-oQy1aMMSGc1"
   },
   {
     "title": "My Hero Academia",
@@ -708,16 +698,6 @@
     "corner_tag": "",
     "year": "2026",
     "player_api_endpoint": "/api/stream/1786846550119830928?detail_path=the-four-of-us-edt1Rx7MZ72"
-  },
-  {
-    "title": "BEST OF NAIJA AFROBEAT MIX 2022 | AFROBEAT MIX 2022 | DJ PEREZ | CALM DOWN | EMILIANA | FINESSE",
-    "subject_id": "7411163439101788976",
-    "slug": "best-of-naija-afrobeat-mix-2022-afrobeat-mix-2022-dj-perez-calm-down-emiliana-finesse-w2xwhoQctP8",
-    "poster": "https://pbcdnw.aoneroom.com/image/2024/09/24/ee2b0e6b980e2932fe2d5fff0b099ebb.jpg",
-    "rating": "7.2",
-    "corner_tag": "",
-    "year": "2022",
-    "player_api_endpoint": "/api/stream/7411163439101788976?detail_path=best-of-naija-afrobeat-mix-2022-afrobeat-mix-2022-dj-perez-calm-down-emiliana-finesse-w2xwhoQctP8"
   },
   {
     "title": "Siren",
@@ -843,7 +823,7 @@
     "title": "Bridgerton",
     "subject_id": "8992509766509417240",
     "slug": "bridgerton-E4I97hZMhIa",
-    "poster": "https://pbcdnw.aoneroom.com/image/2026/09/23/66a3bc0d9908e78b5761fd7d267130ae.jpg",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/09/23/6ccf5fe1c42b4cd711cab8fc5e006fd7.jpg",
     "rating": "7.5",
     "corner_tag": "",
     "year": "2020",
@@ -888,5 +868,25 @@
     "corner_tag": "",
     "year": "2013",
     "player_api_endpoint": "/api/stream/1975770531236301600?detail_path=attack-on-titan-c0p85b63Xl2"
+  },
+  {
+    "title": "Naruto",
+    "subject_id": "3325889774849773352",
+    "slug": "naruto-2D7JgAQBGX3",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/01/27/a8c30c08d21f108d2c9b25fa06df81dd.jpg",
+    "rating": "8.4",
+    "corner_tag": "",
+    "year": "2005",
+    "player_api_endpoint": "/api/stream/3325889774849773352?detail_path=naruto-2D7JgAQBGX3"
+  },
+  {
+    "title": "Ithonga",
+    "subject_id": "8546068815938043944",
+    "slug": "ithonga-Aumh5Zj5jba",
+    "poster": "https://pbcdnw.aoneroom.com/image/2026/09/06/fcc3b2f88f893af06b14770dbdf48372.jpg",
+    "rating": "9.1",
+    "corner_tag": "",
+    "year": "2025",
+    "player_api_endpoint": "/api/stream/8546068815938043944?detail_path=ithonga-Aumh5Zj5jba"
   }
 ]
