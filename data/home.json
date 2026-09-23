@@ -3,8 +3,14 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 14,
+      "count": 15,
       "items": [
+        {
+          "name": "The Love Hypothesis",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/cfea48c317b394e757b5185782a70d75.webp",
+          "slug": "the-love-hypothesis-8CNfawlQEK8",
+          "subject_id": "7346018858530490728"
+        },
         {
           "name": "The Fix",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/d03fc02fe897ffdb7b8b4f97477986ea.jpeg",
@@ -43,7 +49,7 @@
         },
         {
           "name": "Paris Has Fallen",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/17b301cb4986e4cfaee42ad2c34f37ac.webp",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/dc4b3d7a95e7d56fd811f59c880cbad3.webp",
           "slug": "paris-has-fallen-MECZzYIddA8",
           "subject_id": "7204616799684888000"
         },
@@ -125,7 +131,7 @@
         },
         {
           "name": "Monster",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/ae7b8938b484d6bbe8a356101f5182c4.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/a86b879fe34854657420df13bdbd06b0.jpg",
           "slug": "monster-MY4FMlRoAFa",
           "subject_id": "8955962000002143264",
           "rating": "7.7"
@@ -202,7 +208,7 @@
         },
         {
           "name": "Umthetho",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/560fc066b319abc1b739d8cdef01a8f3.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/8b0eb857cbd8cee4e0c86271bbaced0d.jpg",
           "slug": "umthetho-mL6Ua1F4uKa",
           "subject_id": "9022266259324424848",
           "rating": "4.3"
@@ -220,6 +226,13 @@
       "section": "Popular Movie",
       "count": 14,
       "items": [
+        {
+          "name": "The Love Hypothesis",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/c7784fa0668128d01741fb23154c244f.jpg",
+          "slug": "the-love-hypothesis-8CNfawlQEK8",
+          "subject_id": "7346018858530490728",
+          "rating": "6.1"
+        },
         {
           "name": "The Fix",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/988cbdb133d471922a5f4a772c648880.jpg",
@@ -310,13 +323,6 @@
           "slug": "the-last-sunrise-a7PGMx5VlH6",
           "subject_id": "5622677105902242520",
           "rating": "5.6"
-        },
-        {
-          "name": "The Whisper Man",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/31/b028ccf8be3c5eb1e748fd26c952dd81.jpg",
-          "slug": "the-whisper-man-AkT6dtuLbF7",
-          "subject_id": "6432685097291767512",
-          "rating": "6.2"
         }
       ]
     },
@@ -695,7 +701,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/dd3b2b4165234c733b373229eac7beb8.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/40b428699da8e1cb48e2ef9685d64480.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -709,7 +715,7 @@
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/2b9b6039f10a30ecaf2e77755a4b9e99.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/a4143e9c8aa851a536c7fc06d3b3e300.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -1341,7 +1347,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/5ce20cd05835363e277318d5ec5c8ab9.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/643e5a863b08884f6815be11f6afd50a.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -1702,7 +1708,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/dd3b2b4165234c733b373229eac7beb8.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/40b428699da8e1cb48e2ef9685d64480.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -2315,7 +2321,7 @@
         },
         {
           "name": "Facing El Chapo [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/5769457fd4e79389e9df3ed90db10f33.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/b65f831d31f2c1cd3690253f40b2b261.jpg",
           "slug": "facing-el-chapo-english-axYDc3YD5u",
           "subject_id": "407345050834850208",
           "rating": "6.7"
@@ -2713,18 +2719,18 @@
       "count": 19,
       "items": [
         {
+          "name": "The Love Hypothesis",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/c7784fa0668128d01741fb23154c244f.jpg",
+          "slug": "the-love-hypothesis-8CNfawlQEK8",
+          "subject_id": "7346018858530490728",
+          "rating": "6.1"
+        },
+        {
           "name": "You+Me - Against the World [English]",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/aa9ce7c3193653fcbedc2a0c78e30ac1.jpg",
           "slug": "you-me-against-the-world-english-8iZF6nIFoe1",
           "subject_id": "1034205646629007888",
           "rating": "6.6"
-        },
-        {
-          "name": "The Last Sunrise",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/22/55626c457b0bcf01b4087761dfd4416e.jpg",
-          "slug": "the-last-sunrise-a7PGMx5VlH6",
-          "subject_id": "5622677105902242520",
-          "rating": "5.6"
         },
         {
           "name": "One Night Only",
@@ -2739,6 +2745,13 @@
           "slug": "drawn-together-english-SveJzNvP0h2",
           "subject_id": "1908910611593841624",
           "rating": "6.2"
+        },
+        {
+          "name": "The Last Sunrise",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/22/55626c457b0bcf01b4087761dfd4416e.jpg",
+          "slug": "the-last-sunrise-a7PGMx5VlH6",
+          "subject_id": "5622677105902242520",
+          "rating": "5.6"
         },
         {
           "name": "Camp Rock 3",
@@ -2837,13 +2850,6 @@
           "slug": "you-me-and-tuscany-McCtrtSG6N7",
           "subject_id": "6539873844478858840",
           "rating": "6.5"
-        },
-        {
-          "name": "No Place to Be Single [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/05/06/a8ec8ab8d12df9223f2d7db965c05b84.jpg",
-          "slug": "no-place-to-be-single-english-w8EkWUYAFn",
-          "subject_id": "320435173198387888",
-          "rating": "6.0"
         }
       ]
     }
