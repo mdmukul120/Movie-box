@@ -6,6 +6,12 @@
       "count": 7,
       "items": [
         {
+          "name": "A Different World",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/847a7141e7dbad4752336c18031bc66b.jpg",
+          "slug": "a-different-world-S5nSQAifJg9",
+          "subject_id": "7780166862692042712"
+        },
+        {
           "name": "The Love Hypothesis",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/cfea48c317b394e757b5185782a70d75.webp",
           "slug": "the-love-hypothesis-8CNfawlQEK8",
@@ -30,12 +36,6 @@
           "subject_id": "4335165664987072680"
         },
         {
-          "name": "The Scandal",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/816eea724206d8ae6f86778ab903c1fb.webp",
-          "slug": "the-scandal-mlNU8SlJXV8",
-          "subject_id": "7499050641378399408"
-        },
-        {
           "name": "Paris Has Fallen",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/dc4b3d7a95e7d56fd811f59c880cbad3.webp",
           "slug": "paris-has-fallen-MECZzYIddA8",
@@ -51,7 +51,7 @@
     },
     {
       "section": "Popular Series",
-      "count": 17,
+      "count": 14,
       "items": [
         {
           "name": "Neagley",
@@ -59,6 +59,13 @@
           "slug": "neagley-kgfRKfjK46",
           "subject_id": "82258967610676552",
           "rating": "6.9"
+        },
+        {
+          "name": "A Different World",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/7ba5ba33d8bbb2fdd857c8be1fa42c0a.jpg",
+          "slug": "a-different-world-S5nSQAifJg9",
+          "subject_id": "7780166862692042712",
+          "rating": "6.0"
         },
         {
           "name": "MobLand",
@@ -75,13 +82,6 @@
           "rating": "6.6"
         },
         {
-          "name": "Beauty in Black",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/19/82571ca952891c852c18d1a30d2c8218.jpg",
-          "slug": "beauty-in-black-E6NEe5Ha927",
-          "subject_id": "5904172458474619680",
-          "rating": "5.9"
-        },
-        {
           "name": "Monster",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/458941076ab40f018a72432ea64cec6b.jpg",
           "slug": "monster-MY4FMlRoAFa",
@@ -96,13 +96,6 @@
           "rating": "7.1"
         },
         {
-          "name": "The Scandal [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/876fa95f0f03ebdfde01df32676be1fd.jpg",
-          "slug": "the-scandal-english-4qe9RAlXnk3",
-          "subject_id": "2793870652791586000",
-          "rating": "6.3"
-        },
-        {
           "name": "A Love Other Than Yours",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/ba358c5aafb9c307519f00ba5c68e585.jpg",
           "slug": "a-love-other-than-yours-W77cR5lvfL4",
@@ -115,13 +108,6 @@
           "slug": "the-gentlemen-efKGpux2bB4",
           "subject_id": "3860480352347113768",
           "rating": "8.0"
-        },
-        {
-          "name": "Crew Girl",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/12/ebb4998a5f768065355725c0854d55de.jpg",
-          "slug": "crew-girl-4Cqv4ZvZ845",
-          "subject_id": "4252608531620414856",
-          "rating": "6.6"
         },
         {
           "name": "The Drop: A Snowfall Saga",
@@ -164,19 +150,12 @@
           "slug": "umthetho-mL6Ua1F4uKa",
           "subject_id": "9022266259324424848",
           "rating": "4.3"
-        },
-        {
-          "name": "Mousetrap [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/edef105bcfeca29616152ce18f43518a.jpg",
-          "slug": "mousetrap-english-4ia2OQBkDT7",
-          "subject_id": "6628223167519768920",
-          "rating": "6.9"
         }
       ]
     },
     {
       "section": "Popular Movie",
-      "count": 14,
+      "count": 13,
       "items": [
         {
           "name": "The Love Hypothesis",
@@ -198,13 +177,6 @@
           "slug": "you-me-against-the-world-english-8iZF6nIFoe1",
           "subject_id": "1034205646629007888",
           "rating": "6.6"
-        },
-        {
-          "name": "Why Did I Get Married Again?",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/2dc4dd52420cdf70515f669c452df406.jpg",
-          "slug": "why-did-i-get-married-again-G9KZqjexvb3",
-          "subject_id": "2673691619177778536",
-          "rating": "5.3"
         },
         {
           "name": "Moana",
@@ -282,6 +254,20 @@
       "section": "Nollywood Movie",
       "count": 20,
       "items": [
+        {
+          "name": "A TURN OF EVENTS",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/22/87311f682c667e55d180ba5d28d0280c.jpg",
+          "slug": "a-turn-of-events-iJq8diYcUe3",
+          "subject_id": "2719690039239366832",
+          "rating": "0"
+        },
+        {
+          "name": "THE GOOD MAN",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/ee0a77255ca3d6ac467cfc754f0776a7.jpg",
+          "slug": "the-good-man-qZI79VS427a",
+          "subject_id": "8488207150743962952",
+          "rating": "0"
+        },
         {
           "name": "ALL THINGS EQUAL",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/20/585be6e6c88798c5f72359f24d9ac45b.jpg",
@@ -406,20 +392,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/05/03f785108672c1a0b7870642a8fd05b4.jpg",
           "slug": "the-merger-2t6idXhMmo9",
           "subject_id": "7883557909601602112",
-          "rating": "0"
-        },
-        {
-          "name": "A Mama Deola Wedding Story",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/d13c948a90a9d6307e9212058e0eb272.jpeg",
-          "slug": "a-mama-deola-wedding-story-IumyGZYzds4",
-          "subject_id": "3739201029179594808",
-          "rating": "6.9"
-        },
-        {
-          "name": "ONCE UPON A VILLAGE 5",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/00902d021587261ebd48a19ebddaf991.jpg",
-          "slug": "once-upon-a-village-5-ca6RumAnKR9",
-          "subject_id": "8281286587179226760",
           "rating": "0"
         }
       ]
@@ -794,15 +766,8 @@
     },
     {
       "section": "Teen Romance",
-      "count": 20,
+      "count": 19,
       "items": [
-        {
-          "name": "Crew Girl",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/12/ebb4998a5f768065355725c0854d55de.jpg",
-          "slug": "crew-girl-4Cqv4ZvZ845",
-          "subject_id": "4252608531620414856",
-          "rating": "6.6"
-        },
         {
           "name": "My Life with the Walter Boys",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/96cd4fafa6d8982063f29a4604baf00b.jpg",
@@ -1514,7 +1479,7 @@
         },
         {
           "name": "Tulsa King",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/234a110788541f457d2ab37581818800.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/7675c027ba41a2c59aaf846d5f388119.jpg",
           "slug": "tulsa-king-MsmATkU0Mg6",
           "subject_id": "5262873104975547168",
           "rating": "7.9"
@@ -1772,15 +1737,8 @@
     },
     {
       "section": "K-Drama",
-      "count": 18,
+      "count": 16,
       "items": [
-        {
-          "name": "The Scandal",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/876fa95f0f03ebdfde01df32676be1fd.jpg",
-          "slug": "the-scandal-mlNU8SlJXV8",
-          "subject_id": "7499050641378399408",
-          "rating": "6.3"
-        },
         {
           "name": "Flex x Cop",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/ab02086490423450ad890217f3d23d2e.jpg",
@@ -1829,13 +1787,6 @@
           "slug": "made-in-korea-iLPB8TtOpE3",
           "subject_id": "3065017840546861048",
           "rating": "7.2"
-        },
-        {
-          "name": "Mousetrap",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/edef105bcfeca29616152ce18f43518a.jpg",
-          "slug": "mousetrap-mNxck67i9R3",
-          "subject_id": "3237392537967127384",
-          "rating": "6.9"
         },
         {
           "name": "Our Sticky Love",
@@ -2195,6 +2146,13 @@
           "rating": "5.9"
         },
         {
+          "name": "The Internship",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/ec175212b66089b20f30952a0544e404.jpg",
+          "slug": "the-internship-6FfU3qaAU34",
+          "subject_id": "3410163139030274272",
+          "rating": "4.0"
+        },
+        {
           "name": "Rage of Stars",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/02/be336fce6719343252ad174518e7e77a.jpg",
           "slug": "rage-of-stars-s81yBCn4GQ2",
@@ -2284,13 +2242,6 @@
           "slug": "above-and-below-qTXsN35A4H5",
           "subject_id": "4779591976859717224",
           "rating": "6.0"
-        },
-        {
-          "name": "Land of Wolves",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/05/26/203edc1216fff9cb0ab16d6f01246ffa.jpg",
-          "slug": "land-of-wolves-m9H0bIUFgA2",
-          "subject_id": "2169574896576124064",
-          "rating": "6.7"
         }
       ]
     },
@@ -2298,6 +2249,13 @@
       "section": "Horror Movies",
       "count": 18,
       "items": [
+        {
+          "name": "Ice Cream Man",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/de3f5362aee4f59e3d760c6283c35a6c.jpg",
+          "slug": "ice-cream-man-werpFRACTy9",
+          "subject_id": "8026099856525641752",
+          "rating": "6.5"
+        },
         {
           "name": "Teenage Sex and Death at Camp Miasma",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/2e440cb46d65fa546931dac5a06eecb6.jpg",
@@ -2416,13 +2374,6 @@
           "slug": "undertone-aDtUid6SZ57",
           "subject_id": "5956290260429687856",
           "rating": "5.9"
-        },
-        {
-          "name": "Psycho Killer",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/509cbfe6c0c3d1c1ce971676676ac39f.jpg",
-          "slug": "psycho-killer-IGW0Ag8OIE8",
-          "subject_id": "7265661903765493376",
-          "rating": "4.7"
         }
       ]
     },
