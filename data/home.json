@@ -3,7 +3,7 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 15,
+      "count": 7,
       "items": [
         {
           "name": "The Love Hypothesis",
@@ -18,18 +18,6 @@
           "subject_id": "9430056502182520"
         },
         {
-          "name": "You+Me - Against the World [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/07c010e018facfcb1e667a71a01ccede.png",
-          "slug": "you-me-against-the-world-english-8iZF6nIFoe1",
-          "subject_id": "1034205646629007888"
-        },
-        {
-          "name": "The Scandal",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/816eea724206d8ae6f86778ab903c1fb.webp",
-          "slug": "the-scandal-mlNU8SlJXV8",
-          "subject_id": "7499050641378399408"
-        },
-        {
           "name": "Neagley",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/258db67557b23779312dcad1458b9c0a.webp",
           "slug": "neagley-kgfRKfjK46",
@@ -42,52 +30,16 @@
           "subject_id": "4335165664987072680"
         },
         {
-          "name": "Monster: The Lizzie Borden Story",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/17/f1afc52d849ab4a5358f5b7382a857c0.webp",
-          "slug": "monster-MY4FMlRoAFa",
-          "subject_id": "8955962000002143264"
+          "name": "The Scandal",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/816eea724206d8ae6f86778ab903c1fb.webp",
+          "slug": "the-scandal-mlNU8SlJXV8",
+          "subject_id": "7499050641378399408"
         },
         {
           "name": "Paris Has Fallen",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/dc4b3d7a95e7d56fd811f59c880cbad3.webp",
           "slug": "paris-has-fallen-MECZzYIddA8",
           "subject_id": "7204616799684888000"
-        },
-        {
-          "name": "A Love Other Than Yours",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/a73a0bbf8b778a0809eb86de91ed339a.webp",
-          "slug": "a-love-other-than-yours-W77cR5lvfL4",
-          "subject_id": "3996826000955958296"
-        },
-        {
-          "name": "Why Did I Get Married Again?",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/09/8a61ba83d39190da19cbd0b19682c467.webp",
-          "slug": "why-did-i-get-married-again-G9KZqjexvb3",
-          "subject_id": "2673691619177778536"
-        },
-        {
-          "name": "Moana",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/08/f901c71edef9a66a5af71657b5bdd0d9.webp",
-          "slug": "moana-KHgXxMgKVV",
-          "subject_id": "784222266707137040"
-        },
-        {
-          "name": "Crew Girl",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/10/aacd8a39f604b3d102f31dba23042ced.png",
-          "slug": "crew-girl-4Cqv4ZvZ845",
-          "subject_id": "4252608531620414856"
-        },
-        {
-          "name": "Ordinary People",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/04/03e6d276f4b48a48e478959af0aa839f.jpeg",
-          "slug": "ordinary-people-YmqiCnDJ0V1",
-          "subject_id": "1611074008508777000"
-        },
-        {
-          "name": "The Gentlemen S2",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/03/6670bf7210192a3287d7792466c39156.png",
-          "slug": "the-gentlemen-efKGpux2bB4",
-          "subject_id": "3860480352347113768"
         },
         {
           "name": "Bleach: Thousand-Year Blood War - The Calamity season 4",
@@ -131,7 +83,7 @@
         },
         {
           "name": "Monster",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/2e76a9c3b69351d7b18e4654a3e28110.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/458941076ab40f018a72432ea64cec6b.jpg",
           "slug": "monster-MY4FMlRoAFa",
           "subject_id": "8955962000002143264",
           "rating": "7.7"
@@ -895,7 +847,7 @@
         },
         {
           "name": "Off Campus",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/0e4db121ea738da81a1d9016819f91ce.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/f7247c4380bf567d780967a6748b3153.jpg",
           "slug": "off-campus-aP9MRcE3oqa",
           "subject_id": "8750210920061751384",
           "rating": "7.8"
@@ -1562,7 +1514,7 @@
         },
         {
           "name": "Tulsa King",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/26/f2caa983a39bc0e89f7e6c0315b4199f.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/234a110788541f457d2ab37581818800.jpg",
           "slug": "tulsa-king-MsmATkU0Mg6",
           "subject_id": "5262873104975547168",
           "rating": "7.9"
@@ -2693,7 +2645,7 @@
         },
         {
           "name": "Reasonable Doubt",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/196f49c8ac6fdb9ec265dd630c1c983a.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/b04c4b92c998c7813ccdd6c3c62fedca.jpg",
           "slug": "reasonable-doubt-ijJ0E6WFGla",
           "subject_id": "8686590447290045472",
           "rating": "6.7"
