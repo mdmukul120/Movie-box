@@ -3,11 +3,17 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 7,
+      "count": 8,
       "items": [
         {
+          "name": "Blood Legacy Season 2",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/25/d61d99c796db5fcef8d8a767668115d0.png",
+          "slug": "blood-legacy-Aau1lZfiH57",
+          "subject_id": "5952233915611055472"
+        },
+        {
           "name": "A Different World",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/847a7141e7dbad4752336c18031bc66b.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/25/abade93fc0eabd7ebfba92fb488b52f8.webp",
           "slug": "a-different-world-S5nSQAifJg9",
           "subject_id": "7780166862692042712"
         },
@@ -54,6 +60,13 @@
       "count": 14,
       "items": [
         {
+          "name": "Blood Legacy",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/b347d94c096cb96e50ca8feebd884598.jpg",
+          "slug": "blood-legacy-Aau1lZfiH57",
+          "subject_id": "5952233915611055472",
+          "rating": "6.2"
+        },
+        {
           "name": "Neagley",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/cae6bf74aeb0d6411d531ca0bedd36b1.jpg",
           "slug": "neagley-kgfRKfjK46",
@@ -80,6 +93,20 @@
           "slug": "paris-has-fallen-MECZzYIddA8",
           "subject_id": "7204616799684888000",
           "rating": "6.6"
+        },
+        {
+          "name": "SWAT Exiles",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/7f8f5c844960e6e6efd0c5481f7f52bb.jpg",
+          "slug": "swat-exiles-mJV89dPysl5",
+          "subject_id": "4487011813523081040",
+          "rating": "7.2"
+        },
+        {
+          "name": "American Horror Story",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/33a64a8c5d83773a95516d63a006c555.jpg",
+          "slug": "american-horror-story-cE1NdZDUoN7",
+          "subject_id": "6543852446094348072",
+          "rating": "7.9"
         },
         {
           "name": "Monster",
@@ -129,33 +156,12 @@
           "slug": "outer-banks-YWAQovb3ZR4",
           "subject_id": "4087993015279702808",
           "rating": "7.5"
-        },
-        {
-          "name": "Kwa Baba",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/01/db86d1368e3fa53aba700f56265cc67d.jpeg",
-          "slug": "kwa-baba-WFoUozIudP",
-          "subject_id": "693338015313319144",
-          "rating": "6.4"
-        },
-        {
-          "name": "The Four Of Us",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/02/d8a4be0d3fee63430a9dbb1d21437c0a.jpeg",
-          "slug": "the-four-of-us-edt1Rx7MZ72",
-          "subject_id": "1786846550119830928",
-          "rating": "6.4"
-        },
-        {
-          "name": "Umthetho",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/8b0eb857cbd8cee4e0c86271bbaced0d.jpg",
-          "slug": "umthetho-mL6Ua1F4uKa",
-          "subject_id": "9022266259324424848",
-          "rating": "4.3"
         }
       ]
     },
     {
       "section": "Popular Movie",
-      "count": 13,
+      "count": 14,
       "items": [
         {
           "name": "The Love Hypothesis",
@@ -170,6 +176,13 @@
           "slug": "the-fix-U4maQqLbH",
           "subject_id": "9430056502182520",
           "rating": "6.5"
+        },
+        {
+          "name": "Unabomber",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/a5df9524a215e07f2146cc71097014cf.jpg",
+          "slug": "unabomber-UWZkNeSJk15",
+          "subject_id": "4214562271424568296",
+          "rating": "6.9"
         },
         {
           "name": "You+Me - Against the World [English]",
