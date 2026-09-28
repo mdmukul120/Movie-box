@@ -3,8 +3,14 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 8,
+      "count": 9,
       "items": [
+        {
+          "name": "Runner",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/28/0e35dc8679da7aba8cf1d4e62f802612.webp",
+          "slug": "runner-QOMZhgKwwg",
+          "subject_id": "223695587521217720"
+        },
         {
           "name": "Blood Legacy Season 2",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/25/d61d99c796db5fcef8d8a767668115d0.png",
@@ -110,7 +116,7 @@
         },
         {
           "name": "Monster",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/27/c22fbb145d0711930eb675f558d9e48c.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/28/f316424187fdc5df9ba7303f2b44062a.jpg",
           "slug": "monster-MY4FMlRoAFa",
           "subject_id": "8955962000002143264",
           "rating": "7.7"
@@ -164,11 +170,11 @@
       "count": 14,
       "items": [
         {
-          "name": "The Love Hypothesis",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/c7784fa0668128d01741fb23154c244f.jpg",
-          "slug": "the-love-hypothesis-8CNfawlQEK8",
-          "subject_id": "7346018858530490728",
-          "rating": "6.1"
+          "name": "Runner",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/ded94aef0b9a9709b1a488fb3e96923e.jpg",
+          "slug": "runner-QOMZhgKwwg",
+          "subject_id": "223695587521217720",
+          "rating": "6.6"
         },
         {
           "name": "The Fix",
@@ -176,6 +182,13 @@
           "slug": "the-fix-U4maQqLbH",
           "subject_id": "9430056502182520",
           "rating": "6.5"
+        },
+        {
+          "name": "The Love Hypothesis",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/c7784fa0668128d01741fb23154c244f.jpg",
+          "slug": "the-love-hypothesis-8CNfawlQEK8",
+          "subject_id": "7346018858530490728",
+          "rating": "6.1"
         },
         {
           "name": "Unabomber",
@@ -253,13 +266,6 @@
           "slug": "the-weight-GDJDd7qHo54",
           "subject_id": "3430275971587400712",
           "rating": "6.9"
-        },
-        {
-          "name": "The Last Sunrise",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/22/55626c457b0bcf01b4087761dfd4416e.jpg",
-          "slug": "the-last-sunrise-a7PGMx5VlH6",
-          "subject_id": "5622677105902242520",
-          "rating": "5.6"
         }
       ]
     },
@@ -596,7 +602,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/27/9f8427ed04f42d0593556d853797f8b5.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/28/c0bc9df297e9ac7ff7817d313c736c09.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -1053,6 +1059,13 @@
           "rating": "6.4"
         },
         {
+          "name": "Summertime",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/fd8e35fe2e83a587b5ed09cf7e1b82fc.jpg",
+          "slug": "summertime-2bFOETZpdF4",
+          "subject_id": "3915147989412729888",
+          "rating": "6.5"
+        },
+        {
           "name": "You Maniac",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/ab0b3d8945fe4472473ef855bea43911.jpg",
           "slug": "you-maniac-Q0ZLwhb6yG8",
@@ -1177,13 +1190,6 @@
           "slug": "new-boyfriend-aZgic3Ja3z4",
           "subject_id": "3831688287996072992",
           "rating": "6.2"
-        },
-        {
-          "name": "Play Me",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/07/0f0fe53ba2bb47dd8fabd2105c848bca.jpg",
-          "slug": "play-me-0oik0tr1qw5",
-          "subject_id": "4635365523360998424",
-          "rating": "6.7"
         }
       ]
     },
@@ -1277,7 +1283,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/27/4865f9762985a398007a85b0ae4cb281.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/28/082a31ac644d9d481028c67295c2ad8e.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -1753,6 +1759,13 @@
       "count": 16,
       "items": [
         {
+          "name": "A Bona Fide Killer",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/25/bdf2a527ad8e31f576fb3ae47583d04d.jpg",
+          "slug": "a-bona-fide-killer-yzvVpvmbTK4",
+          "subject_id": "3991952166557736960",
+          "rating": "7.6"
+        },
+        {
           "name": "Flex x Cop",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/ab02086490423450ad890217f3d23d2e.jpg",
           "slug": "flex-x-cop-MibemdOaf98",
@@ -1760,11 +1773,11 @@
           "rating": "7.8"
         },
         {
-          "name": "A Bona Fide Killer",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/25/bdf2a527ad8e31f576fb3ae47583d04d.jpg",
-          "slug": "a-bona-fide-killer-yzvVpvmbTK4",
-          "subject_id": "3991952166557736960",
-          "rating": "7.6"
+          "name": "Dive to You",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/09cd17e21f42b4db68ab04af8b6a7a6a.jpg",
+          "slug": "dive-to-you-G56UVRdOSB4",
+          "subject_id": "3870036899930730728",
+          "rating": "6.4"
         },
         {
           "name": "Four Hands, Two Sonatas",
@@ -1856,13 +1869,6 @@
           "slug": "the-east-palace-uxXzyCB2UP3",
           "subject_id": "3220525737539158416",
           "rating": "7.3"
-        },
-        {
-          "name": "My Idol, My Debut",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/17/ac1fcab065694d9e3f72476cb840f565.jpg",
-          "slug": "my-idol-my-debut-2lmjz7SQD99",
-          "subject_id": "7684229533956204968",
-          "rating": "7.0"
         }
       ]
     },
