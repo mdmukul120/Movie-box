@@ -63,7 +63,7 @@
     },
     {
       "section": "Popular Series",
-      "count": 14,
+      "count": 13,
       "items": [
         {
           "name": "Blood Legacy",
@@ -143,13 +143,6 @@
           "rating": "8.0"
         },
         {
-          "name": "The Drop: A Snowfall Saga",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/5e2ddcbeba31e8c9c6a21057440ce0ba.jpg",
-          "slug": "the-drop-a-snowfall-saga-WtYsBLavBx7",
-          "subject_id": "6330007782678741440",
-          "rating": "6.5"
-        },
-        {
           "name": "Ordinary People",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/04/e6d5f8a86b368b2176e5cc2aefb7fed4.jpeg",
           "slug": "ordinary-people-YmqiCnDJ0V1",
@@ -167,7 +160,7 @@
     },
     {
       "section": "Popular Movie",
-      "count": 14,
+      "count": 13,
       "items": [
         {
           "name": "Runner",
@@ -203,13 +196,6 @@
           "slug": "you-me-against-the-world-english-8iZF6nIFoe1",
           "subject_id": "1034205646629007888",
           "rating": "6.6"
-        },
-        {
-          "name": "Moana",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/29/3d85e28ee1669839f4e01824c037e2ca.jpg",
-          "slug": "moana-KHgXxMgKVV",
-          "subject_id": "784222266707137040",
-          "rating": "6.9"
         },
         {
           "name": "Drawn Together [English]",
@@ -417,7 +403,7 @@
     },
     {
       "section": "Adult Animation",
-      "count": 19,
+      "count": 17,
       "items": [
         {
           "name": "Batman: Caped Crusader",
@@ -425,13 +411,6 @@
           "slug": "batman-caped-crusader-Sxx7RwAxvE2",
           "subject_id": "2226969025052033872",
           "rating": "7.2"
-        },
-        {
-          "name": "X-Men '97",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/26/331787b3cc562c70885fec100ad65734.jpg",
-          "slug": "x-men-97-wGHJWJPUdP5",
-          "subject_id": "4889926813897605968",
-          "rating": "8.7"
         },
         {
           "name": "The Legend of Vox Machina",
@@ -544,13 +523,6 @@
           "slug": "smiling-friends-UsaygmvrQr7",
           "subject_id": "6252047448119069848",
           "rating": "8.5"
-        },
-        {
-          "name": "Futurama",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/2de71993265635a701a6002d3aef2a3b.jpg",
-          "slug": "futurama-O7vGiqhKm58",
-          "subject_id": "6787046825972354864",
-          "rating": "8.5"
         }
       ]
     },
@@ -658,7 +630,7 @@
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/360b3cd5a5de17f5ca52e28518369aff.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/940e546102a4fd7b2ac3b6c0add8e3f7.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -785,7 +757,7 @@
     },
     {
       "section": "Teen Romance",
-      "count": 19,
+      "count": 18,
       "items": [
         {
           "name": "My Life with the Walter Boys",
@@ -800,13 +772,6 @@
           "slug": "sterling-point-MaXarsHFNM3",
           "subject_id": "3178523771661606824",
           "rating": "7.4"
-        },
-        {
-          "name": "The Shards",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/22/2ae1f45af8e865cd0eb34bc3f0e46df0.jpg",
-          "slug": "the-shards-ORmZGjdXyF6",
-          "subject_id": "5598448838903318136",
-          "rating": "6.0"
         },
         {
           "name": "The Map of Longing [English]",
@@ -924,7 +889,7 @@
     },
     {
       "section": "Superhero Series",
-      "count": 17,
+      "count": 16,
       "items": [
         {
           "name": "The Boys",
@@ -953,13 +918,6 @@
           "slug": "ironheart-uB7agjeorB5",
           "subject_id": "4703349546003449600",
           "rating": "4.5"
-        },
-        {
-          "name": "Daredevil: Born Again",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/16/9f6ffc9475cad116f77cfde3192c85db.jpg",
-          "slug": "daredevil-born-again-OHXV9qfjBv7",
-          "subject_id": "6302891614566499408",
-          "rating": "8.1"
         },
         {
           "name": "Eyes of Wakanda",
@@ -1199,7 +1157,7 @@
       "items": [
         {
           "name": "Sistas",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/27/1f25a2670e0c0ba1dd563359e5fd652c.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/bb5ebc566894b39f8e943700957756f5.jpg",
           "slug": "sistas-WvtmA9qQcd1",
           "subject_id": "1018086181784933408",
           "rating": "5.7"
@@ -2243,7 +2201,7 @@
         },
         {
           "name": "Facing El Chapo [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/f8b6a7f5bdebb07b86ebd35813007e8d.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/0ffa91569003d02e8ddf129740ab460e.jpg",
           "slug": "facing-el-chapo-english-axYDc3YD5u",
           "subject_id": "407345050834850208",
           "rating": "6.7"
@@ -2559,7 +2517,7 @@
         },
         {
           "name": "Sistas",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/27/1f25a2670e0c0ba1dd563359e5fd652c.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/bb5ebc566894b39f8e943700957756f5.jpg",
           "slug": "sistas-WvtmA9qQcd1",
           "subject_id": "1018086181784933408",
           "rating": "5.7"
@@ -2608,7 +2566,7 @@
         },
         {
           "name": "Reasonable Doubt",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/b04c4b92c998c7813ccdd6c3c62fedca.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/32c04c3f3aa85c680eee8059dc891ec3.jpg",
           "slug": "reasonable-doubt-ijJ0E6WFGla",
           "subject_id": "8686590447290045472",
           "rating": "6.7"
