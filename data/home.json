@@ -3,8 +3,14 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 12,
+      "count": 13,
       "items": [
+        {
+          "name": "Fall 2: Deadpoint",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/a86d0942543a44271d5fc0be9a825c6b.webp",
+          "slug": "fall-2-deadpoint-U65m1Wbz8E4",
+          "subject_id": "3900551580638134304"
+        },
         {
           "name": "Black Clover Season 2",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/06/c9c534d94175a9a9dd4e8a17c0f23c2a.jpeg",
@@ -181,6 +187,20 @@
       "count": 12,
       "items": [
         {
+          "name": "Fall 2: Deadpoint",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/c7bd0820ffa9af2e5535b71f896914a4.jpg",
+          "slug": "fall-2-deadpoint-U65m1Wbz8E4",
+          "subject_id": "3900551580638134304",
+          "rating": "5.6"
+        },
+        {
+          "name": "Fall",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/a73877e283a7aa3d2039d29cc3c369d2.jpg",
+          "slug": "fall-0ge4IoNmOE3",
+          "subject_id": "3070378846106042616",
+          "rating": "6.4"
+        },
+        {
           "name": "Runner",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/ded94aef0b9a9709b1a488fb3e96923e.jpg",
           "slug": "runner-QOMZhgKwwg",
@@ -249,20 +269,6 @@
           "slug": "mayday-EyFZ8SeW7k1",
           "subject_id": "1111774575987245152",
           "rating": "6.8"
-        },
-        {
-          "name": "The Runner",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/dd255bf9579ee58dcfb1667dc805acb8.jpg",
-          "slug": "the-runner-McIeQZEGPQ",
-          "subject_id": "715214082269397240",
-          "rating": "6.5"
-        },
-        {
-          "name": "Just Play Dead",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/20/2f47b102c896a8acf2f9edd4999cd209.jpg",
-          "slug": "just-play-dead-QonHH9LbMH2",
-          "subject_id": "2271215194556744920",
-          "rating": "4.1"
         }
       ]
     },
@@ -1584,6 +1590,13 @@
       "count": 19,
       "items": [
         {
+          "name": "Coven Academy",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/08f3c478145359eedb8c9a447a5d88f1.jpg",
+          "slug": "coven-academy-UQietRFFzK3",
+          "subject_id": "3148392746424091800",
+          "rating": "6.7"
+        },
+        {
           "name": "Avatar: The Last Airbender",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/23/a29d89c01f0009d244dd01487395368f.jpg",
           "slug": "avatar-the-last-airbender-YoJu6LgmUl9",
@@ -1708,13 +1721,6 @@
           "slug": "locke-and-key-M2XFH135x33",
           "subject_id": "2565732360763364384",
           "rating": "7.3"
-        },
-        {
-          "name": "Shadow and Bone",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/addcdf2bd69e5b2e7415a9c7b053c9b3.jpg",
-          "slug": "shadow-and-bone-4eavUoepm63",
-          "subject_id": "2604012957596013336",
-          "rating": "7.5"
         }
       ]
     },
@@ -1742,11 +1748,32 @@
           "rating": "7.8"
         },
         {
+          "name": "Doctor of Love",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/30/4c0ebe28988ca15573dad56ec7be66ae.jpg",
+          "slug": "doctor-of-love-e76POoTF4M1",
+          "subject_id": "1490100413461324960",
+          "rating": "6.0"
+        },
+        {
+          "name": "Four Hands, Two Sonatas",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/05/e11954235d76e8070a6dac7f1a112575.jpg",
+          "slug": "four-hands-two-sonatas-cwxtxxOsgp4",
+          "subject_id": "3699219544767103960",
+          "rating": "8.5"
+        },
+        {
           "name": "The Ordinary Jackpot",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/22/7649540bb8da7cd69978dd16bddef069.jpg",
           "slug": "the-ordinary-jackpot-ejKw9jdwAB6",
           "subject_id": "5544642088840625616",
           "rating": "7.9"
+        },
+        {
+          "name": "A Love Other Than Yours",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/05/7e43eb1cada597eb25cb0df9ed40b6b0.jpg",
+          "slug": "a-love-other-than-yours-W77cR5lvfL4",
+          "subject_id": "3996826000955958296",
+          "rating": "6.5"
         },
         {
           "name": "Your Personal Taxi",
@@ -1761,20 +1788,6 @@
           "slug": "dive-to-you-G56UVRdOSB4",
           "subject_id": "3870036899930730728",
           "rating": "6.4"
-        },
-        {
-          "name": "Four Hands, Two Sonatas",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/05/e11954235d76e8070a6dac7f1a112575.jpg",
-          "slug": "four-hands-two-sonatas-cwxtxxOsgp4",
-          "subject_id": "3699219544767103960",
-          "rating": "8.5"
-        },
-        {
-          "name": "A Love Other Than Yours",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/05/7e43eb1cada597eb25cb0df9ed40b6b0.jpg",
-          "slug": "a-love-other-than-yours-W77cR5lvfL4",
-          "subject_id": "3996826000955958296",
-          "rating": "6.5"
         },
         {
           "name": "The Judge from Hell",
@@ -1831,13 +1844,6 @@
           "slug": "see-you-at-work-tomorrow-ok03JdyDSH4",
           "subject_id": "3951221837417308168",
           "rating": "7.1"
-        },
-        {
-          "name": "Love on the Menu",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/23/fcd66df3560331639f3a8f7fe25e8adc.jpg",
-          "slug": "love-on-the-menu-oAkCJK7mWr9",
-          "subject_id": "7931937271627268544",
-          "rating": "6.6"
         }
       ]
     },
@@ -2106,6 +2112,13 @@
       "count": 17,
       "items": [
         {
+          "name": "Runner",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/ded94aef0b9a9709b1a488fb3e96923e.jpg",
+          "slug": "runner-QOMZhgKwwg",
+          "subject_id": "223695587521217720",
+          "rating": "6.6"
+        },
+        {
           "name": "The Fix",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/988cbdb133d471922a5f4a772c648880.jpg",
           "slug": "the-fix-U4maQqLbH",
@@ -2216,13 +2229,6 @@
           "slug": "facing-el-chapo-english-axYDc3YD5u",
           "subject_id": "407345050834850208",
           "rating": "6.7"
-        },
-        {
-          "name": "Above and Below",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/10/1d1cc385bc07e29917b020ca76495b40.jpg",
-          "slug": "above-and-below-qTXsN35A4H5",
-          "subject_id": "4779591976859717224",
-          "rating": "6.0"
         }
       ]
     },
