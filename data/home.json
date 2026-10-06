@@ -3,8 +3,14 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 11,
+      "count": 12,
       "items": [
+        {
+          "name": "Black Clover Season 2",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/06/c9c534d94175a9a9dd4e8a17c0f23c2a.jpeg",
+          "slug": "black-clover-cE1aW4X3H14",
+          "subject_id": "3380137095141441488"
+        },
         {
           "name": "Coven Academy",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/03/902874b08f6d0f9db1d65b58ab92966f-s.png",
@@ -78,13 +84,6 @@
       "count": 13,
       "items": [
         {
-          "name": "Neagley",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/cae6bf74aeb0d6411d531ca0bedd36b1.jpg",
-          "slug": "neagley-kgfRKfjK46",
-          "subject_id": "82258967610676552",
-          "rating": "6.9"
-        },
-        {
           "name": "A Different World",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/7ba5ba33d8bbb2fdd857c8be1fa42c0a.jpg",
           "slug": "a-different-world-S5nSQAifJg9",
@@ -97,6 +96,20 @@
           "slug": "coven-academy-UQietRFFzK3",
           "subject_id": "3148392746424091800",
           "rating": "6.7"
+        },
+        {
+          "name": "Black Clover",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/04/9ad525d2ce49557aeaa798abc6bd1236.jpeg",
+          "slug": "black-clover-cE1aW4X3H14",
+          "subject_id": "3380137095141441488",
+          "rating": "7.1"
+        },
+        {
+          "name": "Neagley",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/cae6bf74aeb0d6411d531ca0bedd36b1.jpg",
+          "slug": "neagley-kgfRKfjK46",
+          "subject_id": "82258967610676552",
+          "rating": "6.9"
         },
         {
           "name": "Kill Jackie",
@@ -132,13 +145,6 @@
           "slug": "swat-exiles-mJV89dPysl5",
           "subject_id": "4487011813523081040",
           "rating": "7.2"
-        },
-        {
-          "name": "American Horror Story",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/33a64a8c5d83773a95516d63a006c555.jpg",
-          "slug": "american-horror-story-cE1NdZDUoN7",
-          "subject_id": "6543852446094348072",
-          "rating": "7.9"
         },
         {
           "name": "Monster",
@@ -579,7 +585,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/05/2aad8a55f974afc3d2b199d02a5b740a.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/06/d19dd11df016113e0d9c769ea3bb1f1f.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -1246,7 +1252,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/05/2d1cc172b2212b71e52598fa768a3ef8.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/06/b28a4c590f83cebdd6887dd1d482dfc2.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -2571,7 +2577,7 @@
         },
         {
           "name": "Reasonable Doubt",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/05/2c120ccf0afec07695366fa3ffa068ec.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/06/cfc892a3009a4c5da3e04a9a7cff172f.jpg",
           "slug": "reasonable-doubt-ijJ0E6WFGla",
           "subject_id": "8686590447290045472",
           "rating": "6.7"
