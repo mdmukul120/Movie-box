@@ -3,8 +3,26 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 13,
+      "count": 15,
       "items": [
+        {
+          "name": "Carrie",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/77efae26472f622ddd867838d2af6226.webp",
+          "slug": "carrie-MwWP74PRLz1",
+          "subject_id": "1323548926116543856"
+        },
+        {
+          "name": "Onslaught",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/0aed8128e28f6ee917b3b5322e470860.jpeg",
+          "slug": "onslaught-CtjXja53Ku3",
+          "subject_id": "2934065197151043920"
+        },
+        {
+          "name": "Merry Berry Love",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/919ade82198f4fb0d8e71346dcc50ef1.webp",
+          "slug": "merry-berry-love-EifKV9OpXV4",
+          "subject_id": "4141784352315295168"
+        },
         {
           "name": "Fall 2: Deadpoint",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/a86d0942543a44271d5fc0be9a825c6b.webp",
@@ -76,25 +94,19 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/dc4b3d7a95e7d56fd811f59c880cbad3.webp",
           "slug": "paris-has-fallen-MECZzYIddA8",
           "subject_id": "7204616799684888000"
-        },
-        {
-          "name": "Bleach: Thousand-Year Blood War - The Calamity season 4",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/01/b4515dac7fe9fdf8fc461b299a9785df.png",
-          "slug": "bleach-thousand-year-blood-war-english-IKoyJ28zSi8",
-          "subject_id": "6969976563899551152"
         }
       ]
     },
     {
       "section": "Popular Series",
-      "count": 13,
+      "count": 14,
       "items": [
         {
-          "name": "A Different World",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/7ba5ba33d8bbb2fdd857c8be1fa42c0a.jpg",
-          "slug": "a-different-world-S5nSQAifJg9",
-          "subject_id": "7780166862692042712",
-          "rating": "6.0"
+          "name": "Carrie",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/55df85190d56ce4552340dd3191d0f39.jpg",
+          "slug": "carrie-MwWP74PRLz1",
+          "subject_id": "1323548926116543856",
+          "rating": "6.9"
         },
         {
           "name": "Coven Academy",
@@ -111,11 +123,25 @@
           "rating": "7.1"
         },
         {
+          "name": "Merry Berry Love",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/01/f084955b4c0a9b1ac00e0604580cb1c3.jpg",
+          "slug": "merry-berry-love-EifKV9OpXV4",
+          "subject_id": "4141784352315295168",
+          "rating": "6.5"
+        },
+        {
           "name": "Neagley",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/cae6bf74aeb0d6411d531ca0bedd36b1.jpg",
           "slug": "neagley-kgfRKfjK46",
           "subject_id": "82258967610676552",
           "rating": "6.9"
+        },
+        {
+          "name": "A Different World",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/7ba5ba33d8bbb2fdd857c8be1fa42c0a.jpg",
+          "slug": "a-different-world-S5nSQAifJg9",
+          "subject_id": "7780166862692042712",
+          "rating": "6.0"
         },
         {
           "name": "Kill Jackie",
@@ -154,7 +180,7 @@
         },
         {
           "name": "Monster",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/07/fac740f90e75359e67277f890645e134.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/53d0b00be2fc5d6bd0533182afc05360.jpg",
           "slug": "monster-MY4FMlRoAFa",
           "subject_id": "8955962000002143264",
           "rating": "7.7"
@@ -172,13 +198,6 @@
           "slug": "a-love-other-than-yours-W77cR5lvfL4",
           "subject_id": "3996826000955958296",
           "rating": "6.5"
-        },
-        {
-          "name": "The Gentlemen",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/fc1841aea1c1572162d5d7317593a37a.jpg",
-          "slug": "the-gentlemen-efKGpux2bB4",
-          "subject_id": "3860480352347113768",
-          "rating": "8.0"
         }
       ]
     },
@@ -186,6 +205,13 @@
       "section": "Popular Movie",
       "count": 12,
       "items": [
+        {
+          "name": "Onslaught",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/04/b8969ff5c4fa388eda3d61af31591eac.jpg",
+          "slug": "onslaught-CtjXja53Ku3",
+          "subject_id": "2934065197151043920",
+          "rating": "6.1"
+        },
         {
           "name": "Fall 2: Deadpoint",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/c7bd0820ffa9af2e5535b71f896914a4.jpg",
@@ -262,13 +288,6 @@
           "slug": "clash-of-the-thundermans-ujcl180zbw3",
           "subject_id": "2953609872106996688",
           "rating": "4.4"
-        },
-        {
-          "name": "Mayday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/19/2f0323f967c88e53fea9af13377fb069.jpg",
-          "slug": "mayday-EyFZ8SeW7k1",
-          "subject_id": "1111774575987245152",
-          "rating": "6.8"
         }
       ]
     },
@@ -277,18 +296,25 @@
       "count": 20,
       "items": [
         {
-          "name": "Ajosepo 2: The Gathering",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/25/eb640334aec893f8551c78ba3ae52c85.jpeg",
-          "slug": "ajosepo-2-the-gathering-eJ9Gv1KPMB3",
-          "subject_id": "3029432841424847000",
-          "rating": "6.6"
-        },
-        {
           "name": "MY 30TH WEDDING",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/01/4d04cebd1d30043dd31a26817dba4776.jpg",
           "slug": "my-30th-wedding-6x5L5dGAJT3",
           "subject_id": "3272392338131385552",
           "rating": "0"
+        },
+        {
+          "name": "Oversabi Aunty",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/d512f997fdf89ab5c7656dd1b9acb19c.jpg",
+          "slug": "oversabi-aunty-yZYpRhPWrm",
+          "subject_id": "303918253691361792",
+          "rating": "6.1"
+        },
+        {
+          "name": "Ajosepo 2: The Gathering",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/25/eb640334aec893f8551c78ba3ae52c85.jpeg",
+          "slug": "ajosepo-2-the-gathering-eJ9Gv1KPMB3",
+          "subject_id": "3029432841424847000",
+          "rating": "6.6"
         },
         {
           "name": "ONCE UPON A VILLAGE 9",
@@ -407,13 +433,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/12/5ff2665c5bb67c24d130de2a1c774192.jpg",
           "slug": "the-price-of-love-QoJy5Vr5kz",
           "subject_id": "478184025212044824",
-          "rating": "0"
-        },
-        {
-          "name": "MY HOUSEMATE",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/12/76e4a9dc242ea57fcbe15a6f0ca2078a.jpg",
-          "slug": "my-housemate-Yg5izPVKhp6",
-          "subject_id": "5378100419791143600",
           "rating": "0"
         }
       ]
@@ -591,7 +610,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/07/833b637c8c4a8b04560ae4a262c4a0c4.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/a4820f0ff1adf483cc4225f6907f0464.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -633,7 +652,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/07/7be4bcd2c004179774385e490d04bb09.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/3d6c4b15142d9877f1913130fc97626f.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -647,7 +666,7 @@
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/07/fe21541be573ceb7459e5e6fc1ee3d87.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/3b650c48c61ff30b8778def5c14e8abd.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -1258,7 +1277,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/07/6ec7083f8af54b9999c2a2fddb0011c3.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/88b3238f82841f808234c24de62f10cc.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -1626,7 +1645,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/07/7be4bcd2c004179774385e490d04bb09.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/3d6c4b15142d9877f1913130fc97626f.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -1731,7 +1750,7 @@
     },
     {
       "section": "K-Drama",
-      "count": 16,
+      "count": 17,
       "items": [
         {
           "name": "A Bona Fide Killer",
@@ -1746,6 +1765,20 @@
           "slug": "flex-x-cop-MibemdOaf98",
           "subject_id": "6839541875842894728",
           "rating": "7.8"
+        },
+        {
+          "name": "Merry Berry Love",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/01/f084955b4c0a9b1ac00e0604580cb1c3.jpg",
+          "slug": "merry-berry-love-EifKV9OpXV4",
+          "subject_id": "4141784352315295168",
+          "rating": "6.5"
+        },
+        {
+          "name": "KiDnap GAME",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/dc66e25572b196b69f8952454e97d738.jpg",
+          "slug": "kidnap-game-Ayoz3kf2zi9",
+          "subject_id": "7805011667951445016",
+          "rating": "6.7"
         },
         {
           "name": "Doctor of Love",
@@ -1837,13 +1870,6 @@
           "slug": "a-trap-called-desire-cCEU55ZRMt4",
           "subject_id": "3760443413439626896",
           "rating": "6.6"
-        },
-        {
-          "name": "See You at Work Tomorrow!",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/25/d45fd1f1e9ba0f8ff7333b6e7e5334cc.jpg",
-          "slug": "see-you-at-work-tomorrow-ok03JdyDSH4",
-          "subject_id": "3951221837417308168",
-          "rating": "7.1"
         }
       ]
     },
@@ -2126,11 +2152,11 @@
           "rating": "6.5"
         },
         {
-          "name": "One Last Shot",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/63894b74622eb16ea8d72aa417abb81d.jpg",
-          "slug": "one-last-shot-aHRYms5S2k6",
-          "subject_id": "5307165083527700104",
-          "rating": "6.3"
+          "name": "Onslaught",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/04/b8969ff5c4fa388eda3d61af31591eac.jpg",
+          "slug": "onslaught-CtjXja53Ku3",
+          "subject_id": "2934065197151043920",
+          "rating": "6.1"
         },
         {
           "name": "Legend of the White Dragon",
@@ -2225,7 +2251,7 @@
         },
         {
           "name": "Facing El Chapo [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/07/3d45016e702b3c88afa1d7305ff0024a.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/07/781fb6801ed5140fe47f0ed3d276f99e.jpg",
           "slug": "facing-el-chapo-english-axYDc3YD5u",
           "subject_id": "407345050834850208",
           "rating": "6.7"
@@ -2583,7 +2609,7 @@
         },
         {
           "name": "Reasonable Doubt",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/07/7dbbbdbe5a5c6899cb91937d39ce5c06.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/3d5bcf1d00cd775a0ccd7dcf42874209.jpg",
           "slug": "reasonable-doubt-ijJ0E6WFGla",
           "subject_id": "8686590447290045472",
           "rating": "6.7"
