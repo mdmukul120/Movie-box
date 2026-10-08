@@ -3,8 +3,14 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 15,
+      "count": 16,
       "items": [
+        {
+          "name": "Below",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/31785dce6ef0d6591f471048ccc45cd4.webp",
+          "slug": "below-0yNG224voo3",
+          "subject_id": "2848137736375136784"
+        },
         {
           "name": "Carrie",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/77efae26472f622ddd867838d2af6226.webp",
@@ -102,6 +108,13 @@
       "count": 14,
       "items": [
         {
+          "name": "Coven Academy",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/08f3c478145359eedb8c9a447a5d88f1.jpg",
+          "slug": "coven-academy-UQietRFFzK3",
+          "subject_id": "3148392746424091800",
+          "rating": "6.7"
+        },
+        {
           "name": "Carrie",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/55df85190d56ce4552340dd3191d0f39.jpg",
           "slug": "carrie-MwWP74PRLz1",
@@ -109,11 +122,11 @@
           "rating": "6.9"
         },
         {
-          "name": "Coven Academy",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/08f3c478145359eedb8c9a447a5d88f1.jpg",
-          "slug": "coven-academy-UQietRFFzK3",
-          "subject_id": "3148392746424091800",
-          "rating": "6.7"
+          "name": "Below",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/ae7283d190221289b618b965447cc04d.jpg",
+          "slug": "below-0yNG224voo3",
+          "subject_id": "2848137736375136784",
+          "rating": "6.5"
         },
         {
           "name": "Black Clover",
@@ -191,13 +204,6 @@
           "slug": "city-of-blood-english-wQ2OI6CHYua",
           "subject_id": "8812360255402304816",
           "rating": "7.1"
-        },
-        {
-          "name": "A Love Other Than Yours",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/05/7e43eb1cada597eb25cb0df9ed40b6b0.jpg",
-          "slug": "a-love-other-than-yours-W77cR5lvfL4",
-          "subject_id": "3996826000955958296",
-          "rating": "6.5"
         }
       ]
     },
@@ -1046,6 +1052,13 @@
       "count": 20,
       "items": [
         {
+          "name": "You Maniac",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/ab0b3d8945fe4472473ef855bea43911.jpg",
+          "slug": "you-maniac-Q0ZLwhb6yG8",
+          "subject_id": "7290397896028442960",
+          "rating": "9.4"
+        },
+        {
           "name": "Mr. Fanboy",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/3e00ec0d05e1ca5e146250f440a7e88f.jpg",
           "slug": "mr-fanboy-E6DHbmxYT48",
@@ -1053,18 +1066,18 @@
           "rating": "6.4"
         },
         {
+          "name": "Decoding You",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/98b35238ff1ed55159826cd53dc51ef5.jpg",
+          "slug": "decoding-you-sglyPhhTgm9",
+          "subject_id": "7855198309265601040",
+          "rating": "6.2"
+        },
+        {
           "name": "Summertime",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/27/fd8e35fe2e83a587b5ed09cf7e1b82fc.jpg",
           "slug": "summertime-2bFOETZpdF4",
           "subject_id": "3915147989412729888",
           "rating": "6.5"
-        },
-        {
-          "name": "You Maniac",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/ab0b3d8945fe4472473ef855bea43911.jpg",
-          "slug": "you-maniac-Q0ZLwhb6yG8",
-          "subject_id": "7290397896028442960",
-          "rating": "9.4"
         },
         {
           "name": "The Last Oath",
@@ -1177,13 +1190,6 @@
           "slug": "payback-Stphm9fMD12",
           "subject_id": "1700820980479811096",
           "rating": "6.5"
-        },
-        {
-          "name": "New Boyfriend",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/13/59b513baafb81af4939accfece798afe.jpg",
-          "slug": "new-boyfriend-aZgic3Ja3z4",
-          "subject_id": "3831688287996072992",
-          "rating": "6.2"
         }
       ]
     },
