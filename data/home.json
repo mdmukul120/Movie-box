@@ -143,6 +143,13 @@
           "rating": "6.5"
         },
         {
+          "name": "East of Eden",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/4fda12412ada1f541069da2a1e55d689.jpg",
+          "slug": "east-of-eden-eHk1HP0pn3a",
+          "subject_id": "8438714828474275472",
+          "rating": "6.0"
+        },
+        {
           "name": "Neagley",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/cae6bf74aeb0d6411d531ca0bedd36b1.jpg",
           "slug": "neagley-kgfRKfjK46",
@@ -193,17 +200,10 @@
         },
         {
           "name": "Monster",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/85bf3c93cc63d7dd6eb28b261118e8d2.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/1a9d9838303938904c8bb87a37b77651.jpg",
           "slug": "monster-MY4FMlRoAFa",
           "subject_id": "8955962000002143264",
           "rating": "7.7"
-        },
-        {
-          "name": "City of Blood [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/89235d4d94850de617451ef8ee19bc3a.jpg",
-          "slug": "city-of-blood-english-wQ2OI6CHYua",
-          "subject_id": "8812360255402304816",
-          "rating": "7.1"
         }
       ]
     },
@@ -211,13 +211,6 @@
       "section": "Popular Movie",
       "count": 12,
       "items": [
-        {
-          "name": "Onslaught",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/04/b8969ff5c4fa388eda3d61af31591eac.jpg",
-          "slug": "onslaught-CtjXja53Ku3",
-          "subject_id": "2934065197151043920",
-          "rating": "6.1"
-        },
         {
           "name": "Fall 2: Deadpoint",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/c7bd0820ffa9af2e5535b71f896914a4.jpg",
@@ -231,6 +224,13 @@
           "slug": "fall-0ge4IoNmOE3",
           "subject_id": "3070378846106042616",
           "rating": "6.4"
+        },
+        {
+          "name": "Onslaught",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/04/b8969ff5c4fa388eda3d61af31591eac.jpg",
+          "slug": "onslaught-CtjXja53Ku3",
+          "subject_id": "2934065197151043920",
+          "rating": "6.1"
         },
         {
           "name": "Runner",
@@ -658,7 +658,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/fcb58131ace9da9f56d01c9a50f8fcf1.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/9910f4b040de98ab48860a59fad34868.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -672,7 +672,7 @@
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/3451f762dc579a4278cc7477d44cef14.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/f18e0871447dc17e07528b2cc93611f8.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -799,7 +799,7 @@
     },
     {
       "section": "Teen Romance",
-      "count": 18,
+      "count": 17,
       "items": [
         {
           "name": "My Life with the Walter Boys",
@@ -919,13 +919,6 @@
           "slug": "heartstopper-wEgoV4DGbk4",
           "subject_id": "3630491063095280672",
           "rating": "8.5"
-        },
-        {
-          "name": "Young Royals",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/03/0b7f01f0abd5ae9acf7a1018aef14f27.jpg",
-          "slug": "young-royals-ivN0ocZDSP4",
-          "subject_id": "4059520062166815512",
-          "rating": "8.2"
         }
       ]
     },
@@ -1651,7 +1644,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/fcb58131ace9da9f56d01c9a50f8fcf1.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/9910f4b040de98ab48860a59fad34868.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -2257,7 +2250,7 @@
         },
         {
           "name": "Facing El Chapo [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/d7689cc0d80f9fdb0c610ab363b1f6ad.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/ae6d6ab463cb76421731baba6be6092c.jpg",
           "slug": "facing-el-chapo-english-axYDc3YD5u",
           "subject_id": "407345050834850208",
           "rating": "6.7"
