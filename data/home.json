@@ -3,8 +3,32 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 16,
+      "count": 20,
       "items": [
+        {
+          "name": "Animals",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/56abd9db04e099df48588f4fbc1abeae.webp",
+          "slug": "animals-0gGtQGm4Ck2",
+          "subject_id": "1957652761990807584"
+        },
+        {
+          "name": "Book One: Survival",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/efc7efd4a95ee80ec7ec7d4a01bbe8c6.jpg",
+          "slug": "avatar-seven-havens-6RjmSI53tma",
+          "subject_id": "8697152315721245208"
+        },
+        {
+          "name": "Take Charge of My Heart",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/eb19200d68f2c7945ef36b3d4fa06879.webp",
+          "slug": "take-charge-of-my-heart-english-IqSD2kUNHE7",
+          "subject_id": "6426143405759684408"
+        },
+        {
+          "name": "Matchbox",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/65461babd126daf9f3eace8563b1c034.jpeg",
+          "slug": "matchbox-the-movie-S5hfykcX3Z4",
+          "subject_id": "4183823238805478232"
+        },
         {
           "name": "Below",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/31785dce6ef0d6591f471048ccc45cd4.webp",
@@ -13,7 +37,7 @@
         },
         {
           "name": "Carrie",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/77efae26472f622ddd867838d2af6226.webp",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/8e56a2d4b1274267b5765af5aaa9623b.jpeg",
           "slug": "carrie-MwWP74PRLz1",
           "subject_id": "1323548926116543856"
         },
@@ -105,14 +129,14 @@
     },
     {
       "section": "Popular Series",
-      "count": 14,
+      "count": 15,
       "items": [
         {
-          "name": "Coven Academy",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/08f3c478145359eedb8c9a447a5d88f1.jpg",
-          "slug": "coven-academy-UQietRFFzK3",
-          "subject_id": "3148392746424091800",
-          "rating": "6.7"
+          "name": "Avatar: Seven Havens",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/3ff183eb269dc4526205208417134b4a.jpg",
+          "slug": "avatar-seven-havens-6RjmSI53tma",
+          "subject_id": "8697152315721245208",
+          "rating": "6.6"
         },
         {
           "name": "Carrie",
@@ -126,6 +150,20 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/ae7283d190221289b618b965447cc04d.jpg",
           "slug": "below-0yNG224voo3",
           "subject_id": "2848137736375136784",
+          "rating": "6.5"
+        },
+        {
+          "name": "Coven Academy",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/08f3c478145359eedb8c9a447a5d88f1.jpg",
+          "slug": "coven-academy-UQietRFFzK3",
+          "subject_id": "3148392746424091800",
+          "rating": "6.7"
+        },
+        {
+          "name": "Take Charge of My Heart [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/bf67104d5b163f41ee03f64c49b5f63e.jpg",
+          "slug": "take-charge-of-my-heart-english-IqSD2kUNHE7",
+          "subject_id": "6426143405759684408",
           "rating": "6.5"
         },
         {
@@ -197,20 +235,27 @@
           "slug": "swat-exiles-mJV89dPysl5",
           "subject_id": "4487011813523081040",
           "rating": "7.2"
-        },
-        {
-          "name": "Monster",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/1a9d9838303938904c8bb87a37b77651.jpg",
-          "slug": "monster-MY4FMlRoAFa",
-          "subject_id": "8955962000002143264",
-          "rating": "7.7"
         }
       ]
     },
     {
       "section": "Popular Movie",
-      "count": 12,
+      "count": 13,
       "items": [
+        {
+          "name": "Matchbox the Movie",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/2efe2919418a8396e2302448c56e9b8d.jpg",
+          "slug": "matchbox-the-movie-S5hfykcX3Z4",
+          "subject_id": "4183823238805478232",
+          "rating": "6.2"
+        },
+        {
+          "name": "Animals",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/6f95a5558c863d02d61bc2224bd51109.jpg",
+          "slug": "animals-0gGtQGm4Ck2",
+          "subject_id": "1957652761990807584",
+          "rating": "6.0"
+        },
         {
           "name": "Fall 2: Deadpoint",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/c7bd0820ffa9af2e5535b71f896914a4.jpg",
@@ -287,13 +332,6 @@
           "slug": "the-girl-in-the-river-Yy2BweofGR2",
           "subject_id": "2405288803855491864",
           "rating": "7.1"
-        },
-        {
-          "name": "Clash of the Thundermans",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/04/ca63bed22b4d38b49a3f278fb009d1de.jpg",
-          "slug": "clash-of-the-thundermans-ujcl180zbw3",
-          "subject_id": "2953609872106996688",
-          "rating": "4.4"
         }
       ]
     },
@@ -306,6 +344,13 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/01/4d04cebd1d30043dd31a26817dba4776.jpg",
           "slug": "my-30th-wedding-6x5L5dGAJT3",
           "subject_id": "3272392338131385552",
+          "rating": "0"
+        },
+        {
+          "name": "ONCE UPON A VILLAGE 10",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/64418cdd0b2bc66a14683acf4df34f8f.jpg",
+          "slug": "once-upon-a-village-10-CfoPOLo1h31",
+          "subject_id": "883627335931642192",
           "rating": "0"
         },
         {
@@ -432,13 +477,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/13/613b2a13c22d1e9c9b1aec1f116aac56.jpg",
           "slug": "child-of-thunder-destiny-etiko-yul-edochie-lizzy-gold-ifB4KXVKzB",
           "subject_id": "508679392525181672",
-          "rating": "0"
-        },
-        {
-          "name": "THE PRICE OF LOVE",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/12/5ff2665c5bb67c24d130de2a1c774192.jpg",
-          "slug": "the-price-of-love-QoJy5Vr5kz",
-          "subject_id": "478184025212044824",
           "rating": "0"
         }
       ]
@@ -2137,6 +2175,13 @@
       "count": 17,
       "items": [
         {
+          "name": "Matchbox the Movie",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/2efe2919418a8396e2302448c56e9b8d.jpg",
+          "slug": "matchbox-the-movie-S5hfykcX3Z4",
+          "subject_id": "4183823238805478232",
+          "rating": "6.2"
+        },
+        {
           "name": "Runner",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/ded94aef0b9a9709b1a488fb3e96923e.jpg",
           "slug": "runner-QOMZhgKwwg",
@@ -2246,13 +2291,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/05/27219e803722a3af4e771f296a823664.jpg",
           "slug": "star-wars-the-mandalorian-and-grogu-G96geTTsHA7",
           "subject_id": "6371921081103962288",
-          "rating": "6.7"
-        },
-        {
-          "name": "Facing El Chapo [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/ae6d6ab463cb76421731baba6be6092c.jpg",
-          "slug": "facing-el-chapo-english-axYDc3YD5u",
-          "subject_id": "407345050834850208",
           "rating": "6.7"
         }
       ]
