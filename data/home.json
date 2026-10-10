@@ -6,6 +6,12 @@
       "count": 20,
       "items": [
         {
+          "name": "Matchbox",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/65461babd126daf9f3eace8563b1c034.jpeg",
+          "slug": "matchbox-the-movie-S5hfykcX3Z4",
+          "subject_id": "4183823238805478232"
+        },
+        {
           "name": "Animals",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/56abd9db04e099df48588f4fbc1abeae.webp",
           "slug": "animals-0gGtQGm4Ck2",
@@ -22,12 +28,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/eb19200d68f2c7945ef36b3d4fa06879.webp",
           "slug": "take-charge-of-my-heart-english-IqSD2kUNHE7",
           "subject_id": "6426143405759684408"
-        },
-        {
-          "name": "Matchbox",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/65461babd126daf9f3eace8563b1c034.jpeg",
-          "slug": "matchbox-the-movie-S5hfykcX3Z4",
-          "subject_id": "4183823238805478232"
         },
         {
           "name": "Below",
@@ -654,7 +654,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/0b97cbed19af297b4c5f9e682d9cc51d.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/10/7174989a8ce924b2480c2628f4de5dc9.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -696,7 +696,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/a62411f481b3fd22ae95b9c930fa53ae.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/10/e6e8f6f73fe1adf100b9b621a8fff1e0.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -710,7 +710,7 @@
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/57108e886f32b4e04f0ad2789e2fde63.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/10/0eacd74e3a7c31065e84e498120d5078.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -1314,7 +1314,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/b09ba054f8754975470e5bf2ebc2378c.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/10/eaba7cf2cf31d1cc79cb32d9de251513.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -1682,7 +1682,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/a62411f481b3fd22ae95b9c930fa53ae.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/10/e6e8f6f73fe1adf100b9b621a8fff1e0.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -1787,8 +1787,15 @@
     },
     {
       "section": "K-Drama",
-      "count": 17,
+      "count": 18,
       "items": [
+        {
+          "name": "Take Charge of My Heart",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/bf67104d5b163f41ee03f64c49b5f63e.jpg",
+          "slug": "take-charge-of-my-heart-Gr79xsLpA5a",
+          "subject_id": "8468630071333515864",
+          "rating": "6.5"
+        },
         {
           "name": "A Bona Fide Killer",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/03/214433d6b97e4f0bc88aac24bd05142d.jpg",
@@ -2068,15 +2075,8 @@
     },
     {
       "section": "Anime[English Dubbed]",
-      "count": 14,
+      "count": 12,
       "items": [
-        {
-          "name": "One Piece [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/15714052f621059cf32f6d0da5b56334.jpg",
-          "slug": "one-piece-english-OJafGbGekK4",
-          "subject_id": "3984321945629247112",
-          "rating": "9.0"
-        },
         {
           "name": "Bleach: Thousand-Year Blood War [English]",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/dfb652a2ab5dbad1ab05172bb471f0e2.jpg",
@@ -2118,13 +2118,6 @@
           "slug": "jujutsu-kaisen-english-KD0jSM9ot5",
           "subject_id": "74102370522777768",
           "rating": "8.5"
-        },
-        {
-          "name": "Attack on Titan [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/27/2735770dff71711ed9ad492f40b5695d.jpg",
-          "slug": "attack-on-titan-english-6lPl9A2Wn1a",
-          "subject_id": "8411756968024720848",
-          "rating": "9.1"
         },
         {
           "name": "Solo Leveling [English]",
