@@ -354,6 +354,13 @@
           "rating": "0"
         },
         {
+          "name": "LOVE LOOKS GOOD ON YOU",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/cd6031faad3dfdc41a268088a22d9c73.jpg",
+          "slug": "love-looks-good-on-you-eJXazNvSOSa",
+          "subject_id": "9135105310867210592",
+          "rating": "0"
+        },
+        {
           "name": "Oversabi Aunty",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/01/26/d512f997fdf89ab5c7656dd1b9acb19c.jpg",
           "slug": "oversabi-aunty-yZYpRhPWrm",
@@ -471,20 +478,27 @@
           "slug": "groomed-for-love-MoYV5QG55o7",
           "subject_id": "6201097380126162680",
           "rating": "0"
-        },
-        {
-          "name": "CHILD OF THUNDER - DESTINY ETIKO, YUL EDOCHIE, LIZZY GOLD",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/13/613b2a13c22d1e9c9b1aec1f116aac56.jpg",
-          "slug": "child-of-thunder-destiny-etiko-yul-edochie-lizzy-gold-ifB4KXVKzB",
-          "subject_id": "508679392525181672",
-          "rating": "0"
         }
       ]
     },
     {
       "section": "Adult Animation",
-      "count": 17,
+      "count": 18,
       "items": [
+        {
+          "name": "Avatar: Seven Havens",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/3ff183eb269dc4526205208417134b4a.jpg",
+          "slug": "avatar-seven-havens-6RjmSI53tma",
+          "subject_id": "8697152315721245208",
+          "rating": "6.6"
+        },
+        {
+          "name": "Haunted Hotel",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/98fcfa8fdc4a453666fc2cf59a4f5b63.jpg",
+          "slug": "haunted-hotel-ggCswRtSQG6",
+          "subject_id": "5615899379073795400",
+          "rating": "7.7"
+        },
         {
           "name": "Batman: Caped Crusader",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/20/a6076622f6d5ea776c4f588f04fb50f6.jpg",
@@ -596,13 +610,6 @@
           "slug": "the-mighty-nein-aRomIcB4Xl7",
           "subject_id": "6172272644495658000",
           "rating": "8.4"
-        },
-        {
-          "name": "Smiling Friends",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/05/2c9546dfd90ce78be3f69b7711c60654.jpg",
-          "slug": "smiling-friends-UsaygmvrQr7",
-          "subject_id": "6252047448119069848",
-          "rating": "8.5"
         }
       ]
     },
@@ -725,7 +732,7 @@
       ]
     },
     {
-      "section": "Sitcom",
+      "section": "Comedy",
       "count": 15,
       "items": [
         {
@@ -734,6 +741,20 @@
           "slug": "friends-QqM8Vz4IoH",
           "subject_id": "587490095175978800",
           "rating": "8.9"
+        },
+        {
+          "name": "Abbott Elementary",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/069e1c9bf5d5eba80dbe08e188612255.jpg",
+          "slug": "abbott-elementary-YCa5ncz0NK",
+          "subject_id": "633406645644710944",
+          "rating": "8.2"
+        },
+        {
+          "name": "Eternally Yours",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/f0c840aae049b37824cab23f855220c4.jpg",
+          "slug": "eternally-yours-yjbbw98SwA8",
+          "subject_id": "7208907556302249584",
+          "rating": "6.5"
         },
         {
           "name": "The Big Bang Theory",
@@ -818,20 +839,6 @@
           "slug": "the-office-qzdPZdFVil5",
           "subject_id": "4484908842379266848",
           "rating": "9.0"
-        },
-        {
-          "name": "Ted",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/04/892752287078c1db0665cabb8290d489.jpg",
-          "slug": "ted-g4cbDKSgwU6",
-          "subject_id": "5800919380946993168",
-          "rating": "7.9"
-        },
-        {
-          "name": "Scrubs",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/b6491d5e74303656cdcb37e2862c668c.jpg",
-          "slug": "scrubs-6Xudf7BfYZ",
-          "subject_id": "838917618122772272",
-          "rating": "8.4"
         }
       ]
     },
@@ -1083,6 +1090,13 @@
       "count": 20,
       "items": [
         {
+          "name": "Twisted Tie",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/10/546bdce55ac3afc4f238fd949c8d4677.jpg",
+          "slug": "twisted-tie-0AOwhEC8AD3",
+          "subject_id": "3053735084940489232",
+          "rating": "6.6"
+        },
+        {
           "name": "You Maniac",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/06/ab0b3d8945fe4472473ef855bea43911.jpg",
           "slug": "you-maniac-Q0ZLwhb6yG8",
@@ -1214,13 +1228,6 @@
           "slug": "lovex3-Gps3l3ndmK",
           "subject_id": "627556553905816000",
           "rating": "8.7"
-        },
-        {
-          "name": "Payback",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/10/e5373ae453cf089c52da1f412e374288.jpeg",
-          "slug": "payback-Stphm9fMD12",
-          "subject_id": "1700820980479811096",
-          "rating": "6.5"
         }
       ]
     },
@@ -1797,6 +1804,13 @@
           "rating": "6.5"
         },
         {
+          "name": "Doctor X: Age of the White Mafia",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/77b7fb308a77291cd6b052022eb3758f.jpg",
+          "slug": "doctor-x-age-of-the-white-mafia-QkR7Hh2iWJ9",
+          "subject_id": "8175590432395742648",
+          "rating": "6.9"
+        },
+        {
           "name": "A Bona Fide Killer",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/03/214433d6b97e4f0bc88aac24bd05142d.jpg",
           "slug": "a-bona-fide-killer-yzvVpvmbTK4",
@@ -1907,13 +1921,6 @@
           "slug": "ok-lets-get-divorced-8UuuIxB66i4",
           "subject_id": "3602198324125778944",
           "rating": "6.1"
-        },
-        {
-          "name": "A Trap Called Desire",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/27/e8c3e089b0ec88e1a59d79bca575f4d1.jpg",
-          "slug": "a-trap-called-desire-cCEU55ZRMt4",
-          "subject_id": "3760443413439626896",
-          "rating": "6.6"
         }
       ]
     },
@@ -1926,6 +1933,13 @@
       "section": "C-Drama",
       "count": 20,
       "items": [
+        {
+          "name": "Irreplaceable",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/1a993726e50566b640973151085908b5-s.jpg",
+          "slug": "irreplaceable-0ODsVgkdu95",
+          "subject_id": "4324927743927415016",
+          "rating": "8.2"
+        },
         {
           "name": "The Early Spring",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/08/f28d183b43405f2ac1c6e34ff9d09dba.jpg",
@@ -2058,13 +2072,6 @@
           "slug": "love-has-fireworks-Y0Db7XtF1U6",
           "subject_id": "5794237469470114640",
           "rating": "7.4"
-        },
-        {
-          "name": "Archives: The Nanyang Mystery",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/2a05e56e690a43bdd3d75ed4049a41eb.jpg",
-          "slug": "archives-the-nanyang-mystery-k6uE0HcL1r1",
-          "subject_id": "1205185279615720416",
-          "rating": "7.8"
         }
       ]
     },
