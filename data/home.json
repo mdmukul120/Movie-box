@@ -3,8 +3,14 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 15,
+      "count": 16,
       "items": [
+        {
+          "name": "Treasure Island",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/536b0c0e252a8b0c37bf418ead1ed124.webp",
+          "slug": "treasure-island-Eqn5uuN5Gd3",
+          "subject_id": "2703070926354143880"
+        },
         {
           "name": "The Florist",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/16b0ac17efba43d693df6e02cf074eba.png",
@@ -99,15 +105,8 @@
     },
     {
       "section": "Popular Series",
-      "count": 15,
+      "count": 16,
       "items": [
-        {
-          "name": "Avatar: Seven Havens",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/3ff183eb269dc4526205208417134b4a.jpg",
-          "slug": "avatar-seven-havens-6RjmSI53tma",
-          "subject_id": "8697152315721245208",
-          "rating": "6.6"
-        },
         {
           "name": "Carrie",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/55df85190d56ce4552340dd3191d0f39.jpg",
@@ -116,18 +115,32 @@
           "rating": "6.9"
         },
         {
-          "name": "Below",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/ae7283d190221289b618b965447cc04d.jpg",
-          "slug": "below-0yNG224voo3",
-          "subject_id": "2848137736375136784",
-          "rating": "6.5"
-        },
-        {
           "name": "Coven Academy",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/08f3c478145359eedb8c9a447a5d88f1.jpg",
           "slug": "coven-academy-UQietRFFzK3",
           "subject_id": "3148392746424091800",
           "rating": "6.7"
+        },
+        {
+          "name": "Treasure Island",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/13524de7f41eade81555083b851b2e08.jpg",
+          "slug": "treasure-island-Eqn5uuN5Gd3",
+          "subject_id": "2703070926354143880",
+          "rating": "5.7"
+        },
+        {
+          "name": "Avatar: Seven Havens",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/3ff183eb269dc4526205208417134b4a.jpg",
+          "slug": "avatar-seven-havens-6RjmSI53tma",
+          "subject_id": "8697152315721245208",
+          "rating": "6.6"
+        },
+        {
+          "name": "Below",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/ae7283d190221289b618b965447cc04d.jpg",
+          "slug": "below-0yNG224voo3",
+          "subject_id": "2848137736375136784",
+          "rating": "6.5"
         },
         {
           "name": "Take Charge of My Heart [English]",
@@ -680,7 +693,7 @@
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/1fceb4c0aede290e60ae17956709379c.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/14d889a10cf29ebcf9f0491fbe033ce2.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -714,7 +727,7 @@
         },
         {
           "name": "Eternally Yours",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/f0c840aae049b37824cab23f855220c4.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/e39ec66a93d823df6622bb7608781cc9.jpeg",
           "slug": "eternally-yours-yjbbw98SwA8",
           "subject_id": "7208907556302249584",
           "rating": "6.5"
@@ -1053,6 +1066,13 @@
       "count": 20,
       "items": [
         {
+          "name": "Good Boy",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/03e46d6e0a2458f915d93bf90bbdc9a4.jpg",
+          "slug": "good-boy-Mi1uKFKaFl3",
+          "subject_id": "2811166726610747360",
+          "rating": "6.9"
+        },
+        {
           "name": "Twisted Tie",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/10/546bdce55ac3afc4f238fd949c8d4677.jpg",
           "slug": "twisted-tie-0AOwhEC8AD3",
@@ -1184,13 +1204,6 @@
           "slug": "lost-to-light-S5DCTD6mvJa",
           "subject_id": "9009008949412229608",
           "rating": "7.1"
-        },
-        {
-          "name": "Lovex3",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/25024faf5d61200293617480acacf415.jpg",
-          "slug": "lovex3-Gps3l3ndmK",
-          "subject_id": "627556553905816000",
-          "rating": "8.7"
         }
       ]
     },
@@ -1499,7 +1512,7 @@
         },
         {
           "name": "Tulsa King",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/7675c027ba41a2c59aaf846d5f388119.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/4b99258aa87905f081bdb710dda07111.jpg",
           "slug": "tulsa-king-MsmATkU0Mg6",
           "subject_id": "5262873104975547168",
           "rating": "7.9"
@@ -2045,8 +2058,15 @@
     },
     {
       "section": "Anime[English Dubbed]",
-      "count": 12,
+      "count": 13,
       "items": [
+        {
+          "name": "One Piece [English]",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/15714052f621059cf32f6d0da5b56334.jpg",
+          "slug": "one-piece-english-OJafGbGekK4",
+          "subject_id": "3984321945629247112",
+          "rating": "9.0"
+        },
         {
           "name": "Bleach: Thousand-Year Blood War [English]",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/dfb652a2ab5dbad1ab05172bb471f0e2.jpg",
