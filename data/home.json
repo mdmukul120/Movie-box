@@ -3,8 +3,14 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 20,
+      "count": 15,
       "items": [
+        {
+          "name": "The Florist",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/16b0ac17efba43d693df6e02cf074eba.png",
+          "slug": "the-florist-efahwcdehu5",
+          "subject_id": "4606371260002628112"
+        },
         {
           "name": "Matchbox",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/65461babd126daf9f3eace8563b1c034.jpeg",
@@ -13,7 +19,7 @@
         },
         {
           "name": "Animals",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/56abd9db04e099df48588f4fbc1abeae.webp",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/60ff349f8815681c7d330f32fcca6a71.webp",
           "slug": "animals-0gGtQGm4Ck2",
           "subject_id": "1957652761990807584"
         },
@@ -72,46 +78,10 @@
           "subject_id": "3148392746424091800"
         },
         {
-          "name": "Kill Jackie",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/03/cfbd63615f0f255c1135c2c7a83eee49.png",
-          "slug": "kill-jackie-s6kGOZV8E54",
-          "subject_id": "3433647967591359056"
-        },
-        {
           "name": "Runner",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/28/0e35dc8679da7aba8cf1d4e62f802612.webp",
           "slug": "runner-QOMZhgKwwg",
           "subject_id": "223695587521217720"
-        },
-        {
-          "name": "Blood Legacy Season 2",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/25/d61d99c796db5fcef8d8a767668115d0.png",
-          "slug": "blood-legacy-Aau1lZfiH57",
-          "subject_id": "5952233915611055472"
-        },
-        {
-          "name": "A Different World",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/25/abade93fc0eabd7ebfba92fb488b52f8.webp",
-          "slug": "a-different-world-S5nSQAifJg9",
-          "subject_id": "7780166862692042712"
-        },
-        {
-          "name": "The Love Hypothesis",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/23/cfea48c317b394e757b5185782a70d75.webp",
-          "slug": "the-love-hypothesis-8CNfawlQEK8",
-          "subject_id": "7346018858530490728"
-        },
-        {
-          "name": "The Fix",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/18/d03fc02fe897ffdb7b8b4f97477986ea.jpeg",
-          "slug": "the-fix-U4maQqLbH",
-          "subject_id": "9430056502182520"
-        },
-        {
-          "name": "Neagley",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/16/258db67557b23779312dcad1458b9c0a.webp",
-          "slug": "neagley-kgfRKfjK46",
-          "subject_id": "82258967610676552"
         },
         {
           "name": "MobLand Seaosn2",
@@ -240,8 +210,15 @@
     },
     {
       "section": "Popular Movie",
-      "count": 13,
+      "count": 12,
       "items": [
+        {
+          "name": "The Florist",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/05/5445938d4d3cb93f4f94e8c1b6bb4ab5.jpg",
+          "slug": "the-florist-efahwcdehu5",
+          "subject_id": "4606371260002628112",
+          "rating": "6.3"
+        },
         {
           "name": "Matchbox the Movie",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/11/ac9f5b2524c27d3289bb292869b993fd.jpg",
@@ -255,6 +232,13 @@
           "slug": "animals-0gGtQGm4Ck2",
           "subject_id": "1957652761990807584",
           "rating": "5.7"
+        },
+        {
+          "name": "Practical Magic",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2025/11/01/b77fb2e7387ef213878e1a16d730db30.jpg",
+          "slug": "practical-magic-GBWVdzINb69",
+          "subject_id": "7637493643850698544",
+          "rating": "6.4"
         },
         {
           "name": "Fall 2: Deadpoint",
@@ -311,27 +295,6 @@
           "slug": "you-me-against-the-world-english-8iZF6nIFoe1",
           "subject_id": "1034205646629007888",
           "rating": "4.8"
-        },
-        {
-          "name": "Drawn Together [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/02/792c6408d4c45bc2374f2660b9244e19.jpg",
-          "slug": "drawn-together-english-SveJzNvP0h2",
-          "subject_id": "1908910611593841624",
-          "rating": "6.2"
-        },
-        {
-          "name": "One Night Only",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/10/8477003c2fe964ff2ecbfa6b841d96f1.jpg",
-          "slug": "one-night-only-IUHJgG6Y1a5",
-          "subject_id": "4332297711312601408",
-          "rating": "6.0"
-        },
-        {
-          "name": "The Girl in the River",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/07/23/c380cebf9395774cdd89856b38ac29e3.jpg",
-          "slug": "the-girl-in-the-river-Yy2BweofGR2",
-          "subject_id": "2405288803855491864",
-          "rating": "7.1"
         }
       ]
     },
@@ -344,6 +307,20 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/01/4d04cebd1d30043dd31a26817dba4776.jpg",
           "slug": "my-30th-wedding-6x5L5dGAJT3",
           "subject_id": "3272392338131385552",
+          "rating": "0"
+        },
+        {
+          "name": "MATTERS OF THE HEART",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/11/50457c1593f031ad59bddc108a1d6c6c.jpg",
+          "slug": "matters-of-the-heart-A4DhVJPtif6",
+          "subject_id": "5242887681012547936",
+          "rating": "0"
+        },
+        {
+          "name": "BREAKING POINT",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/10/c22ecb29ebec6f8a2a2a43d71c2d6325.jpg",
+          "slug": "breaking-point-cspiyf0eAS4",
+          "subject_id": "4096109697625911528",
           "rating": "0"
         },
         {
@@ -463,20 +440,6 @@
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/127e0d6d8f7d6634542cde0059165eef.jpg",
           "slug": "child-of-thunder-2-destiny-etiko-yul-edochie-lizzy-gold-a3jRhc2b0K1",
           "subject_id": "1462044209615099384",
-          "rating": "0"
-        },
-        {
-          "name": "MY FAVOURITE HELLO",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/14/b99964d45723ffd045aa97fe421c83aa.jpg",
-          "slug": "my-favourite-hello-w8C2BZ3NoA6",
-          "subject_id": "5528544259357428104",
-          "rating": "0"
-        },
-        {
-          "name": "GROOMED FOR LOVE",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/13/6c94e3c29435dacdbc94bcba334b274a.jpg",
-          "slug": "groomed-for-love-MoYV5QG55o7",
-          "subject_id": "6201097380126162680",
           "rating": "0"
         }
       ]
@@ -661,7 +624,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/11/340a9b2b1970f05c6691b73cbdb346dc.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/04c593fccda0545ec3655f39fbbb0114.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -703,7 +666,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/11/313e1598aa34fe30085eb08a7e9ec4d3.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/ffc0a1ab43693f3f1b2ab57ef9e40eb2.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -717,7 +680,7 @@
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/11/8c0ba28db3ea3b1ea312bbc30dfa0142.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/1fceb4c0aede290e60ae17956709379c.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -1321,7 +1284,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/11/3c8d60114c69abd0dbb4d0a15507ee83.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/6bb39f012cd4f43a480052937cc4f058.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -1689,7 +1652,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/11/313e1598aa34fe30085eb08a7e9ec4d3.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/ffc0a1ab43693f3f1b2ab57ef9e40eb2.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -1811,6 +1774,13 @@
           "rating": "6.9"
         },
         {
+          "name": "100 Days of Deception",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/8a3f2341cdf99f74c2d72b2aab0700ae.jpg",
+          "slug": "100-days-of-deception-Mw4TijbCJX6",
+          "subject_id": "5844444070034161864",
+          "rating": "6.5"
+        },
+        {
           "name": "A Bona Fide Killer",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/03/214433d6b97e4f0bc88aac24bd05142d.jpg",
           "slug": "a-bona-fide-killer-yzvVpvmbTK4",
@@ -1914,13 +1884,6 @@
           "slug": "dream-to-you-q58DzFkBgo6",
           "subject_id": "5364311187842810056",
           "rating": "7.0"
-        },
-        {
-          "name": "OK! Let's Get Divorced",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/05/59fa904ac100fc84fead8f8c329dfa33.jpg",
-          "slug": "ok-lets-get-divorced-8UuuIxB66i4",
-          "subject_id": "3602198324125778944",
-          "rating": "6.1"
         }
       ]
     },
@@ -2172,7 +2135,7 @@
     },
     {
       "section": "Action Movies",
-      "count": 17,
+      "count": 18,
       "items": [
         {
           "name": "Matchbox the Movie",
@@ -2180,6 +2143,13 @@
           "slug": "matchbox-the-movie-S5hfykcX3Z4",
           "subject_id": "4183823238805478232",
           "rating": "5.7"
+        },
+        {
+          "name": "The Florist",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/05/5445938d4d3cb93f4f94e8c1b6bb4ab5.jpg",
+          "slug": "the-florist-efahwcdehu5",
+          "subject_id": "4606371260002628112",
+          "rating": "6.3"
         },
         {
           "name": "Runner",
@@ -2201,6 +2171,13 @@
           "slug": "onslaught-CtjXja53Ku3",
           "subject_id": "2934065197151043920",
           "rating": "5.7"
+        },
+        {
+          "name": "One Last Shot",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/63894b74622eb16ea8d72aa417abb81d.jpg",
+          "slug": "one-last-shot-aHRYms5S2k6",
+          "subject_id": "5307165083527700104",
+          "rating": "6.3"
         },
         {
           "name": "Legend of the White Dragon",
@@ -2285,13 +2262,6 @@
           "slug": "the-weight-GDJDd7qHo54",
           "subject_id": "3430275971587400712",
           "rating": "6.9"
-        },
-        {
-          "name": "Star Wars: The Mandalorian and Grogu",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/05/27219e803722a3af4e771f296a823664.jpg",
-          "slug": "star-wars-the-mandalorian-and-grogu-G96geTTsHA7",
-          "subject_id": "6371921081103962288",
-          "rating": "6.7"
         }
       ]
     },
