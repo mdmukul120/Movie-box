@@ -3,19 +3,25 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 16,
+      "count": 17,
       "items": [
         {
-          "name": "Treasure Island",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/536b0c0e252a8b0c37bf418ead1ed124.webp",
-          "slug": "treasure-island-Eqn5uuN5Gd3",
-          "subject_id": "2703070926354143880"
+          "name": "Hope",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/13/884365dc47688fd6643d4ab73f52ecf1.webp",
+          "slug": "hope-qzPZdmrovaa",
+          "subject_id": "8535219140137830216"
         },
         {
           "name": "The Florist",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/16b0ac17efba43d693df6e02cf074eba.png",
           "slug": "the-florist-efahwcdehu5",
           "subject_id": "4606371260002628112"
+        },
+        {
+          "name": "Treasure Island",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/536b0c0e252a8b0c37bf418ead1ed124.webp",
+          "slug": "treasure-island-Eqn5uuN5Gd3",
+          "subject_id": "2703070926354143880"
         },
         {
           "name": "Matchbox",
@@ -122,11 +128,11 @@
           "rating": "6.7"
         },
         {
-          "name": "Treasure Island",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/13524de7f41eade81555083b851b2e08.jpg",
-          "slug": "treasure-island-Eqn5uuN5Gd3",
-          "subject_id": "2703070926354143880",
-          "rating": "5.7"
+          "name": "Dragon Ball Super: Beerus",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/6ed72a217e28faa1d99f2c2fac5cf476.jpg",
+          "slug": "dragon-ball-super-beerus-afJvjsWVPn2",
+          "subject_id": "2001291120071821336",
+          "rating": "6.6"
         },
         {
           "name": "Avatar: Seven Havens",
@@ -134,6 +140,13 @@
           "slug": "avatar-seven-havens-6RjmSI53tma",
           "subject_id": "8697152315721245208",
           "rating": "6.6"
+        },
+        {
+          "name": "Treasure Island",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/13524de7f41eade81555083b851b2e08.jpg",
+          "slug": "treasure-island-Eqn5uuN5Gd3",
+          "subject_id": "2703070926354143880",
+          "rating": "5.7"
         },
         {
           "name": "Below",
@@ -211,20 +224,20 @@
           "slug": "paris-has-fallen-MECZzYIddA8",
           "subject_id": "7204616799684888000",
           "rating": "6.6"
-        },
-        {
-          "name": "SWAT Exiles",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/21/7f8f5c844960e6e6efd0c5481f7f52bb.jpg",
-          "slug": "swat-exiles-mJV89dPysl5",
-          "subject_id": "4487011813523081040",
-          "rating": "7.2"
         }
       ]
     },
     {
       "section": "Popular Movie",
-      "count": 12,
+      "count": 13,
       "items": [
+        {
+          "name": "Hope",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/313395c051c353b61b8d1a0861320ca5.jpg",
+          "slug": "hope-qzPZdmrovaa",
+          "subject_id": "8535219140137830216",
+          "rating": "6.8"
+        },
         {
           "name": "The Florist",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/05/5445938d4d3cb93f4f94e8c1b6bb4ab5.jpg",
@@ -637,7 +650,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/b771c294dd43de200070424a78750763.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/13/52ccba5cc608ac260091f117ea435325.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -679,7 +692,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/b82a61c36ddb73b0499755c079f6c05b.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/13/317c668ca01b5db400f28de4546bb461.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -693,7 +706,7 @@
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/13/aada87e8e6a52bb28ea2f4dbfa1bf081.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/13/fb2573e6767004f42205d165f23ceadb.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -1665,7 +1678,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/b82a61c36ddb73b0499755c079f6c05b.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/13/317c668ca01b5db400f28de4546bb461.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -1822,9 +1835,9 @@
           "rating": "6.7"
         },
         {
-          "name": "Doctor of Love",
+          "name": "Between Steps",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/2070de0201d49233b8b6d31b404f3ad0.jpg",
-          "slug": "doctor-of-love-e76POoTF4M1",
+          "slug": "between-steps-e76POoTF4M1",
           "subject_id": "1490100413461324960",
           "rating": "8.4"
         },
@@ -2058,15 +2071,8 @@
     },
     {
       "section": "Anime[English Dubbed]",
-      "count": 13,
+      "count": 12,
       "items": [
-        {
-          "name": "One Piece [English]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/09/15714052f621059cf32f6d0da5b56334.jpg",
-          "slug": "one-piece-english-OJafGbGekK4",
-          "subject_id": "3984321945629247112",
-          "rating": "9.0"
-        },
         {
           "name": "Bleach: Thousand-Year Blood War [English]",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/18/dfb652a2ab5dbad1ab05172bb471f0e2.jpg",
@@ -2290,6 +2296,20 @@
       "count": 18,
       "items": [
         {
+          "name": "Hope",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/313395c051c353b61b8d1a0861320ca5.jpg",
+          "slug": "hope-qzPZdmrovaa",
+          "subject_id": "8535219140137830216",
+          "rating": "6.8"
+        },
+        {
+          "name": "Buddy",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/05/2ce35df7b61a781cbcb4f5303356ac75.jpg",
+          "slug": "buddy-YKgzGGTEoZ2",
+          "subject_id": "2509745201296591016",
+          "rating": "7.0"
+        },
+        {
           "name": "Ice Cream Man",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/08/04/de3f5362aee4f59e3d760c6283c35a6c.jpg",
           "slug": "ice-cream-man-werpFRACTy9",
@@ -2400,20 +2420,6 @@
           "slug": "hungry-6TU5pNtTJNa",
           "subject_id": "9066331585473137472",
           "rating": "5.4"
-        },
-        {
-          "name": "Time of Death",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/06/12/8dbdea0d45b13599b7fc7585507a7ccd.jpg",
-          "slug": "time-of-death-ajfx49z6R07",
-          "subject_id": "5886690712682488248",
-          "rating": "6.2"
-        },
-        {
-          "name": "Undertone",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/be1f31b88ccfe538f963e8d80c6a3ea4.jpg",
-          "slug": "undertone-aDtUid6SZ57",
-          "subject_id": "5956290260429687856",
-          "rating": "5.9"
         }
       ]
     },
