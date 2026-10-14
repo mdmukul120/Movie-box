@@ -3,8 +3,14 @@
   "sections": [
     {
       "section": "Banner",
-      "count": 17,
+      "count": 18,
       "items": [
+        {
+          "name": "VisionQuest",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/14/aa75a47003322c7001e1b55460df6b41.webp",
+          "slug": "visionquest-ckrGvttzXW5",
+          "subject_id": "4994654846008578576"
+        },
         {
           "name": "Hope",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/13/884365dc47688fd6643d4ab73f52ecf1.webp",
@@ -111,8 +117,15 @@
     },
     {
       "section": "Popular Series",
-      "count": 16,
+      "count": 17,
       "items": [
+        {
+          "name": "VisionQuest",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/3051f40c6c68ed274230c28ed485be93.jpg",
+          "slug": "visionquest-ckrGvttzXW5",
+          "subject_id": "4994654846008578576",
+          "rating": "6.5"
+        },
         {
           "name": "Carrie",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/29/55df85190d56ce4552340dd3191d0f39.jpg",
@@ -650,7 +663,7 @@
         },
         {
           "name": "Outlander",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/13/2659761f9f7338bfe73b90570dee8006.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/14/5b68952d20e38f331b5b8ed0e9e32220.jpg",
           "slug": "outlander-MMYLF0LrATa",
           "subject_id": "9145491416351658776",
           "rating": "8.3"
@@ -692,7 +705,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/13/deee6a02c1c4d2ad1d97ff7634bc0fd4.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/14/18eced0946d9713b2fe0443802081755.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -706,7 +719,7 @@
         },
         {
           "name": "Wednesday [Hindi]",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/13/23a2eaf3519671fff3e1c3daafcb8e88.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/14/6596ae1edee55b87023f98371fae016d.jpg",
           "slug": "wednesday-hindi-kIx7IplYsG1",
           "subject_id": "1414183037004383720",
           "rating": "8.0"
@@ -961,6 +974,13 @@
       "count": 16,
       "items": [
         {
+          "name": "VisionQuest",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/3051f40c6c68ed274230c28ed485be93.jpg",
+          "slug": "visionquest-ckrGvttzXW5",
+          "subject_id": "4994654846008578576",
+          "rating": "6.5"
+        },
+        {
           "name": "The Boys",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/15/455328c7f4249ad60b5e585049de8019.jpg",
           "slug": "the-boys-c8bx84KzD76",
@@ -1064,13 +1084,6 @@
           "slug": "shadowhunters-the-mortal-instruments-WpszPEC8v33",
           "subject_id": "2565308269250102096",
           "rating": "6.5"
-        },
-        {
-          "name": "Superman & Lois",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/09/24/bb9ad2b856874a32aad555864efac25e.jpg",
-          "slug": "superman-and-lois-cYPG9EkZ1m3",
-          "subject_id": "2816148333012603936",
-          "rating": "7.8"
         }
       ]
     },
@@ -1310,7 +1323,7 @@
         },
         {
           "name": "The Ms. Pat Show",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/13/1e7d6b3ad01d7632081151d7bf8875f8.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/14/656a2d786d9f7156752aae061cb2bdc8.jpg",
           "slug": "the-ms-pat-show-qrzYGDJOzQa",
           "subject_id": "9104742735889712464",
           "rating": "8.1"
@@ -1678,7 +1691,7 @@
         },
         {
           "name": "Wednesday",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/13/deee6a02c1c4d2ad1d97ff7634bc0fd4.jpg",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/14/18eced0946d9713b2fe0443802081755.jpg",
           "slug": "wednesday-urChTxajYKa",
           "subject_id": "9028867555875774472",
           "rating": "8.0"
@@ -1923,6 +1936,13 @@
       "count": 20,
       "items": [
         {
+          "name": "The Lament of Autumn",
+          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/12/f6239e23003399ce109039b58230dfa2.jpeg",
+          "slug": "the-lament-of-autumn-WNKvFfKID9",
+          "subject_id": "130506621243083272",
+          "rating": "6.9"
+        },
+        {
           "name": "Irreplaceable",
           "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/13/fd53283d5ec53dd3d5da1f0ed1966d1e-s.jpg",
           "slug": "irreplaceable-0ODsVgkdu95",
@@ -2054,13 +2074,6 @@
           "slug": "the-legend-of-rosy-clouds-kwPhhZ3Xo61",
           "subject_id": "925970049481982152",
           "rating": "5.6"
-        },
-        {
-          "name": "Love Has Fireworks",
-          "poster_url": "https://pbcdnw.aoneroom.com/image/2026/10/04/e8a94a17d7ea37192a5fdf8d263d0870.jpg",
-          "slug": "love-has-fireworks-Y0Db7XtF1U6",
-          "subject_id": "5794237469470114640",
-          "rating": "7.4"
         }
       ]
     },
